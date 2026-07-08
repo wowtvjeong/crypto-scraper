@@ -1,0 +1,24 @@
+telegram_channels:
+  - name: "coindeskkorea"
+  - name: "wublockchainenglish"
+
+press_sites:
+  - name: "coindesk_korea"
+    rss: "https://www.coindeskkorea.com/rss/allArticle.xml"
+  - name: "tokenpost"
+    rss: "https://www.tokenpost.kr/rss"
+  - name: "blockmedia"
+    rss: "https://www.blockmedia.co.kr/feed"
+
+filter:
+  min_relevance_score: 7
+  breaking_score: 9          # 이 점수 이상 + 신규 기사면 텔레그램 즉시 알림
+  keywords_boost:
+    - "비트코인"
+    - "이더리움"
+    - "SEC"
+    - "ETF"
+    - "김치프리미엄"
+
+schedule:
+  interval_minutes: 30

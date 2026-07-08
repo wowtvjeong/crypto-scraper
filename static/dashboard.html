@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SCRAP.AI — 크립토 기사 관제</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" as="style" crossorigin
+  href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
+<style>
+  :root{
+    --bg-deep:#0A0D14;
+    --bg-surface:#12161F;
+    --bg-surface-alt:#171C27;
+    --bg-hover:#1D2432;
+    --border:#232938;
+    --border-soft:#1A2029;
+    --accent:#F7931A;
+    --accent-dim:#B96E14;
+    --accent-glow:rgba(247,147,26,0.18);
+    --teal:#34D8C5;
+    --text-primary:#EDEFF4;
+    --text-muted:#8891A3;
+    --text-faint:#525A6B;
+    --mono:'JetBrains Mono','SF Mono',Consolas,monospace;
+    --sans:'Pretendard',-apple-system,BlinkMacSystemFont,sans-serif;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  html,body{
+    background:var(--bg-deep);
+    color:var(--text-primary);
+    font-family:var(--sans);
+    height:100%;
+  }
+  body{
+    background-image:
+      radial-gradient(circle at 15% 0%, rgba(247,147,26,0.05), transparent 40%),
+      radial-gradient(circle at 85% 100%, rgba(52,216,197,0.04), transparent 40%);
+    min-height:100vh;
+  }
+
+  /* ---------- 상단 바 ---------- */
+  .topbar{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:16px 28px;
+    border-bottom:1px solid var(--border);
+    background:rgba(10,13,20,0.85);
+    backdrop-filter:blur(8px);
+    position:sticky; top:0; z-index:10;
+  }
+  .brand{display:flex; align-items:center; gap:10px;}
+  .brand .dot{
+    width:9px; height:9px; border-radius:50%;
+    background:var(--teal);
+    box-shadow:0 0 0 0 rgba(52,216,197,0.6);
+    animation:pulse 2s infinite;
+  }
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 rgba(52,216,197,0.5);}
+    70%{box-shadow:0 0 0 8px rgba(52,216,197,0);}
+    100%{box-shadow:0 0 0 0 rgba(52,216,197,0);}
+  }
+  .brand-name{
+    font-family:var(--mono); font-weight:700; letter-spacing:0.06em;
+    font-size:15px; color:var(--text-primary);
+  }
+  .brand-name span{color:var(--accent);}
+  .topbar-right{display:flex; align-items:center; gap:22px;}
+  .status-block{text-align:right;}
+  .status-label{font-size:10px; color:var(--text-faint); letter-spacing:0.08em; text-transform:uppercase;}
+  .status-value{font-family:var(--mono); font-size:13px; color:var(--text-muted); margin-top:2px;}
+  .status-value.live{color:var(--teal);}
+  #countdown{color:var(--accent); font-weight:600;}
+
+  .btn-scrape{
+    font-family:var(--sans); font-weight:600; font-size:13px;
+    background:var(--accent); color:#1A1206;
+    border:none; border-radius:8px;
+    padding:10px 18px; cursor:pointer;
+    transition:transform .12s ease, box-shadow .12s ease;
+    box-shadow:0 0 0 0 var(--accent-glow);
+  }
+  .btn-scrape:hover{transform:translateY(-1px); box-shadow:0 4px 18px var(--accent-glow);}
+  .btn-scrape:disabled{opacity:0.55; cursor:default; transform:none; box-shadow:none;}
+
+  /* ---------- 레이아웃 ---------- */
+  .layout{display:grid; grid-template-columns:220px 1fr; min-height:calc(100vh - 61px);}
+
+  .rail{
+    border-right:1px solid var(--border);
+    padding:24px 18px;
+    background:rgba(18,22,31,0.4);
+  }
+  .rail-title{
+    font-size:10px; color:var(--text-faint); letter-spacing:0.1em;
+    text-transform:uppercase; margin-bottom:12px;
+  }
+  .filter-chip{
+    display:flex; align-items:center; justify-content:space-between;
+    padding:9px 12px; border-radius:7px; margin-bottom:6px;
+    font-size:13px; color:var(--text-muted); cursor:pointer;
+    border:1px solid transparent;
+    transition:background .12s ease, color .12s ease, border-color .12s ease;
+  }
+  .filter-chip:hover{background:var(--bg-hover);}
+  .filter-chip.active{
+    background:var(--accent-glow); color:var(--accent);
+    border-color:rgba(247,147,26,0.35); font-weight:600;
+  }
+  .filter-chip .count{font-family:var(--mono); font-size:11px; opacity:0.8;}
+
+  .rail-section{margin-top:28px;}
+  .score-slider-row{display:flex; align-items:center; gap:10px; margin-top:10px;}
+  input[type="range"]{
+    -webkit-appearance:none; width:100%; height:3px;
+    background:var(--border); border-radius:2px; outline:none;
+  }
+  input[type="range"]::-webkit-slider-thumb{
+    -webkit-appearance:none; width:14px; height:14px; border-radius:50%;
+    background:var(--accent); cursor:pointer; border:2px solid var(--bg-deep);
+  }
+  #scoreVal{font-family:var(--mono); font-size:12px; color:var(--accent); min-width:26px; text-align:right;}
+
+  .rail-footer{
+    margin-top:36px; padding-top:16px; border-top:1px solid var(--border-soft);
+    font-size:11px; color:var(--text-faint); line-height:1.6;
+  }
+
+  /* ---------- 메인 피드 ---------- */
+  main{padding:24px 32px 60px;}
+  .feed-header{
+    display:flex; align-items:baseline; justify-content:space-between;
+    margin-bottom:18px;
+  }
+  .feed-title{font-size:15px; font-weight:700;}
+  .feed-sub{font-size:12px; color:var(--text-faint); font-family:var(--mono);}
+
+  .rundown{display:flex; flex-direction:column; gap:1px;}
+
+  .row{
+    display:grid;
+    grid-template-columns:58px 1fr auto;
+    gap:16px;
+    align-items:center;
+    background:var(--bg-surface);
+    border:1px solid var(--border-soft);
+    border-radius:10px;
+    padding:14px 16px;
+    margin-bottom:8px;
+    transition:border-color .15s ease, background .15s ease;
+    cursor:pointer;
+  }
+  .row:hover{border-color:var(--accent-dim); background:var(--bg-surface-alt);}
+
+  .gauge{position:relative; width:52px; height:52px;}
+  .gauge svg{transform:rotate(-90deg);}
+  .gauge-track{fill:none; stroke:var(--border); stroke-width:5;}
+  .gauge-fill{fill:none; stroke:var(--accent); stroke-width:5; stroke-linecap:round; transition:stroke-dashoffset .5s ease;}
+  .gauge-val{
+    position:absolute; inset:0; display:flex; align-items:center; justify-content:center;
+    font-family:var(--mono); font-size:13px; font-weight:700; color:var(--text-primary);
+  }
+
+  .row-main{min-width:0;}
+  .row-meta{display:flex; align-items:center; gap:8px; margin-bottom:5px; flex-wrap:wrap;}
+  .tag{
+    font-family:var(--mono); font-size:10px; letter-spacing:0.05em;
+    padding:2px 7px; border-radius:4px; text-transform:uppercase; font-weight:700;
+  }
+  .tag.telegram{background:rgba(52,216,197,0.12); color:var(--teal);}
+  .tag.press{background:rgba(247,147,26,0.12); color:var(--accent);}
+  .row-source{font-size:11px; color:var(--text-muted); font-family:var(--mono);}
+  .row-time{font-size:11px; color:var(--text-faint); font-family:var(--mono);}
+
+  .row-title{
+    font-size:14.5px; font-weight:600; color:var(--text-primary);
+    line-height:1.45; margin-bottom:4px;
+    display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden;
+  }
+  .row-reason{
+    font-size:12.5px; color:var(--text-muted); line-height:1.5;
+    display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden;
+  }
+
+  .row-open{
+    font-size:12px; color:var(--text-faint); text-decoration:none;
+    padding:6px 10px; border:1px solid var(--border); border-radius:6px;
+    white-space:nowrap; transition:color .12s, border-color .12s;
+  }
+  .row-open:hover{color:var(--accent); border-color:var(--accent-dim);}
+
+  .empty-state{
+    text-align:center; padding:80px 20px; color:var(--text-faint);
+  }
+  .empty-state .big{font-size:15px; color:var(--text-muted); margin-bottom:6px; font-weight:600;}
+  .empty-state .small{font-size:12.5px;}
+
+  @media (max-width:760px){
+    .layout{grid-template-columns:1fr;}
+    .rail{
+      display:flex; gap:8px; overflow-x:auto; padding:14px 18px;
+      border-right:none; border-bottom:1px solid var(--border);
+    }
+    .rail-section{display:none;}
+    .row{grid-template-columns:44px 1fr;}
+    .row-open{display:none;}
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="brand">
+    <div class="dot"></div>
+    <div class="brand-name">SCRAP<span>.AI</span></div>
+  </div>
+  <div class="topbar-right">
+    <div class="status-block">
+      <div class="status-label">다음 자동 수집</div>
+      <div class="status-value" id="countdown">--:--</div>
+    </div>
+    <div class="status-block">
+      <div class="status-label">마지막 수집</div>
+      <div class="status-value" id="lastRun">-</div>
+    </div>
+    <button class="btn-scrape" id="scrapeBtn">지금 수집</button>
+  </div>
+</div>
+
+<div class="layout">
+  <div class="rail">
+    <div class="rail-title">소스</div>
+    <div class="filter-chip active" data-filter="all">
+      <span>전체</span><span class="count" id="cnt-all">0</span>
+    </div>
+    <div class="filter-chip" data-filter="telegram">
+      <span>텔레그램</span><span class="count" id="cnt-telegram">0</span>
+    </div>
+    <div class="filter-chip" data-filter="press">
+      <span>언론사</span><span class="count" id="cnt-press">0</span>
+    </div>
+
+    <div class="rail-section">
+      <div class="rail-title">최소 관련도</div>
+      <div class="score-slider-row">
+        <input type="range" id="scoreSlider" min="0" max="10" step="0.5" value="0">
+        <span id="scoreVal">0</span>
+      </div>
+    </div>
+
+    <div class="rail-footer">
+      점수는 Groq가 판단한<br>크립토 관련성·중요도(0~10)<br>기준입니다.
+    </div>
+  </div>
+
+  <main>
+    <div class="feed-header">
+      <div class="feed-title">수집 런다운</div>
+      <div class="feed-sub" id="feedCount">0건</div>
+    </div>
+    <div class="rundown" id="rundown">
+      <div class="empty-state">
+        <div class="big">불러오는 중...</div>
+        <div class="small">백엔드(FastAPI)가 실행 중인지 확인하세요.</div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+  const API_BASE = location.origin.startsWith('http') ? location.origin : 'http://localhost:8811';
+
+  let allArticles = [];
+  let currentFilter = 'all';
+  let currentMinScore = 0;
+  let nextRunAt = null;
+
+  function timeAgo(iso){
+    if(!iso) return '';
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const min = Math.floor(diffMs/60000);
+    if(min < 1) return '방금';
+    if(min < 60) return `${min}분 전`;
+    const hr = Math.floor(min/60);
+    if(hr < 24) return `${hr}시간 전`;
+    return `${Math.floor(hr/24)}일 전`;
+  }
+
+  function gaugeSvg(score){
+    const pct = Math.max(0, Math.min(10, score)) / 10;
+    const r = 21, c = 2*Math.PI*r;
+    const offset = c * (1 - pct);
+    return `
+      <div class="gauge">
+        <svg width="52" height="52" viewBox="0 0 52 52">
+          <circle class="gauge-track" cx="26" cy="26" r="${r}"></circle>
+          <circle class="gauge-fill" cx="26" cy="26" r="${r}"
+            stroke-dasharray="${c}" stroke-dashoffset="${offset}"></circle>
+        </svg>
+        <div class="gauge-val">${score.toFixed(1)}</div>
+      </div>`;
+  }
+
+  function renderRundown(){
+    const filtered = allArticles.filter(a=>{
+      const sourceOk = currentFilter === 'all' || a.source_type === currentFilter;
+      const scoreOk = a.relevance_score >= currentMinScore;
+      return sourceOk && scoreOk;
+    });
+
+    document.getElementById('feedCount').textContent = `${filtered.length}건`;
+
+    const el = document.getElementById('rundown');
+    if(filtered.length === 0){
+      el.innerHTML = `
+        <div class="empty-state">
+          <div class="big">표시할 기사가 없습니다</div>
+          <div class="small">필터 기준을 낮추거나 '지금 수집'을 눌러보세요.</div>
+        </div>`;
+      return;
+    }
+
+    el.innerHTML = filtered.map(a=>{
+      const tagClass = a.source_type === 'telegram' ? 'telegram' : 'press';
+      const tagLabel = a.source_type === 'telegram' ? 'TG' : 'PRESS';
+      return `
+        <div class="row" onclick="window.open('${a.url.replace(/'/g,"\\'")}', '_blank')">
+          ${gaugeSvg(a.relevance_score)}
+          <div class="row-main">
+            <div class="row-meta">
+              <span class="tag ${tagClass}">${tagLabel}</span>
+              <span class="row-source">${a.source}</span>
+              <span class="row-time">· ${timeAgo(a.collected_at)}</span>
+            </div>
+            <div class="row-title">${escapeHtml(a.title)}</div>
+            <div class="row-reason">${escapeHtml(a.reason || '')}</div>
+          </div>
+          <a class="row-open" href="${a.url}" target="_blank" onclick="event.stopPropagation()">원문 →</a>
+        </div>`;
+    }).join('');
+  }
+
+  function escapeHtml(str){
+    const d = document.createElement('div');
+    d.textContent = str || '';
+    return d.innerHTML;
+  }
+
+  function updateCounts(){
+    document.getElementById('cnt-all').textContent = allArticles.length;
+    document.getElementById('cnt-telegram').textContent = allArticles.filter(a=>a.source_type==='telegram').length;
+    document.getElementById('cnt-press').textContent = allArticles.filter(a=>a.source_type==='press').length;
+  }
+
+  async function fetchArticles(){
+    try{
+      const res = await fetch(`${API_BASE}/articles?min_score=0&limit=200`);
+      allArticles = await res.json();
+      updateCounts();
+      renderRundown();
+    }catch(e){
+      document.getElementById('rundown').innerHTML = `
+        <div class="empty-state">
+          <div class="big">백엔드 연결 실패</div>
+          <div class="small">${API_BASE} 에서 서버가 실행 중인지 확인하세요.</div>
+        </div>`;
+    }
+  }
+
+  async function fetchStatus(){
+    try{
+      const res = await fetch(`${API_BASE}/status`);
+      const data = await res.json();
+      nextRunAt = data.next_run_at ? new Date(data.next_run_at) : null;
+      document.getElementById('lastRun').textContent = data.last_run_at ? timeAgo(data.last_run_at) : '아직 없음';
+    }catch(e){ /* 상태 조회 실패는 조용히 무시 */ }
+  }
+
+  function tickCountdown(){
+    const el = document.getElementById('countdown');
+    if(!nextRunAt){ el.textContent = '--:--'; return; }
+    const diff = Math.max(0, nextRunAt.getTime() - Date.now());
+    const m = Math.floor(diff/60000);
+    const s = Math.floor((diff%60000)/1000);
+    el.textContent = `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  }
+
+  document.querySelectorAll('.filter-chip').forEach(chip=>{
+    chip.addEventListener('click', ()=>{
+      document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
+      chip.classList.add('active');
+      currentFilter = chip.dataset.filter;
+      renderRundown();
+    });
+  });
+
+  document.getElementById('scoreSlider').addEventListener('input', (e)=>{
+    currentMinScore = parseFloat(e.target.value);
+    document.getElementById('scoreVal').textContent = currentMinScore;
+    renderRundown();
+  });
+
+  document.getElementById('scrapeBtn').addEventListener('click', async ()=>{
+    const btn = document.getElementById('scrapeBtn');
+    btn.disabled = true;
+    btn.textContent = '수집 중...';
+    try{
+      await fetch(`${API_BASE}/scrape/now`, {method:'POST'});
+      await Promise.all([fetchArticles(), fetchStatus()]);
+    }catch(e){
+      alert('수집 요청 실패: 백엔드 연결을 확인하세요.');
+    }finally{
+      btn.disabled = false;
+      btn.textContent = '지금 수집';
+    }
+  });
+
+  // 초기 로드 + 주기 갱신
+  fetchArticles();
+  fetchStatus();
+  setInterval(fetchArticles, 30000);
+  setInterval(fetchStatus, 30000);
+  setInterval(tickCountdown, 1000);
+</script>
+</body>
+</html>
