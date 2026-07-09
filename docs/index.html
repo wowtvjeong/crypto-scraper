@@ -110,6 +110,12 @@
   }
   .filter-chip .count{font-family:var(--mono); font-size:11px; opacity:0.8;}
 
+  #sourceChips{
+    max-height:220px; overflow-y:auto;
+    display:flex; flex-direction:column; gap:2px;
+  }
+  #sourceChips .filter-chip{padding:7px 10px; font-size:12px;}
+
   .rail-section{margin-top:28px;}
   .score-slider-row{display:flex; align-items:center; gap:10px; margin-top:10px;}
   input[type="range"]{
@@ -121,6 +127,16 @@
     background:var(--accent); cursor:pointer; border:2px solid var(--bg-deep);
   }
   #scoreVal{font-family:var(--mono); font-size:12px; color:var(--accent); min-width:26px; text-align:right;}
+
+  select{
+    width:100%; margin-top:10px;
+    background:var(--bg-surface); color:var(--text-primary);
+    border:1px solid var(--border); border-radius:7px;
+    padding:8px 10px; font-family:var(--sans); font-size:12.5px;
+    cursor:pointer; outline:none;
+  }
+  select:hover{border-color:var(--accent-dim);}
+  select:focus{border-color:var(--accent);}
 
   .rail-footer{
     margin-top:36px; padding-top:16px; border-top:1px solid var(--border-soft);
@@ -170,6 +186,8 @@
   }
   .tag.telegram{background:rgba(52,216,197,0.12); color:var(--teal);}
   .tag.press{background:rgba(247,147,26,0.12); color:var(--accent);}
+  .tag.api{background:rgba(139,148,247,0.14); color:#8B94F7;}
+  .tag.new{background:rgba(229,72,77,0.16); color:#F0656A;}
   .row-source{font-size:11px; color:var(--text-muted); font-family:var(--mono);}
   .row-time{font-size:11px; color:var(--text-faint); font-family:var(--mono);}
 
@@ -221,6 +239,14 @@
       <div class="status-value" id="countdown">-</div>
     </div>
     <div class="status-block">
+      <div class="status-label">내가 불러온 시각</div>
+      <div class="status-value" id="fetchedAt">-</div>
+    </div>
+    <div class="status-block">
+      <div class="status-label">내 마지막 확인</div>
+      <div class="status-value live" id="lastVisit">-</div>
+    </div>
+    <div class="status-block">
       <div class="status-label">수집 주기</div>
       <div class="status-value">30분 (GitHub Actions)</div>
     </div>
@@ -242,11 +268,23 @@
     </div>
 
     <div class="rail-section">
+      <div class="rail-title">매체별</div>
+      <div id="sourceChips"></div>
+    </div>
+
+    <div class="rail-section">
       <div class="rail-title">최소 관련도</div>
       <div class="score-slider-row">
         <input type="range" id="scoreSlider" min="0" max="10" step="0.5" value="0">
         <span id="scoreVal">0</span>
       </div>
+    </div>
+
+    <div class="rail-section">
+      <div class="rail-title">기간</div>
+      <select id="periodSelect">
+        <option value="recent">최근 (기본)</option>
+      </select>
     </div>
 
     <div class="rail-footer">
@@ -275,12 +313,13 @@
 
   // Actions 탭 링크: repo 주소에 맞게 한 번만 바꿔주세요.
   // 예: https://github.com/사용자명/저장소명/actions
-  const ACTIONS_URL = 'https://github.com/YOUR_USERNAME/YOUR_REPO/actions';
+  const ACTIONS_URL = 'https://github.com/wowtvjeong/crypto-scraper/actions';
   document.getElementById('scrapeBtn').href = ACTIONS_URL;
 
   let allArticles = [];
   let currentFilter = 'all';
   let currentMinScore = 0;
+  let lastVisitTime = localStorage.getItem('scrapai_last_visit');  // 이번 방문 이전의 마지막 확인 시각
 
   function timeAgo(iso){
     if(!iso) return '';
@@ -308,9 +347,17 @@
       </div>`;
   }
 
+  function matchesFilter(a, filterValue){
+    if(filterValue === 'all') return true;
+    if(filterValue === 'telegram' || filterValue === 'press' || filterValue === 'api') {
+      return a.source_type === filterValue;
+    }
+    return a.source === filterValue;  // 개별 매체명으로 필터
+  }
+
   function renderRundown(){
     const filtered = allArticles.filter(a=>{
-      const sourceOk = currentFilter === 'all' || a.source_type === currentFilter;
+      const sourceOk = matchesFilter(a, currentFilter);
       const scoreOk = a.relevance_score >= currentMinScore;
       return sourceOk && scoreOk;
     });
@@ -328,13 +375,15 @@
     }
 
     el.innerHTML = filtered.map(a=>{
-      const tagClass = a.source_type === 'telegram' ? 'telegram' : 'press';
-      const tagLabel = a.source_type === 'telegram' ? 'TG' : 'PRESS';
+      const tagClass = a.source_type === 'telegram' ? 'telegram' : (a.source_type === 'api' ? 'api' : 'press');
+      const tagLabel = a.source_type === 'telegram' ? 'TG' : (a.source_type === 'api' ? 'API' : 'PRESS');
+      const isNew = lastVisitTime && a.collected_at && a.collected_at > lastVisitTime;
       return `
         <div class="row" onclick="window.open('${a.url.replace(/'/g,"\\'")}', '_blank')">
           ${gaugeSvg(a.relevance_score)}
           <div class="row-main">
             <div class="row-meta">
+              ${isNew ? '<span class="tag new">NEW</span>' : ''}
               <span class="tag ${tagClass}">${tagLabel}</span>
               <span class="row-source">${a.source}</span>
               <span class="row-time">· ${timeAgo(a.collected_at)}</span>
@@ -357,6 +406,35 @@
     document.getElementById('cnt-all').textContent = allArticles.length;
     document.getElementById('cnt-telegram').textContent = allArticles.filter(a=>a.source_type==='telegram').length;
     document.getElementById('cnt-press').textContent = allArticles.filter(a=>a.source_type==='press').length;
+    renderSourceChips();
+  }
+
+  function renderSourceChips(){
+    const counts = {};
+    allArticles.forEach(a=>{ counts[a.source] = (counts[a.source] || 0) + 1; });
+    const sources = Object.keys(counts).sort((a,b)=> counts[b] - counts[a]);
+
+    const container = document.getElementById('sourceChips');
+    if(sources.length === 0){
+      container.innerHTML = `<div style="font-size:11px; color:var(--text-faint); padding:6px 4px;">아직 데이터 없음</div>`;
+      return;
+    }
+
+    container.innerHTML = sources.map(s=>`
+      <div class="filter-chip source-chip ${currentFilter === s ? 'active' : ''}" data-filter="${escapeHtml(s)}">
+        <span>${escapeHtml(s)}</span><span class="count">${counts[s]}</span>
+      </div>`).join('');
+
+    container.querySelectorAll('.filter-chip').forEach(chip=>{
+      chip.addEventListener('click', ()=> selectFilterChip(chip));
+    });
+  }
+
+  function selectFilterChip(chip){
+    document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
+    chip.classList.add('active');
+    currentFilter = chip.dataset.filter;
+    renderRundown();
   }
 
   function updateLastRefresh(){
@@ -375,6 +453,10 @@
       updateCounts();
       updateLastRefresh();
       renderRundown();
+
+      const now = new Date();
+      document.getElementById('fetchedAt').textContent =
+        now.toLocaleTimeString('ko-KR', {hour:'2-digit', minute:'2-digit', second:'2-digit'});
     }catch(e){
       document.getElementById('rundown').innerHTML = `
         <div class="empty-state">
@@ -384,13 +466,48 @@
     }
   }
 
-  document.querySelectorAll('.filter-chip').forEach(chip=>{
-    chip.addEventListener('click', ()=>{
-      document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
-      chip.classList.add('active');
-      currentFilter = chip.dataset.filter;
+  async function loadPeriodOptions(){
+    try{
+      const res = await fetch(`./archive/index.json?_=${Date.now()}`);
+      const months = await res.json();
+      const sel = document.getElementById('periodSelect');
+      months.forEach(m=>{
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = m + ' 전체';
+        sel.appendChild(opt);
+      });
+    }catch(e){
+      // 아카이브가 아직 없으면(1개월 미만 사용) 조용히 넘어감
+    }
+  }
+
+  async function loadPeriod(value){
+    if(value === 'recent'){
+      await fetchArticles();
+      return;
+    }
+    try{
+      const res = await fetch(`./archive/${value}.json?_=${Date.now()}`);
+      allArticles = await res.json();
+      updateCounts();
+      updateLastRefresh();
       renderRundown();
-    });
+    }catch(e){
+      document.getElementById('rundown').innerHTML = `
+        <div class="empty-state">
+          <div class="big">${value} 아카이브를 불러올 수 없습니다</div>
+          <div class="small">아직 해당 월 데이터가 없을 수 있습니다.</div>
+        </div>`;
+    }
+  }
+
+  document.getElementById('periodSelect').addEventListener('change', (e)=>{
+    loadPeriod(e.target.value);
+  });
+
+  document.querySelectorAll('.filter-chip').forEach(chip=>{
+    chip.addEventListener('click', ()=> selectFilterChip(chip));
   });
 
   document.getElementById('scoreSlider').addEventListener('input', (e)=>{
@@ -399,8 +516,21 @@
     renderRundown();
   });
 
+  function showLastVisit(){
+    const el = document.getElementById('lastVisit');
+    el.textContent = lastVisitTime ? timeAgo(lastVisitTime) : '처음 방문';
+  }
+
+  function markVisitNow(){
+    // 이번 페이지 로드 시점을 "확인함"으로 기록 — 다음 방문 때 그 이후 기사가 NEW로 표시됨
+    localStorage.setItem('scrapai_last_visit', new Date().toISOString());
+  }
+
   // 초기 로드 + 주기 갱신 (탭을 열어두면 5분마다 새 데이터 확인)
+  showLastVisit();
+  markVisitNow();
   fetchArticles();
+  loadPeriodOptions();
   setInterval(fetchArticles, 5 * 60000);
   setInterval(updateLastRefresh, 60000);
 </script>

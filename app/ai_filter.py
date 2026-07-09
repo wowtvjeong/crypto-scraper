@@ -9,7 +9,12 @@ from groq import Groq
 
 from app.models import RawItem, ScoredArticle
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+# 모델별로 하루 토큰 한도가 따로 매겨진다. 큰 모델(70b) 한도를 다 썼을 때
+# 작은 모델(8b)은 별도 한도라 그대로 쓸 수 있는 경우가 많음.
+# GROQ_MODEL 환경변수(또는 GitHub Secrets)로 바꿔치기 가능하게 해둠.
+# 정확한 모델 목록/한도는 https://console.groq.com/settings/billing 에서 직접 확인 필요
+# (제가 실시간으로 검증한 값이 아님).
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant")
 
 _client = None
 

@@ -1,14 +1,39 @@
+enable_cryptopanic: false  # CryptoPanic은 요금제가 유료일 수 있어 기본 꺼둠 — 가입 페이지에서 직접 확인 후 켜세요
+
+# ✅ wublockchainenglish: 텔레그램에서 직접 확인 완료 (구독자 27만+, 정상 공개 채널)
+# ❌ coindeskkorea: 확인해보니 공개 채널이 아니라 봇(bot)들만 있어서 제거함
+#    → 대신 아래 press_sites의 coindesk_korea RSS로 같은 매체 콘텐츠를 받습니다
 telegram_channels:
-  - name: "coindeskkorea"
   - name: "wublockchainenglish"
 
 press_sites:
-  - name: "coindesk_korea"
-    rss: "https://www.coindeskkorea.com/rss/allArticle.xml"
+  # ---------- 국내 (정상 작동 확인됨) ----------
   - name: "tokenpost"
     rss: "https://www.tokenpost.kr/rss"
   - name: "blockmedia"
     rss: "https://www.blockmedia.co.kr/feed"
+
+  # 디센터: 실제 F12로 구조 확인 완료 (2026-07-09)
+  - name: "decenter"
+    list_url: "https://decenter.kr/"
+    item_selector: "div.cube_box li"
+    title_selector: "dt"
+    link_selector: "a.mi_wrap_i"
+
+  # ---------- 해외 (정상 작동 확인됨) ----------
+  - name: "cointelegraph"
+    rss: "https://cointelegraph.com/rss"
+  - name: "decrypt"
+    rss: "https://decrypt.co/feed"
+  - name: "coindesk"
+    rss: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+  - name: "blockworks"
+    rss: "https://blockworks.co/feed"
+
+  # ---------- 제거됨 (2026-07-09 실행 로그에서 실패 확인) ----------
+  # coindesk_korea: RSS 주소 415 에러 — 실제 주소 재확인 필요
+  # decenter: 셀렉터 방식 404 에러 — list_url 자체가 잘못됨
+  # theblock: 셀렉터 방식 403 에러 — 봇 차단, 이 방식으론 우회 어려움
 
 filter:
   min_relevance_score: 7
