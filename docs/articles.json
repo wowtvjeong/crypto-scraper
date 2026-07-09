@@ -1,5 +1,17 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "AI is shortening the shelf life of crypto security audits, researchers warn",
+    "content": "Hackers have also been exploiting the codebases of defunct decentralized finance protocols, draining millions of dollars in customer funds.",
+    "url": "https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 09 Jul 2026 05:47:09 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 보안 감사에 대한 연구자들의 경고와 암호화폐 관련된 해킹 및 탈출한 자금",
+    "collected_at": "2026-07-09T05:56:15.521983+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Robinhood Chain Daily DEX Volume Hits Record High Above $560 Million",
