@@ -110,6 +110,12 @@
   }
   .filter-chip .count{font-family:var(--mono); font-size:11px; opacity:0.8;}
 
+  #sourceChips{
+    max-height:220px; overflow-y:auto;
+    display:flex; flex-direction:column; gap:2px;
+  }
+  #sourceChips .filter-chip{padding:7px 10px; font-size:12px;}
+
   .rail-section{margin-top:28px;}
   .score-slider-row{display:flex; align-items:center; gap:10px; margin-top:10px;}
   input[type="range"]{
@@ -233,6 +239,10 @@
       <div class="status-value" id="countdown">-</div>
     </div>
     <div class="status-block">
+      <div class="status-label">내가 불러온 시각</div>
+      <div class="status-value" id="fetchedAt">-</div>
+    </div>
+    <div class="status-block">
       <div class="status-label">내 마지막 확인</div>
       <div class="status-value live" id="lastVisit">-</div>
     </div>
@@ -255,6 +265,11 @@
     </div>
     <div class="filter-chip" data-filter="press">
       <span>언론사</span><span class="count" id="cnt-press">0</span>
+    </div>
+
+    <div class="rail-section">
+      <div class="rail-title">매체별</div>
+      <div id="sourceChips"></div>
     </div>
 
     <div class="rail-section">
@@ -332,9 +347,17 @@
       </div>`;
   }
 
+  function matchesFilter(a, filterValue){
+    if(filterValue === 'all') return true;
+    if(filterValue === 'telegram' || filterValue === 'press' || filterValue === 'api') {
+      return a.source_type === filterValue;
+    }
+    return a.source === filterValue;  // 개별 매체명으로 필터
+  }
+
   function renderRundown(){
     const filtered = allArticles.filter(a=>{
-      const sourceOk = currentFilter === 'all' || a.source_type === currentFilter;
+      const sourceOk = matchesFilter(a, currentFilter);
       const scoreOk = a.relevance_score >= currentMinScore;
       return sourceOk && scoreOk;
     });
@@ -383,6 +406,35 @@
     document.getElementById('cnt-all').textContent = allArticles.length;
     document.getElementById('cnt-telegram').textContent = allArticles.filter(a=>a.source_type==='telegram').length;
     document.getElementById('cnt-press').textContent = allArticles.filter(a=>a.source_type==='press').length;
+    renderSourceChips();
+  }
+
+  function renderSourceChips(){
+    const counts = {};
+    allArticles.forEach(a=>{ counts[a.source] = (counts[a.source] || 0) + 1; });
+    const sources = Object.keys(counts).sort((a,b)=> counts[b] - counts[a]);
+
+    const container = document.getElementById('sourceChips');
+    if(sources.length === 0){
+      container.innerHTML = `<div style="font-size:11px; color:var(--text-faint); padding:6px 4px;">아직 데이터 없음</div>`;
+      return;
+    }
+
+    container.innerHTML = sources.map(s=>`
+      <div class="filter-chip source-chip ${currentFilter === s ? 'active' : ''}" data-filter="${escapeHtml(s)}">
+        <span>${escapeHtml(s)}</span><span class="count">${counts[s]}</span>
+      </div>`).join('');
+
+    container.querySelectorAll('.filter-chip').forEach(chip=>{
+      chip.addEventListener('click', ()=> selectFilterChip(chip));
+    });
+  }
+
+  function selectFilterChip(chip){
+    document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
+    chip.classList.add('active');
+    currentFilter = chip.dataset.filter;
+    renderRundown();
   }
 
   function updateLastRefresh(){
@@ -401,6 +453,10 @@
       updateCounts();
       updateLastRefresh();
       renderRundown();
+
+      const now = new Date();
+      document.getElementById('fetchedAt').textContent =
+        now.toLocaleTimeString('ko-KR', {hour:'2-digit', minute:'2-digit', second:'2-digit'});
     }catch(e){
       document.getElementById('rundown').innerHTML = `
         <div class="empty-state">
@@ -451,12 +507,7 @@
   });
 
   document.querySelectorAll('.filter-chip').forEach(chip=>{
-    chip.addEventListener('click', ()=>{
-      document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
-      chip.classList.add('active');
-      currentFilter = chip.dataset.filter;
-      renderRundown();
-    });
+    chip.addEventListener('click', ()=> selectFilterChip(chip));
   });
 
   document.getElementById('scoreSlider').addEventListener('input', (e)=>{
