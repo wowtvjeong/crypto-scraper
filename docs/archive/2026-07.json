@@ -1,5 +1,53 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "JP모건 “진짜 위협은 스트래티지 매도 아닌 퍼블릭 체인 우회”-더블록",
+    "content": "[멕시코=심영재 특파원] 비트코인 최대 보유 기업 스트래티지(Strategy)의 비트코인 매도보다 더 큰 위험은 전통 금융권의 블록체인 도입 방식이라는 분석이 나왔다. 은행과 금융기관들이 퍼블릭 블록체인 대신 허가형(퍼미션드) 블록체인을 중심으로 토큰화와 결제 인프라를 구축할 경우 디지털자산(가상자산) 생태계 전반의 유동성과 자금 유입이 둔화될 수 있다는 지적이다. 9일(현지시각) 더블록에 따르면 JP모건은 니콜라오스 파니기르초글루 전무가 이끄는 보고서에서 “스트래티지가 비트코인을 매도하는 것이 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115223?utm_source=general&utm_medium=rss",
+    "published_at": "Thu, 09 Jul 2026 19:18:51 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "퍼블릭 체인 우회에 대한 분석과 비트코인 매도와의 비교로 크립토 관련성이 높은 보도",
+    "collected_at": "2026-07-09T19:22:23.071961+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트코인 ETF·사모신용 동시 유출…금융시장 위험 회피 확산",
+    "content": "[멕시코=심영재 특파원] 비트코인 현물 상장지수펀드(ETF)에서 수십억달러가 빠져나간 데 이어 2조달러 규모의 미국 사모신용(Private Credit) 시장에서도 대규모 환매가 발생하면서 글로벌 금융시장의 위험 회피 심리가 확산되고 있다는 분석이 나왔다. 시장에서는 비트코인, 사모신용, 에너지 시장에서 동시에 나타나는 유동성 축소가 위험자산 전반에 부담으로 작용할 수 있다는 우려가 커지고 있다. 9일(현지시각) 코인데스크는 소소밸류(SoSoValue), 피치 레이팅스(Fitch Ratings), QCP캐피털(QCP Capital) 등의 자료를 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115221?utm_source=general&utm_medium=rss",
+    "published_at": "Thu, 09 Jul 2026 19:05:54 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 ETF와 사모신용 시장의 동시 유출로 인해 글로벌 금융시장의 위험 회피 심리가 확산되고 있다는 분석이 나왔다.",
+    "collected_at": "2026-07-09T19:22:23.288364+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
+    "content": "Ethereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
+    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
+    "published_at": "Thu, 09 Jul 2026 18:27:47 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "에이다를 사용한 이더리움 네트워크 보안 향상",
+    "collected_at": "2026-07-09T19:22:24.451235+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
+    "content": "Billions flowing out of bitcoin ETFs and private credit funds suggest rising market risks",
+    "url": "https://www.coindesk.com/markets/2026/07/09/billions-flowing-out-of-bitcoin-etfs-and-private-credit-funds-suggest-rising-market-risks",
+    "published_at": "Thu, 09 Jul 2026 18:13:04 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 ETF와 관련된 뉴스이며, 시장 위험에 대한 경고를 함.",
+    "collected_at": "2026-07-09T19:22:24.740499+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "BitGo Introduces Quantum-Protection Tools for Institutional Bitcoin Wallets",
