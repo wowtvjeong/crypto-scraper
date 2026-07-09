@@ -138,6 +138,16 @@
   select:hover{border-color:var(--accent-dim);}
   select:focus{border-color:var(--accent);}
 
+  #searchInput{
+    width:100%;
+    background:var(--bg-surface); color:var(--text-primary);
+    border:1px solid var(--border); border-radius:7px;
+    padding:9px 12px; font-family:var(--sans); font-size:13px;
+    outline:none; transition:border-color .12s ease;
+  }
+  #searchInput::placeholder{color:var(--text-faint);}
+  #searchInput:focus{border-color:var(--accent);}
+
   .rail-footer{
     margin-top:36px; padding-top:16px; border-top:1px solid var(--border-soft);
     font-size:11px; color:var(--text-faint); line-height:1.6;
@@ -256,7 +266,10 @@
 
 <div class="layout">
   <div class="rail">
-    <div class="rail-title">소스</div>
+    <div class="rail-title">검색</div>
+    <input type="text" id="searchInput" placeholder="제목·본문 키워드 검색..." autocomplete="off">
+
+    <div class="rail-title" style="margin-top:20px;">소스</div>
     <div class="filter-chip active" data-filter="all">
       <span>전체</span><span class="count" id="cnt-all">0</span>
     </div>
@@ -319,6 +332,7 @@
   let allArticles = [];
   let currentFilter = 'all';
   let currentMinScore = 0;
+  let currentSearchQuery = '';
   let lastVisitTime = localStorage.getItem('scrapai_last_visit');  // 이번 방문 이전의 마지막 확인 시각
 
   function timeAgo(iso){
@@ -355,21 +369,31 @@
     return a.source === filterValue;  // 개별 매체명으로 필터
   }
 
+  function matchesSearch(a, query){
+    if(!query) return true;
+    const haystack = `${a.title} ${a.content || ''} ${a.reason || ''} ${a.source}`.toLowerCase();
+    return haystack.includes(query.toLowerCase());
+  }
+
   function renderRundown(){
     const filtered = allArticles.filter(a=>{
       const sourceOk = matchesFilter(a, currentFilter);
       const scoreOk = a.relevance_score >= currentMinScore;
-      return sourceOk && scoreOk;
+      const searchOk = matchesSearch(a, currentSearchQuery);
+      return sourceOk && scoreOk && searchOk;
     });
 
     document.getElementById('feedCount').textContent = `${filtered.length}건`;
 
     const el = document.getElementById('rundown');
     if(filtered.length === 0){
+      const msg = currentSearchQuery
+        ? `"${escapeHtml(currentSearchQuery)}"에 대한 검색 결과가 없습니다.`
+        : '필터 기준을 낮추거나 잠시 후 다시 확인하세요.';
       el.innerHTML = `
         <div class="empty-state">
           <div class="big">표시할 기사가 없습니다</div>
-          <div class="small">필터 기준을 낮추거나 잠시 후 다시 확인하세요.</div>
+          <div class="small">${msg}</div>
         </div>`;
       return;
     }
@@ -513,6 +537,11 @@
   document.getElementById('scoreSlider').addEventListener('input', (e)=>{
     currentMinScore = parseFloat(e.target.value);
     document.getElementById('scoreVal').textContent = currentMinScore;
+    renderRundown();
+  });
+
+  document.getElementById('searchInput').addEventListener('input', (e)=>{
+    currentSearchQuery = e.target.value.trim();
     renderRundown();
   });
 
