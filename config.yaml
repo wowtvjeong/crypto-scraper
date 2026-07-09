@@ -1,14 +1,45 @@
+enable_cryptopanic: false  # CryptoPanic은 요금제가 유료일 수 있어 기본 꺼둠 — 가입 페이지에서 직접 확인 후 켜세요
+
+# ✅ wublockchainenglish: 텔레그램에서 직접 확인 완료 (구독자 27만+, 정상 공개 채널)
+# ❌ coindeskkorea: 확인해보니 공개 채널이 아니라 봇(bot)들만 있어서 제거함
+#    → 대신 아래 press_sites의 coindesk_korea RSS로 같은 매체 콘텐츠를 받습니다
 telegram_channels:
-  - name: "coindeskkorea"
   - name: "wublockchainenglish"
 
 press_sites:
+  # ---------- 국내 ----------
   - name: "coindesk_korea"
-    rss: "https://www.coindeskkorea.com/rss/allArticle.xml"
+    rss: "https://www.coindeskkorea.com/rss/allArticle.xml"   # 확인 필요
   - name: "tokenpost"
-    rss: "https://www.tokenpost.kr/rss"
+    rss: "https://www.tokenpost.kr/rss"                        # 확인 필요
   - name: "blockmedia"
-    rss: "https://www.blockmedia.co.kr/feed"
+    rss: "https://www.blockmedia.co.kr/feed"                   # 확인 필요
+
+  # 디센터: RSS 주소를 확신할 수 없어 셀렉터 방식으로 시연.
+  # 아래 selector 값들은 실제 페이지 구조를 제가 직접 못 봐서 넣은 예시값입니다.
+  # Actions 실행 후 0건이면, 안내드렸던 F12(개발자도구) 방법으로 직접 값을 맞춰야 합니다.
+  - name: "decenter"
+    list_url: "https://decenter.kr/News/Blockchain"             # 확인 필요
+    item_selector: "div.article-list li"                        # 확인 필요 (예시값)
+    title_selector: "a.tit"                                     # 확인 필요 (예시값)
+    link_selector: "a.tit"                                      # 확인 필요 (예시값)
+
+  # ---------- 해외 ----------
+  - name: "cointelegraph"
+    rss: "https://cointelegraph.com/rss"                        # 확인 필요
+  - name: "decrypt"
+    rss: "https://decrypt.co/feed"                               # 확인 필요
+  - name: "coindesk"
+    rss: "https://www.coindesk.com/arc/outboundfeeds/rss/"       # 확인 필요
+  - name: "blockworks"
+    rss: "https://blockworks.co/feed"                            # 확인 필요
+
+  # The Block: RSS 주소를 확신할 수 없어 셀렉터 방식으로 시연 (예시값, 검증 필요)
+  - name: "theblock"
+    list_url: "https://www.theblock.co/latest"                  # 확인 필요
+    item_selector: "div.articleCard"                             # 확인 필요 (예시값)
+    title_selector: "h3"                                         # 확인 필요 (예시값)
+    link_selector: "a"                                           # 확인 필요 (예시값)
 
 filter:
   min_relevance_score: 7
