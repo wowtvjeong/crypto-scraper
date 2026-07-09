@@ -45,5 +45,14 @@ filter:
     - "ETF"
     - "김치프리미엄"
 
+health_check:
+  enabled: true
+  consecutive_zero_threshold: 3   # 연속 3회(약 1.5시간, 30분 간격 기준) 0건이면 텔레그램 알림
+
+briefing:
+  enabled: true
+  top_n: 5              # 브리핑에 넣을 기사 개수
+  lookback_hours: 13     # 직전 몇 시간치 기사 중에서 고를지 (12시간 간격 + 1시간 여유)
+
 schedule:
   interval_minutes: 30
