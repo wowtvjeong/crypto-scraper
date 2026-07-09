@@ -9,6 +9,7 @@ FastAPI 서버 없이 동작하며, 결과는 docs/articles.json에 저장한다
 import asyncio
 import json
 import sys
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -26,6 +27,7 @@ CONFIG_PATH = ROOT / "config.yaml"
 DATA_PATH = ROOT / "docs" / "articles.json"
 ARCHIVE_DIR = ROOT / "docs" / "archive"
 ARCHIVE_INDEX_PATH = ARCHIVE_DIR / "index.json"
+HEALTH_PATH = ARCHIVE_DIR / "source-health.json"
 MAX_KEEP = 300  # 최근 목록(articles.json)에 유지할 최대 기사 수 — 대시보드 로딩 속도용
 
 
@@ -113,6 +115,64 @@ def update_archive_index():
         json.dump(months, f, ensure_ascii=False, indent=2)
 
 
+def load_health() -> dict:
+    if HEALTH_PATH.exists():
+        with open(HEALTH_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_health(health: dict):
+    HEALTH_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with open(HEALTH_PATH, "w", encoding="utf-8") as f:
+        json.dump(health, f, ensure_ascii=False, indent=2)
+
+
+def check_source_health(config: dict, telegram_items: list, press_items: list):
+    """설정된 소스가 연속으로 0건을 내면 텔레그램으로 알림.
+    RSS/텔레그램 스크래핑은 매번 '최신 N건'을 통째로 가져오는 방식이라,
+    정상 소스는 거의 항상 몇 건씩은 잡힌다 — 그래서 하루 단위가 아니라
+    '연속 실행 횟수' 기준으로 훨씬 빠르게 이상을 감지한다."""
+    hc_cfg = config.get("health_check", {})
+    if not hc_cfg.get("enabled", True):
+        return
+    threshold = hc_cfg.get("consecutive_zero_threshold", 3)
+
+    configured_sources = (
+        [c["name"] for c in config.get("telegram_channels", [])] +
+        [s["name"] for s in config.get("press_sites", [])]
+    )
+    counts = Counter(i.source for i in (telegram_items + press_items))
+
+    health = load_health()
+    for name in configured_sources:
+        count = counts.get(name, 0)
+        entry = health.get(name, {"consecutive_zero": 0, "alerted": False})
+
+        if count > 0:
+            entry["consecutive_zero"] = 0
+            entry["alerted"] = False
+            entry["last_ok_run"] = datetime.now(timezone.utc).isoformat()
+        else:
+            entry["consecutive_zero"] = entry.get("consecutive_zero", 0) + 1
+            if entry["consecutive_zero"] >= threshold and not entry.get("alerted"):
+                text = (
+                    f"⚠️ 소스 이상 감지\n"
+                    f"'{name}'에서 {entry['consecutive_zero']}회 연속 0건 수집됐습니다.\n"
+                    f"RSS 주소, 셀렉터, 채널명이 여전히 유효한지 확인해주세요."
+                )
+                try:
+                    send_telegram_message(text)
+                    print(f"[health] 이상 알림 전송: {name}")
+                except Exception as e:
+                    print(f"[health] 알림 실패: {e}")
+                entry["alerted"] = True
+
+        health[name] = entry
+
+    save_health(health)
+
+
 async def main():
     config = load_config()
 
@@ -126,6 +186,8 @@ async def main():
     all_items = telegram_items + press_items + api_items
     print(f"[pipeline] 원본 수집: {len(all_items)}건 "
           f"(텔레그램 {len(telegram_items)} / 언론사 {len(press_items)} / API {len(api_items)})")
+
+    check_source_health(config, telegram_items, press_items)
 
     # ── AI 채점 전에 '이미 본 URL'을 걸러낸다 (Groq 토큰 낭비 방지가 핵심) ──
     # 매번 RSS가 최신 20~30건을 다시 주기 때문에, 이 필터가 없으면 같은 기사를
