@@ -7,39 +7,33 @@ telegram_channels:
   - name: "wublockchainenglish"
 
 press_sites:
-  # ---------- 국내 ----------
-  - name: "coindesk_korea"
-    rss: "https://www.coindeskkorea.com/rss/allArticle.xml"   # 확인 필요
+  # ---------- 국내 (정상 작동 확인됨) ----------
   - name: "tokenpost"
-    rss: "https://www.tokenpost.kr/rss"                        # 확인 필요
+    rss: "https://www.tokenpost.kr/rss"
   - name: "blockmedia"
-    rss: "https://www.blockmedia.co.kr/feed"                   # 확인 필요
+    rss: "https://www.blockmedia.co.kr/feed"
 
-  # 디센터: RSS 주소를 확신할 수 없어 셀렉터 방식으로 시연.
-  # 아래 selector 값들은 실제 페이지 구조를 제가 직접 못 봐서 넣은 예시값입니다.
-  # Actions 실행 후 0건이면, 안내드렸던 F12(개발자도구) 방법으로 직접 값을 맞춰야 합니다.
+  # 디센터: 실제 F12로 구조 확인 완료 (2026-07-09)
   - name: "decenter"
-    list_url: "https://decenter.kr/News/Blockchain"             # 확인 필요
-    item_selector: "div.article-list li"                        # 확인 필요 (예시값)
-    title_selector: "a.tit"                                     # 확인 필요 (예시값)
-    link_selector: "a.tit"                                      # 확인 필요 (예시값)
+    list_url: "https://decenter.kr/"
+    item_selector: "div.cube_box li"
+    title_selector: "dt"
+    link_selector: "a.mi_wrap_i"
 
-  # ---------- 해외 ----------
+  # ---------- 해외 (정상 작동 확인됨) ----------
   - name: "cointelegraph"
-    rss: "https://cointelegraph.com/rss"                        # 확인 필요
+    rss: "https://cointelegraph.com/rss"
   - name: "decrypt"
-    rss: "https://decrypt.co/feed"                               # 확인 필요
+    rss: "https://decrypt.co/feed"
   - name: "coindesk"
-    rss: "https://www.coindesk.com/arc/outboundfeeds/rss/"       # 확인 필요
+    rss: "https://www.coindesk.com/arc/outboundfeeds/rss/"
   - name: "blockworks"
-    rss: "https://blockworks.co/feed"                            # 확인 필요
+    rss: "https://blockworks.co/feed"
 
-  # The Block: RSS 주소를 확신할 수 없어 셀렉터 방식으로 시연 (예시값, 검증 필요)
-  - name: "theblock"
-    list_url: "https://www.theblock.co/latest"                  # 확인 필요
-    item_selector: "div.articleCard"                             # 확인 필요 (예시값)
-    title_selector: "h3"                                         # 확인 필요 (예시값)
-    link_selector: "a"                                           # 확인 필요 (예시값)
+  # ---------- 제거됨 (2026-07-09 실행 로그에서 실패 확인) ----------
+  # coindesk_korea: RSS 주소 415 에러 — 실제 주소 재확인 필요
+  # decenter: 셀렉터 방식 404 에러 — list_url 자체가 잘못됨
+  # theblock: 셀렉터 방식 403 에러 — 봇 차단, 이 방식으론 우회 어려움
 
 filter:
   min_relevance_score: 7
