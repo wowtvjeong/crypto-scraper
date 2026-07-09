@@ -180,6 +180,8 @@
   }
   .tag.telegram{background:rgba(52,216,197,0.12); color:var(--teal);}
   .tag.press{background:rgba(247,147,26,0.12); color:var(--accent);}
+  .tag.api{background:rgba(139,148,247,0.14); color:#8B94F7;}
+  .tag.new{background:rgba(229,72,77,0.16); color:#F0656A;}
   .row-source{font-size:11px; color:var(--text-muted); font-family:var(--mono);}
   .row-time{font-size:11px; color:var(--text-faint); font-family:var(--mono);}
 
@@ -229,6 +231,10 @@
     <div class="status-block">
       <div class="status-label">최근 갱신</div>
       <div class="status-value" id="countdown">-</div>
+    </div>
+    <div class="status-block">
+      <div class="status-label">내 마지막 확인</div>
+      <div class="status-value live" id="lastVisit">-</div>
     </div>
     <div class="status-block">
       <div class="status-label">수집 주기</div>
@@ -298,6 +304,7 @@
   let allArticles = [];
   let currentFilter = 'all';
   let currentMinScore = 0;
+  let lastVisitTime = localStorage.getItem('scrapai_last_visit');  // 이번 방문 이전의 마지막 확인 시각
 
   function timeAgo(iso){
     if(!iso) return '';
@@ -345,13 +352,15 @@
     }
 
     el.innerHTML = filtered.map(a=>{
-      const tagClass = a.source_type === 'telegram' ? 'telegram' : 'press';
-      const tagLabel = a.source_type === 'telegram' ? 'TG' : 'PRESS';
+      const tagClass = a.source_type === 'telegram' ? 'telegram' : (a.source_type === 'api' ? 'api' : 'press');
+      const tagLabel = a.source_type === 'telegram' ? 'TG' : (a.source_type === 'api' ? 'API' : 'PRESS');
+      const isNew = lastVisitTime && a.collected_at && a.collected_at > lastVisitTime;
       return `
         <div class="row" onclick="window.open('${a.url.replace(/'/g,"\\'")}', '_blank')">
           ${gaugeSvg(a.relevance_score)}
           <div class="row-main">
             <div class="row-meta">
+              ${isNew ? '<span class="tag new">NEW</span>' : ''}
               <span class="tag ${tagClass}">${tagLabel}</span>
               <span class="row-source">${a.source}</span>
               <span class="row-time">· ${timeAgo(a.collected_at)}</span>
@@ -456,7 +465,19 @@
     renderRundown();
   });
 
+  function showLastVisit(){
+    const el = document.getElementById('lastVisit');
+    el.textContent = lastVisitTime ? timeAgo(lastVisitTime) : '처음 방문';
+  }
+
+  function markVisitNow(){
+    // 이번 페이지 로드 시점을 "확인함"으로 기록 — 다음 방문 때 그 이후 기사가 NEW로 표시됨
+    localStorage.setItem('scrapai_last_visit', new Date().toISOString());
+  }
+
   // 초기 로드 + 주기 갱신 (탭을 열어두면 5분마다 새 데이터 확인)
+  showLastVisit();
+  markVisitNow();
   fetchArticles();
   loadPeriodOptions();
   setInterval(fetchArticles, 5 * 60000);
