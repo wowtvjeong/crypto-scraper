@@ -110,11 +110,11 @@
   }
   .filter-chip .count{font-family:var(--mono); font-size:11px; opacity:0.8;}
 
-  #sourceChips{
-    max-height:220px; overflow-y:auto;
+  #sourceChipsTelegram, #sourceChipsPress{
+    max-height:180px; overflow-y:auto;
     display:flex; flex-direction:column; gap:2px;
   }
-  #sourceChips .filter-chip{padding:7px 10px; font-size:12px;}
+  #sourceChipsTelegram .filter-chip, #sourceChipsPress .filter-chip{padding:7px 10px; font-size:12px;}
 
   .rail-section{margin-top:28px;}
   .score-slider-row{display:flex; align-items:center; gap:10px; margin-top:10px;}
@@ -281,8 +281,11 @@
     </div>
 
     <div class="rail-section">
-      <div class="rail-title">매체별</div>
-      <div id="sourceChips"></div>
+      <div class="rail-title">텔레그램 채널별</div>
+      <div id="sourceChipsTelegram"></div>
+
+      <div class="rail-title" style="margin-top:16px;">언론사별</div>
+      <div id="sourceChipsPress"></div>
     </div>
 
     <div class="rail-section">
@@ -433,18 +436,21 @@
     renderSourceChips();
   }
 
-  function renderSourceChips(){
+  function renderSourceChipGroup(containerId, sourceType){
     const counts = {};
-    allArticles.forEach(a=>{ counts[a.source] = (counts[a.source] || 0) + 1; });
-    const sources = Object.keys(counts).sort((a,b)=> counts[b] - counts[a]);
+    allArticles
+      .filter(a => a.source_type === sourceType)
+      .forEach(a => { counts[a.source] = (counts[a.source] || 0) + 1; });
 
-    const container = document.getElementById('sourceChips');
+    const sources = Object.keys(counts).sort((a,b) => counts[b] - counts[a]);
+    const container = document.getElementById(containerId);
+
     if(sources.length === 0){
       container.innerHTML = `<div style="font-size:11px; color:var(--text-faint); padding:6px 4px;">아직 데이터 없음</div>`;
       return;
     }
 
-    container.innerHTML = sources.map(s=>`
+    container.innerHTML = sources.map(s => `
       <div class="filter-chip source-chip ${currentFilter === s ? 'active' : ''}" data-filter="${escapeHtml(s)}">
         <span>${escapeHtml(s)}</span><span class="count">${counts[s]}</span>
       </div>`).join('');
@@ -452,6 +458,11 @@
     container.querySelectorAll('.filter-chip').forEach(chip=>{
       chip.addEventListener('click', ()=> selectFilterChip(chip));
     });
+  }
+
+  function renderSourceChips(){
+    renderSourceChipGroup('sourceChipsTelegram', 'telegram');
+    renderSourceChipGroup('sourceChipsPress', 'press');
   }
 
   function selectFilterChip(chip){
