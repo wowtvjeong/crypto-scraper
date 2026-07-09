@@ -122,6 +122,16 @@
   }
   #scoreVal{font-family:var(--mono); font-size:12px; color:var(--accent); min-width:26px; text-align:right;}
 
+  select{
+    width:100%; margin-top:10px;
+    background:var(--bg-surface); color:var(--text-primary);
+    border:1px solid var(--border); border-radius:7px;
+    padding:8px 10px; font-family:var(--sans); font-size:12.5px;
+    cursor:pointer; outline:none;
+  }
+  select:hover{border-color:var(--accent-dim);}
+  select:focus{border-color:var(--accent);}
+
   .rail-footer{
     margin-top:36px; padding-top:16px; border-top:1px solid var(--border-soft);
     font-size:11px; color:var(--text-faint); line-height:1.6;
@@ -249,6 +259,13 @@
       </div>
     </div>
 
+    <div class="rail-section">
+      <div class="rail-title">기간</div>
+      <select id="periodSelect">
+        <option value="recent">최근 (기본)</option>
+      </select>
+    </div>
+
     <div class="rail-footer">
       점수는 Groq가 판단한<br>크립토 관련성·중요도(0~10)<br>기준입니다.
     </div>
@@ -275,7 +292,7 @@
 
   // Actions 탭 링크: repo 주소에 맞게 한 번만 바꿔주세요.
   // 예: https://github.com/사용자명/저장소명/actions
-  const ACTIONS_URL = 'https://github.com/YOUR_USERNAME/YOUR_REPO/actions';
+  const ACTIONS_URL = 'https://github.com/wowtvjeong/crypto-scraper/actions';
   document.getElementById('scrapeBtn').href = ACTIONS_URL;
 
   let allArticles = [];
@@ -384,6 +401,46 @@
     }
   }
 
+  async function loadPeriodOptions(){
+    try{
+      const res = await fetch(`./archive/index.json?_=${Date.now()}`);
+      const months = await res.json();
+      const sel = document.getElementById('periodSelect');
+      months.forEach(m=>{
+        const opt = document.createElement('option');
+        opt.value = m;
+        opt.textContent = m + ' 전체';
+        sel.appendChild(opt);
+      });
+    }catch(e){
+      // 아카이브가 아직 없으면(1개월 미만 사용) 조용히 넘어감
+    }
+  }
+
+  async function loadPeriod(value){
+    if(value === 'recent'){
+      await fetchArticles();
+      return;
+    }
+    try{
+      const res = await fetch(`./archive/${value}.json?_=${Date.now()}`);
+      allArticles = await res.json();
+      updateCounts();
+      updateLastRefresh();
+      renderRundown();
+    }catch(e){
+      document.getElementById('rundown').innerHTML = `
+        <div class="empty-state">
+          <div class="big">${value} 아카이브를 불러올 수 없습니다</div>
+          <div class="small">아직 해당 월 데이터가 없을 수 있습니다.</div>
+        </div>`;
+    }
+  }
+
+  document.getElementById('periodSelect').addEventListener('change', (e)=>{
+    loadPeriod(e.target.value);
+  });
+
   document.querySelectorAll('.filter-chip').forEach(chip=>{
     chip.addEventListener('click', ()=>{
       document.querySelectorAll('.filter-chip').forEach(c=>c.classList.remove('active'));
@@ -401,6 +458,7 @@
 
   // 초기 로드 + 주기 갱신 (탭을 열어두면 5분마다 새 데이터 확인)
   fetchArticles();
+  loadPeriodOptions();
   setInterval(fetchArticles, 5 * 60000);
   setInterval(updateLastRefresh, 60000);
 </script>
