@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Cambridge Report: Ethereum’s Annual Power Use Falls to 7.87 GWh After The Merge",
+    "content": "Cambridge Report: Ethereum’s Annual Power Use Falls to 7.87 GWh After The Merge\nAccording to a new report from the Cambridge Centre for Alternative Finance (CCAF), Ethereum consumes approximately 7.87 GWh of electricity annually following The Merge, a decline of more than 99.9% from its pre-Merge level. The report estimates annual emissions at around 2.37 ktCO₂e, down roughly 99.98%, based on an infrastructure audit of approximately 8,522 nodes. It also finds that the United States, Germany, Finland, and France host about 62% of Ethereum full nodes, while Hetzner, Amazon Web Services, and OVH together host roughly 40% of all nodes. In addition, 56.4% of the network’s electricity is supplied by sustainable energy sources, with the report concluding that Ethereum’s environmental footprint is now driven primarily by the carbon intensity of local power grids rather than its consensus mechanism. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25095",
+    "published_at": "2026-07-10T23:30:27+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "이더리움의 전력 사용량이 크게 감소하는 것과 이더리움 네트워크의 환경적 영향에 대한 정보",
+    "collected_at": "2026-07-10T23:47:50.982883+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트마인, 장중 변동성 속 14.98달러로 마감",
+    "content": "비트마인, 장중 변동성 속 14.98달러로 마감비트마인 이머전 테크놀로지스(Bitmine Immersion Technologies, BMNR)가 9일(현지시간) 뉴욕증권거래소(NYSE)에서 14.98달러로 거래를 마감하며 전일 대비 1.97% 상승했다. 장중 주가는 15.53달러까지 치솟았다가 14.95달러까지 하락하는 등 높은 변동성을 보였다. 거래량은 2,843만 6,863주를 기록하며 시장의 활발한 관심을 입증했다.BMNR은 암호화폐 채굴 장비 냉각 기술을 전문으로 하는 기업으로, 비트코인 채굴 효율성 개선에 초점을 맞춘 이머전 쿨링 시스템을 제공한다. 최근 비트코인 가격 변동성과 맞물려 관련 종목들의 주가 흐름 역시 민감한 반응을 보이고 있다.52주 최고가 대비 79%...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376704",
+    "published_at": "Fri, 10 Jul 2026 23:02:10 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트마인은 암호화폐 채굴 장비 냉각 기술을 전문으로 하는 기업으로, 비트코인 채굴 효율성 개선에 초점을 맞춘 이머전 쿨링 시스템을 제공한다.",
+    "collected_at": "2026-07-10T23:47:51.784398+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "서클 주가 7% 급등, 연방은행 승인으로 스테이블코인 신뢰도 제고",
+    "content": "서클 주가 7% 급등, 연방은행 승인으로 스테이블코인 생태계 재편 신호탄스테이블코인 발행사 서클(Circle Internet Group)의 주가가 5월 9일(현지시간) 장중 최대 7%대 급등하며 66.14달러에 거래를 마쳤다. 이번 상승은 서클이 연방 규제 은행으로 운영 승인을 받으면서 투자자들의 기대감이 반영된 것으로 풀이된다. 주요 금융 매체들은 이번 규제 승인을 서클의 장기 전략에서 중요한 이정표로 평가하며 집중 조명했다.연방은행 승인, 스테이블코인 시장 신뢰도 제고야후파이낸스를 비롯한 주요 금융 뉴스는 서클이 연방 규제 은행으로 승인받았다는 소식을 주요 헤드라인으로 다뤘다. 서클은 USDC 등 주요 스테이블코인을 발행하는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376703",
+    "published_at": "Fri, 10 Jul 2026 23:01:56 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "스테이블코인 관련 뉴스이며, 연방은행 승인으로 스테이블코인 생태계가 재편되는 신호탄이 될 것으로 기대된다.",
+    "collected_at": "2026-07-10T23:47:52.093521+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "IREN 주가 하락, 비트코인 채굴 및 AI 데이터센터 사업 주목",
+    "content": "IREN 주가, 전날 대비 소폭 하락 마감IREN(NASDAQ: IREN)은 최근 정규 거래에서 $ 41.14에 마감하며, 전 거래일 종가 $ 41.72 대비 $ 0.58(1.39%) 하락했다. 장중 최고가는 $ 42.61, 최저가는 $ 39.97를 기록했으며, 거래량은 약 2천945만 주로 활발한 거래세를 보였다.이날 IREN은 장 초반 $ 42.61까지 상승하며 강세를 나타냈으나, 오후 들어 매도세가 유입되면서 $ 40대 초반까지 밀렸다. 52주 최고가는 $ 76.87, 최저가는 $ 14.72로 연간 변동폭이 큰 편이다. 현재 주가는 52주 최고가 대비 46.5% 하락한 수준이다.비트코인 채굴 업체의 경영진 보상 논란최근 IREN과 관련해 주목받은 이슈는 공동 CEO들에 대한 대규모 제한주식(RSU) 부여를...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376702",
+    "published_at": "Fri, 10 Jul 2026 23:01:39 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 채굴 업체의 경영진 보상 논란과 비트코인 채굴에 대한 언급이 있어",
+    "collected_at": "2026-07-10T23:47:52.340935+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "트럼프 디지털자산 수익 논란⋯美 상원 민주당 “공식 조사하라”",
+    "content": "[블록미디어 박수용 기자] 미국 상원 민주당 지도부가 도널드 트럼프 미국 대통령의 디지털자산(가상자산) 사업이 국가안보와 이해충돌 문제를 초래할 수 있다며 공화당에 공식 조사를 촉구했다. 최근 공개된 재산신고를 계기로 민주당은 트럼프 대통령에 대한 공세를 강화했다. 10일(현지시각) 블룸버그에 따르면 은행·법사·국토안보·재무 등 상원 핵심 상임위원회의 민주당 간사들은 공동성명을 내고 트럼프 대통령의 디지털자산 사업에 대한 공식 조사를 요구했다. 민주당은 최근 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115773?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 10 Jul 2026 23:45:26 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "트럼프 대통령의 디지털자산 사업이 국가안보와 이해충돌 문제를 초래할 수 있다며 공식 조사하라는 내용으로 크립토와 관련된 뉴스",
+    "collected_at": "2026-07-10T23:47:52.693193+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "[토큰운세] 2026년 7월 11일 띠별 토큰 운세",
@@ -3538,65 +3598,5 @@
     "is_crypto_related": true,
     "reason": "비트코인과 관련된 경제 뉴스",
     "collected_at": "2026-07-09T02:17:53.524098"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "졸업생이 후배 후원…블록체인 업체 창업자가 세운 ‘선순환 장학재단’",
-    "content": "졸업생이 후배 후원…블록체인 업체 창업자가 세운 ‘선순환 장학재단’",
-    "url": "https://www.decenter.kr/article/20062704",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "블록체인 업체 창업자가 관련된 내용으로, 암호화폐 산업과 관련된 장학재단에 대한 보도입니다.",
-    "collected_at": "2026-07-09T02:17:56.715397"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "“블록체인 기반 인프라로 자본 효율성 높인다” [비트코인 서울 2026]",
-    "content": "“블록체인 기반 인프라로 자본 효율성 높인다” [비트코인 서울 2026]",
-    "url": "https://www.decenter.kr/article/20052908",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "블록체인 기반 인프라와 자본 효율성에 대한 내용이 언급되어 있어 암호화폐와 관련된 보도입니다.",
-    "collected_at": "2026-07-09T02:17:59.926756"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "“비트코인 채굴기업, AI 인프라 기업 전환 빨라진다” [비트코인 서울 2026]",
-    "content": "“비트코인 채굴기업, AI 인프라 기업 전환 빨라진다” [비트코인 서울 2026]",
-    "url": "https://www.decenter.kr/article/20052893",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 채굴기업이 AI 인프라 기업으로 전환하는 것을 다루고 있기 때문에 크립토와 관련이 있으며, 시청자에게도 흥미로운 내용이다.",
-    "collected_at": "2026-07-09T02:18:04.135902"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "“亞 고액 자산가 87%, 디지털 자산에 투자” [비트코인 서울 2026]",
-    "content": "“亞 고액 자산가 87%, 디지털 자산에 투자” [비트코인 서울 2026]",
-    "url": "https://www.decenter.kr/article/20052888",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 서울 2026이라는 키워드와 디지털 자산에 대한 투자 정보가 포함되어 있어 크립토 관련 뉴스입니다.",
-    "collected_at": "2026-07-09T02:18:07.419273"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitcoin tumbles back to key $60K support level: What’s behind the sell pressure?",
-    "content": "Bitcoin faces renewed sell pressure amid an oil price surge, Japan economic contagion risks and a fresh round of selling from Strategy.",
-    "url": "https://cointelegraph.com/markets/bitcoin-tumbles-back-to-key-60k-support-level-whats-behind-the-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 08 Jul 2026 21:55:17 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동과 관련된 뉴스, 시청자에게 중요",
-    "collected_at": "2026-07-09T02:18:13.799422"
   }
 ]
