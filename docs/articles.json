@@ -1,5 +1,17 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "피겨 테크놀로지 솔루션스(FIGR), 6억 달러 조달·1조 인수…블록체인 대출 확장 가속",
+    "content": "핀테크 기업 피겨 테크놀로지 솔루션스(FIGR)가 대규모 자금 조달과 인수합병을 동시에 추진하며 블록체인 기반 대출 시장에서 영향력 확대에 속도를 내고 있다.피겨 테크놀로지 솔루션스(FIGR)는 6억 달러(약 8,640억 원) 규모의 연 8.5% 선순위 채권 사모 발행을 확정하고 오는 7월 14일 거래를 마무리할 예정이라고 밝혔다. 순조달 금액은 약 5억8,750만 달러(약 8,460억 원)로, 회사는 해당 자금을 키아비(Kiavi) 인수 자금과 운영 자금, 발행 비용 등에 활용할 계획이다. 이번 채권은 일부 미국 내 자회사들이 보증하며 기관투자자 중심으로 제한적으로 판매된다.이번 자금 조달은 피겨의 공격적인 사업 확장 전략과 맞물린다. 회사는...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/376511",
+    "published_at": "Fri, 10 Jul 2026 04:03:12 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "블록체인 기반 대출 시장에서 영향력 확대에 속도를 내고 있다.",
+    "collected_at": "2026-07-10T04:05:58.590975+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Bitwise: Crypto Posts Third Straight Quarter of Negative Returns, Longest Streak Since 2022",
