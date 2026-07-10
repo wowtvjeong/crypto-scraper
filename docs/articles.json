@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 9,526만 달러 청산",
+    "content": "지난 24시간 동안 암호화폐 시장에서 약 9,526만 달러 상당의 비트코인(BTC) 포지션이 청산된 것으로 나타났다. 이더리움(ETH) 포지션에서는 약 4,323만 달러가 청산되었으며, 솔라나(SOL)에서는 약 653만 달러의 청산이 발생했다. 특히 SANDBOX(SNDK)와 같은 특정 토큰은 $5.18M의 청산을 기록했으며, 기타 코인에서는 약 1,684만 달러가 청산되었다. 4시간 거래소별 청산 데이터를 살펴보면, 전체 청산액은 $15,340,000였으며, 바이낸스는 $6,690,000(43.59% 비율)로 가장 많은 부분을 차지했다. 바이비트에서는 총 $2,820,000의 청산이 발생했으며, 이 중 80.8%가 롱 포지션에서 발생했다. HTX와 Aster에서는 롱 포지션이 압도적인 비율을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376685",
+    "published_at": "Fri, 10 Jul 2026 20:02:05 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장에서 레버리지 포지션의 청산에 대한 내용이 담겨 있어 암호화폐와 관련된 뉴스입니다.",
+    "collected_at": "2026-07-10T20:13:19.791574+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[모닝 시세브리핑] 암호화폐 시장 혼조세… 비트코인 63,882달러, 이더리움 1,792달러",
+    "content": "암호화폐 시장이 혼조세를 보이고 있다. 토큰포스트마켓에 따르면 2026년 7월 11일 오전 5시 7분 KST 기준 비트코인은 전날 대비 1.06% 상승한 63,882.17달러(약 9,614만 원)에 거래되고 있다. 이더리움은 전날 대비 2.53% 상승한 1,791.75달러(약 269만 원)를 기록했다.암호화폐 시세 데이터 / 토큰포스트마켓상위권 알트코인 가격 변동상위권 알트코인은 대체로 강보합 흐름을 보였지만 일부 종목은 약세를 나타냈다. 알트코인의 시가총액은 9,121억 2826만 달러(약 1,372조 6,345억 원)이며, 24시간 거래량은 388억 2597만 달러(약 58조 4,279억 원)로 집계됐다.XRP +0.73%▲BNB +1.03%▲솔라나 -0.24%▼도지코인 +1.56%▲트론 -0.28%▼시장 규모...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376684",
+    "published_at": "Fri, 10 Jul 2026 20:01:04 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장이 혼조세를 보이고 있으며, 비트코인과 이더리움의 가격 변동이 언급되어 있다.",
+    "collected_at": "2026-07-10T20:13:19.943589+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[모닝 뉴스브리핑] 서클, 미국 연방 규제 신탁은행 승인 획득 外",
+    "content": "서클, 미국 연방 규제 신탁은행 승인 획득USDC 발행사 서클이 미국 연방 규제를 받는 신탁은행으로 운영할 승인을 받았다고 와처구루가 전했다.이번 승인은 스테이블코인 발행사에 대한 규제 체계 정비가 진행되는 가운데 나왔다. 서클은 이를 통해 제도권 금융 인프라와 수탁 서비스 확대 기반을 마련하게 됐다.미국 클래리티법, 민주·공화 양당 지지 확보코인베이스 부회장이 미국 암호화폐 규제 법안인 클래리티법이 민주·공화 양당의 지지를 받고 있다고 밝혔다.비트코인매거진에 따르면 그는 “민주당과 공화당 상원의원들이 법안 처리를 마무리하기 위해 계속 협의하고 있다”고 말했다.클래리티법은 미국 내 디지털자산 시장 구조와 감독...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376682",
+    "published_at": "Fri, 10 Jul 2026 19:50:27 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "서클이 미국 연방 규제 신탁은행 승인 획득, 클래리티법이 민주·공화 양당 지지를 받는 등 미국 암호화폐 규제와 관련된 내용이 포함되어 있습니다.",
+    "collected_at": "2026-07-10T20:13:20.367663+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "US CBDC ban to go into effect without Trump signoff on housing bill",
+    "content": "Donald Trump confirmed on social media that he would not sign the 21st Century ROAD to Housing Act, which includes a ban on a US CBDC until the end of 2030, setting the stage for the bill to become law on Saturday.",
+    "url": "https://cointelegraph.com/news/us-cbdc-ban-donald-trump-housing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 10 Jul 2026 19:33:03 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "US CBDC(중앙 은행 디지털 화폐)에 대한 규제와 관련된 뉴스",
+    "collected_at": "2026-07-10T20:13:54.958878+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "South Korea's largest automaker completes pilot USDT stablecoin transfer on Avalanche",
@@ -3550,53 +3598,5 @@
     "is_crypto_related": true,
     "reason": "Tokenized real world assets와 암호화폐의 관계가 언급되어 있어 크립토 관련성이 높습니다.",
     "collected_at": "2026-07-09T02:18:49.942776"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Kazakhstan president signs decree to accelerate crypto adoption",
-    "content": "Kazakhstan targets gas-powered electricity for mining, income tax exemptions for regulated crypto transactions and cross-border stablecoin payments in a new decree signed by the president.",
-    "url": "https://cointelegraph.com/news/kazakhstan-president-decree-accelerate-crypto-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 08 Jul 2026 13:19:28 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "카자흐스탄 대통령이 암호화폐의 채택을 가속화하기 위한 법적 조치를 발표하는 뉴스",
-    "collected_at": "2026-07-09T02:18:53.124149"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "BTC speculators in focus as analysis says 'textbook Bitcoin bottom' is underway",
-    "content": "Analysis flagged a Bitcoin moving average derivative that last triggered at the end of the 2022 bear market as BTC price action returned to its reversal zone.",
-    "url": "https://cointelegraph.com/markets/btc-speculators-in-focus-as-analysis-says-textbook-bitcoin-bottom-is-underway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 08 Jul 2026 12:59:06 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 동향과 관련된 분석 보도",
-    "collected_at": "2026-07-09T02:18:56.432192"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Lyn Alden says Bitcoin needs no savior as Strategy sells $216M of BTC",
-    "content": "Bitcoin-focused macroeconomist Lyn Alden said BTC must stand on its own as Strategy sold 3,588 BTC, while warning about leverage risks tied to STRC.",
-    "url": "https://cointelegraph.com/news/bitcoin-needs-no-savior-lyn-alden-strategy-216-million-btc-sale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 08 Jul 2026 12:01:00 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Lyn Alden이라는 비트코인 전문 경제학자가 비트코인에 대한 자신의 전략을 발표하고, STRC와 관련된 위험에 대해 경고하는 내용이기 때문에.",
-    "collected_at": "2026-07-09T02:18:59.651260"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Mobile app Toss and blockchain Optimism to conduct Korean won stablecoin POC: report",
-    "content": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments.",
-    "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 08 Jul 2026 11:33:11 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Toss와 Optimism이 한국 원 기반의 안정화폐에 대한 Proof of Concept를 진행하는 것을 언급하고 있어 크립토와 관련이 있습니다.",
-    "collected_at": "2026-07-09T02:19:02.876734"
   }
 ]
