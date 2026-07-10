@@ -1,5 +1,17 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+    "content": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.",
+    "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 10 Jul 2026 05:44:20 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "이더리움과 관련된 뉴스이며, 암호화폐 산업의 발전과 관련된 내용이 포함되어 있다.",
+    "collected_at": "2026-07-10T06:02:07.069278+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "U.S. Spot Bitcoin ETFs Record $95.30 Million in Net Outflows on July 9",
@@ -3586,17 +3598,5 @@
     "is_crypto_related": true,
     "reason": "DeFi와 관련된 주요 서비스의 종료 소식은 암호화폐 시청자들에게 중요한 뉴스입니다.",
     "collected_at": "2026-07-09T00:03:27.046159"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "The Information: U.S. DOJ Told Prosecutors to Expect Less Cooperation From Binance",
-    "content": "The Information: U.S. DOJ Told Prosecutors to Expect Less Cooperation From Binance\nAccording to The Information, the U.S. Department of Justice circulated an internal memo in June advising prosecutors handling crypto-related cases to expect less cooperation from Binance in future investigations, citing potential new requirements for asset freeze and seizure requests. Binance denied implementing any such changes, saying its cooperation with U.S. law enforcement “has not changed and will not change.” The report also said Binance is actively negotiating to formally end the DOJ monitorship established after its 2023 criminal settlement, while the Treasury-appointed monitorship remains ongoing. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25058",
-    "published_at": "2026-07-08T23:25:43+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "미국 법무부와 비나ンス 간의 협력 및 조사 관련 뉴스",
-    "collected_at": "2026-07-09T00:03:27.482907"
   }
 ]

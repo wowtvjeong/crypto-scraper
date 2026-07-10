@@ -1,5 +1,17 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Robinhood Chain sees over $70M in ETH bridged during first week",
+    "content": "Robinhood’s choice to use Ethereum further solidifies its position as the “ultimate settlement layer and liquidity foundation for tokenized assets,” said HashKey Group’s Tim Sun.",
+    "url": "https://cointelegraph.com/news/robinhood-chain-sees-over-70m-in-eth-bridged-during-first-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 10 Jul 2026 05:44:20 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "이더리움과 관련된 뉴스이며, 암호화폐 산업의 발전과 관련된 내용이 포함되어 있다.",
+    "collected_at": "2026-07-10T06:02:07.069278+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "U.S. Spot Bitcoin ETFs Record $95.30 Million in Net Outflows on July 9",
