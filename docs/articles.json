@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "서클, 연방 은행 인가 획득으로 CRCL 주가 급등",
+    "content": "서클, 연방 은행 인가 획득으로 CRCL 주가 급등서클 인터넷 그룹(Circle Internet Group, NYSE: CRCL)이 미국 통화감독청(OCC)으로부터 국법은행 설립 최종 승인을 받으며 주가가 급등했다. 7월 10일 정규장 마감 후 발표된 이번 승인으로 서클은 연방 감독을 받는 신탁은행인 '서클 내셔널 트러스트(Circle National Trust)'를 설립하게 됐다. 이는 USDC 스테이블코인 발행사가 미국 연방 은행 인가를 받은 첫 사례로, 디지털 자산 시장에서 획기적인 규제 이정표로 평가받고 있다.장 초반 14% 급등, 변동성 속 5% 상승 마감CRCL 주가는 OCC 승인 소식에 즉각 반응했다. 전일 종가 63.01달러에서 시작한 주가는 장 초반 71.93달러까지 14%...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376855",
+    "published_at": "Sat, 11 Jul 2026 23:02:10 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "서클이 미국 연방 은행 인가를 받은 첫 사례로, 디지털 자산 시장에서 규제 이정표로 평가받고 있다.",
+    "collected_at": "2026-07-11T23:43:08.308521+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트마인, 52주 최저가 근접하며 약세 지속",
+    "content": "비트마인, 52주 최저가 근접하며 약세 지속비트마인 이머젼 테크놀로지스(BitMine Immersion Technologies, BMNR)의 주가가 14.98달러로 마감하며 52주 최저가인 12.8달러에 근접한 수준을 유지했다. 장중 최고가 15.53달러, 최저가 14.95달러를 기록하며 하루 거래량은 약 2천 843만 주에 달했다. 전일 종가 14.69달러 대비 1.97% 상승에 그쳤으나, 52주 최고가 71.74달러와 비교하면 약 79%나 하락한 상태다.\n\n장 초반 급등 후 하락 반전, 변동성 확대개장 직후 BMNR은 15.31달러에서 시작해 장 초반 15.53달러까지 상승하며 강세를 보였다. 그러나 이후 매도 압력이 강화되며 15.00달러 선 아래로 급락했다. 특히 오전 중반 14.94달러까지...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376853",
+    "published_at": "Sat, 11 Jul 2026 23:01:17 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트마인 주가가 52주 최저가 근접하며 약세를 유지하고 있는 중이다.",
+    "collected_at": "2026-07-11T23:43:08.736873+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "연준 CBDC 발행 2030년까지 금지…트럼프 서명 없이 법률 발효",
+    "content": "[블록미디어 박수용 기자] 미국 연방준비제도(Fed·연준)의 중앙은행 디지털화폐(CBDC) 발행을 제한하는 조항이 포함된 주택법이 도널드 트럼프 미국 대통령의 서명 없이 법률로 발효됐다. 미국 헌법에 따라 대통령이 서명하지 않아도 법률로 확정됐다. 11일(현지시각) 더블록에 따르면 ‘로드 투 하우징 법(Road to Housing Act)’이 트럼프 대통령의 서명 없이 법률로 발효됐다. 이 법안은 주택 공급 확대와 금융 지원을 통해 주택 구매 부담을 낮추는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115920?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 22:54:06 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "연준의 CBDC 발행을 제한하는 조항이 포함된 주택법이 발효되었습니다.",
+    "collected_at": "2026-07-11T23:43:11.431133+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "클래리티 놓고 정면충돌⋯코인베이스 vs 엘리자베스 워런",
@@ -3562,41 +3598,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 가격 변동과 관련된 뉴스",
     "collected_at": "2026-07-09T09:24:41.998874+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[퇴근길시황] 코스피, 롤러코스터 끝 반등⋯비트코인 6만2000달러 지켰다",
-    "content": "[블록미디어 양원모 기자] 9일 시장은 안도와 경계가 뒤섞였다. 코스피는 외국인과 기관 매수세에 힘입어 하루 만에 반등했지만, 장중 480포인트에 달하는 변동성을 기록하며 불안정한 흐름을 이어갔다. 비트코인은 6만2000달러(약 9377만원)대에서 버티며 소폭 상승했으나, 공포·탐욕지수는 여전히 ‘공포’ 구간에 머물렀다. 국내에서는 SK하이닉스의 미국 ADR 공모가 시장의 핵심 변수로 떠올랐다. SK하이닉스 ADR 수요가 공모 물량의 7배를 넘은 것으로 전해지며 반도체 투자심리 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115056?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 09:01:53 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격에 대한 정보가 포함되어 있어 시청자에게 흥미로운 내용일 수 있다.",
-    "collected_at": "2026-07-09T09:24:42.129791+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "공정위, 코빗 인수 5개월 만에 승인⋯ 두나무·네이버 심사 변수는",
-    "content": "[블록미디어 오수환 기자] 공정거래위원회가 미래에셋컨설팅의 코빗 인수를 5개월여 만에 승인했다. 코빗의 시장 점유율과 유동성이 낮아 시장 경쟁을 제한할 우려가 작다고 판단한 것이다. 반면 네이버파이낸셜과 두나무의 기업결합 심사는 자료 보완 요구가 이어지며 난항을 겪고 있다. 기업결합의 핵심 기준으로 ‘점유율’과 ‘유동성’이 부각되면서, 두나무와 네이버파이낸셜의 막강한 시장 영향력이 이번 심사의 최대 쟁점이 될 전망이다. 공정위는 9일 미래에셋컨설팅의 코빗 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114975?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 08:15:03 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "코빗에 대한 공정거래위원회 승인과 관련된 뉴스이며, 시장 점유율과 유동성에 대한 심사가 주요 쟁점이 되고 있다.",
-    "collected_at": "2026-07-09T09:24:42.671567+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
-    "content": "SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
-    "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 09 Jul 2026 08:51:48 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "블록체인 기술과 거래소 간의 금융 거래를 위한 새로운 기술이 소개되었습니다.",
-    "collected_at": "2026-07-09T09:24:42.830870+00:00"
   }
 ]
