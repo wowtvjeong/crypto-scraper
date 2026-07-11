@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "DeFiLlama: Gate Sees $207 Million Net Outflows in 7 Days After User Theft Incident",
+    "content": "DeFiLlama: Gate Sees $207 Million Net Outflows in 7 Days After User Theft Incident\nAccording to DeFiLlama data, Gate recorded $207 million in net outflows over the past 7 days amid fallout from a user theft incident, ranking second among CEXs by outflows. Binance led CEX inflows with $308 million in net inflows over the same period. In addition, Binance and Bybit have seen significant outflows over the past month due to the EU’s delisting policy. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25101",
+    "published_at": "2026-07-11T16:18:05+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "DeFiLlama와 Gate, Binance, Bybit의 거래량 변화와 EU의 델리스트링 정책과 관련된 보도",
+    "collected_at": "2026-07-11T16:24:48.657637+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "content": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "published_at": "Sat, 11 Jul 2026 16:21:34 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "에테레움(Layer-2 네트워크)과 암호화폐 앱, 토큰화된 자산에 대한 내용",
+    "collected_at": "2026-07-11T16:24:49.258527+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 64,318달러, 이더리움 1,811달러",

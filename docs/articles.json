@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "DeFiLlama: Gate Sees $207 Million Net Outflows in 7 Days After User Theft Incident",
+    "content": "DeFiLlama: Gate Sees $207 Million Net Outflows in 7 Days After User Theft Incident\nAccording to DeFiLlama data, Gate recorded $207 million in net outflows over the past 7 days amid fallout from a user theft incident, ranking second among CEXs by outflows. Binance led CEX inflows with $308 million in net inflows over the same period. In addition, Binance and Bybit have seen significant outflows over the past month due to the EU’s delisting policy. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25101",
+    "published_at": "2026-07-11T16:18:05+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "DeFiLlama와 Gate, Binance, Bybit의 거래량 변화와 EU의 델리스트링 정책과 관련된 보도",
+    "collected_at": "2026-07-11T16:24:48.657637+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+    "content": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "published_at": "Sat, 11 Jul 2026 16:21:34 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "에테레움(Layer-2 네트워크)과 암호화폐 앱, 토큰화된 자산에 대한 내용",
+    "collected_at": "2026-07-11T16:24:49.258527+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 64,318달러, 이더리움 1,811달러",
@@ -3574,29 +3598,5 @@
     "is_crypto_related": true,
     "reason": "암호화폐 시장의 레버리지 포지션 대규모 청산에 대한 내용이 포함되어 있어 시청자에게 중요하고 흥미로운 소재입니다.",
     "collected_at": "2026-07-09T08:13:34.972536+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Wyden urges Senate leaders to keep dev protections in crypto bill",
-    "content": "Senator Ron Wyden has called on Senate leaders to ensure the Blockchain Regulatory Certainty Act remains in the CLARITY Act when it is brought to the floor.",
-    "url": "https://cointelegraph.com/news/senate-leaders-urged-to-keep-dev-protections-in-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 09 Jul 2026 06:03:49 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "블록체인 규제에 대한 법안이 언급되며, 크립토와 관련된 정치적 움직임을 다루고 있습니다.",
-    "collected_at": "2026-07-09T08:14:02.498340+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Trader loses $1M after signing phishing token approval",
-    "content": "Onchain scammers netted more than $14 billion last year, and approval phishing remains a primary attack vector.",
-    "url": "https://cointelegraph.com/news/trader-loses-1m-after-signing-phishing-token-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 09 Jul 2026 05:57:23 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 거래에 대한 사기 공격에 대한 내용",
-    "collected_at": "2026-07-09T08:14:05.698536+00:00"
   }
 ]
