@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2671만 달러 청산",
+    "content": "지난 24시간 동안 암호화폐 시장에서 약 3억 2671만 달러(약 4,770억원) 상당의 레버리지 포지션이 청산된 것으로 나타났다. 현재 집계된 데이터에 따르면, 청산된 포지션 중 롱 포지션이 2억 8587만 달러로 전체의 87.5%를 차지했고, 숏 포지션은 4084만 달러로 12.5%를 기록했다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 동안 가장 많은 포지션 청산이 발생한 거래소는 바이낸스로, 총 5.41M 달러 (전체의 46.87%)가 청산됐다. 이중 숏 포지션이 3.70M 달러로 68.31%를 차지했다. 두 번째로 많은 청산이 발생한 거래소는 바이비트로, 1.77M 달러 (15.32%)의 포지션이 청산됐으며, 숏 포지션이 1.27M 달러(72.03%)를 차지했다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376833",
+    "published_at": "Sat, 11 Jul 2026 20:01:31 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장에서 레버리지 포지션 3억 2671만 달러 청산, 거래소별 청산 데이터 포함",
+    "collected_at": "2026-07-11T20:37:57.764008+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[모닝 시세브리핑] 암호화폐 시장 상승세… 비트코인 64,240달러, 이더리움 1,823달러",
+    "content": "암호화폐 시장이 전반적인 상승세를 보이고 있다. 토큰포스트마켓에 따르면 현재 기준 비트코인은 전날 대비 0.56% 상승한 64,239.93달러(약 9667만8613원)에 거래되고 있다. 이더리움은 전날 대비 1.74% 오른 1,823.00달러(약 2743만9698원)를 기록했다.암호화폐 시세 데이터 / 토큰포스트마켓상위권 알트코인 가격 변동상위권 알트코인은 대체로 상승 흐름을 나타냈다.XRP +0.97%▲BNB +0.76%▲솔라나 +0.25%▲도지코인 +1.49%▲트론 +0.01%▲알트코인의 시가총액은 9181억8045만1202달러(약 1381조3390억원)이며, 24시간 거래량은 297억544만2223달러(약 44조6973억원)로 집계됐다.시장 규모 및 거래량 동향암호화폐 전체 시가총액은...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376832",
+    "published_at": "Sat, 11 Jul 2026 20:00:55 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장 상승세, 비트코인 및 이더리움 가격 변동, 알트코인 시가총액 및 거래량",
+    "collected_at": "2026-07-11T20:37:57.928194+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[모닝 뉴스브리핑] 비트코인, 2026년 두 차례 분기 가능성 직면 外",
+    "content": "비트코인, 2026년 두 차례 분기 가능성 직면비트코인이 2026년 두 차례 분기 가능성에 직면할 수 있다고 오데일리가 비트코인닷컴뉴스를 인용해 보도했다.보도에 따르면 개발자 폴 스토크는 이캐시라는 하드포크를 추진하고 있으며, 2026년 8월 21일 전후 블록 높이 96만4000에서 활성화될 예정이다.또 다른 제안인 소프트포크 BIP-110은 8월 신호 기간 중 예상치 못한 체인 분리 가능성이 있는 것으로 전해졌다.비트코인 체인이 분리되면 기존 UTXO가 복제돼 보유자는 두 장부에서 1:1 자산을 받을 수 있다. 다만 분기 코인의 실제 사용 가능성은 리플레이 보호, 채굴 난이도, 시장 수요 등에 따라 달라진다.개인 지갑 보유자는 스냅샷 시점에...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376831",
+    "published_at": "Sat, 11 Jul 2026 19:50:21 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 하드포크와 소프트포크에 대한 보도, 시청자에게 중요한 암호화폐 관련 뉴스",
+    "collected_at": "2026-07-11T20:37:58.084139+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“돈이 AI로 다 갔다”…찬바람 부는 디지털자산 IPO 시장",
+    "content": "[멕시코=심영재 특파원] 올해 기대를 모았던 디지털자산(가상자산) 기업들의 기업공개(IPO) 시장이 예상보다 빠르게 냉각되고 있다. 투자자금이 인공지능(AI)과 대형 기술주로 이동한 데다 거시경제 불확실성까지 겹치면서 신규 상장 시장이 사실상 멈춰섰다는 분석이 나왔다. 11일(현지시각) 코인데스크에 따르면, 크리스천 로페즈 코헨앤드컴퍼니 캐피털마켓 블록체인·디지털자산 부문 대표는 해당 매체와의 인터뷰에서 “크립토 IPO 시장은 여러 이유로 둔화되고 있다”며 가장 큰 원인으로 투자자금의 이동과 거시경제 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115904?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 19:45:04 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "디지털자산(IPO) 시장의 냉각과 투자자금의 이동, 거시경제 불확실성과 관련이 있다.",
+    "collected_at": "2026-07-11T20:37:58.571262+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "엠퍼리디지털, BTC 1400개 매각해 AI 데이터센터 투자",
@@ -3550,53 +3598,5 @@
     "is_crypto_related": true,
     "reason": "트럼프 대통령이 암호화폐 발전의 중요성을 강조하고, 미국이 암호화폐 발전을 미루면 다른 국가가 선점할 우려를 제기함",
     "collected_at": "2026-07-09T08:12:44.643494+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "INTERPOL: Global Fraud Bust Arrests 5,811; Suspect’s Crypto Wallet Processed $122.5M",
-    "content": "INTERPOL: Global Fraud Bust Arrests 5,811; Suspect’s Crypto Wallet Processed $122.5M\nINTERPOL said Operation First Light 2026, spanning 97 countries and territories, resulted in 5,811 arrests and the interception of $293 million in illicit assets. Thai authorities uncovered a romance scam money laundering network that converted illicit proceeds into multiple cryptocurrencies and used cross-chain token swaps to obscure fund flows. One 20-year-old suspect’s digital wallet processed more than $122.5 million over a 10-month period. Separately, Palau deported 22 individuals accused of operating scam centers involving cryptocurrency and illegal gambling websites. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25065",
-    "published_at": "2026-07-09T08:06:17+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토와 직접 관련된 범죄 사례가 언급되어 있으며, 시청자에게 흥미로운 범죄 수사 내용이 담겨 있습니다.",
-    "collected_at": "2026-07-09T08:12:44.837343+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[월가 유동성 레이더] 코인베이스 어드밴스드 659 BTC 순유입 전환…프라임 거래량 16.9% 감소",
-    "content": "코인베이스 어드밴스드가 순유입으로 돌아서며 기관성 자금 흐름에 변화 조짐이 나타났다. 다만 프라임 거래는 둔화되고 프리미엄은 마이너스를 유지해 신호는 엇갈렸다.크립토퀀트 데이터에 따르면 7월 9일(UTC 기준) 기관 참여 비중이 높은 코인베이스 어드밴스드의 비트코인 순입출금은 +659BTC(미완결)를 기록했다.7월 5일(+1BTC) 순유입 이후 7월 6일(-1179BTC) 대규모 순유출이 발생했고, 7월 7일(+53BTC)에는 소폭 순유입으로 돌아섰다. 이어 7월 8일(-1227BTC) 다시 대규모 순유출이 나타났지만, 7월 9일에는 +659BTC 순유입(미완결)으로 집계되며 유입세로 전환되는 모습을 보였다.비트코인 거래소 순입출금량 (Netflow) - 코인베이스...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376210",
-    "published_at": "Thu, 09 Jul 2026 08:00:07 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 거래소 순입출금량과 기관성 자금 흐름에 대한 정보가 포함되어 있어 암호화폐 전문 방송 채널의 뉴스 소재로서 중요합니다.",
-    "collected_at": "2026-07-09T08:12:45.530064+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[비트코인은 지금] 6만2390달러 약보합…거래량 감소·공포 심리 지속",
-    "content": "2026년 7월 9일 오후 3시 2분 기준비트코인은 소폭 하락하며 단기 방향성을 탐색하는 흐름을 보였다. 거래 참여는 줄었고 투자심리는 여전히 위축됐지만, 공포 강도는 다소 완화됐다.📈 가격은 지금가격 6만2390달러(-0.23%) 가격은 전일 대비 소폭 밀리며 단기 반등 탄력이 제한된 흐름을 보였다. 하락폭은 크지 않아 방향성 탐색 구간으로 해석된다.거래량 263억2501만 달러(-14.15%) 거래량이 전일보다 줄어 가격 변동에 대한 추격 매수·매도 참여가 약해진 모습이다. 관망세가 우세해 단기 모멘텀 확인이 필요하다.일일 변동률 +0.59% 최근 5거래일 기준 ▲7월 5일 +0.80% ▲7월 6일 +0.62% ▲7월 7일 -1.06% ▲7월 8일 -1.69% ▲7월 9일...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376208",
-    "published_at": "Thu, 09 Jul 2026 07:59:51 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동, 거래량 감소, 투자심리 등 크립토 관련 주요 정보가 포함되어 있어 시청자에게 중요하고 흥미로운 소재입니다.",
-    "collected_at": "2026-07-09T08:12:45.775202+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[크립토 인앤아웃] 비트코인서 5235만 달러 이탈...USDT·달러 현금성 자금 확대",
-    "content": "비트코인 유출이 가장 컸고 USDT·달러권 자금 확대가 두드러지며 단기 관망 심리가 짙어졌다. 9일 오후 2시 51분 기준 크립토미터 집계에 따르면 지난 5시간 동안 ▲달러(USD) 1703만 달러 ▲브라질 헤알(BRL) 314만 달러 ▲원화(KRW) 66만 달러 규모의 법정화폐 및 현금성 자금이 암호화폐 시장으로 유입됐다. 스테이블코인 자금 ▲USDT 992만 달러 상당이 여러 암호화폐로 분산됐다. 주요 유입 종목은 ▲비트코인(BTC) 1653만 달러 ▲LSETH 486만 달러 ▲이더리움(ETH) 486만 달러이다. 이어 ▲XLM 195만 달러 ▲BNB 124만 달러 ▲트론(TRX) 120만 달러 ▲솔라나(SOL) 111만 달러 ▲XRP 66만 달러 순으로 자금이 유입됐다.  암호화폐 시장 자금...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376205",
-    "published_at": "Thu, 09 Jul 2026 07:59:38 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 유출, USDT·달러권 자금 확대, 스테이블코인 자금 분산, 주요 유입 종목 등 크립토 관련 뉴스",
-    "collected_at": "2026-07-09T08:12:45.951648+00:00"
   }
 ]
