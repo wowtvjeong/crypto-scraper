@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[알트 현물 ETF] 관망 속 HYPE 순유출...XRP·SOL은 소폭 유입",
+    "content": "미국 알트코인 현물 ETF 시장은 전반적으로 관망세를 보인 가운데 HYPE에서 자금 이탈, XRP·SOL에서 유입이 나타났다. XRP(XRP) 현물 ETF 시장은 전날 보합세를 보이다가 10만7380달러를 유치하며 순유입을 기록했다. 5개 종목 중 21셰어스 TOXR에서만 유입이 발생했다. 누적 순유입 14억8546만 달러｜거래대금 1091만 달러｜순자산총액 9억9665만 달러(시총 1.44%) 솔라나(SOL) 현물 ETF 시장은 순유출 2거래일 만에 15만521달러를 유치하며 순유입으로 전환됐다. 8개 종목 중 21셰어스 TSOL가 신규 자금을 유치했다. 누적 순유입 11억3626만 달러｜거래대금 5950만 달러｜순자산총액 9억138만 달러(시총 1.99%)  암호화폐 현물 ETF...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376754",
+    "published_at": "Sat, 11 Jul 2026 09:25:50 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 현물 ETF 시장에 대한 보도",
+    "collected_at": "2026-07-11T10:38:52.097369+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 현물 ETF 순유출 2거래일 만에 순유입...하루 9044만 달러 유입",
+    "content": "미국 비트코인 현물 ETF 시장이 순유출 2거래일 만에 순유입으로 전환됐다. 소소밸류 집계에 따르면 7월 10일(현지시간) 기준 미국 비트코인 현물 ETF 시장은 9044만 달러의 일간 순유입을 기록했다. 순유출 2거래일 만에 순유입으로 전환됐다. 누적 순유입 규모는 512억7658만 달러로 집계됐다. 전체 13개 ETF 가운데 유입은 ▲블랙록 IBIT 8683만 달러 ▲반에크 HODL 361만 달러 2개 종목에서 발생했다. 비트코인 현물 ETF 총 거래대금은 14억4888만 달러로 집계됐다. 종목별 거래대금은 블랙록 IBIT 11억1584만 달러, 피델리티 FBTC 1억4413만 달러, 그레이스케일 GBTC 5922만 달러 순이었다. 총 순자산 규모는 774억2155만 달러로, 비트코인...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376763",
+    "published_at": "Sat, 11 Jul 2026 09:17:34 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 현물 ETF의 순유입과 유입 규모가 언급되어 있어 암호화폐와 관련된 뉴스입니다.",
+    "collected_at": "2026-07-11T10:38:52.348892+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "이더리움 현물 ETF 순유출 하루 만에 순유입...하루 1843만 달러 유입",
+    "content": "미국 이더리움 현물 ETF 시장이 순유출 하루 만에 순유입으로 전환됐다. 소소밸류 집계에 따르면 7월 10일(현지시간) 기준 미국 이더리움 현물 ETF 시장은 1843만 달러의 일간 순유입을 기록했다. 전일 5거래일 만에 순유출이 있었지만 다시 순유입 전환에 성공했다. 누적 순유입 규모는 109억7346만 달러로 집계됐다. 전체 10개 ETF 가운데 유입은 ▲블랙록 ETHA 1620만 달러 ▲피델리티 FETH 223만 달러 2개 종목에서 발생했다. 이더리움 현물 ETF 총 거래대금은 4억1350만 달러로 집계됐다. 종목별 거래대금은 블랙록 ETHA 3억65만 달러, 그레이스케일 ETH 3842만 달러, 그레이스케일 ETHE 2659만 달러 순이었다. 총 순자산 규모는 95억8820만...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376764",
+    "published_at": "Sat, 11 Jul 2026 09:16:44 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "이더리움 현물 ETF가 순유출에서 순유입으로 전환한 뉴스",
+    "collected_at": "2026-07-11T10:38:52.560825+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[코생지] 전쟁도 못 꺾은 투심…비트코인보다 강했던 알트의 공통점",
+    "content": "코생지는 가격 흐름 뒤에 가려진 디지털자산 시장의 내부 움직임을 데이터로 관찰하는 블록미디어의 분석 리포트입니다. 온체인 활동과 시장 참여, 소셜 신호를 종합한 코인 생명력 지표(Coin Liveness Metric·코생지)를 통해 하락과 반등 국면에서 자산의 ‘체력’을 점검합니다. <편집자주> [블록미디어 강나연 에디터] 미국과 이란의 군사적 충돌은 국제 유가와 안전자산 시장을 흔들었지만, 디지털자산 시장은 예상보다 담담했다. 비트코인은 6만3000달러선을 지켜냈고, 알트코인은 오히려 비트코인의 상승률을 웃돌았다. 전쟁이라는 대형 악재 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115360?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 09:32:41 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인과 알트코인의 가격 동향에 대한 분석이 담겨 있어 암호화폐 시장에 대한 흥미로운 내용을 제공한다.",
+    "collected_at": "2026-07-11T10:38:53.620454+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+    "content": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+    "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 11 Jul 2026 09:14:12 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "IMF가 발표한 연구 결과에 따라 달러 스테이블코인에 대한 영향에 대한 분석이 담겨 있어 암호화폐 관련 뉴스에 대한 흥미로운 내용이 담겨 있습니다.",
+    "collected_at": "2026-07-11T10:38:53.873188+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Highlight Clip Former Meta Engineer: Quantum Computing and Miners Are Bitcoin’s Two Ticking Time Bombs",
@@ -3538,65 +3598,5 @@
     "is_crypto_related": true,
     "reason": "퓨처핀테크그룹이 웹3 및 가상자산 사업을 확장하는 등 디지털 금융 기업으로의 전환에 속도를 내고 있다.",
     "collected_at": "2026-07-09T05:01:26.453207+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[금융 인프라의 미래가 된 블록체인②] 국내 기관의 RWA 및 STO 채택을 중심으로",
-    "content": "‘금융 인프라의 미래가 된 블록체인②’은 국내외 기업 및 기관들의 블록체인 도입 현황과 전략을 분석하는 연재 시리즈 ‘금융 인프라의 미래가 된 블록체인’의 두 번째 글입니다. 이번 편에서는 국내 토큰화 시장이 어떤 방식으로 발전하고 있는지, 어떻게 글로벌 경쟁력을 갖춰야 할지 살펴봅니다. 후속 편에서는 주요 기업 및 기관을 선정해 사업 모델, 수익 구조, 성장 전략 등을 개별 사례 중심으로 심층 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114559?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 04:45:14 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "블록체인 도입 현황과 전략을 분석하는 내용으로, 크립토와 관련된 내용을 다루고 있어",
-    "collected_at": "2026-07-09T05:01:26.728764+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Bitcoin, ether steady, gold slides as US-Iran tensions escalate again",
-    "content": "Bitcoin, ether steady, gold slides as US-Iran tensions escalate again",
-    "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
-    "published_at": "Thu, 09 Jul 2026 04:57:35 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인과 이더리움에 대한 가격 변동에 대한 정보가 포함되어 있어 암호화폐와 관련이 있습니다.",
-    "collected_at": "2026-07-09T05:01:27.100911+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Offchain Labs Co-Founder: 10% of Fees From Robinhood Chain and Other Arbitrum L2s Will Go to Arbitrum Ecosystem",
-    "content": "Offchain Labs Co-Founder: 10% of Fees From Robinhood Chain and Other Arbitrum L2s Will Go to Arbitrum Ecosystem\nArbitrum developer Offchain Labs co-founder Steven Goldfeder said 10% of fees collected on Robinhood Chain and other Arbitrum L2s will go to the Arbitrum ecosystem, with 8% going to the tokenholder-controlled treasury and 2% funding development. 100% of fees collected on Arbitrum One will go to the Arbitrum treasury. Robinhood Chain is now live in Robinhood Wallet, allowing users to bridge from Solana, Ethereum, Arbitrum and other networks to Robinhood Chain and make swaps within the app. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25060",
-    "published_at": "2026-07-09T03:11:29+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 거래소와 블록체인 기술, L2 솔루션에 대한 정보가 포함되어 있어 시청자에게 흥미로운 소재가 될 수 있다.",
-    "collected_at": "2026-07-09T03:42:18.153234"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "여의도 사기꾼 콜센터, 가상자산 허위 설명으로 33억 챙겨",
-    "content": "서울 여의도 일대에서 가상자산 투자조직을 꾸린 일당이 상장 예정 코인이라는 허위 설명으로 피해자 81명에게서 33억여원을 받아 챙긴 사실이 드러나 경찰에 붙잡혔다.경기 부천 소사경찰서는 9일 사기와 범죄수익은닉의 규제 및 처벌 등에 관한 법률 위반 혐의 등으로 총책 A씨를 포함한 5명을 구속하고, 조직원 56명을 불구속 입건했다고 밝혔다. 이들은 2022년 7월부터 12월까지 서울 여의도 일대에서 콜센터 4곳을 운영하며 조직적으로 범행한 것으로 조사됐다. 경찰은 최근까지 수사를 벌여 이들을 모두 검찰에 넘기고, 범죄수익 9억9천200만원은 기소 전 추징보전으로 동결했다. 기소 전 추징보전은 재판이 끝나기 전에 범죄수익을...  더보기",
-    "url": "https://www.tokenpost.kr/news/society/376169",
-    "published_at": "Thu, 09 Jul 2026 03:22:27 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "가상자산 투자조직과 관련된 사기 사건이 발생하여 경찰에 의해 수사되고 범죄수익이 추징보전으로 동결되었다.",
-    "collected_at": "2026-07-09T03:42:18.678563"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "자금 흐름 24시｜USDC·BTC 순유출...MON 유입 우위",
-    "content": "암호화폐 시장 자금 흐름은 USDC와 BTC의 유출 압력이 커진 가운데 일부 후순위 종목으로 제한적 유입이 나타나며 엇갈린 흐름을 보였다. 9일 오후 12시 기준 크립토미터 집계에 따르면 비트코인은 15억 달러 유입, 16억 달러 유출로 약 1억2690만 달러 순유출을 기록했다. 이더리움은 6억5200만 달러 유입, 6억8450만 달러 유출로 3240만 달러 순유출을 보였다. USDT는 2억2340만 달러 유입, 2억970만 달러 유출로 1360만 달러 순유입이었다. USDC는 8억1210만 달러 유입과 11억 달러 유출로 약 3억3460만 달러 순유출을 기록했다. 한편 MON은 6180만 달러 순유입으로 후순위 종목 중 가장 두드러졌다. CAP은 4540만 달러 순유출로 유출 압력이...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376163",
-    "published_at": "Thu, 09 Jul 2026 03:12:31 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 시장 자금 흐름, 비트코인, 이더리움, USDC, MON의 순유출/유입 상황을 설명하고 있다.",
-    "collected_at": "2026-07-09T03:42:19.047893"
   }
 ]
