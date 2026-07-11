@@ -1,5 +1,17 @@
 [
   {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "content": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+    "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
+    "published_at": "Sat, 11 Jul 2026 17:07:24 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 IPO 시장에 대한 보도",
+    "collected_at": "2026-07-11T17:28:00.864381+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "DeFiLlama: Gate Sees $207 Million Net Outflows in 7 Days After User Theft Incident",
