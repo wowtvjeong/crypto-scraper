@@ -1,5 +1,29 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "클래리티 놓고 정면충돌⋯코인베이스 vs 엘리자베스 워런",
+    "content": "[멕시코=심영재 특파원] 미국 의회가 디지털자산(가상자산) 시장 구조를 규정할 클래리티(CLARITY) 법안의 단일안을 공개할 예정인 가운데, 코인베이스와 엘리자베스 워런 상원의원이 법안의 국가안보 영향을 놓고 정면으로 충돌했다. 코인베이스는 규제 명확성이 자금세탁 방지와 대외 제재 집행을 강화할 것이라고 주장한 반면, 워런 의원은 법안이 오히려 제재 회피를 쉽게 만들 수 있다고 반박했다. 미 상원은 11일(현지시각) 은행위원회와 농업위원회가 각각 마련한 법안을 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115918?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 21:59:36 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "클래리티 법안과 코인베이스, 엘리자베스 워런의 충돌에 대한 내용이 기사 제목과 본문에 담겨져 있어 크립토와 관련된 보도입니다.",
+    "collected_at": "2026-07-11T22:37:09.494330+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "리플 CEO “2020년 SEC 소송 때 폐업 고민했다”",
+    "content": "[멕시코=심영재 특파원] 브래드 갈링하우스 리플 CEO가 2020년 미국 증권거래위원회(SEC)의 소 제기 직후 회사를 폐업하는 방안까지 진지하게 검토했다고 밝혔다. 당시 정부와의 법적 공방을 이어가기에는 정부가 사실상 무제한의 자원과 권한을 보유하고 있다고 판단했지만, 직원과 생태계를 지키기 위해 끝까지 소송을 이어가는 길을 선택했다고 설명했다. 리플은 결국 수년간 이어진 법적 공방을 견뎌냈고, 현재는 미국 사업을 재건하는 동시에 유럽연합(EU) MiCA [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115916?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 21:46:45 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "리플 CEO가 SEC 소송과 관련하여 회사를 폐업하는 방안을 검토했고, 현재 미국 사업을 재건 중인 점",
+    "collected_at": "2026-07-11T22:37:13.826473+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "솔라나, 78달러에서 거래되며 소폭 상승…보안 사고와 경쟁 심화 부담",
