@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 시세브리핑] 암호화폐 시장 상승세… 비트코인 64,318달러, 이더리움 1,811달러",
+    "content": "암호화폐 시장이 전반적으로 상승세를 보이고 있다. 토큰포스트마켓에 따르면 2026년 7월 12일 오전 12시 7분(KST) 기준 비트코인은 전날 대비 0.68% 상승한 64,317.56달러(약 9,678만 원)에 거래되고 있다. 이더리움은 전날 대비 1.51% 오른 1,810.78달러(약 272만 원)를 기록했다.암호화폐 시세 데이터 / 토큰포스트마켓상위권 알트코인 가격 변동상위권 알트코인은 대부분 상승하고 있다.XRP +1.12%▲BNB +1.67%▲솔라나 +0.82%▲도지코인 +1.83%▲트론 +0.25%▲알트코인 전반에 매수세가 유입되며 대형 종목 중심의 온건한 상승 흐름이 이어지는 모습이다. 비트코인과 이더리움이 동반 강세를 보이면서 시장 전반의 투자심리도 다소...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376818",
+    "published_at": "Sat, 11 Jul 2026 15:02:47 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장이 상승세를 보이고 있으며, 비트코인과 이더리움의 가격 변동이 언급되고 있다.",
+    "collected_at": "2026-07-11T15:28:26.069364+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 서클, 미국 규제 신탁은행 운영 승인 획득 外",
+    "content": "USDC 발행사 서클이 미국 연방 규제를 받는 신탁은행으로 운영할 승인을 받았다고 와처구루가 전했다.이번 승인은 스테이블코인 발행사에 대한 규제 체계 정비가 진행되는 가운데 나왔다. 서클은 이를 통해 제도권 금융 인프라와 수탁 서비스 확대 기반을 마련하게 됐다.코인베이스 부회장이 미국 암호화폐 규제 법안인 클래리티법이 민주·공화 양당의 지지를 받고 있다고 밝혔다.비트코인매거진에 따르면 그는 “민주당과 공화당 상원의원들이 법안 처리를 마무리하기 위해 계속 협의하고 있다”고 말했다.클래리티법은 미국 내 디지털자산 시장 구조와 감독 권한을 명확히 하는 내용의 법안이다.출처 @pete_rizzo_에 따르면 미국에서 중앙은행...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/376816",
+    "published_at": "Sat, 11 Jul 2026 14:30:19 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "서클이 미국 연방 규제를 받는 신탁은행으로 운영할 승인을 받았고, 클래리티법이 민주당과 공화당 상원의원들의 지지를 받고 있다.",
+    "collected_at": "2026-07-11T15:28:26.233462+00:00"
+  },
+  {
+    "source": "decenter",
+    "source_type": "press",
+    "title": "“부동산 넘어 주식·채권으로…STO, 자본시장 패러다임 바꿀 것” [비트코인 서울 2026]",
+    "content": "“부동산 넘어 주식·채권으로…STO, 자본시장 패러다임 바꿀 것” [비트코인 서울 2026]",
+    "url": "https://www.decenter.kr/article/20052889",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "STO(보안토큰 오퍼링)는 암호화폐와 관련된 개념으로, 자본시장 패러다임을 바꿀 것으로 예상되므로 크립토 관련 뉴스입니다.",
+    "collected_at": "2026-07-11T15:28:26.447326+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "The UK has finally shown it’s serious about crypto",
+    "content": "The UK has finally shown it’s serious about crypto",
+    "url": "https://www.coindesk.com/opinion/2026/07/11/the-uk-has-finally-shown-it-s-serious-about-crypto",
+    "published_at": "Sat, 11 Jul 2026 15:00:00 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "영국 정부가 암호화폐에 대한 진지한 태도를 보인다는 점",
+    "collected_at": "2026-07-11T15:28:26.613879+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Top 5 South Korean Exchanges' Volume Falls for Five Straight Weeks, Below KRW 10 Trillion",
