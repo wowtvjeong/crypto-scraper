@@ -1,5 +1,29 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "엠퍼리디지털, BTC 1400개 매각해 AI 데이터센터 투자",
+    "content": "[멕시코=심영재 특파원] 한때 비트코인(BTC) 재무전략을 앞세웠던 엠퍼리디지털(Empery Digital)이 보유 비트코인의 절반가량을 매각했다. 확보한 자금은 인공지능(AI) 데이터센터 투자에 투입할 계획이다. 엠퍼리디지털은 11일(현지시각) 비트코인 1400개를 개당 6만2200달러에 매각해 총 8710만달러를 확보했다고 밝혔다. 이번 매각으로 회사는 기존 보유 물량의 절반가량을 처분했다. 매각 이후에도 1514BTC를 보유하고 있지만, 추가 매입 계획은 없으며 필요할 경우 다른 투자 기회를 마련하기 위해 비트코인을 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115902?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 19:32:25 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 매각과 AI 데이터센터 투자에 대한 내용이 언급되어 있어 암호화폐와 관련된 뉴스입니다.",
+    "collected_at": "2026-07-11T19:38:53.292207+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“5년 보관했다고 버린 자산 아니다”⋯ BPI, 사토시 소송 정면 대응",
+    "content": "[멕시코=심영재 특파원] 비트코인정책연구소(BPI)가 사토시 나카모토의 비트코인(BTC) 소유권을 둘러싼 미국 소송에 피고로 직접 참여하며 소송 기각을 요청했다. 원고 측 논리가 받아들여질 경우 장기간 자기보관(Self-custody) 중인 모든 비트코인 소유자의 재산권이 위협받을 수 있다는 이유에서다. 비트코인정책연구소는 11일(현지시각) X(옛 트위터)를 통해 뉴욕에서 진행 중인 사토시 비트코인 소송에 피고 자격으로 참여하기 위한 신청서를 제출했다고 밝혔다. 이날 코인게이프에 따르면 이번 소송에서 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115900?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 19:21:27 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 소유권을 둘러싼 미국 소송에 피고로 직접 참여하는 등 비트코인과 관련된 소식",
+    "collected_at": "2026-07-11T19:38:53.435223+00:00"
+  },
+  {
     "source": "coindesk",
     "source_type": "press",
     "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
