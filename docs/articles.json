@@ -2,6 +2,18 @@
   {
     "source": "coindesk",
     "source_type": "press",
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "content": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "published_at": "Sat, 11 Jul 2026 18:06:58 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 관련 용어인 lending protocol, oracle exploit, Hedera가 등장하여 관련성이 높습니다.",
+    "collected_at": "2026-07-11T18:25:36.571819+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
     "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
     "content": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
     "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
@@ -3586,17 +3598,5 @@
     "is_crypto_related": true,
     "reason": "암호화폐 시세 및 알트코인 가격 변동에 대한 정보가 제공되며, 시청자에게 중요한 시장 동향을 제공한다.",
     "collected_at": "2026-07-09T08:13:24.227258+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[저녁 뉴스브리핑] 코인베이스, 英 FCA 투자 서비스 인가 획득 外",
-    "content": "미 법무부, 바이낸스 암호화폐 사건 수사 협조 축소 가능성 내부 경고...바이낸스는 부인미 법무부가 내부 직원들에게 바이낸스의 암호화폐 관련 사건 수사 협조가 줄어들 수 있다고 경고했다는 보도가 나왔다.PANews에 따르면 코인텔레그래프는 디인포메이션을 인용해 이같이 전했다. 바이낸스는 해당 보도를 부인하며 법 집행기관과의 협조 수준에는 변화가 없었고 앞으로도 없을 것이라고 밝혔다.소니, 美 OCC서 국가 신탁은행 조건부 승인...2027년 달러 스테이블코인 발행 추진오데일리에 따르면 소니가 미국 통화감독청(OCC)으로부터 국가 신탁은행 설립에 대한 조건부 승인을 받았다.소니는 2027년 커넥티아 트러스트를 출범해 달러...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/376220",
-    "published_at": "Thu, 09 Jul 2026 07:02:24 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "바이낸스와 코인베이스, 소니와 미국의 암호화폐 관련 사건과 정책에 대한 보도",
-    "collected_at": "2026-07-09T08:13:29.508673+00:00"
   }
 ]

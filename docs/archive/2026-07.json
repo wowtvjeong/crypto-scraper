@@ -2,6 +2,18 @@
   {
     "source": "coindesk",
     "source_type": "press",
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "content": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "published_at": "Sat, 11 Jul 2026 18:06:58 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 관련 용어인 lending protocol, oracle exploit, Hedera가 등장하여 관련성이 높습니다.",
+    "collected_at": "2026-07-11T18:25:36.571819+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
     "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
     "content": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
     "url": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
