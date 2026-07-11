@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Just In: Hedera’s largest lending protocol Bonzo loses $9M in oracle exploit",
+    "content": "Just In: Hedera’s largest lending protocol Bonzo loses $9M in oracle exploit\nHedera-based lending protocol Bonzo Lend disclosed that it lost approximately $9.05 million in an oracle exploit. Bonzo said a flaw in Supra’s signature verification allowed an attacker to manipulate SAUCE prices and borrow assets far exceeding posted collateral. The protocol has since been paused. Bonzo Labs and the Bonzo Finance Foundation coordinate on recovery and remediation efforts. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25099",
+    "published_at": "2026-07-11T12:30:34+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Hedera와 lending protocol Bonzo가 관련된 oracle 공격에 대한 보도",
+    "collected_at": "2026-07-11T12:54:30.382827+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "트럼프 지지에 다시 뜬 비트코인 50만 달러 전망…현실성 시험대",
+    "content": "비트코인(BTC)이 6만4000달러선에 머무는 가운데, 스탠다드차타드가 제시한 ‘50만 달러’ 전망이 다시 시장의 주목을 받고 있다. 트럼프 대통령의 공개 지지 발언이 겹치면서 해당 예측의 현실성과 정책 배경이 동시에 시험대에 올랐다.트럼프 발언, 비트코인 ‘전략 자산’ 재부각7월 6일 백악관 행사에서 트럼프 대통령은 비트코인(BTC)을 단순 투자 자산이 아닌 ‘지정학적 경쟁 수단’으로 규정했다. 그는 “비트코인은 그 힘을 제대로 이해하지 못하고 있다”며 자본 이동 측면의 영향력을 강조했다. 이어 “우리가 가지지 않으면 중국이 갖게 될 것”이라고 밝혀, 디지털 자산을 국가 전략 차원에서 접근해야 한다는 입장을 분명히 했다.이 발언은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376807",
+    "published_at": "Sat, 11 Jul 2026 12:50:43 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "트럼프 대통령이 비트코인을 '지정학적 경쟁 수단'으로 규정하고, 국가 전략 차원에서 접근해야 한다는 입장을 분명히 한ため",
+    "collected_at": "2026-07-11T12:54:30.582672+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[VC동향] 가운틀렛, 1억3000만달러 유치… 인프라·기관 금융 서비스 강세",
+    "content": "[블록미디어 양원모 기자] 글로벌 디지털자산 벤처캐피털(VC) 자금이 대형 인프라와 기관 대상 금융 서비스로 쏠리고 있다. 신규 토큰과 단기 유행 등 투기성 테마에서 장기적인 산업 기반 구축으로 이동하는 모습이다. 11일 블록미디어가 크립토 펀드레이징 자료를 집계·분석한 결과, 이번 주 공개된 투자 사례는 총 7건이었다. 수억달러 규모의 대형 자금이 기관용 거래 인프라와 자산운용, 데이터 서비스 분야로 향했다. 인수합병(M&A)부터 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115517?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 12:00:24 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 펀드레이징, 거래 인프라, 자산운용, 데이터 서비스 등 크립토 관련 분야에 대한 투자 사례가 언급되어 있다.",
+    "collected_at": "2026-07-11T12:54:31.035353+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+    "content": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
+    "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 11 Jul 2026 11:56:54 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Hedera와 oracle exploit에 대한 보도가 크립토와 블록체인 산업 관련 보도로 간주되며, 시청자에게도 흥미로운 보도로 간주된다.",
+    "collected_at": "2026-07-11T12:54:31.305104+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+    "content": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+    "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+    "published_at": "Sat, 11 Jul 2026 12:25:05 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 관련 회사에 대한 뉴스, 비트코인 거래에 대한 내용",
+    "collected_at": "2026-07-11T12:54:31.457278+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+    "content": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+    "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+    "published_at": "Sat, 11 Jul 2026 12:00:00 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "이더리움(암호화폐)과 관련된 보안 이슈에 대한 보도",
+    "collected_at": "2026-07-11T12:54:31.613353+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "미 상원 디지털자산 법안 다음 주 공개 전망…민주당 지지 부족에 통과 불투명",
@@ -3526,77 +3598,5 @@
     "is_crypto_related": true,
     "reason": "리플(XRP)이 일본 기업들의 재무 다변화 수단으로 주목받으며 제도권 자산으로서의 입지를 넓혀가고 있다.",
     "collected_at": "2026-07-09T05:48:21.739210+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나(SOL), 가격 변동성과 거래량 증가로 투자자 주목",
-    "content": "솔라나(SOL)가 77~81달러 구간에서 방향성을 모색하며 투자자들의 관심이 집중되고 있다. 코인마켓캡 최신 데이터에 따르면 솔라나는 현재 77.82달러에 거래되고 있으며, 24시간 거래량은 22억 6,765만 달러를 기록했다. 시가총액은 452억 7,687만 달러로 암호화폐 시장 내 점유율 2.1%를 차지하며 7위를 유지하고 있다. 바이비트(Bybit)는 솔라나 가격을 77.61달러로 집계하며 24시간 변동 범위를 76.34달러에서 80.35달러 사이로 제시했다. 코인체크업(CoinCheckup)의 별도 스냅샷에서는 80.82달러를 기록하는 등 거래소별로 소폭 차이를 보이고 있다. 이는 솔라나 가격이 좁은 범위 내에서 촘촘하게 움직이고 있음을 시사한다.솔라나, 80달러...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376192",
-    "published_at": "Thu, 09 Jul 2026 05:07:27 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "솔라나(SOL) 가격 변동성과 거래량 증가로 투자자 주목",
-    "collected_at": "2026-07-09T05:48:27.098884+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[글로벌 유동성 레이더] 거래소 481 BTC 순유입...아시아 거래량 5% 증가·미국 19% 감소",
-    "content": "주요 거래소 비트코인 보유량은 하루 순유입을 기록했지만 월간 순유출이 이어진 가운데 거래량은 유럽 시간대에 집중됐고, 가장 약한 미국 시간대는 전일 대비 19% 감소하며 시장 참여도가 낮아졌다.코인글래스에 따르면 9일 오후 1시 30분 기준 주요 거래소의 비트코인 총 보유량은 약 248만4188 BTC로 집계됐다.하루 동안은 약 481 BTC 순유입이 발생했으며 최근 일주일 기준으로는 1710 BTC 순유입이 나타났다. 반면 한 달 기준으로는 1만1213 BTC 순유출이 기록되며 단기 유입에도 중기 잔고 축소 흐름이 유지됐다.코인베이스 프로는 85만1429 BTC를 보유하며 주요 거래소 가운데 가장 많은 잔고를 기록했다. 일간 기준 488.51 BTC...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376183",
-    "published_at": "Thu, 09 Jul 2026 05:06:44 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 거래소의 순유입과 거래량 변동에 대한 정보가 담겨 있어 암호화폐 시장의 동향을 이해하는 데 도움이 될 것입니다.",
-    "collected_at": "2026-07-09T05:48:34.642941+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "이더리움 ETF, 5거래일 연속 순유입 행진… 비트코인과 엇갈린 흐름",
-    "content": "[블록미디어 양원모 기자] 미국 이더리움 현물 상장지수펀드(ETF)가 순유입 흐름을 이어갔다. 같은 날 비트코인 현물 ETF가 순유출로 돌아선 것과 달리 이더리움 현물 ETF에는 자금이 유입되며 기관투자자들의 관심이 이더리움으로 일부 이동하는 모습이 나타났다. 9일(현지시각) 파사이드 인베스터스에 따르면 지난 24시간 기준 미국 이더리움 현물 ETF 전체 순유입액은 7050만달러(약 1060억원)로 집계됐다. 전날 2690만달러(약 404억원)의 순유입에 이어 5거래일 연속 순유입 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114948?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 05:31:50 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 ETF와 비트코인 ETF의 순유입/순유출 흐름에 대한 내용",
-    "collected_at": "2026-07-09T05:48:42.488682+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "‘대장’ 블랙록도 못 버텼다… 비트코인 ETF, 하루 만에 다시 순유출 전환",
-    "content": "[블록미디어 양원모 기자] 미국 비트코인 현물 상장지수펀드(ETF)가 하루 만에 다시 순유출로 돌아섰다. 직전 거래일 소폭 순유입을 기록하며 투자심리 회복 기대를 키웠지만, 블랙록과 그레이스케일 주요 상품에서 자금이 빠져나가며 전체 흐름은 다시 순유출로 전환됐다. 9일(현지시각) 파사이드 인베스터스에 따르면 지난 24시간 기준 미국 비트코인 현물 ETF의 전체 순유출액은 8490만달러(약 1276억원)로 집계됐다. 전날 2150만달러(약 323억원) 순유입을 기록한 뒤 하루 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114944?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 05:31:15 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 ETF와 관련된 뉴스, 투자 심리 회복 기대 등",
-    "collected_at": "2026-07-09T05:48:48.908436+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "이더리움, 다시 1580달러 시험대…’패닉셀’과 ‘저가매수’ 동시에 늘었다",
-    "content": "[블록미디어 양원모 기자] 이더리움(ETH)이 과거 두 차례 대형 상승장의 출발점이었던 1580달러 지지선을 다시 시험받고 있는 가운데 거래소 입금·출금이 동시에 증가하며 혼조세를 이어가고 있다. 디지털자산 분석가 알리(Ali)는 9일(현지시각) 엑스(X)에 이더리움 월간 차트를 공유하고 1580달러를 이더리움의 이번 랠리의 핵심 수요 구간으로 제시했다. 차트에 따르면 이더리움은 2023년 10월 이 가격대에서 반등한 뒤 149.18% 상승했다. 2025년 4월에도 같은 구간이 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114913?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 05:20:14 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 가격 변동과 관련된 뉴스, 이더리움의 시장 동향",
-    "collected_at": "2026-07-09T05:48:54.194666+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "신현송 “원화 스테이블코인 제도화 시급“",
-    "content": "[블록미디어 오수환 기자] 신현송 한국은행 총재가 원화 기반 스테이블코인의 조속한 제도 도입이 필요하다는 기존 입장을 거듭 강조했다. 신 총재는 9일 국회 재정경제위원회 업무보고에서 디지털 통화에 대한 입장이 바뀐 것 아니냐는 안도걸 더불어민주당 의원의 질의에, 원화 기반 스테이블코인의 조속한 제도 도입 필요성에는 변함이 없다고 답했다. 그는 “스테이블코인과 예금토큰은 각각 특화된 용도가 있다”며 “서로 경쟁적이면서도 보완적인 관계를 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1114928?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 09 Jul 2026 05:16:27 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "원화 기반 스테이블코인의 조속한 제도 도입 필요성에 대한 한국은행 총재의 입장",
-    "collected_at": "2026-07-09T05:48:58.580999+00:00"
   }
 ]
