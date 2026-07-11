@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "미 상원 디지털자산 법안 다음 주 공개 전망…민주당 지지 부족에 통과 불투명",
+    "content": "미국 상원의 ‘디지털 자산 시장 명확성 법안’ 통합 초안이 이르면 다음 주 공개될 전망이다. 처리 시한은 다가오고 있지만, 민주당 지지 부족으로 통과 여부는 여전히 불투명하다.민주당 지지 부족…핵심은 ‘윤리 조항’현지 시간 기준 7월 20일 주간 표결이 목표로 제시된 가운데, 이번 법안은 상원 은행위원회와 농업위원회 안을 통합한 형태다. 70페이지 이상 분량이 추가되며 ‘소비자 보호’ 강화가 핵심으로 부각됐다. 단순 병합이 아닌 협상의 결과물이라는 평가가 나오지만, 정치적 교착은 해소되지 않았다.가장 큰 쟁점은 민주당이 요구하는 ‘윤리 조항’이다. 대통령을 포함한 고위 공직자가 암호화폐 산업과 사업적 이해관계를 유지하지...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/376800",
+    "published_at": "Sat, 11 Jul 2026 11:10:41 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "디지털 자산 시장 명확성 법안, 암호화폐 산업과 관련된 윤리 조항이 주요 쟁점",
+    "collected_at": "2026-07-11T11:44:02.509477+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "암호화폐 시장, 4시간 동안 레버리지 포지션 858만 달러 청산",
+    "content": "지난 4시간 동안 암호화폐 시장에서 약 858만 달러 규모의 레버리지 포지션이 청산된 것으로 나타났다. 집계 기준 전체 청산액 가운데 롱 포지션은 291만 달러, 숏 포지션은 567만 달러로, 숏 비중이 66.08%를 차지했다. 단기 구간에서는 상승 베팅보다 하락 베팅 청산이 더 크게 나타나면서 최근 반등 과정에서 숏 포지션 압박이 두드러진 모습이다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 기준 가장 많은 청산이 발생한 거래소는 바이낸스로, 총 427만 달러가 청산되며 전체의 49.79%를 차지했다. 이 가운데 숏 포지션이 251만 달러로 58.78%를 기록해 숏 청산 우위가 나타났다. 하이퍼리퀴드는 145만 달러로 뒤를 이었으며,...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376798",
+    "published_at": "Sat, 11 Jul 2026 11:01:32 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장의 레버리지 포지션 청산과 거래소별 청산 데이터",
+    "collected_at": "2026-07-11T11:44:03.044672+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "XRP, 1.20달러 돌파가 분수령…지지선 버텼지만 모멘텀 부족",
+    "content": "리플(XRP)이 1.00달러 지지선을 지켜내며 ‘하방 방어’에는 성공했지만, 여전히 1.20달러 돌파라는 핵심 저항 구간을 넘지 못하며 횡보 장세에 머물러 있다. 시장의 시선은 단 하나, 매수세가 이 벽을 뚫어낼 수 있느냐에 쏠린다.현재 XRP는 약 1.08~1.12달러 구간에서 거래되며 익숙한 박스권 흐름을 이어가고 있다. 특히 1.00~1.05달러 구간은 수차례 매도 압력에도 붕괴되지 않으며 확실한 지지선으로 자리 잡았다. 이는 ‘상승 시나리오’가 아직 유효함을 보여주는 신호다. 다만 시장은 단순한 방어보다 ‘상승 촉매’를 요구하는 분위기다.온체인 데이터에서는 긍정적인 흐름도 감지된다. 거래소에서 빠져나간 XRP 물량은 약 4100만 개에서...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376797",
+    "published_at": "Sat, 11 Jul 2026 11:01:23 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "XRP 가격에 대한 분석과 시장의 시선, 거래량 등 크립토 관련 정보가 포함되어 있어 시청자에게 중요한 내용입니다.",
+    "collected_at": "2026-07-11T11:44:03.493257+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[온체인동향] 5억달러 몰린 하이퍼리퀴드, 아비트럼은 4억달러 ‘순유출’",
+    "content": "[블록미디어 양원모 기자] 온체인 시장에서 대규모 유동성 이동이 포착됐다. 아비트럼 기반 USDC가 거래 증거금으로 사용되는 하이퍼리퀴드로 자금이 이동하면서 하이퍼리퀴드에는 대규모 자금이 유입된 반면, 아비트럼에서는 그만큼이 빠져나갔다. 11일 디파이 데이터 분석 플랫폼 아르테미스에 따르면 최근 일주일 기준 가장 많은 자금이 유입된 네트워크는 하이퍼리퀴드였다. 순유입 규모는 약 5억4000만달러(약 8117억원)로 다른 체인을 크게 앞질렀다. 이어 이더리움이 약 3억1000만달러(약 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115480?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 11:00:54 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "온체인 시장에서 대규모 유동성 이동, 하이퍼리퀴드와 아비트럼의 자금 이동에 대한 보도",
+    "collected_at": "2026-07-11T11:44:03.742296+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+    "content": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 11 Jul 2026 11:21:07 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 뉴스, 2022년의 하락 시장에 대한 예측",
+    "collected_at": "2026-07-11T11:44:04.015260+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "[알트 현물 ETF] 관망 속 HYPE 순유출...XRP·SOL은 소폭 유입",
     "content": "미국 알트코인 현물 ETF 시장은 전반적으로 관망세를 보인 가운데 HYPE에서 자금 이탈, XRP·SOL에서 유입이 나타났다. XRP(XRP) 현물 ETF 시장은 전날 보합세를 보이다가 10만7380달러를 유치하며 순유입을 기록했다. 5개 종목 중 21셰어스 TOXR에서만 유입이 발생했다. 누적 순유입 14억8546만 달러｜거래대금 1091만 달러｜순자산총액 9억9665만 달러(시총 1.44%) 솔라나(SOL) 현물 ETF 시장은 순유출 2거래일 만에 15만521달러를 유치하며 순유입으로 전환됐다. 8개 종목 중 21셰어스 TSOL가 신규 자금을 유치했다. 누적 순유입 11억3626만 달러｜거래대금 5950만 달러｜순자산총액 9억138만 달러(시총 1.99%)  암호화폐 현물 ETF...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/376754",
@@ -3538,65 +3598,5 @@
     "is_crypto_related": true,
     "reason": "원화 기반 스테이블코인의 조속한 제도 도입 필요성에 대한 한국은행 총재의 입장",
     "collected_at": "2026-07-09T05:48:58.580999+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
-    "content": "XRP holds near $1.10 as traders watch long-term breakout setup",
-    "url": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
-    "published_at": "Thu, 09 Jul 2026 05:07:11 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "XRP 가격 변동과 관련된 뉴스, 암호화폐 거래에 관심 있는 시청자에게 흥미로운 소재",
-    "collected_at": "2026-07-09T05:49:01.881008+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Spot Bitcoin ETFs See $84.86 Million in Net Outflows on July 8",
-    "content": "Spot Bitcoin ETFs See $84.86 Million in Net Outflows on July 8\nOn July 8 (ET), spot Bitcoin ETFs saw total net outflows of $84.86 million. Spot Ethereum ETFs recorded total net inflows of $70.48 million, marking five consecutive days of net inflows. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25061",
-    "published_at": "2026-07-09T04:16:38+00:00",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 ETF와 이더리움 ETF의 거래량에 대한 보도",
-    "collected_at": "2026-07-09T05:01:25.612933+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Plume Institutional Yield Vault Goes Live on Binance Wallet",
-    "content": "Plume Institutional Yield Vault Goes Live on Binance Wallet\nPlume announced its institutional yield vault is now available through Binance Wallet. Through the nBASIS vault, Binance Wallet users can access institutional-grade yield from Bitwise USCC cash-and-carry fund, with over $225M in AUM, and Invesco’s USTB, a tokenized Treasury fund with more than $950M in AUM. \n— link",
-    "url": "https://t.me/wublockchainenglish/25062",
-    "published_at": "2026-07-09T04:38:08+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Binance Wallet와 비트코인 관련 상품의 출시",
-    "collected_at": "2026-07-09T05:01:25.786861+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[스테이킹 랭킹] 상위권 시총 대체로 상승…수이는 최대 낙폭",
-    "content": "상위 스테이킹 자산은 전반적으로 시총 회복세를 보였지만, 일부 자산은 단기 부진과 장기 수익률 약세가 겹치며 온도차를 드러냈다.9일 오전 11시 50분 스테이킹리워드 집계에 따르면 스테이킹 시가총액 1위는 이더리움으로, 전주 대비 6.93% 증가한 696억3319만 달러를 기록했다.솔라나는 332억228만 달러로 2위를 기록했으며 같은 기간 0.86% 감소했다. 하이퍼리퀴드는 295억3627만 달러로 3위를 기록했으며 같은 기간 7.09% 증가했다.BNB체인은 145억6485만 달러로 4위를 기록했으며 같은 기간 3.11% 증가했다. 트론은 145억3092만 달러로 5위를 기록했으며 같은 기간 3.85% 증가했다.전주 대비 변동을 보면 증가폭이 컸던 종목은...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/376182",
-    "published_at": "Thu, 09 Jul 2026 04:21:11 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움, 솔라나, 하이퍼리퀴드, BNB체인, 트론 등 암호화폐에 대한 스테이킹 랭킹과 시총 변동에 대한 내용",
-    "collected_at": "2026-07-09T05:01:26.257490+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "퓨처핀테크그룹(FTFT), 1대4 주식병합 단행…웹3·글로벌결제 확장 승부수",
-    "content": "퓨처 핀테크 그룹(FTFT)이 주식 병합과 글로벌 결제 생태계 구축, 웹3 및 가상자산 사업 확장 등 다각적 전략을 동시에 추진하며 ‘디지털 금융’ 기업으로의 전환에 속도를 내고 있다. 최근 잇따른 구조 개편과 기술 투자 행보는 FTFT 주가와 나스닥 시장 내 입지에 직접적인 변수가 될 전망이다.퓨처 핀테크 그룹(FTFT)은 2026년 7월 10일 오후 4시(미 동부시간)를 기점으로 1대4 비율의 주식 병합을 단행한다고 밝혔다. 병합 이후 거래는 7월 13일부터 새로운 CUSIP 번호로 시작되며, 발행 주식 수는 약 747만 주에서 186만 주 수준으로 줄어든다. 회사 측은 지분율에는 변화가 없고 단수주는 올림 처리된다고 설명했다. 앞서 2026년 1월에도...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/376177",
-    "published_at": "Thu, 09 Jul 2026 04:03:13 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "퓨처핀테크그룹이 웹3 및 가상자산 사업을 확장하는 등 디지털 금융 기업으로의 전환에 속도를 내고 있다.",
-    "collected_at": "2026-07-09T05:01:26.453207+00:00"
   }
 ]
