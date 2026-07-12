@@ -1,5 +1,29 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[샌티멘트 위클리] 로빈후드 체인 열풍⋯투기 넘어 금융 플랫폼 될까",
+    "content": "[블록미디어 박수용 기자] 이번 주 디지털자산(가상자산) 시장의 관심은 비트코인 가격보다 새로 출범한 로빈후드 체인으로 향했다. 밈코인 열풍이 투자자들의 시선을 끌었지만 시장이 주목한 핵심은 토큰화 주식과 실물자산(RWA), 디파이(DeFi)를 연결하려는 새로운 온체인 금융 실험이었다. 단기 흥행을 넘어 실제 금융 서비스로 이어질 수 있을지가 다음 관전 포인트로 떠올랐다. 샌티먼트는 10일 공개한 딥다이브 리포트에서 로빈후드 체인을 이번 주 소셜미디어의 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115835?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 12 Jul 2026 11:30:56 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "로빈후드 체인, 디지털자산 시장의 관심을 끌고, 토큰화 주식, 실물자산, 디파이와 연결하려는 새로운 금융 실험을 소개한다.",
+    "collected_at": "2026-07-12T12:11:35.761762+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+    "content": "Bitcoin is nearing a power law support line Fidelity has tracked since 2015",
+    "url": "https://www.coindesk.com/markets/2026/07/12/bitcoin-is-nearing-a-power-law-support-line-fidelity-has-tracked-since-2015",
+    "published_at": "Sun, 12 Jul 2026 11:30:00 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인에 대한 분석과 추이 관련 보도",
+    "collected_at": "2026-07-12T12:11:35.968989+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "BlackRock’s BUIDL Tops $900M on Avalanche, Doubles in a Week",
@@ -3574,29 +3598,5 @@
     "is_crypto_related": true,
     "reason": "MoonPay의 AI Crypto Agents가 Telegram에서 작동하는 암호화폐 거래와 분석 도구임",
     "collected_at": "2026-07-09T15:41:30.435637+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Morning Minute: Paradigm Raises $1.2B Fund as Crypto’s Top VC Pushes Into AI",
-    "content": "BNB Chain rebuilds itself for a world run by AI agents. BTC ETFs flows flip negative. And prediction markets face a new hurdle.",
-    "url": "https://decrypt.co/373112/morning-minute-paradigm-raises-1-2b-fund-as-cryptos-top-vc-pushes-into-ai",
-    "published_at": "Thu, 09 Jul 2026 12:23:22 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "크립토와 관련된 VC(벤처 캐피탈)와 AI, ETF, 거래소(BNB Chain) 등 다양한 크립토 관련 주제가 언급된다.",
-    "collected_at": "2026-07-09T15:41:33.718830+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-    "content": "Ethereum's newest nonprofit wants to become Wall Street's guide to crypto",
-    "url": "https://www.coindesk.com/tech/2026/07/09/ethereum-s-newest-nonprofit-wants-to-become-wall-street-s-guide-to-crypto",
-    "published_at": "Thu, 09 Jul 2026 14:58:55 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움과 Wall Street의 관계에 대한 내용으로 크립토와 관련이 있다.",
-    "collected_at": "2026-07-09T15:41:36.954115+00:00"
   }
 ]
