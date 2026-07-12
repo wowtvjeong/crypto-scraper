@@ -1,5 +1,53 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "IMF 연구 “달러 스테이블코인, 외화 접근성 높이지만 통화위기 키울 수도”",
+    "content": "[블록미디어 박수용 기자] 달러 스테이블코인이 외화 접근성을 높일 수 있지만, 환율 위기 상황에서는 자국 통화 이탈을 부추겨 통화 불안을 증폭시킬 수 있다는 분석이 나왔다. 11일(현지시각) 코인텔레그래프에 따르면 국제통화기금(IMF)이 공개한 브랜던 조엘 탄 이코노미스트의 워킹페이퍼 ‘고정환율 체제의 스테이블코인과 취약성(Stablecoins and Fragility in Fixed Exchange Rate Regimes)’은 달러 스테이블코인이 공식 달러 환전이 제한된 국가에서 외화 접근성을 높이는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115965?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 12 Jul 2026 01:39:30 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "IMF 연구에서 달러 스테이블코인이 외화 접근성을 높일 수 있지만 통화 불안을 증폭시킬 수 있다는 분석이 나왔다.",
+    "collected_at": "2026-07-12T01:45:12.856602+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[주말시황] 비트코인 6만3700달러선⋯호르무즈·CPI 경계",
+    "content": "[블록미디어 박수용 기자] 디지털자산(가상자산) 시장이 일요일 오전 약보합 흐름을 보이고 있다. 비트코인(BTC)은 6만3000달러 후반에서 움직였다. 주요 알트코인도 대부분 하락했다. 이란의 호르무즈 해협 폐쇄 선언과 미국의 추가 공습이 시장의 경계심을 높였다. 다음 주 미국 소비자물가지수(CPI) 발표도 주요 변수다. 12일 오전 9시30분 기준 업비트에서 비트코인은 전일보다 12만4000원(0.13%) 오른 9535만원에 거래됐다. 같은 시각 바이낸스에서는 24시간 기준 358.32달러(0.56%) 하락한 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115940?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 12 Jul 2026 01:00:15 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 변동과 관련된 시장 분석 및 뉴스",
+    "collected_at": "2026-07-12T01:45:16.152058+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "헤데라 기반 디파이 ‘본조 렌드’ 털렸다⋯ 136억원 피해",
+    "content": "[블록미디어 박수용 기자] 헤데라(Hedera·HBAR) 기반 탈중앙화금융(DeFi·디파이) 대출 프로토콜 본조 렌드(Bonzo Lend)가 약 905만달러(약 136억원) 규모의 해킹 피해를 입었다. 프로토콜은 서비스를 일시 중단했으며 헤데라 네트워크 자체의 문제는 아니라는 입장을 밝혔다. 11일(현지시각) 더블록과 코인데스크 보도에 따르면 공격자는 오라클 서비스 수프라(Supra)의 가격 정보 검증 취약점을 이용해 담보 자산인 소서스왑(SaucerSwap·SAUCE) 토큰 가격을 비정상적으로 부풀린 뒤 이를 담보로 663만 유에스디코인(USDC)과 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115929?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 23:58:37 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "헤데라 기반의 탈중앙화금융(DeFi) 프로토콜 본조 렌드가 해킹 피해를 입었고, 136억원 규모의 피해를 입었다.",
+    "collected_at": "2026-07-12T01:45:34.197529+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project",
+    "content": "The sales come months after a major Empery shareholder demanded the firm ditch its Bitcoin treasury strategy and force the resignation of its CEO and board.",
+    "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 12 Jul 2026 01:00:54 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 관련 보도, 비트코인 보유 전략과 관련된 회사 내부 갈등",
+    "collected_at": "2026-07-12T01:45:40.930516+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "서클, 연방 은행 인가 획득으로 CRCL 주가 급등",
@@ -3550,53 +3598,5 @@
     "is_crypto_related": true,
     "reason": "Temasek investment fund가 암호화폐에 대한 투자를 중단하고 AI에 집중한다는 보도가 크립토와 관련이 있다.",
     "collected_at": "2026-07-09T12:21:10.699600+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet",
-    "content": "Crypto trader applies legendary HODL strategy to EUR/USD forex bet",
-    "url": "https://www.coindesk.com/markets/2026/07/09/crypto-trader-applies-legendary-hodl-strategy-to-eur-usd-forex-bet",
-    "published_at": "Thu, 09 Jul 2026 09:51:20 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "HODL은 암호화폐 시장에서 유명한 전략으로, 이 기사에서는 이 전략을 다른 시장인 EUR/USD에 적용하는 것을 설명하고 있기 때문에.",
-    "collected_at": "2026-07-09T12:21:14.043452+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
-    "content": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
-    "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
-    "published_at": "Thu, 09 Jul 2026 09:49:26 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "stablecoin과 거래소에 대한 정보가 포함되어 있어 암호화폐와 관련이 있습니다.",
-    "collected_at": "2026-07-09T12:21:18.306525+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "CryptoQuant: Binance USDC Holdings Drop 21.6% in 30 Days as Over $1B in Liquidity Exits",
-    "content": "CryptoQuant: Binance USDC Holdings Drop 21.6% in 30 Days as Over $1B in Liquidity Exits\nCryptoQuant said Binance is seeing a structural decline in stablecoin purchasing power. Over the past 30 days, its USDC holdings fell 21.6% to $4.6 billion, while USDT-ETH recorded large withdrawals of over $997 million and $838 million on June 26 and July 7. Binance’s stablecoin net outflows averaged $115 million per day last week, with more than $1 billion in total liquidity exiting, potentially making prices more vulnerable to sudden volatility. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25066",
-    "published_at": "2026-07-09T08:37:58+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Binance의 USDC 보유량이 21.6% 감소하고 1억 달러 이상의 자산이 거래소에서 빠져나가는 등 크립토 시장에 대한 중요한 정보가 담겨있다.",
-    "collected_at": "2026-07-09T09:24:41.524217+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인, 6만3000달러 공방 지속…단기 방향성 분기점",
-    "content": "비트코인(BTC)이 6만3000달러선을 두고 공방을 이어가며 단기 방향성을 탐색하고 있다. 알트코인은 전반적으로 부진한 흐름 속에 일부 종목만 반등했다.비트코인 6만3000달러 재도전…회복세 속 변동성 제한최근 24시간 동안 비트코인은 6만2000달러 아래로 밀렸다가 다시 반등하는 등 비교적 제한된 변동 구간을 보였다. 이달 초 5만8000달러 아래로 급락했던 이후 회복 흐름은 이어지고 있지만, 상승 탄력은 다소 둔화된 모습이다.주말 동안 6만3000달러를 회복한 비트코인은 주 초반 한때 6만4000달러까지 상승했다. 그러나 스트레티지(Strategy)의 대규모 매도 여파로 6만1200달러까지 급락한 뒤 반발 매수세가 유입되며 6만4600달러까지...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376241",
-    "published_at": "Thu, 09 Jul 2026 08:31:06 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동과 관련된 뉴스",
-    "collected_at": "2026-07-09T09:24:41.998874+00:00"
   }
 ]

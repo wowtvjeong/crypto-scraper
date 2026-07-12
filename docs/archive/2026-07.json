@@ -1,5 +1,53 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "IMF 연구 “달러 스테이블코인, 외화 접근성 높이지만 통화위기 키울 수도”",
+    "content": "[블록미디어 박수용 기자] 달러 스테이블코인이 외화 접근성을 높일 수 있지만, 환율 위기 상황에서는 자국 통화 이탈을 부추겨 통화 불안을 증폭시킬 수 있다는 분석이 나왔다. 11일(현지시각) 코인텔레그래프에 따르면 국제통화기금(IMF)이 공개한 브랜던 조엘 탄 이코노미스트의 워킹페이퍼 ‘고정환율 체제의 스테이블코인과 취약성(Stablecoins and Fragility in Fixed Exchange Rate Regimes)’은 달러 스테이블코인이 공식 달러 환전이 제한된 국가에서 외화 접근성을 높이는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115965?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 12 Jul 2026 01:39:30 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "IMF 연구에서 달러 스테이블코인이 외화 접근성을 높일 수 있지만 통화 불안을 증폭시킬 수 있다는 분석이 나왔다.",
+    "collected_at": "2026-07-12T01:45:12.856602+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[주말시황] 비트코인 6만3700달러선⋯호르무즈·CPI 경계",
+    "content": "[블록미디어 박수용 기자] 디지털자산(가상자산) 시장이 일요일 오전 약보합 흐름을 보이고 있다. 비트코인(BTC)은 6만3000달러 후반에서 움직였다. 주요 알트코인도 대부분 하락했다. 이란의 호르무즈 해협 폐쇄 선언과 미국의 추가 공습이 시장의 경계심을 높였다. 다음 주 미국 소비자물가지수(CPI) 발표도 주요 변수다. 12일 오전 9시30분 기준 업비트에서 비트코인은 전일보다 12만4000원(0.13%) 오른 9535만원에 거래됐다. 같은 시각 바이낸스에서는 24시간 기준 358.32달러(0.56%) 하락한 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115940?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 12 Jul 2026 01:00:15 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 변동과 관련된 시장 분석 및 뉴스",
+    "collected_at": "2026-07-12T01:45:16.152058+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "헤데라 기반 디파이 ‘본조 렌드’ 털렸다⋯ 136억원 피해",
+    "content": "[블록미디어 박수용 기자] 헤데라(Hedera·HBAR) 기반 탈중앙화금융(DeFi·디파이) 대출 프로토콜 본조 렌드(Bonzo Lend)가 약 905만달러(약 136억원) 규모의 해킹 피해를 입었다. 프로토콜은 서비스를 일시 중단했으며 헤데라 네트워크 자체의 문제는 아니라는 입장을 밝혔다. 11일(현지시각) 더블록과 코인데스크 보도에 따르면 공격자는 오라클 서비스 수프라(Supra)의 가격 정보 검증 취약점을 이용해 담보 자산인 소서스왑(SaucerSwap·SAUCE) 토큰 가격을 비정상적으로 부풀린 뒤 이를 담보로 663만 유에스디코인(USDC)과 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1115929?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 11 Jul 2026 23:58:37 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "헤데라 기반의 탈중앙화금융(DeFi) 프로토콜 본조 렌드가 해킹 피해를 입었고, 136억원 규모의 피해를 입었다.",
+    "collected_at": "2026-07-12T01:45:34.197529+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Empery Digital shares rise after selling Bitcoin treasury to fund AI data center project",
+    "content": "The sales come months after a major Empery shareholder demanded the firm ditch its Bitcoin treasury strategy and force the resignation of its CEO and board.",
+    "url": "https://cointelegraph.com/news/empery-digital-shares-rise-after-selling-bitcoin-treasury-to-fund-ai-data-center-project?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 12 Jul 2026 01:00:54 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 관련 보도, 비트코인 보유 전략과 관련된 회사 내부 갈등",
+    "collected_at": "2026-07-12T01:45:40.930516+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "서클, 연방 은행 인가 획득으로 CRCL 주가 급등",
