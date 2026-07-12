@@ -1,5 +1,29 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+    "content": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as \"muddying the waters\" for Bitcoin in the near term.",
+    "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 12 Jul 2026 18:16:45 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인과 관련된 뉴스이며, 투자자에 대한 영향에 대한 분석이 포함되어 있어 시청자에게 중요합니다.",
+    "collected_at": "2026-07-12T18:50:00.064685+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Signs of life?: State of Crypto",
+    "content": "Signs of life?: State of Crypto",
+    "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+    "published_at": "Sun, 12 Jul 2026 18:30:00 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "기사 제목과 본문이 암호화폐의 상태를 묻는 것으로, 암호화폐와 직접 관련이 있다.",
+    "collected_at": "2026-07-12T18:50:00.315654+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Stablecoin Market Loses $10B Since May in Biggest Retreat Since the Terra Crash",
