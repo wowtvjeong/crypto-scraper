@@ -41,7 +41,10 @@ press_sites:
   # 지금 방식(httpx+BeautifulSoup)으로는 근본적으로 해결이 안 되고 구조를 새로 짜야 함.
 
   - name: "coingecko_news"
-    rss: "https://www.coingecko.com/en/news/rss"   # 추측값, 미검증
+    list_url: "https://www.coingecko.com/ko/news"
+    item_selector: "div[rel='nofollow noopener']"
+    title_selector: ".tw-font-bold"
+    link_selector: "a"
 
   - name: "coinness"
     list_url: "https://coinness.com/article"        # 추측값, 미검증
@@ -62,10 +65,10 @@ press_sites:
     link_selector: "a"                                # 추측값, 미검증
 
   - name: "coinmarketcap_community"
-    list_url: "https://coinmarketcap.com/community/ko/articles/"  # 추측값, 미검증 — JS 렌더링 위험 매우 높음
-    item_selector: "article"                          # 추측값, 미검증
-    title_selector: "h2"                              # 추측값, 미검증
-    link_selector: "a"                                # 추측값, 미검증
+    list_url: "https://coinmarketcap.com/community/ko/articles/"
+    item_selector: "div[data-test='article-item']"
+    title_selector: "span[data-test='article-title']"
+    link_selector: "a"
 
 filter:
   min_relevance_score: 7
