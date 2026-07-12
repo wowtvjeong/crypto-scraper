@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "BlackRock’s BUIDL Tops $900M on Avalanche, Doubles in a Week",
+    "content": "BlackRock’s BUIDL Tops $900M on Avalanche, Doubles in a Week\nAccording to RWA xyz, BlackRock’s tokenized money market fund BUIDL has surpassed $900 million in assets under management (AUM) on the Avalanche network, increasing by approximately $436 million (105%) over the past week. Launched in March 2024, BUIDL now has a total AUM of about $2.87 billion, making it one of the world’s largest on-chain tokenized U.S. Treasury funds. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25105",
+    "published_at": "2026-07-12T09:59:16+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 거래소와 관련된 뉴스이며, 암호화폐의 발전과 규모를 보여주는 흥미로운 내용입니다.",
+    "collected_at": "2026-07-12T11:04:32.866118+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Thailand’s Central Bank and SEC Probe High-Value USDT Transactions",
+    "content": "Thailand’s Central Bank and SEC Probe High-Value USDT Transactions\nAccording to The Nation, the Bank of Thailand will require individuals depositing THB 5 million ($150,000) or more in cash to verify the source of funds. It is also working with Thailand’s SEC to review large stablecoin transactions, particularly USDT, over concerns about concealed ownership and attempts to bypass domestic remittance channels. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25106",
+    "published_at": "2026-07-12T10:02:56+00:00",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "Thailand의 중앙 은행과 SEC가 USDT와 관련된 고가 거래를 조사하고 있으며, 은행은 5백만 태국 비트에 해당하는 150,000달러 이상의 현금 입금을 받을 때 자금의 원천을 확인해야 한다고 발표했습니다.",
+    "collected_at": "2026-07-12T11:04:33.163720+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억1170만 달러 청산",
+    "content": "지난 24시간 동안 암호화폐 시장에서 주요 종목 기준 약 1억1170만 달러 규모의 레버리지 포지션 청산이 발생한 것으로 집계됐다. 종목별 합산 데이터에 따르면 롱 포지션 청산은 약 8670만 달러, 숏 포지션 청산은 약 2500만 달러로, 전체적으로는 롱 비중이 더 컸다. 다만 최근 4시간 기준 거래소 데이터에서는 숏 포지션 청산이 우세하게 나타나며 단기적으로는 반등 구간에서 하락 베팅 청산이 아닌 상승 베팅 청산과는 다른 흐름도 일부 확인됐다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 동안 거래소별 청산 규모는 총 1300만 달러로 집계됐다. 가장 많은 청산이 발생한 곳은 바이낸스로 473만 달러가 청산되며 전체의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376938",
+    "published_at": "Sun, 12 Jul 2026 11:01:24 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "암호화폐 시장에서 레버리지 포지션 청산이 발생한 것으로 집계되며, 종목별 합산 데이터와 거래소별 청산 규모가 제공된다.",
+    "collected_at": "2026-07-12T11:04:33.741194+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인, 중동 긴장 속 6만4천달러 공방…변동성 확대되나",
+    "content": "비트코인(BTC)이 중동 긴장 고조 속에 6만4천달러 선을 두고 방향성을 잡지 못하고 있다. 단기 반등과 급락이 반복되며 시장의 ‘변동성 확대’ 신호가 뚜렷해지는 모습이다.최근 24시간 동안 미국과 이란 간 군사 충돌이 재점화되면서 비트코인 가격은 6만4천달러(약 9,621만 원) 안착에 어려움을 겪고 있다. 지난 주말에도 6만2,400~6만3,400달러 박스권에 머물렀던 비트코인은 월요일 상승세를 타며 6만4천달러를 돌파했지만, 스트레티지(Strategy)의 대규모 매도 소식 이후 6만1,200달러까지 급락했다.이후 흐름은 이전과 달랐다. 비트코인은 빠르게 반등해 6만4,600달러까지 치솟았지만, 재차 저항에 부딪혔다. 특히 주중 미국과 이란이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376933",
+    "published_at": "Sun, 12 Jul 2026 10:10:36 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 변동성 확대와 중동 긴장 고조에 대한 내용으로 크립토와 직접 관련이 있으며 시청자에게 흥미로운 보도",
+    "collected_at": "2026-07-12T11:04:34.010030+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스탠다드차타드, 비트코인 50만 달러 전망 유지…조정에도 장기 상승론",
+    "content": "비트코인(BTC)이 사상 최고가 대비 큰 폭으로 조정된 상황에서도 스탠다드차타드의 장기 전망은 흔들리지 않고 있다.스탠다드차타드 은행의 애널리스트 제프리 켄드릭(Geoffrey Kendrick)은 트럼프 대통령 임기 종료 전까지 비트코인이 50만 달러에 도달할 것이라는 기존 전망을 유지한다고 밝혔다. 현재 비트코인 가격은 약 6만4,000달러로, 2025년 10월 기록한 사상 최고가 12만6,198달러 대비 약 49% 낮은 수준이다.시장 조정 속에서도 ‘초강세’ 전망 유지켄드릭은 최근 조정에도 불구하고 비트코인의 구조적 상승 흐름은 여전히 유효하다고 강조한다. 기관 자금 유입과 비트코인 ETF 시장 확대, 그리고 매크로 환경 변화가 중장기 상승을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/376931",
+    "published_at": "Sun, 12 Jul 2026 10:00:49 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 전망과 관련된 뉴스, 애널리스트의 전망",
+    "collected_at": "2026-07-12T11:04:34.655682+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "[현장] 아시아 최대 Web3 행사 'WebX 2026' 개막…도쿄서 AI·스테이블코인·RWA 미래 조망",
