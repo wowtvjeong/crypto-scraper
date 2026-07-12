@@ -35,6 +35,38 @@ press_sites:
   # decenter: 셀렉터 방식 404 에러 — list_url 자체가 잘못됨
   # theblock: 셀렉터 방식 403 에러 — 봇 차단, 이 방식으론 우회 어려움
 
+  # ---------- 신규 요청 (2026-07-10, 검증 안 됨 — 실행 로그로 판단 필요) ----------
+  # 아래 5개는 대부분 React/Next.js 기반이라 순수 HTML 스크래핑이 안 통할 가능성이 높음.
+  # 0건이 뜨면 "URL이 틀려서"가 아니라 "JS 렌더링이 필요해서"일 수 있음 — 그 경우
+  # 지금 방식(httpx+BeautifulSoup)으로는 근본적으로 해결이 안 되고 구조를 새로 짜야 함.
+
+  - name: "coingecko_news"
+    rss: "https://www.coingecko.com/en/news/rss"   # 추측값, 미검증
+
+  - name: "coinness"
+    list_url: "https://coinness.com/article"        # 추측값, 미검증
+    item_selector: "div.article-item"                # 추측값, 미검증
+    title_selector: "h3"                             # 추측값, 미검증
+    link_selector: "a"                                # 추측값, 미검증
+
+  - name: "xangle"
+    list_url: "https://xangle.io/"                    # 추측값, 미검증 — JS 렌더링 위험 높음
+    item_selector: "article"                          # 추측값, 미검증
+    title_selector: "h2"                              # 추측값, 미검증
+    link_selector: "a"                                # 추측값, 미검증
+
+  - name: "bloomingbit"
+    list_url: "https://bloomingbit.io/"               # 추측값, 미검증 — JS 렌더링 위험 높음
+    item_selector: "article"                          # 추측값, 미검증
+    title_selector: "h2"                              # 추측값, 미검증
+    link_selector: "a"                                # 추측값, 미검증
+
+  - name: "coinmarketcap_community"
+    list_url: "https://coinmarketcap.com/community/ko/articles/"  # 추측값, 미검증 — JS 렌더링 위험 매우 높음
+    item_selector: "article"                          # 추측값, 미검증
+    title_selector: "h2"                              # 추측값, 미검증
+    link_selector: "a"                                # 추측값, 미검증
+
 filter:
   min_relevance_score: 7
   breaking_score: 9          # 이 점수 이상 + 신규 기사면 텔레그램 즉시 알림
