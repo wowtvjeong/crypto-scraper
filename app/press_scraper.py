@@ -82,7 +82,13 @@ async def scrape_selector(site: dict, limit: int = 20) -> List[RawItem]:
             continue
 
         title = title_el.get_text().strip()
-        href = link_el.get(site.get("link_attr", "href"), "")
+        href = link_el.get(site.get("link_attr", "href"), "").strip()
+
+        # href가 빈 문자열이면 urljoin()이 list_url 자체를 반환해서
+        # "목록 페이지가 기사 URL"이 되는 잘못된 결과가 나옴 — 미리 걸러낸다.
+        if not href:
+            continue
+
         url = urljoin(list_url, href)
 
         if not title or not url:
