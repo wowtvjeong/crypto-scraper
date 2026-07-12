@@ -1,5 +1,17 @@
 [
   {
+    "source": "decenter",
+    "source_type": "press",
+    "title": "미·이란 충돌 격화에도 비트코인 6만3000달러대 횡보 [디센터 시황]",
+    "content": "미·이란 충돌 격화에도 비트코인 6만3000달러대 횡보 [디센터 시황]",
+    "url": "https://www.decenter.kr/article/20066815",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 정보가 제공되며, 특정 사건의 영향에 대한 분석도 포함되어 있어 시청자에게 중요하고 흥미로운 내용입니다.",
+    "collected_at": "2026-07-12T23:19:52.449170+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "Circle, OCC 신탁은행 인가 후 주가 5% 상승…USDC 규제 인프라 강화",
@@ -3586,17 +3598,5 @@
     "is_crypto_related": true,
     "reason": "바이낸스라는 거래소가 한국 사업을 준비하고 규제 대응을 위해 CISO를 채용하는 뉴스입니다.",
     "collected_at": "2026-07-09T17:47:57.481871+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitcoin miners’ AI pivot faces investor scrutiny over insider sales",
-    "content": "As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting.",
-    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 09 Jul 2026 17:09:01 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 관련 기업의 AI 전환과 관련된 투자자들의 심의",
-    "collected_at": "2026-07-09T17:47:58.665320+00:00"
   }
 ]
