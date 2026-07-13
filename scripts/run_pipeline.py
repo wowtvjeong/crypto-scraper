@@ -22,6 +22,7 @@ from app.press_scraper import scrape_all_press
 from app.cryptopanic_scraper import scrape_cryptopanic
 from app.xangle_scraper import scrape_xangle
 from app.bloomingbit_scraper import scrape_bloomingbit
+from app.coinness_scraper import scrape_coinness
 from app.ai_filter import score_items
 from scripts.notify_telegram import send_telegram_message
 
@@ -186,6 +187,9 @@ async def main():
 
     if config.get("enable_bloomingbit", True):
         press_items += await scrape_bloomingbit()
+
+    if config.get("enable_coinness", True):
+        press_items += await scrape_coinness()
 
     api_items = []
     if config.get("enable_cryptopanic", True):
