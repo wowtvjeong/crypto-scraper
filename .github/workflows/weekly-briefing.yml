@@ -1,0 +1,35 @@
+name: 주간 시황 브리핑 대본 생성
+
+on:
+  workflow_dispatch: {}   # 방송 전에 수동으로만 실행 (자동 스케줄 없음)
+
+permissions:
+  contents: write   # docs/weekly-briefings/*.md 커밋을 위해 필요
+
+jobs:
+  weekly-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 주간 브리핑 대본 생성 및 텔레그램 전송
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/generate_weekly_briefing.py
+
+      - name: 대본 파일 커밋 & 푸시
+        run: |
+          git config user.name "scrap-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/weekly-briefings
+          git diff --staged --quiet || git commit -m "chore: 주간 브리핑 대본 $(date -u +'%Y-%m-%d')"
+          git push
