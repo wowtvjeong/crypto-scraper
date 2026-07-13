@@ -20,6 +20,7 @@ import yaml
 from app.telegram_scraper import scrape_all_channels
 from app.press_scraper import scrape_all_press
 from app.cryptopanic_scraper import scrape_cryptopanic
+from app.xangle_scraper import scrape_xangle
 from app.ai_filter import score_items
 from scripts.notify_telegram import send_telegram_message
 
@@ -178,6 +179,9 @@ async def main():
 
     telegram_items = await scrape_all_channels(config.get("telegram_channels", []))
     press_items = await scrape_all_press(config.get("press_sites", []))
+
+    if config.get("enable_xangle", True):
+        press_items += await scrape_xangle()
 
     api_items = []
     if config.get("enable_cryptopanic", True):
