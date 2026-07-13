@@ -31,7 +31,7 @@ DATA_PATH = ROOT / "docs" / "articles.json"
 ARCHIVE_DIR = ROOT / "docs" / "archive"
 ARCHIVE_INDEX_PATH = ARCHIVE_DIR / "index.json"
 HEALTH_PATH = ARCHIVE_DIR / "source-health.json"
-MAX_KEEP = 300  # 최근 목록(articles.json)에 유지할 최대 기사 수 — 대시보드 로딩 속도용
+MAX_KEEP = 1500  # 최근 목록(articles.json)에 유지할 최대 기사 수 — 대시보드 로딩 속도용
 
 
 def load_config() -> dict:
