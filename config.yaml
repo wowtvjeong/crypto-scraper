@@ -1,4 +1,5 @@
 enable_cryptopanic: false  # CryptoPanic은 요금제가 유료일 수 있어 기본 꺼둠 — 가입 페이지에서 직접 확인 후 켜세요
+enable_xangle: true         # Xangle 리서치 API 직접 연동 (app/xangle_scraper.py)
 
 # ✅ wublockchainenglish: 텔레그램에서 직접 확인 완료 (구독자 27만+, 정상 공개 채널)
 # ❌ coindeskkorea: 확인해보니 공개 채널이 아니라 봇(bot)들만 있어서 제거함
@@ -52,11 +53,8 @@ press_sites:
     title_selector: "h3"                             # 추측값, 미검증
     link_selector: "a"                                # 추측값, 미검증
 
-  - name: "xangle"
-    list_url: "https://xangle.io/"                    # 추측값, 미검증 — JS 렌더링 위험 높음
-    item_selector: "article"                          # 추측값, 미검증
-    title_selector: "h2"                              # 추측값, 미검증
-    link_selector: "a"                                # 추측값, 미검증
+  # xangle: press_sites가 아니라 app/xangle_scraper.py로 API 직접 연동함
+  # (config.yaml 맨 위 enable_xangle: true 로 켜고 끔)
 
   - name: "bloomingbit"
     list_url: "https://bloomingbit.io/"               # 추측값, 미검증 — JS 렌더링 위험 높음
