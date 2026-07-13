@@ -2,63 +2,63 @@
   "wublockchainenglish": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729821+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247174+00:00"
   },
   "tokenpost": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729838+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247192+00:00"
   },
   "blockmedia": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729841+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247196+00:00"
   },
   "decenter": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729844+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247198+00:00"
   },
   "cointelegraph": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729846+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247200+00:00"
   },
   "decrypt": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729848+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247202+00:00"
   },
   "coindesk": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729850+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247204+00:00"
   },
   "blockworks": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729852+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247207+00:00"
   },
   "coingecko_news": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729854+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247208+00:00"
   },
   "coinness": {
-    "consecutive_zero": 1,
+    "consecutive_zero": 2,
     "alerted": false
   },
   "xangle": {
-    "consecutive_zero": 1,
+    "consecutive_zero": 2,
     "alerted": false
   },
   "bloomingbit": {
-    "consecutive_zero": 1,
+    "consecutive_zero": 2,
     "alerted": false
   },
   "coinmarketcap_community": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-07-12T23:43:52.729859+00:00"
+    "last_ok_run": "2026-07-13T00:15:32.247214+00:00"
   }
 }
