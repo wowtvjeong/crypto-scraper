@@ -13,14 +13,34 @@ Groq 무료 티어의 분당 토큰 한도(6000 TPM) 때문에 한 번의 요청
 아니라, 수집된 기사 중 온체인 관련 키워드가 들어간 '뉴스'를 모아 정리하는 방식이다.
 "다음 주 체크포인트"도 별도 경제 캘린더 데이터 없이, 이번 주 기사에 언급된 예정 이벤트가
 있으면 활용하고 없으면 억지로 지어내지 않는다.
+
+[수정 이력]
+- 단위 변환 오류(예: "$197.4M" -> "197.4만 달러"로 100배 축소, "$266.5M" -> "2665억"으로
+  1000배 확대) 수정. 소형 모델(llama-3.1-8b-instant)에게 달러 단위 환산을 맡기면 자꾸
+  틀려서, normalize_usd_millions_in_text()로 소스 기사 단계에서 미리 정확히 계산된
+  한국어 억/만 표기로 바꿔서 넘긴다. 모델은 이제 "복사"만 하면 되고 "계산"은 안 한다.
+- "다음 주 체크포인트" 섹션이 앞 섹션과 같은 기사를 반복 요약하던 문제 수정.
+  categorize_articles()가 실제로 사용된 기사 URL 집합을 반환하도록 바꾸고, 체크포인트
+  섹션에는 (1)앞 섹션에서 안 쓰인 기사 중 (2)"예정/앞두고/다가오는" 등 전망성 키워드가
+  있는 기사를 우선으로, 없으면 아직 안 쓰인 기사를 넘긴다. 각 섹션의 `or articles`
+  전체 폴백도 제거해서 이미 다룬 기사 재사용을 막았다.
+- 섹션마다 어투(해라체/합쇼체)가 섞이던 문제 수정. COMMON_RULES에 합쇼체 고정 규칙과
+  예시 문장을 명시.
+- 섹션마다 "이번 주 올랐다/내렸다"가 다르게 나오던 문제 수정. CoinGecko에서 실제
+  BTC/ETH의 7일 등락률을 코드로 직접 계산해서 오프닝·비트코인·체크포인트 섹션에
+  공통 근거로 제공. 기사 제목에 나온 개별 가격 언급과 방향이 다르면 이 실측 데이터를
+  우선하도록 지시.
 """
 import asyncio
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+
+import httpx
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
@@ -46,12 +66,19 @@ ETH_ALT_KEYWORDS = [
 ]
 ETF_INST_KEYWORDS = ["ETF", "기관", "블랙록", "피델리티", "자산운용", "펀드", "자금 유입", "자금 유출"]
 ONCHAIN_KEYWORDS = ["온체인", "고래", "거래소 유입", "거래소 유출", "스테이블코인", "청산", "미결제약정", "순유출", "순유입"]
+FORWARD_LOOKING_KEYWORDS = ["예정", "앞두고", "다가오는", "예고", "출시 예정", "발표 예정", "다음 주", "다음달", "다음 달"]
 
 COMMON_RULES = """
 - 마크다운 기호(*, #, - 등)나 불릿포인트는 절대 쓰지 말 것 — 그대로 소리내어 읽을 문장으로만 작성
 - 사실관계는 반드시 주어진 기사 목록 범위 안에서만 서술하고, 목록에 없는 정보나 임의의 가격 전망·추측·일정은 절대 만들어내지 말 것
 - 앵커가 실제로 말하듯 자연스러운 구어체로, 소제목 없이 이어지는 문장으로 작성할 것
 - 관련 기사가 부족하면 억지로 분량을 늘리지 말고 짧게 언급만 하고 넘어갈 것
+- 문장 종결은 반드시 정중한 합쇼체("~습니다", "~입니다", "~했습니다")로 통일할 것.
+  "~했다", "~이다", "~보인다" 같은 해라체(신문 기사체)는 절대 섞어 쓰지 말 것.
+  예시: "비트코인 가격이 상승했습니다" (O) / "비트코인 가격이 상승했다" (X)
+- 기사 제목·본문에 나온 금액·수치는 이미 정확한 한국어 단위(억/만 달러 등)로
+  변환되어 주어지니, 그 표기를 그대로 사용하고 스스로 다시 계산하거나 단위를
+  바꿔 쓰지 말 것 (예: "1억 9,740만 달러"를 "197.4만 달러"처럼 임의로 바꾸지 말 것)
 """
 
 
@@ -108,9 +135,11 @@ def _matches(article: dict, keywords: list) -> bool:
     return any(kw.lower() in text for kw in keywords)
 
 
-def categorize_articles(articles: list) -> dict:
+def categorize_articles(articles: list) -> tuple:
     """제목·본문 키워드 기준으로 섹션별 후보 기사를 나눈다 (근사치 분류).
-    우선순위: 비트코인 > 이더리움·알트코인 > ETF·기관 > 온체인"""
+    우선순위: 비트코인 > 이더리움·알트코인 > ETF·기관 > 온체인
+    반환값: (버킷 딕셔너리, 버킷에 실제로 들어간 기사들의 url 집합)
+    -- url 집합은 뒤에서 "다음 주 체크포인트" 섹션이 이미 다룬 기사를 피하는 데 쓴다."""
     buckets = {"btc": [], "eth_alt": [], "etf_inst": [], "onchain": []}
     used_urls = set()
 
@@ -129,7 +158,42 @@ def categorize_articles(articles: list) -> dict:
             continue
         used_urls.add(a["url"])
 
-    return buckets
+    return buckets, used_urls
+
+
+def has_forward_looking_keywords(article: dict) -> bool:
+    text = f"{article['title']} {article.get('content', '')}"
+    return any(kw in text for kw in FORWARD_LOOKING_KEYWORDS)
+
+
+# ── 달러 단위(M/million) 표기를 정확한 한국어 억/만으로 변환 ──
+# 소형 모델(llama-3.1-8b-instant)이 이 계산을 직접 하면 자주 틀려서
+# (예: "$197.4M" -> "197.4만 달러"로 100배 축소, "$266.5M" -> "2665억"으로 확대),
+# 모델에게 넘기기 전에 코드에서 미리 정확히 계산해둔다.
+_USD_PATTERN = re.compile(r'\$\s?(-?[\d,]+(?:\.\d+)?)\s?(M|million|Million|MM)\b')
+
+
+def _usd_to_korean(value: float) -> str:
+    value = int(round(value))
+    sign = "-" if value < 0 else ""
+    value = abs(value)
+    eok = value // 100_000_000
+    man = (value % 100_000_000) // 10_000
+    parts = []
+    if eok:
+        parts.append(f"{eok:,}억")
+    if man:
+        parts.append(f"{man:,}만")
+    if not parts:
+        parts.append(f"{value:,}")
+    return sign + " ".join(parts) + " 달러"
+
+
+def normalize_usd_millions_in_text(text: str) -> str:
+    def repl(m):
+        num = float(m.group(1).replace(",", ""))
+        return _usd_to_korean(num * 1_000_000)
+    return _USD_PATTERN.sub(repl, text or "")
 
 
 def build_source_list(articles: list, limit: int = 8) -> str:
@@ -137,9 +201,52 @@ def build_source_list(articles: list, limit: int = 8) -> str:
         return "(관련 기사 없음 — 짧게만 언급하거나 생략할 것)"
     lines = []
     for a in articles[:limit]:
-        reason = (a.get("reason") or "")[:40]
-        lines.append(f"- [{a['relevance_score']:.1f}] {a['title']} ({a['source']}) — {reason}")
+        title = normalize_usd_millions_in_text(a["title"])
+        reason = normalize_usd_millions_in_text((a.get("reason") or "")[:40])
+        lines.append(f"- [{a['relevance_score']:.1f}] {title} ({a['source']}) — {reason}")
     return "\n".join(lines)
+
+
+# ── 이번 주 실제 가격 등락(코드로 직접 계산) ──
+# 기사 제목만 보고 모델이 "올랐다/내렸다"를 추론하게 하면 섹션마다 다르게 판단해서
+# 서로 모순되는 서술이 나온다. CoinGecko에서 7일 등락률을 직접 가져와 모든 섹션에
+# 공통 근거로 제공한다.
+async def fetch_weekly_price_summary() -> str:
+    try:
+        async with httpx.AsyncClient(timeout=15.0) as client:
+            resp = await client.get(
+                "https://api.coingecko.com/api/v3/coins/markets",
+                params={
+                    "vs_currency": "usd",
+                    "ids": "bitcoin,ethereum",
+                    "price_change_percentage": "7d",
+                },
+            )
+            resp.raise_for_status()
+            data = resp.json()
+    except httpx.HTTPError as e:
+        print(f"[weekly] 가격 스냅샷 조회 실패: {e}")
+        return None
+
+    name_map = {"bitcoin": "비트코인", "ethereum": "이더리움"}
+    lines = []
+    for coin in data:
+        name = name_map.get(coin.get("id"))
+        if not name:
+            continue
+        price = coin.get("current_price")
+        change = coin.get("price_change_percentage_7d_in_currency")
+        if price is None or change is None:
+            continue
+        direction = "상승" if change >= 0 else "하락"
+        lines.append(f"{name}: 현재가 약 ${price:,.0f}, 지난 7일간 {abs(change):.1f}% {direction}")
+
+    if not lines:
+        return None
+    return (
+        "실제 시세 데이터(이 수치가 절대 기준이며, 기사 제목에 나온 개별 가격 언급과 "
+        "방향이 다르면 반드시 이 데이터를 우선할 것):\n" + "\n".join(lines)
+    )
 
 
 def call_groq(system_prompt: str, user_prompt: str, max_tokens: int) -> str:
@@ -161,23 +268,31 @@ def call_groq(system_prompt: str, user_prompt: str, max_tokens: int) -> str:
     return completion.choices[0].message.content.strip()
 
 
-def gen_opening(top_articles: list) -> str:
+def gen_opening(top_articles: list, price_context: str = None) -> str:
     system = f"""너는 1인 진행 크립토 주간 시황 브리핑 방송의 오프닝 작가야.
 아래 이번 주 주요 뉴스 목록을 참고해서, 방송 시작 인사와 "이번 주를 한 줄로 요약하면" 하는
 느낌의 짧은 도입부를 작성해. 200~300자 내외로 짧게 작성할 것.
 {COMMON_RULES}"""
     user = f"이번 주 주요 뉴스:\n\n{build_source_list(top_articles, limit=8)}"
+    if price_context:
+        user += f"\n\n{price_context}"
     return call_groq(system, user, max_tokens=500)
 
 
-def gen_section(title: str, role: str, articles: list, target_chars: str, max_tokens: int, extra_context: str = None) -> str:
+def gen_section(title: str, role: str, articles: list, target_chars: str, max_tokens: int,
+                 extra_context: str = None, avoid_repeat: bool = False) -> str:
     system = f"""너는 1인 진행 크립토 주간 시황 브리핑 방송의 작가야.
 지금 작성할 부분은 "{title}" 섹션이야. {role}
 분량은 {target_chars} 내외로 작성해.
 {COMMON_RULES}"""
+    if avoid_repeat:
+        system += "\n- 이 방송의 앞선 섹션들(비트코인/이더리움·알트코인/ETF·기관/온체인)에서 이미 " \
+                   "다룬 내용은 반복해서 요약하지 말고, 아래 목록에 있는 새로운 내용이나 " \
+                   "다가오는 이벤트 위주로 짧게 짚어줄 것."
+
     user = f"이번 주 관련 뉴스 목록:\n\n{build_source_list(articles, limit=8)}"
     if extra_context:
-        user += f"\n\n실시간 온체인 네트워크 지표(참고용, 자연스럽게 문장에 녹여서 언급할 것):\n{extra_context}"
+        user += f"\n\n{extra_context}"
     return call_groq(system, user, max_tokens=max_tokens)
 
 
@@ -205,7 +320,7 @@ async def main():
         print("[weekly] 최근 7일간 기사가 없어 브리핑을 생성하지 않습니다.")
         return
 
-    buckets = categorize_articles(articles)
+    buckets, used_urls = categorize_articles(articles)
     print(
         f"[weekly] 분류 결과 — 비트코인 {len(buckets['btc'])}건 / "
         f"이더리움·알트코인 {len(buckets['eth_alt'])}건 / "
@@ -213,10 +328,14 @@ async def main():
         f"온체인 {len(buckets['onchain'])}건"
     )
 
+    print("[weekly] 이번 주 실제 시세(BTC/ETH) 조회 중 (CoinGecko)...")
+    price_context = await fetch_weekly_price_summary()
+    print(f"[weekly] 시세 조회: {'성공' if price_context else '실패 — 기사 기반으로만 작성'}")
+
     segments = []  # (transition_or_None, content)
 
     print("[weekly] 오프닝 생성 중...")
-    segments.append((None, gen_opening(articles[:10])))
+    segments.append((None, gen_opening(articles[:10], price_context=price_context)))
 
     time.sleep(CALL_INTERVAL_SEC)
     print("[weekly] 비트코인 섹션 생성 중...")
@@ -225,7 +344,8 @@ async def main():
         gen_section(
             "비트코인 주요 이슈",
             "비트코인 가격 동향과 관련 주요 뉴스를 중심으로 정리해.",
-            buckets["btc"] or articles, "800~1000자", max_tokens=1100,
+            buckets["btc"], "800~1000자", max_tokens=1100,
+            extra_context=price_context,
         ),
     ))
 
@@ -236,7 +356,7 @@ async def main():
         gen_section(
             "이더리움·알트코인",
             "이더리움 및 주요 알트코인의 가격·이슈를 중심으로 정리해.",
-            buckets["eth_alt"] or articles, "800~1000자", max_tokens=1100,
+            buckets["eth_alt"], "800~1000자", max_tokens=1100,
         ),
     ))
 
@@ -247,7 +367,7 @@ async def main():
         gen_section(
             "ETF·기관 자금 흐름",
             "ETF 관련 소식과 기관 투자자의 자금 유입·유출 동향을 중심으로 정리해.",
-            buckets["etf_inst"] or articles, "600~800자", max_tokens=900,
+            buckets["etf_inst"], "600~800자", max_tokens=900,
         ),
     ))
 
@@ -273,10 +393,21 @@ async def main():
             "함께 제공되는 실시간 비트코인 네트워크 지표(해시레이트·멤풀·수수료) 및 "
             "200주 이동평균선 대비 현재가 위치를 자연스럽게 엮어서 정리해. "
             "뉴스 부분은 실제 원본 데이터가 아니라 보도된 뉴스를 종합하는 것임을 감안해.",
-            buckets["onchain"] or articles, "600~900자", max_tokens=1000,
+            buckets["onchain"], "600~900자", max_tokens=1000,
             extra_context=combined_context,
         ),
     ))
+
+    # ── "다음 주 체크포인트": 앞 섹션에서 다루지 않은 기사만 후보로 사용 ──
+    # 전망 키워드(예정/앞두고/다가오는 등)가 있는 기사를 우선하고, 없으면
+    # 아직 언급되지 않은 기사 중 상위 점수 기사로 대체한다.
+    leftover = [a for a in articles if a["url"] not in used_urls]
+    forward_looking = [a for a in leftover if has_forward_looking_keywords(a)]
+    checkpoint_source = forward_looking or leftover
+    print(
+        f"[weekly] 체크포인트 후보 — 미사용 기사 {len(leftover)}건 중 "
+        f"전망성 키워드 포함 {len(forward_looking)}건"
+    )
 
     time.sleep(CALL_INTERVAL_SEC)
     print("[weekly] 다음 주 체크포인트 생성 중...")
@@ -287,7 +418,9 @@ async def main():
             "이번 주 기사들 중 '예정', '앞두고', '다가오는' 같은 표현으로 향후 일정이 언급된 내용이 "
             "있다면 그것을 짚어주고, 없다면 이번 주 흐름을 토대로 다음 주에 지켜볼 만한 부분을 "
             "짧게 짚어줘. 목록에 없는 구체적 날짜·일정을 지어내지 말 것.",
-            articles, "500~700자", max_tokens=800,
+            checkpoint_source, "500~700자", max_tokens=800,
+            extra_context=price_context,
+            avoid_repeat=True,
         ),
     ))
 
