@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>크립토 스크래퍼 실행</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif;
+    background: #0d1117;
+    color: #e6edf3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 20px;
+  }
+  .card {
+    background: #161b22;
+    border: 1px solid #30363d;
+    border-radius: 14px;
+    padding: 32px 26px;
+    width: 100%;
+    max-width: 340px;
+  }
+  .icon { font-size: 32px; text-align: center; margin-bottom: 4px; }
+  h1 { font-size: 16px; margin: 0 0 20px; font-weight: 700; text-align: center; }
+  label { font-size: 12px; color: #8b949e; display: block; margin-bottom: 6px; }
+  input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    background: #0d1117;
+    color: #e6edf3;
+    font-size: 15px;
+  }
+  input:focus { outline: none; border-color: #F7931A; }
+  button {
+    width: 100%;
+    padding: 13px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  button .emoji { font-size: 18px; }
+  #btn-scrape { background: #21262d; color: #e6edf3; border: 1px solid #30363d; }
+  #btn-weekly { background: #F7931A; color: #000; }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+  .desc { font-size: 11px; color: #8b949e; margin: -4px 0 14px 4px; }
+  #status { margin-top: 8px; font-size: 12px; text-align: center; min-height: 16px; line-height: 1.5; }
+</style>
+</head>
+<body>
+  <div class="card">
+    <div class="icon">🟠</div>
+    <h1>크립토 스크래퍼 실행</h1>
+
+    <label for="key">비밀 키</label>
+    <input type="password" id="key" placeholder="키 입력" />
+
+    <button id="btn-weekly" onclick="run('weekly', this)">
+      <span class="emoji">📋</span> 주간 시황 브리핑 대본 생성
+    </button>
+    <div class="desc">5~8분 후 텔레그램으로 대본 도착</div>
+
+    <button id="btn-scrape" onclick="run('scrape', this)">
+      <span class="emoji">📰</span> 지금 뉴스 수집 실행
+    </button>
+    <div class="desc">1~2분 후 대시보드 반영</div>
+
+    <div id="status"></div>
+  </div>
+
+<script>
+  // 기존에 쓰던 Worker 주소를 그대로 사용 (새로 만든 것 아님)
+  const WORKER_BASE = "https://scraper-trigger.wowtvjeong.workers.dev/";
+
+  function run(workflow, btn) {
+    const key = document.getElementById("key").value.trim();
+    const status = document.getElementById("status");
+
+    if (!key) {
+      status.style.color = "#f85149";
+      status.textContent = "비밀 키를 입력해주세요.";
+      return;
+    }
+
+    const params = new URLSearchParams({ key });
+    if (workflow === "weekly") {
+      params.set("workflow", "weekly");
+    }
+    const url = `${WORKER_BASE}?${params.toString()}`;
+
+    // 새 탭으로 열면 Worker가 돌려주는 성공/실패 메시지가 그 탭에 그대로 보인다
+    // (fetch로 몰래 호출하지 않고 그냥 링크를 여는 방식이라 CORS 설정이 필요 없다)
+    window.open(url, "_blank");
+
+    status.style.color = "#3fb950";
+    status.textContent = "새 탭이 열렸어요 — 거기서 결과 메시지를 확인하세요.";
+  }
+</script>
+</body>
+</html>
