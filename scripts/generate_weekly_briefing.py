@@ -327,13 +327,18 @@ def call_groq(system_prompt: str, user_prompt: str, max_tokens: int) -> str:
 
 def gen_opening(top_articles: list, price_context: str = None) -> str:
     system = f"""너는 1인 진행 크립토 주간 시황 브리핑 방송의 오프닝 작가야.
-아래 이번 주 주요 뉴스 목록을 참고해서, 방송 시작 인사와 "이번 주를 한 줄로 요약하면" 하는
-느낌의 짧은 도입부를 작성해. 200~300자 내외로 짧게 작성할 것.
+방송 시작 인사 한 문장과, 이번 주 시장 전반 분위기(상승/하락/혼조세 등)를 짚어주는
+한두 문장으로 구성된 짧은 도입부를 작성해. 150~250자 내외로 작성할 것.
+개별 뉴스 제목이나 사건을 나열하지 말 것 — 그건 뒤 섹션에서 각각 다룰 예정이니,
+여기서는 "이번 주는 전반적으로 이런 흐름이었다"는 큰 그림만 한 번만 언급하고
+같은 내용을 다른 말로 반복하지 말 것.
+가격을 언급할 경우, 아래 제공되는 실제 시세 데이터의 숫자만 사용할 것 (기사
+제목에 나온 다른 가격 숫자는 절대 인용하지 말 것 — 시점이 달라 서로 모순될 수 있음).
 {COMMON_RULES}"""
-    user = f"이번 주 주요 뉴스:\n\n{build_source_list(top_articles, limit=8)}"
+    user = f"이번 주 주요 뉴스(주제 파악용, 개별 인용 금지):\n\n{build_source_list(top_articles, limit=8)}"
     if price_context:
         user += f"\n\n{price_context}"
-    return call_groq(system, user, max_tokens=500)
+    return call_groq(system, user, max_tokens=400)
 
 
 def gen_section(title: str, role: str, articles: list, target_chars: str, max_tokens: int,
@@ -341,7 +346,15 @@ def gen_section(title: str, role: str, articles: list, target_chars: str, max_to
     system = f"""너는 1인 진행 크립토 주간 시황 브리핑 방송의 작가야.
 지금 작성할 부분은 "{title}" 섹션이야. {role}
 분량은 {target_chars} 내외로 작성해.
+이 섹션 바로 앞에는 이미 "~살펴보겠습니다", "~짚어보겠습니다" 같은 전환 문장이
+붙는다. 그러니 "오늘은 ~ 알려드리겠습니다", "~에 대해 말씀드리겠습니다" 같은
+인사말이나 섹션 재소개로 다시 시작하지 말고, 곧바로 내용으로 들어갈 것.
+(전환 문장 뒤에 또 인사말이 이어지면 방송이 처음부터 다시 시작하는 것처럼 들린다)
 {COMMON_RULES}"""
+    if extra_context and ("실제 시세 데이터" in extra_context or "현재가" in extra_context):
+        system += "\n- 가격을 언급할 때는 아래 제공되는 실제 시세 데이터의 숫자만 사용할 것. " \
+                   "기사 제목에 나온 다른 시점의 가격 숫자는 절대 함께 인용하지 말 것 " \
+                   "(시점이 달라 서로 모순되게 들릴 수 있음)."
     if avoid_repeat:
         system += "\n- 이 방송의 앞선 섹션들(비트코인/이더리움·알트코인/ETF·기관/온체인)에서 이미 " \
                    "다룬 내용은 반복해서 요약하지 말고, 아래 목록에 있는 새로운 내용이나 " \
