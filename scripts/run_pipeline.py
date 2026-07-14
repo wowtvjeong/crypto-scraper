@@ -23,6 +23,7 @@ from app.cryptopanic_scraper import scrape_cryptopanic
 from app.xangle_scraper import scrape_xangle
 from app.bloomingbit_scraper import scrape_bloomingbit
 from app.coinness_scraper import scrape_coinness
+from scripts.scrape_farside import scrape_farside
 from app.ai_filter import score_items
 from scripts.notify_telegram import send_telegram_message
 
@@ -195,9 +196,14 @@ async def main():
     if config.get("enable_cryptopanic", True):
         api_items = await scrape_cryptopanic()
 
-    all_items = telegram_items + press_items + api_items
+    farside_items = []
+    if config.get("enable_farside", True):
+        farside_items = await scrape_farside()
+
+    all_items = telegram_items + press_items + api_items + farside_items
     print(f"[pipeline] 원본 수집: {len(all_items)}건 "
-          f"(텔레그램 {len(telegram_items)} / 언론사 {len(press_items)} / API {len(api_items)})")
+          f"(텔레그램 {len(telegram_items)} / 언론사 {len(press_items)} / API {len(api_items)} "
+          f"/ ETF {len(farside_items)})")
 
     check_source_health(config, telegram_items, press_items)
 
