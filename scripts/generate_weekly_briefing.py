@@ -30,6 +30,11 @@ Groq 무료 티어의 분당 토큰 한도(6000 TPM) 때문에 한 번의 요청
   BTC/ETH의 7일 등락률을 코드로 직접 계산해서 오프닝·비트코인·체크포인트 섹션에
   공통 근거로 제공. 기사 제목에 나온 개별 가격 언급과 방향이 다르면 이 실측 데이터를
   우선하도록 지시.
+- 대본에 사용된 기사의 URL을 확인할 수 있도록, 저장되는 .md 파일과 텔레그램 메시지에
+  섹션별 출처(제목+URL) 목록을 별도로 추가 (낭독용 본문과는 분리해서 전송).
+- 생성된 문장에서 금액 표현을 추출해 원본 기사 목록과 대조하는 최소한의 자동
+  팩트체크(grounding_check)를 추가. 원본에 없는 금액이 발견되면 .md 파일과 텔레그램에
+  "⚠️ 자동 팩트체크 경고"로 표시한다 (완전한 사실검증은 아니고 숫자 지어내기 방지용).
 """
 import asyncio
 import json
@@ -207,6 +212,58 @@ def build_source_list(articles: list, limit: int = 8) -> str:
     return "\n".join(lines)
 
 
+def build_reference_block(label: str, articles: list, limit: int = 8) -> str:
+    """대본 낭독용이 아닌, 검수/팩트체크용 출처 목록 (제목 — URL)."""
+    if not articles:
+        return f"[{label}]\n(참고한 기사 없음)"
+    lines = [f"[{label}]"]
+    for a in articles[:limit]:
+        lines.append(f"- {a['title']}\n  {a['url']}")
+    return "\n".join(lines)
+
+
+# ── 생성된 문장에 원본 기사에 없는 금액이 섞여 들어갔는지 확인(완전한 팩트체크는 아니고,
+# "숫자를 지어내지 않았는지"를 잡아내는 최소한의 자동 대조) ──
+_AMOUNT_RE = re.compile(
+    r'-?\d[\d,]*(?:\.\d+)?억(?:\s*\d[\d,]*(?:\.\d+)?만)?\s*달러'
+    r'|-?\d[\d,]*(?:\.\d+)?만\s*달러'
+)
+_RAW_USD_RE = re.compile(r'\$\s?-?[\d,]+(?:\.\d+)?\s?(?:M|million|Million|MM)\b')
+
+
+def _normalize_amount_str(s: str) -> str:
+    return s.replace(",", "").replace(" ", "")
+
+
+def grounding_check(generated_text: str, source_articles: list) -> list:
+    """생성된 섹션 텍스트에서 금액 표현을 뽑아, 소스 기사 목록에 실제로 있던
+    금액인지 대조한다. 못 찾으면 '검증 필요' 목록에 넣어 반환한다.
+    주의: 완벽한 팩트체크가 아니라 '숫자 지어내기'를 잡아내는 보조 장치일 뿐이다."""
+    warnings = []
+
+    # 소스 기사 쪽에서 나올 수 있는 모든 금액 표현(정규화된 원본 + 우리가 미리
+    # 변환해둔 한국어 표기)을 모아 '허용된 금액 집합'을 만든다.
+    known = set()
+    for a in source_articles:
+        combined = f"{a.get('title', '')} {a.get('content', '')} {a.get('reason', '')}"
+        combined = normalize_usd_millions_in_text(combined)
+        for m in _AMOUNT_RE.findall(combined):
+            known.add(_normalize_amount_str(m))
+
+    # 1) 모델이 자체적으로 "$XXXM" 원문 표기를 그대로 새로 만들어낸 경우
+    #    (우리가 소스 단계에서 이미 다 변환해서 넘겼으므로, 출력에 이게 남아있으면
+    #    모델이 소스에 없는 걸 새로 지어냈거나 변환을 무시했다는 신호)
+    for m in _RAW_USD_RE.findall(generated_text):
+        warnings.append(f"원본 단위 표기가 그대로 남음(변환 누락 의심): '{m}'")
+
+    # 2) 생성된 텍스트의 금액 표현이 소스 목록에 있던 금액과 일치하는지 확인
+    for m in _AMOUNT_RE.findall(generated_text):
+        if _normalize_amount_str(m) not in known:
+            warnings.append(f"소스 기사에서 확인되지 않는 금액: '{m}'")
+
+    return warnings
+
+
 # ── 이번 주 실제 가격 등락(코드로 직접 계산) ──
 # 기사 제목만 보고 모델이 "올랐다/내렸다"를 추론하게 하면 섹션마다 다르게 판단해서
 # 서로 모순되는 서술이 나온다. CoinGecko에서 7일 등락률을 직접 가져와 모든 섹션에
@@ -332,10 +389,11 @@ async def main():
     price_context = await fetch_weekly_price_summary()
     print(f"[weekly] 시세 조회: {'성공' if price_context else '실패 — 기사 기반으로만 작성'}")
 
-    segments = []  # (transition_or_None, content)
+    segments = []  # (transition_or_None, content, label, source_articles)
 
     print("[weekly] 오프닝 생성 중...")
-    segments.append((None, gen_opening(articles[:10], price_context=price_context)))
+    opening_sources = articles[:10]
+    segments.append((None, gen_opening(opening_sources, price_context=price_context), "오프닝", opening_sources))
 
     time.sleep(CALL_INTERVAL_SEC)
     print("[weekly] 비트코인 섹션 생성 중...")
@@ -347,6 +405,7 @@ async def main():
             buckets["btc"], "800~1000자", max_tokens=1100,
             extra_context=price_context,
         ),
+        "비트코인", buckets["btc"],
     ))
 
     time.sleep(CALL_INTERVAL_SEC)
@@ -358,6 +417,7 @@ async def main():
             "이더리움 및 주요 알트코인의 가격·이슈를 중심으로 정리해.",
             buckets["eth_alt"], "800~1000자", max_tokens=1100,
         ),
+        "이더리움·알트코인", buckets["eth_alt"],
     ))
 
     time.sleep(CALL_INTERVAL_SEC)
@@ -369,6 +429,7 @@ async def main():
             "ETF 관련 소식과 기관 투자자의 자금 유입·유출 동향을 중심으로 정리해.",
             buckets["etf_inst"], "600~800자", max_tokens=900,
         ),
+        "ETF·기관 자금", buckets["etf_inst"],
     ))
 
     time.sleep(CALL_INTERVAL_SEC)
@@ -396,6 +457,7 @@ async def main():
             buckets["onchain"], "600~900자", max_tokens=1000,
             extra_context=combined_context,
         ),
+        "온체인", buckets["onchain"],
     ))
 
     # ── "다음 주 체크포인트": 앞 섹션에서 다루지 않은 기사만 후보로 사용 ──
@@ -422,19 +484,40 @@ async def main():
             extra_context=price_context,
             avoid_repeat=True,
         ),
+        "다음 주 체크포인트", checkpoint_source,
     ))
 
     closing = "오늘 준비한 주간 크립토 시황 브리핑은 여기까지입니다. 다음 주에 또 새로운 소식으로 찾아뵙겠습니다. 지금까지 시청해주셔서 감사합니다."
-    segments.append((None, closing))
+    segments.append((None, closing, None, []))
 
     script_parts = []
-    for transition, content in segments:
+    reference_blocks = []
+    all_warnings = []
+
+    for transition, content, label, source_articles in segments:
         if transition:
             script_parts.append(transition)
         script_parts.append(content)
+
+        if not label:
+            continue  # 클로징 등 출처가 없는 세그먼트는 건너뜀
+
+        warns = grounding_check(content, source_articles)
+        if warns:
+            all_warnings.append(f"[{label}]\n" + "\n".join(f"  - {w}" for w in warns))
+
+        reference_blocks.append(build_reference_block(label, source_articles))
+
     script = "\n\n".join(script_parts)
+    references_text = "\n\n".join(reference_blocks)
 
     print(f"[weekly] 최종 대본 길이: {len(script)}자")
+    if all_warnings:
+        print("[weekly] ⚠️ 팩트체크 경고:")
+        for w in all_warnings:
+            print(w)
+    else:
+        print("[weekly] 팩트체크: 이상 없음 (소스에 없는 금액 표현 미발견)")
 
     now_kst = datetime.now(timezone.utc) + timedelta(hours=9)
     date_str = now_kst.strftime("%Y-%m-%d")
@@ -442,7 +525,17 @@ async def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     out_path = OUTPUT_DIR / f"{date_str}.md"
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write(f"# 주간 시황 브리핑 대본 ({date_str})\n\n{script}\n")
+        f.write(f"# 주간 시황 브리핑 대본 ({date_str})\n\n")
+        f.write(f"{script}\n\n")
+        f.write("---\n\n## 출처 (낭독용 아님 — 검수/팩트체크용)\n\n")
+        f.write(references_text + "\n")
+        if all_warnings:
+            f.write("\n## ⚠️ 자동 팩트체크 경고\n\n")
+            f.write(
+                "아래 표현은 소스 기사 목록에서 정확히 확인되지 않았습니다. "
+                "AI가 숫자를 잘못 옮겼을 가능성이 있으니 방송 전 원문과 대조해주세요.\n\n"
+            )
+            f.write("\n\n".join(all_warnings) + "\n")
     print(f"[weekly] 대본 파일 저장 완료: {out_path}")
 
     est_minutes = max(1, len(script) // 280)
@@ -457,6 +550,23 @@ async def main():
             send_telegram_message(chunk)
         except Exception as e:
             print(f"[weekly] 텔레그램 전송 실패: {e}")
+
+    # 출처 목록은 낭독용 본문과 분리해서 별도 메시지로 전송 (검수용)
+    ref_header = "🔗 출처 목록 (아래는 방송에서 읽지 않는 검수·팩트체크용 링크입니다)\n\n"
+    for chunk in split_for_telegram(ref_header + references_text):
+        try:
+            send_telegram_message(chunk)
+        except Exception as e:
+            print(f"[weekly] 텔레그램 전송 실패(출처): {e}")
+
+    # 팩트체크 경고가 있으면 눈에 띄게 별도 알림
+    if all_warnings:
+        warn_text = "⚠️ 자동 팩트체크 경고 — 아래 표현은 원본 기사에서 확인되지 않았습니다. 방송 전 꼭 확인해주세요.\n\n" + "\n\n".join(all_warnings)
+        for chunk in split_for_telegram(warn_text):
+            try:
+                send_telegram_message(chunk)
+            except Exception as e:
+                print(f"[weekly] 텔레그램 전송 실패(경고): {e}")
 
     print("[weekly] 완료")
 
