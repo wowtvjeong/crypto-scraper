@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Interactive Brokers, the Fourth-Largest U.S. Brokerage, Adds Nine Crypto Tokens and Two-Way Stablecoin Transfers",
+    "content": "Interactive Brokers, the Fourth-Largest U.S. Brokerage, Adds Nine Crypto Tokens and Two-Way Stablecoin Transfers\nInteractive Brokers has added trading support for nine tokens through zerohash: AAVE, APT, CC, LDO, MON, NEAR, XPL, PAXG and UNI. The fourth-largest U.S. brokerage has also added AAVE, UNI and PAXG through Paxos. In addition, the platform has launched two-way stablecoin transfers, allowing clients to automatically convert U.S. dollars held in their IBKR accounts into USDC, PYUSD or RLUSD and send the funds to external wallets. Eligible clients can also transfer supported digital assets between IBKR and custodial or non-custodial wallets. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25143",
+    "published_at": "2026-07-14T23:49:49+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Interactive Brokers가 9개의 암호화폐 토큰과 2방향 스테이블코인 전송 기능을 추가함으로써 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-07-15T00:11:50.183609+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "美 은행권, 상원에 스테이블코인 수익률 규정 손질 촉구",
+    "content": "미국 은행 단체들이 스테이블코인 수익률 규정을 다시 쓰자며 상원에 압박을 넣었다. 업계의 핵심 쟁점은 단순한 ‘코인 가격’이 아니라, 이자성 상품을 둘러싼 규제 공방으로 옮겨가고 있다.13일 비인크립토에 따르면 은행권 연합은 최근 상원에 서한을 보내 ‘스테이블코인 수익률’ 관련 조항 수정이 필요하다고 주장했다. 이 서한은 ‘클래리티 법(CLARITY Act)’ 논의와 맞물려 있으며, 은행과 가상자산 발행사 간 이해 충돌이 다시 부각되는 계기가 됐다.‘클래리티 법’ 둘러싼 신경전이번 논란은 스테이블코인을 단순한 결제 수단이 아니라, 수익을 붙일 수 있는 금융상품으로 볼 수 있느냐에 달려 있다. 은행권은 예금과 유사한 기능을 가진...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/377887",
+    "published_at": "Wed, 15 Jul 2026 00:02:22 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "스테이블코인 수익률 규정 수정을 요구하는 미국 은행 단체의 압박은 크립토 시장에 큰 영향을 줄 수 있는 대형 거래소·기관의 중대 발표와 관련이 있다. 또한, 클래리티 법 논의와 관련된 신경전은 스테이블코인을 단순한 결제 수단이 아니라 수익을 붙일 수 있는 금융상품으로 볼 수 있느냐에 달려 있다.",
+    "collected_at": "2026-07-15T00:12:29.513461+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[코인시황] 美 물가 둔화에 금리 인상론 제동…비트코인, 6만4천달러선 회복",
+    "content": "[블록미디어 오수환 기자] 미국의 6월 소비자물가지수(CPI)가 시장 예상치를 크게 밑돌면서 연방준비제도(Fed·연준)의 7월 기준금리 인상 가능성이 크게 낮아졌다. 물가 둔화에 따른 위험자산 선호 심리가 확대되면서 비트코인을 비롯한 주요 디지털자산 가격이 상승세를 나타냈다. 15일 오전 8시20분 기준 국내 디지털자산(가상자산) 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 3.34% 상승한 9543만원에 거래됐다. 글로벌 거래소 바이낸스에서는 4.63% 오른 6만4907달러를 기록했다. [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1117002?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 14 Jul 2026 23:31:21 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "미국 물가 둔화로 인한 연방준비제도의 기준금리 인상 가능성이 낮아졌고, 비트코인의 가격이 상승했다. 그러나 시장 전체에 큰 영향을 미치는 것은 아니므로 7.5점으로 평가한다.",
+    "collected_at": "2026-07-15T00:13:25.246195+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "체인알리시스, 연방 법정 증거 기준 통과…온체인 분석 신뢰도 높였다",
