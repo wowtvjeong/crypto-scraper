@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "폴리곤 랩스, 코인미 인수 마무리 앞두고 추가 감원",
+    "content": "폴리곤 랩스(Polygon Labs)가 암호화폐 거래소 코인미(Coinme) 인수를 마무리하는 과정에서 추가 감원에 나선다. 블록체인 재단에서 ‘블록체인 기반 결제 기업’으로 전환하는 조직 개편이 본격화되면서, 사업 구조와 인력 재편이 동시에 진행되는 모습이다.조직 전환 속 인력 조정마크 보이론 폴리곤 랩스 최고경영자(CEO)는 목요일 X를 통해 “많은 동료들에게 작별을 고하게 될 것”이라며 감원 계획을 밝혔다. 그는 이번 조치가 직원의 역량 문제가 아니라 회사의 방향 전환에 따른 것이라고 설명했다. 보이론은 “블록체인 재단과 블록체인 기반 결제 회사는 같은 방식으로 운영되지 않는다”며 “조직 구조와 필요한 인재가 달라진다”고...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/378647",
+    "published_at": "Thu, 16 Jul 2026 22:21:33 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "폴리곤 랩스가 코인미 인수를 마무리하는 과정에서 추가 감원에 나섰고, 이는 블록체인 재단에서 '블록체인 기반 결제 기업'으로 전환하는 조직 개편과 관련이 있다.",
+    "collected_at": "2026-07-16T22:49:12.918939+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Polygon CEO announces job cuts amid Coinme acquisition",
+    "content": "The round of layoffs was part of Polygon transitioning operations to payments following a $250 million deal to acquire Coinme and Sequence in January.",
+    "url": "https://cointelegraph.com/news/polygon-ceo-job-cuts-coinme-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 16 Jul 2026 22:05:06 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Polygon CEO가 Coinme 인수와 관련된 조직 전환 과정에서 직원 감축을 발표했으므로, 크립토 업계의 중견 기업의 파트너십과 관련된 뉴스이지만, 시장 전체에 직접적인 영향을 주지는 않지만, 관련 주체가 크고 파급 범위가 어느 정도 있으므로 7.5점",
+    "collected_at": "2026-07-16T22:49:36.064452+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Sui, 가스 없는 스테이블코인 전송 출시",
+    "content": "Sui, 가스 없는 스테이블코인 전송 출시",
+    "url": "https://ns3.ai/ko/news/1eXhWalMx0",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "Sui가 가스 없는 스테이블코인 전송을 출시하는 것은 크립토 업계에 영향을 줄 수 있는 뉴스이지만, 영향 범위가 제한적이므로 7점을 부여한다.",
+    "collected_at": "2026-07-16T22:50:29.744600+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "트럼프 연설 베팅에 내부정보 활용 의혹…칼시, 당국과 합의 논의",
     "content": "도널드 트럼프 대통령의 오랜 텔레프롬프터 운영자가 트럼프 연설과 연동된 ‘칼시(Kalshi)’ 시장에서 내부 정보를 활용해 수익을 챙겼다는 의혹으로 연방 규제당국과 합의를 논의 중인 것으로 전해졌다. 예측시장으로 번지는 ‘인사이드 트레이딩’ 논란이 다시 수면 위로 떠오른 셈이다.13일(현지시간) ABC뉴스에 따르면 2016년부터 트럼프 대통령의 텔레프롬프터를 맡아온 기술 보조 인력 가브리엘 페레즈는 트럼프의 연설에 등장할 특정 단어와 주제에 베팅하는 ‘멘션(Mentions)’ 시장에서 12건이 넘는 거래를 통해 10만달러가 넘는 이익을 올린 혐의를 받고 있다. 칼시는 자사 감시 시스템으로 해당 활동을 포착한 뒤 이를...  더보기",
     "url": "https://www.tokenpost.kr/news/politics/378642",
