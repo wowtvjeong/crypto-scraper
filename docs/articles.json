@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "美 옥타곤, XFLT 이사회와 정면 충돌…운용사 교체 놓고 ‘주주 표 대결’",
+    "content": "미국 신용자산운용사 옥타곤 크레딧 인베스터스가 XAI 플로팅 레이트 앤드 얼터너티브 인컴 트러스트(XFLT)를 둘러싼 갈등에서 이사회를 정면 비판하며 주주 표 대결을 예고했다.17일(현지시간) 옥타곤 크레딧 인베스터스는 오는 7월 30일 예정된 XAI 플로팅 레이트 앤드 얼터너티브 인컴 트러스트(NYSE: XFLT)의 특별 주주총회를 앞두고, 펀드 이사회가 ‘왜곡된 주장’으로 운용사 교체를 밀어붙이고 있다고 반박했다. 이번 분쟁의 핵심은 오랜 기간 서브어드바이저로 활동해온 옥타곤을 배제하고, 킹 스트리트(King Street)를 새 운용 파트너로 선임하는 안건이다.옥타곤 측은 이사회가 XFLT의 투자자 이익보다 자문사 XAI의 수익 확대에...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/379046",
+    "published_at": "Sat, 18 Jul 2026 09:02:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "크립토와 관련이 없는 주식 뉴스이지만, 크립토와 관련된 투자자와 자문사 간의 갈등과 투자자 이익에 대한 논쟁이 있어, 크립토 관련 뉴스와 유사한 파급력을 가지는 뉴스입니다.",
+    "collected_at": "2026-07-18T09:52:51.388609+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Trusted Volumes 해커, ETH 200만 달러 반환",
+    "content": "Trusted Volumes 해커, ETH 200만 달러 반환",
+    "url": "https://ns3.ai/ko/news/tOLpE32ARp",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "ETH 200만 달러 반환은 크립토 시장에 영향을 줄 수 있는 큰 금액의 자산이 반환되는 사건으로, 관련 주체의 규모가 중견 기업급으로 파급 범위가 크며 확정된 사건이다.",
+    "collected_at": "2026-07-18T09:54:27.612456+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Moonshot AI의 Kimi, 6개월 내 마무리될 수 있는 홍콩 IPO 준비",
+    "content": "Moonshot AI의 Kimi, 6개월 내 마무리될 수 있는 홍콩 IPO 준비",
+    "url": "https://ns3.ai/ko/news/a2M7iaFvkf",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "Moonshot AI가 IPO를 준비중인 뉴스이며, 관련 주체의 규모가 중견 기업 수준으로 파급 범위가 특정 섹터 전체에 영향을 줄 수 있으나, 확정성은 아직 미흡하므로 7점을 부여함",
+    "collected_at": "2026-07-18T09:55:00.436436+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Noxa, a Memecoin Launchpad on Robinhood Chain, Ceases Operations",
+    "content": "Noxa, a Memecoin Launchpad on Robinhood Chain, Ceases Operations",
+    "url": "https://coinmarketcap.com/community/articles/6a5b48c825e42f0b8f37f70f/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 업체가 운영 중단을 발표한 뉴스, 영향 범위는 제한적",
+    "collected_at": "2026-07-18T09:57:05.892004+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Hyperliquid’s Jeff Yan warns crypto is losing its brightest minds to AI",
+    "content": "Hyperliquid’s Jeff Yan warns crypto is losing its brightest minds to AI",
+    "url": "https://coinmarketcap.com/community/articles/6a5b48c6976e664247d81284/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 전문가가 AI로 인해 크립토의 가장 뛰어난 인재들이 떠나고 있는 경향이 있다고 경고하는 뉴스",
+    "collected_at": "2026-07-18T09:57:21.309006+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "엑스에이아이 트러스트(XFLT), 주주 반란 확산…수수료 1.3% 인하 vs 운용개편 충돌",
     "content": "엑스에이아이 플로팅 레이트 앤드 얼터너티브 인컴 트러스트(XAI Floating Rate & Alternative Income Trust, NYSE:XFLT)를 둘러싼 운용 구조 개편을 놓고 주요 주주인 옥타곤 크레딧 인베스터스가 공개 반대에 나서며 긴장감이 고조되고 있다.옥타곤 크레딧 인베스터스는 2026년 7월 30일 예정된 특별 주주총회를 앞두고 미 증권거래위원회(SEC)에 제출한 프록시 자료를 통해 신규 서브어드바이저 선임안에 반대 입장을 분명히 했다. 해당 안건은 킹 스트리트 캐피털 매니지먼트 산하 신설 자회사인 록포드 타워 자산운용을 투자 자문사로 지정하는 내용으로, 펀드 이사회는 이를 만장일치로 승인하고 주주들에게 찬성을 권고한 상태다.옥타곤...  더보기",
     "url": "https://www.tokenpost.kr/news/market/379040",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인과 관련된 예시가 들어져 있으며, 투자와 관련된 심리적 환기를 제공한다.",
     "collected_at": "2026-07-10T21:32:16.834829+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[뉴욕 코인시황/마감] 비트코인 6.4만달러 회복…중동 긴장 완화에 대규모 숏 청산",
-    "content": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장은 비트코인이 심리적 저항선인 6만4000달러를 회복하며 주중 낙폭을 대부분 만회한 가운데 상승세를 보였다. 미국과 이란의 협상 재개 기대가 지정학적 긴장을 다소 완화한 데다 대규모 숏 포지션 청산이 발생하면서 투자심리가 개선됐다. 다만 투자심리를 나타내는 공포·탐욕 지수는 여전히 ‘공포’ 구간에 머물러 시장의 경계감은 이어졌다. 10일(현지시각) 코인마켓캡에 따르면 전체 디지털자산 시가총액은 2조1900억달러로 전일 대비 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115735?utm_source=general&utm_medium=rss",
-    "published_at": "Fri, 10 Jul 2026 20:55:57 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동과 뉴욕 디지털 자산 시장에 대한 보도",
-    "collected_at": "2026-07-10T21:32:17.287733+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Kraken to overhaul app with AI investing assistant",
-    "content": "The redesigned app will use AI to recommend trades and tailor investing tools around users' financial goals as Kraken expands into broader financial services.",
-    "url": "https://cointelegraph.com/news/kraken-to-rebuild-app-around-ai-powered-trading-agents-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 10 Jul 2026 21:07:39 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크라켄이 거래소 서비스를 확장하며 AI를 활용한 투자 추천 도구를 제공하는 뉴스",
-    "collected_at": "2026-07-10T21:32:17.545416+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
-    "content": "Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities.",
-    "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 10 Jul 2026 21:03:57 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "트럼프와 암호화폐의 연결고리에 대한 의회 слух이 나와, 관련된 법안인 CLARITY Act에 대한 논의가 진행 중이다.",
-    "collected_at": "2026-07-10T21:32:17.776341+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
-    "content": "Top Democrats on key Senate committees demanded inquiries into the more than $1.2 billion that President Trump made on crypto last year.",
-    "url": "https://decrypt.co/373289/democrats-senate-hearings-trump-massive-crypto-profits",
-    "published_at": "Fri, 10 Jul 2026 20:35:44 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "트럼프 대통령의 크립토 관련 수익에 대한 의회 조사 요청",
-    "collected_at": "2026-07-10T21:32:21.983813+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 9,526만 달러 청산",
-    "content": "지난 24시간 동안 암호화폐 시장에서 약 9,526만 달러 상당의 비트코인(BTC) 포지션이 청산된 것으로 나타났다. 이더리움(ETH) 포지션에서는 약 4,323만 달러가 청산되었으며, 솔라나(SOL)에서는 약 653만 달러의 청산이 발생했다. 특히 SANDBOX(SNDK)와 같은 특정 토큰은 $5.18M의 청산을 기록했으며, 기타 코인에서는 약 1,684만 달러가 청산되었다. 4시간 거래소별 청산 데이터를 살펴보면, 전체 청산액은 $15,340,000였으며, 바이낸스는 $6,690,000(43.59% 비율)로 가장 많은 부분을 차지했다. 바이비트에서는 총 $2,820,000의 청산이 발생했으며, 이 중 80.8%가 롱 포지션에서 발생했다. HTX와 Aster에서는 롱 포지션이 압도적인 비율을...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376685",
-    "published_at": "Fri, 10 Jul 2026 20:02:05 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 시장에서 레버리지 포지션의 청산에 대한 내용이 담겨 있어 암호화폐와 관련된 뉴스입니다.",
-    "collected_at": "2026-07-10T20:13:19.791574+00:00"
   }
 ]
