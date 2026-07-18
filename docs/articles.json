@@ -2,6 +2,54 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "미국, 브라질 결제망 ‘픽스’ 정조준…관세 넘어 결제 패권 충돌",
+    "content": "미국이 브라질산 제품에 25% 관세를 부과하면서 결제 인프라를 둘러싼 ‘무역 충돌’이 본격화됐다. 특히 브라질의 국가 결제 시스템 ‘픽스(Pix)’를 직접 겨냥하면서 디지털 금융 패권 경쟁이 수면 위로 떠오르는 모습이다.트럼프 대통령 행정부는 7월 22일부터 대부분의 브라질 수입품에 25% 관세를 적용한다고 밝혔다. 이는 미국 연방대법원이 기존 관세 정책을 무효화한 이후, ‘301조’ 무역법을 다시 꺼내든 첫 사례다. 301조는 통상 지식재산권 침해나 보조금 문제에 사용되던 조치로, 특정 국가의 ‘결제 시스템’을 겨냥한 것은 이번이 처음이다.미국 무역대표부(USTR)는 브라질 중앙은행이 운영하는 즉시결제 시스템 픽스를 문제로 지목했다....  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/379091",
+    "published_at": "Sat, 18 Jul 2026 16:18:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "미국과 브라질의 결제 시스템인 '픽스'를 겨냥한 무역 충돌로 인해 디지털 금융 패권 경쟁이 수면 위로 떠오르는 모습이 보인다.",
+    "collected_at": "2026-07-18T16:26:17.594555+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "DEX 유동성 85% 비효율…최대 2조3천억 원 잠자고 있다",
+    "content": "올해 상반기 탈중앙화 거래소(DEX)에 예치된 막대한 유동성 중 상당 부분이 실제로는 활용되지 못한 채 ‘잠자고’ 있는 것으로 나타났다. 시장이 커질수록 이 같은 비효율은 수익 손실로 이어질 수 있다는 분석이다.DEX 유동성 85% 비효율… 최대 2조3천억 원 ‘잠자고 있다’1인치가 의뢰하고 듄 애널리틱스가 분석한 보고서에 따르면, 2026년 상반기 주요 DEX에 공급된 약 18억4천만 달러(약 2조7,400억 원) 중 85%에 해당하는 약 16억 달러(약 2조3,800억 원)가 완전히 활용되지 못한 상태였다.유니스왑, 팬케이크스왑, 에어로드롬의 ‘집중 유동성 풀’을 기준으로 추적한 결과, 평균적으로 약 5억4,200만 달러(약 8,000억 원)는 특정 주간 동안...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379090",
+    "published_at": "Sat, 18 Jul 2026 15:58:02 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "DEX 유동성 85% 비효율로 최대 2조3천억 원이 잠자고 있는 것으로 나타났으며, 이는 시장의 비효율로 수익 손실로 이어질 수 있다는 분석이다.",
+    "collected_at": "2026-07-18T16:26:17.963310+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+    "content": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+    "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+    "published_at": "Sat, 18 Jul 2026 16:09:59 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유의미한 규제 동향이 동반된 뉴스",
+    "collected_at": "2026-07-18T16:26:18.562099+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "DEX 유동성 85% 비효율…최대 2조3천억 원 잠자고 있다",
+    "content": "DEX 유동성 85% 비효율…최대 2조3천억 원 잠자고 있다",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379090",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "DEX 유동성 비효율과 잠재적으로 잠재된 자금의 규모가 크고, 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-07-18T16:27:39.814104+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "노드 프리셔스 메탈스, 목표가 0.30캐나다달러…상승여력 88% '은·금 기대'",
     "content": "노드 프리셔스 메탈스 마이닝(Nord Precious Metals Mining)이 신규 커버리지에서 ‘매수’ 의견과 함께 주가 상승 여력이 제시되며 투자자들의 관심이 집중되고 있다.이머징 그로스 리서치는 최근 보고서를 통해 노드 프리셔스 메탈스 마이닝(TSX-V:NTH, OTCQ B:NPMMF)에 대해 ‘Buy-Emerging’ 등급과 12개월 목표주가 0.30캐나다달러를 제시했다. 이는 최근 주가 0.16캐나다달러 대비 약 88%의 상승 여력을 의미한다. 보고서는 특히 과거 은 정광 찌꺼기를 재처리하는 고우간다 프로젝트를 핵심 성장 동력으로 꼽았다. 회사는 약 296만 온스 규모의 비공식 역사적 은 자원을 기반으로 사업을 추진 중이며, 온타리오 코발트 캠프 내 고품위 은...  더보기",
     "url": "https://www.tokenpost.kr/news/market/379088",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "온체인 시장에서 대규모 유동성 이동, 하이퍼리퀴드와 아비트럼의 자금 이동에 대한 보도",
     "collected_at": "2026-07-11T11:44:03.742296+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
-    "content": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 11 Jul 2026 11:21:07 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격에 대한 뉴스, 2022년의 하락 시장에 대한 예측",
-    "collected_at": "2026-07-11T11:44:04.015260+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[알트 현물 ETF] 관망 속 HYPE 순유출...XRP·SOL은 소폭 유입",
-    "content": "미국 알트코인 현물 ETF 시장은 전반적으로 관망세를 보인 가운데 HYPE에서 자금 이탈, XRP·SOL에서 유입이 나타났다. XRP(XRP) 현물 ETF 시장은 전날 보합세를 보이다가 10만7380달러를 유치하며 순유입을 기록했다. 5개 종목 중 21셰어스 TOXR에서만 유입이 발생했다. 누적 순유입 14억8546만 달러｜거래대금 1091만 달러｜순자산총액 9억9665만 달러(시총 1.44%) 솔라나(SOL) 현물 ETF 시장은 순유출 2거래일 만에 15만521달러를 유치하며 순유입으로 전환됐다. 8개 종목 중 21셰어스 TSOL가 신규 자금을 유치했다. 누적 순유입 11억3626만 달러｜거래대금 5950만 달러｜순자산총액 9억138만 달러(시총 1.99%)  암호화폐 현물 ETF...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376754",
-    "published_at": "Sat, 11 Jul 2026 09:25:50 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 현물 ETF 시장에 대한 보도",
-    "collected_at": "2026-07-11T10:38:52.097369+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 현물 ETF 순유출 2거래일 만에 순유입...하루 9044만 달러 유입",
-    "content": "미국 비트코인 현물 ETF 시장이 순유출 2거래일 만에 순유입으로 전환됐다. 소소밸류 집계에 따르면 7월 10일(현지시간) 기준 미국 비트코인 현물 ETF 시장은 9044만 달러의 일간 순유입을 기록했다. 순유출 2거래일 만에 순유입으로 전환됐다. 누적 순유입 규모는 512억7658만 달러로 집계됐다. 전체 13개 ETF 가운데 유입은 ▲블랙록 IBIT 8683만 달러 ▲반에크 HODL 361만 달러 2개 종목에서 발생했다. 비트코인 현물 ETF 총 거래대금은 14억4888만 달러로 집계됐다. 종목별 거래대금은 블랙록 IBIT 11억1584만 달러, 피델리티 FBTC 1억4413만 달러, 그레이스케일 GBTC 5922만 달러 순이었다. 총 순자산 규모는 774억2155만 달러로, 비트코인...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376763",
-    "published_at": "Sat, 11 Jul 2026 09:17:34 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 현물 ETF의 순유입과 유입 규모가 언급되어 있어 암호화폐와 관련된 뉴스입니다.",
-    "collected_at": "2026-07-11T10:38:52.348892+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "이더리움 현물 ETF 순유출 하루 만에 순유입...하루 1843만 달러 유입",
-    "content": "미국 이더리움 현물 ETF 시장이 순유출 하루 만에 순유입으로 전환됐다. 소소밸류 집계에 따르면 7월 10일(현지시간) 기준 미국 이더리움 현물 ETF 시장은 1843만 달러의 일간 순유입을 기록했다. 전일 5거래일 만에 순유출이 있었지만 다시 순유입 전환에 성공했다. 누적 순유입 규모는 109억7346만 달러로 집계됐다. 전체 10개 ETF 가운데 유입은 ▲블랙록 ETHA 1620만 달러 ▲피델리티 FETH 223만 달러 2개 종목에서 발생했다. 이더리움 현물 ETF 총 거래대금은 4억1350만 달러로 집계됐다. 종목별 거래대금은 블랙록 ETHA 3억65만 달러, 그레이스케일 ETH 3842만 달러, 그레이스케일 ETHE 2659만 달러 순이었다. 총 순자산 규모는 95억8820만...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/376764",
-    "published_at": "Sat, 11 Jul 2026 09:16:44 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 현물 ETF가 순유출에서 순유입으로 전환한 뉴스",
-    "collected_at": "2026-07-11T10:38:52.560825+00:00"
   }
 ]
