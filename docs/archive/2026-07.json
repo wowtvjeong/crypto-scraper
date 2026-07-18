@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Michael Saylor Opposes BIP 110, Says Bitcoin Needs “Guardians of Neutrality”",
+    "content": "Michael Saylor Opposes BIP 110, Says Bitcoin Needs “Guardians of Neutrality”\nStrategy Executive Chairman Michael Saylor published an article titled “110 Reasons BIP 110 Is a Bad Idea,” opposing the proposal to restrict certain Bitcoin transaction types through consensus changes. Saylor argued that Bitcoin cannot determine transaction intent and that disputed uses should be governed by market mechanisms and node policies rather than protocol-level restrictions. He added that “Bitcoin does not need guardians of purity. It needs guardians of neutrality.” — \nlink",
+    "url": "https://t.me/wublockchainenglish/25200",
+    "published_at": "2026-07-18T22:47:53+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "마이클 세일러가 비트코인 거래 제한 제안에 반대하며, 중립성을 지키는 '보호자'가 필요하다고 주장했다.",
+    "collected_at": "2026-07-18T23:42:38.397163+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트마인, 이더리움 적극적 매집 전략 속 주가는 42% 급락",
+    "content": "비트마인, 이더리움 전략으로 시장 주목…주가는 42% 급락비트마인 이머젼 테크놀로지스(NYSE: BMNR)가 공격적인 이더리움 매집 전략으로 암호화폐 시장의 이목을 집중시키고 있다. 2026년 현재 BMNR 주가는 15.73달러로 마감했으며, 연초 27.15달러 대비 약 42.1% 하락한 수준이다. 이는 이더리움 가격 의존도가 높은 비즈니스 모델의 위험성이 주가에 반영된 결과다.비트마인은 현재 약 577만 ETH를 보유하고 있으며, 이는 전체 이더리움 공급량의 약 4.8%입니다. 회사는 '5% 연금술(Alchemy of 5%)' 목표 달성을 위해 지난 12개월 동안 96%의 진척을 기록했으나, 여전히 약 264,962 ETH(약 482.2백만 달러 상당)가 부족하다. 최근 SEC 자료에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379134",
+    "published_at": "Sat, 18 Jul 2026 23:02:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트마인이 이더리움에 대한 공격적인 매집 전략을 발표하여 주가가 42% 급락하는 등 이더리움 가격에 의존하는 비즈니스 모델의 위험성이 주가에 반영된 결과로 주목을 받고 있다.",
+    "collected_at": "2026-07-18T23:42:39.200466+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "SK하이닉스 ADR, 해외 ETF 새 투자 대안으로 떠오르다",
+    "content": "SK하이닉스의 미국주식예탁증서(ADR)가 미국 나스닥에 상장되면서, 국내 해외주식형 액티브 상장지수펀드(ETF)가 이를 새 투자 대상으로 빠르게 편입하고 있다.19일 ETF 체크와 금융투자업계에 따르면 지난 16일 기준 SK하이닉스 ADR을 담은 국내 ETF는 모두 11개로 집계됐다. 이들 상품은 미국 등 글로벌 거래소 상장 종목에 투자하는 해외주식형 ETF로, SK하이닉스 ADR이 현지시간 10일 미국 증시에 상장된 뒤 13일 일제히 편입에 나섰다. 그동안 해외형 ETF는 미국 거래소에 상장된 주식 중심으로 투자해야 하는 규정상 제약 때문에 한국 증시에 상장된 SK하이닉스를 직접 담기 어려웠는데, 이번 ADR 상장으로 그 장벽이 사실상 해소된...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/379131",
+    "published_at": "Sat, 18 Jul 2026 22:54:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "SK하이닉스 ADR의 미국 나스닥 상장으로 인해 국내 해외주식형 액티브 상장지수펀드(ETF)가 이를 새 투자 대상으로 편입하고 있다.",
+    "collected_at": "2026-07-18T23:43:12.863213+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트코인 고래, 583BTC 신규 지갑 이동",
+    "content": "[블록미디어 이정화 기자] 비트코인 대량 보유 지갑이 8년만에 깨어났다. 18일(현지시각) 온체인 분석 업체 아켐에 따르면 8년 전 약 1563만달러 어치 852.469BTC를 매수한 고래 지갑이 다시 움직였다. 당시 비트코인 개당 가격은 약 1만8300달러 수준이었다. 해당 지갑은 이번에 583.23BTC를 새로운 지갑으로 이동시켰다. 새 지갑 주소는 18F8Yke5Ve6c5Y6xQfwLpdETzysvjtjT2v 다. 이동 비트코인을 시가로 환산하면 3757만달러에 달한다. 매수 당시와 비교하면 약 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1118306?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 18 Jul 2026 23:37:10 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 대량 보유 지갑이 8년만에 움직인다는 점과, 이동한 비트코인의 시가로 환산한 금액이 3757만달러에 달한다는 점에서 시청자에게 유의미한 뉴스지만, 영향 범위가 제한적이다.",
+    "collected_at": "2026-07-18T23:43:50.817182+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "세일러, BIP 110 반대…비트코인에는 중립성이 필요하다고 밝혀",
+    "content": "세일러, BIP 110 반대…비트코인에는 중립성이 필요하다고 밝혀",
+    "url": "https://ns3.ai/ko/news/sRGyMvADl6",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP 110 반대와 관련된 뉴스, 세일러의 의견이 중립성 필요성을 강조하는 것으로 보이지만, 시장 전체에 큰 영향을 주는 것은 아니지만, 업계의 주목을 끄는 뉴스이다.",
+    "collected_at": "2026-07-18T23:44:41.363986+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노보그라츠, Clarity Act 타협 촉구",
+    "content": "노보그라츠, Clarity Act 타협 촉구",
+    "url": "https://ns3.ai/ko/news/HzKdxW4HXF",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "노보그라츠와 Clarity Act가 크립토와 관련된 주체로, 타협 촉구는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-18T23:44:56.812371+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "프랑스, 폴리마켓 전면 차단…예측시장 규제 분기점 되나",

@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Michael Saylor Opposes BIP 110, Says Bitcoin Needs “Guardians of Neutrality”",
+    "content": "Michael Saylor Opposes BIP 110, Says Bitcoin Needs “Guardians of Neutrality”\nStrategy Executive Chairman Michael Saylor published an article titled “110 Reasons BIP 110 Is a Bad Idea,” opposing the proposal to restrict certain Bitcoin transaction types through consensus changes. Saylor argued that Bitcoin cannot determine transaction intent and that disputed uses should be governed by market mechanisms and node policies rather than protocol-level restrictions. He added that “Bitcoin does not need guardians of purity. It needs guardians of neutrality.” — \nlink",
+    "url": "https://t.me/wublockchainenglish/25200",
+    "published_at": "2026-07-18T22:47:53+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "마이클 세일러가 비트코인 거래 제한 제안에 반대하며, 중립성을 지키는 '보호자'가 필요하다고 주장했다.",
+    "collected_at": "2026-07-18T23:42:38.397163+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트마인, 이더리움 적극적 매집 전략 속 주가는 42% 급락",
+    "content": "비트마인, 이더리움 전략으로 시장 주목…주가는 42% 급락비트마인 이머젼 테크놀로지스(NYSE: BMNR)가 공격적인 이더리움 매집 전략으로 암호화폐 시장의 이목을 집중시키고 있다. 2026년 현재 BMNR 주가는 15.73달러로 마감했으며, 연초 27.15달러 대비 약 42.1% 하락한 수준이다. 이는 이더리움 가격 의존도가 높은 비즈니스 모델의 위험성이 주가에 반영된 결과다.비트마인은 현재 약 577만 ETH를 보유하고 있으며, 이는 전체 이더리움 공급량의 약 4.8%입니다. 회사는 '5% 연금술(Alchemy of 5%)' 목표 달성을 위해 지난 12개월 동안 96%의 진척을 기록했으나, 여전히 약 264,962 ETH(약 482.2백만 달러 상당)가 부족하다. 최근 SEC 자료에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379134",
+    "published_at": "Sat, 18 Jul 2026 23:02:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트마인이 이더리움에 대한 공격적인 매집 전략을 발표하여 주가가 42% 급락하는 등 이더리움 가격에 의존하는 비즈니스 모델의 위험성이 주가에 반영된 결과로 주목을 받고 있다.",
+    "collected_at": "2026-07-18T23:42:39.200466+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "SK하이닉스 ADR, 해외 ETF 새 투자 대안으로 떠오르다",
+    "content": "SK하이닉스의 미국주식예탁증서(ADR)가 미국 나스닥에 상장되면서, 국내 해외주식형 액티브 상장지수펀드(ETF)가 이를 새 투자 대상으로 빠르게 편입하고 있다.19일 ETF 체크와 금융투자업계에 따르면 지난 16일 기준 SK하이닉스 ADR을 담은 국내 ETF는 모두 11개로 집계됐다. 이들 상품은 미국 등 글로벌 거래소 상장 종목에 투자하는 해외주식형 ETF로, SK하이닉스 ADR이 현지시간 10일 미국 증시에 상장된 뒤 13일 일제히 편입에 나섰다. 그동안 해외형 ETF는 미국 거래소에 상장된 주식 중심으로 투자해야 하는 규정상 제약 때문에 한국 증시에 상장된 SK하이닉스를 직접 담기 어려웠는데, 이번 ADR 상장으로 그 장벽이 사실상 해소된...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/379131",
+    "published_at": "Sat, 18 Jul 2026 22:54:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "SK하이닉스 ADR의 미국 나스닥 상장으로 인해 국내 해외주식형 액티브 상장지수펀드(ETF)가 이를 새 투자 대상으로 편입하고 있다.",
+    "collected_at": "2026-07-18T23:43:12.863213+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트코인 고래, 583BTC 신규 지갑 이동",
+    "content": "[블록미디어 이정화 기자] 비트코인 대량 보유 지갑이 8년만에 깨어났다. 18일(현지시각) 온체인 분석 업체 아켐에 따르면 8년 전 약 1563만달러 어치 852.469BTC를 매수한 고래 지갑이 다시 움직였다. 당시 비트코인 개당 가격은 약 1만8300달러 수준이었다. 해당 지갑은 이번에 583.23BTC를 새로운 지갑으로 이동시켰다. 새 지갑 주소는 18F8Yke5Ve6c5Y6xQfwLpdETzysvjtjT2v 다. 이동 비트코인을 시가로 환산하면 3757만달러에 달한다. 매수 당시와 비교하면 약 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1118306?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 18 Jul 2026 23:37:10 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 대량 보유 지갑이 8년만에 움직인다는 점과, 이동한 비트코인의 시가로 환산한 금액이 3757만달러에 달한다는 점에서 시청자에게 유의미한 뉴스지만, 영향 범위가 제한적이다.",
+    "collected_at": "2026-07-18T23:43:50.817182+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "세일러, BIP 110 반대…비트코인에는 중립성이 필요하다고 밝혀",
+    "content": "세일러, BIP 110 반대…비트코인에는 중립성이 필요하다고 밝혀",
+    "url": "https://ns3.ai/ko/news/sRGyMvADl6",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP 110 반대와 관련된 뉴스, 세일러의 의견이 중립성 필요성을 강조하는 것으로 보이지만, 시장 전체에 큰 영향을 주는 것은 아니지만, 업계의 주목을 끄는 뉴스이다.",
+    "collected_at": "2026-07-18T23:44:41.363986+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노보그라츠, Clarity Act 타협 촉구",
+    "content": "노보그라츠, Clarity Act 타협 촉구",
+    "url": "https://ns3.ai/ko/news/HzKdxW4HXF",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "노보그라츠와 Clarity Act가 크립토와 관련된 주체로, 타협 촉구는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-18T23:44:56.812371+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "프랑스, 폴리마켓 전면 차단…예측시장 규제 분기점 되나",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "쓰레스홀드(T)는 암호화폐 시장에서 상승 흐름을 보이며 거래대금 상위권 진입, 탐욕지수 99 기록 등 크립토 관련 뉴스",
     "collected_at": "2026-07-12T05:17:22.540851+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[거래소 토큰①] 유동성 묶고 생태계 넓히는 거래소 토큰의 진화",
-    "content": "[블록미디어 오수환 기자] 디지털자산(가상자산) 거래소들이 자체 토큰 기반의 수수료 혜택, 유동성 인센티브, 거버넌스 등을 앞세워 생태계를 고도화하고 있다. 중앙화 거래소(CEX)와 탈중앙화 거래소(DEX) 모두에서 거래소·프로토콜 토큰이 플랫폼 성장과 이용자 락인의 중요한 동력으로 자리 잡았다는 평가다. 12일 업계에 따르면 디지털자산 시황 분석 플랫폼 코인마켓캡 기준 시가총액 상위 15개 디지털자산 가운데 거래소 토큰은 BNB와 하이퍼리퀴드(HYPE), 유너스 세드 레오(LEO) 등 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115523?utm_source=general&utm_medium=rss",
-    "published_at": "Sun, 12 Jul 2026 04:00:10 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "거래소 토큰의 진화와 생태계 고도화에 대한 내용으로, 크립토와 직접 관련이 있으며 시청자에게 중요하고 흥미로운 내용",
-    "collected_at": "2026-07-12T05:17:49.214192+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[주간 온체인] 비트코인 반등했지만 고래는 신중…온체인 “추세 전환 아직”",
-    "content": "[블록미디어 박수용 기자] 비트코인(Bitcoin·BTC)이 6만달러 아래에서 반등했지만 온체인 데이터는 아직 안도하기 이르다는 신호를 보내고 있다. 개인 투자자는 저가 매수에 나섰지만 고래는 본격적인 매집으로 돌아서지 않았고 시장도 이번 반등을 일시적인 반등으로 보는 분위기가 강하다. 온체인 분석업체 샌티먼트는 11일(현지시각) 공개한 주간 보고서에서 비트코인이 최근 반등했지만 사회관계망서비스(SNS) 관심 감소와 제한적인 고래 매집 등으로 추세 전환을 확신하기는 이르다고 분석했다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115824?utm_source=general&utm_medium=rss",
-    "published_at": "Sun, 12 Jul 2026 03:00:11 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동과 고래의 매집 행동에 대한 분석이 담겨 있어 시청자에게 흥미로운 내용을 제공한다.",
-    "collected_at": "2026-07-12T05:17:54.601876+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-    "content": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
-    "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Sun, 12 Jul 2026 04:24:36 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인과 관련된 Ordinals proposal에 대한 토론",
-    "collected_at": "2026-07-12T05:18:02.126766+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "IMF 연구 “달러 스테이블코인, 외화 접근성 높이지만 통화위기 키울 수도”",
-    "content": "[블록미디어 박수용 기자] 달러 스테이블코인이 외화 접근성을 높일 수 있지만, 환율 위기 상황에서는 자국 통화 이탈을 부추겨 통화 불안을 증폭시킬 수 있다는 분석이 나왔다. 11일(현지시각) 코인텔레그래프에 따르면 국제통화기금(IMF)이 공개한 브랜던 조엘 탄 이코노미스트의 워킹페이퍼 ‘고정환율 체제의 스테이블코인과 취약성(Stablecoins and Fragility in Fixed Exchange Rate Regimes)’은 달러 스테이블코인이 공식 달러 환전이 제한된 국가에서 외화 접근성을 높이는 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115965?utm_source=general&utm_medium=rss",
-    "published_at": "Sun, 12 Jul 2026 01:39:30 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "IMF 연구에서 달러 스테이블코인이 외화 접근성을 높일 수 있지만 통화 불안을 증폭시킬 수 있다는 분석이 나왔다.",
-    "collected_at": "2026-07-12T01:45:12.856602+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[주말시황] 비트코인 6만3700달러선⋯호르무즈·CPI 경계",
-    "content": "[블록미디어 박수용 기자] 디지털자산(가상자산) 시장이 일요일 오전 약보합 흐름을 보이고 있다. 비트코인(BTC)은 6만3000달러 후반에서 움직였다. 주요 알트코인도 대부분 하락했다. 이란의 호르무즈 해협 폐쇄 선언과 미국의 추가 공습이 시장의 경계심을 높였다. 다음 주 미국 소비자물가지수(CPI) 발표도 주요 변수다. 12일 오전 9시30분 기준 업비트에서 비트코인은 전일보다 12만4000원(0.13%) 오른 9535만원에 거래됐다. 같은 시각 바이낸스에서는 24시간 기준 358.32달러(0.56%) 하락한 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115940?utm_source=general&utm_medium=rss",
-    "published_at": "Sun, 12 Jul 2026 01:00:15 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 변동과 관련된 시장 분석 및 뉴스",
-    "collected_at": "2026-07-12T01:45:16.152058+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "헤데라 기반 디파이 ‘본조 렌드’ 털렸다⋯ 136억원 피해",
-    "content": "[블록미디어 박수용 기자] 헤데라(Hedera·HBAR) 기반 탈중앙화금융(DeFi·디파이) 대출 프로토콜 본조 렌드(Bonzo Lend)가 약 905만달러(약 136억원) 규모의 해킹 피해를 입었다. 프로토콜은 서비스를 일시 중단했으며 헤데라 네트워크 자체의 문제는 아니라는 입장을 밝혔다. 11일(현지시각) 더블록과 코인데스크 보도에 따르면 공격자는 오라클 서비스 수프라(Supra)의 가격 정보 검증 취약점을 이용해 담보 자산인 소서스왑(SaucerSwap·SAUCE) 토큰 가격을 비정상적으로 부풀린 뒤 이를 담보로 663만 유에스디코인(USDC)과 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1115929?utm_source=general&utm_medium=rss",
-    "published_at": "Sat, 11 Jul 2026 23:58:37 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "헤데라 기반의 탈중앙화금융(DeFi) 프로토콜 본조 렌드가 해킹 피해를 입었고, 136억원 규모의 피해를 입었다.",
-    "collected_at": "2026-07-12T01:45:34.197529+00:00"
   }
 ]
