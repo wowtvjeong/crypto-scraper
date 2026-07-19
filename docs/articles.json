@@ -2,6 +2,54 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "써클(Circle) 주가 76% 급락…경쟁 심화로 압박",
+    "content": "Circle(CRCL) 주가, IPO 고점 대비 76% 급락…미즈호 '언더퍼폼' 강등Circle Internet Group(CRCL)의 주가가 IPO 이후 고점 대비 76% 급락하며 60달러 선에서 방어에 나섰다. 미즈호 증권이 목표가를 50달러로 하향 조정하고 투자의견을 '언더퍼폼'으로 강등하면서 시장의 우려가 커지고 있다. 7월 17일 기준 CRCL은 60.46달러에 거래를 마감했으며, 장중 최고가 62.39달러, 최저가 58.69달러를 기록하며 변동성을 보였다.260달러에서 60달러로…스테이블코인 경쟁 심화가 주가 압박CRCL 주가는 2025년 6월 IPO 직후 260달러 수준까지 치솟았으나, 2026년 7월 중순 현재 60달러대 초반으로 하락했다. 이는 약 75~76%의 급격한 하락세다. 미즈호...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379296",
+    "published_at": "Sun, 19 Jul 2026 23:02:17 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "써클(Circle) 주가가 76% 급락하고, 미즈호 증권이 목표가를 하향 조정하고 투자의견을 '언더퍼폼'으로 강등하는 등 시장의 우려가 커지고 있다. 또한, 스테이블코인 경쟁 심화가 주가 압박의 원인으로 언급된다.",
+    "collected_at": "2026-07-19T23:24:56.330601+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미국 GENIUS 법 규칙, 시행 1년 뒤에도 미완성",
+    "content": "미국 GENIUS 법 규칙, 시행 1년 뒤에도 미완성",
+    "url": "https://ns3.ai/ko/news/pCeBJ9seAa",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "미국 GENIUS 법은 크립토 시장에 큰 영향을 미치는 규제에 속하며, 시행 1년 뒤에도 미완성이라는 뉴스는 업계 전반에 주목할 만한 뉴스이다.",
+    "collected_at": "2026-07-19T23:27:07.316860+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "루미스, CLARITY 법안 통과 촉구…탈중앙화 프로젝트에 은행식 규제 반대",
+    "content": "루미스, CLARITY 법안 통과 촉구…탈중앙화 프로젝트에 은행식 규제 반대",
+    "url": "https://ns3.ai/ko/news/fyiGDnyv2G",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "루미스와 CLARITY 법안 통과 촉구는 탈중앙화 프로젝트에 대한 은행식 규제 반대라는 큰 의미를 지니고 있어, 규제당국의 공식 결정과 관련된 뉴스이므로 9점을 부여합니다.",
+    "collected_at": "2026-07-19T23:27:41.015284+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "카르다노, 온체인 거버넌스로 Van Rossem 하드포크 활성화",
+    "content": "카르다노, 온체인 거버넌스로 Van Rossem 하드포크 활성화",
+    "url": "https://ns3.ai/ko/news/qLiywk0siT",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "카르다노의 온체인 거버넌스 시스템을 통해 Van Rossem 하드포크가 활성화되는 뉴스, 이는 카르다노의 개발과 운영에 큰 영향을 미칠 것으로 보인다.",
+    "collected_at": "2026-07-19T23:27:59.485820+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "한국은행, '프로젝트 한강' 2단계로 디지털 예금 혁신 가속화",
     "content": "한국은행이 중앙은행 디지털화폐 기반 실증사업인 ‘프로젝트 한강’ 2단계를 조만간 시작하면서, 예금토큰을 실제 금융 인프라로 연결하는 작업이 본격화하고 있다. 원화 스테이블코인 도입을 위한 국회 입법 논의가 속도를 내지 못하는 사이, 한국은행은 먼저 은행권 예금을 디지털 형태로 옮겨 결제에 쓰는 구조를 시험하며 상용화 가능성을 넓히는 모습이다.20일 한국은행에 따르면 한은과 시중은행들은 2단계 예금토큰 실거래 테스트를 위한 시스템 개발과 참가자 모집 준비를 마무리하고 있다. 일정이 계획대로 진행되면 이르면 9월부터 실거래가 시작될 전망이다. 프로젝트 한강은 한국은행이 블록체인 기반 기관용 중앙은행 디지털화폐를...  더보기",
     "url": "https://www.tokenpost.kr/news/blockchain/379285",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "알트코인 시즌 지수와 비트코인 점유율의 변화를 다루고 있어 암호화폐와 관련된 뉴스입니다.",
     "collected_at": "2026-07-13T04:31:33.711054+00:00"
-  },
-  {
-    "source": "coinness",
-    "source_type": "press",
-    "title": "“비트코인을 망치는 건 스트래티지”…테슬라 주요 투자자, 세일러 맹비판",
-    "content": "테슬라 주요 투자자이자 유명 자산관리자인 로스 거버 거버 가와사키 자산운용(Gerber Kawasaki Wealth and Investment Management) 최고경영자(CEO)가 비트코인을 가장 많이 보유한 기업 스트래티지(Strategy)의 마이클 세일러 공동창업자를",
-    "url": "https://www.blockmedia.co.kr/archives/1116165",
-    "published_at": "2026-07-13T03:45:08.000Z",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인과 관련된 테슬라 주요 투자자의 비트코인 투자와 비판에 대한 뉴스",
-    "collected_at": "2026-07-13T04:31:38.011583+00:00"
-  },
-  {
-    "source": "coinness",
-    "source_type": "press",
-    "title": "[넥스블록]로빈후드가 쏘아올린 공 “주식 토큰보다 밈코인 먼저 터졌다”",
-    "content": "메인넷 출범 열흘 만에 DEX 거래량 급증…유니스왑이 유동성 99% 이상 차지 스톡토큰 내세운 금융 체인, 초기 흥행은 CASHCAT ...",
-    "url": "https://www.etoday.co.kr/news/view/2603075",
-    "published_at": "2026-07-13T03:35:00.000Z",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "로빈후드, 주식 토큰보다 밈코인 먼저 터진다는 주제와, 메인넷 출범 후 DEX 거래량 급증, 유니스왑의 유동성 99% 이상 차지하는 등 크립토 관련 내용이 포함되어 있습니다.",
-    "collected_at": "2026-07-13T04:31:41.333374+00:00"
-  },
-  {
-    "source": "coinness",
-    "source_type": "press",
-    "title": "[넥스블록][핫 NFT] CryptoPunks, 일 거래량 33만8662달러… 바닥가 5만8643달러",
-    "content": "글로벌 가상자산 시황 중계 사이트 코인게코(CoinGecko)에 따르면, 13일 오후 12시 기준 CryptoPunks가 최근 24시간 33만8662...",
-    "url": "https://www.etoday.co.kr/news/view/2603072",
-    "published_at": "2026-07-13T03:23:00.000Z",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "CryptoPunks는 NFT로 크립토와 관련이 있으며, 거래량이 33만8662달러로 큰 금액임을 언급하고 있습니다.",
-    "collected_at": "2026-07-13T04:31:45.645867+00:00"
-  },
-  {
-    "source": "coinness",
-    "source_type": "press",
-    "title": "[넥스블록]英 금융감독청, 가상자산규제 완화∙∙∙브렉시트 10년, 금융 경쟁력↑",
-    "content": "가상자산 공모∙발행∙수탁 요건 명시 등 투자자 보호 목적 토큰 발행사 부담↓, 건전성 규제 기본 틀 유지 방침 “전통 금융 영...",
-    "url": "https://www.etoday.co.kr/news/view/2603069",
-    "published_at": "2026-07-13T03:02:00.000Z",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "영국 금융감독청이 가상자산 규제를 완화하는 움직임이 있어 크립토 산업에 큰 영향을 미칠 수 있습니다.",
-    "collected_at": "2026-07-13T04:31:57.508561+00:00"
   }
 ]
