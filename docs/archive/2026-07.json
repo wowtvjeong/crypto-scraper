@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "누부루(NUBURU), 3800만 달러 조달…테크네 인수·상폐 위기 ‘동시 시험대’",
+    "content": "누부루(NUBURU, BURU)가 약 3800만 달러(약 547억 2000만 원) 규모의 공모 자금 조달을 마무리하며 ‘테크네 인수’ 추진과 재무구조 개선에 본격 시동을 걸었다.누부루는 17일(현지시간) 보도자료를 통해 기존에 예고했던 베스트에포트 공모를 성공적으로 종료했다고 밝혔다. 이번 공모는 보통주 및 선불 워런트, 그리고 시리즈B 우선주를 결합한 구조로 진행됐으며, 총 2억4437만2984주 규모다. 공모가는 보통주 기준 주당 0.1555달러로, 이는 7월 15일 종가 대비 약 30% 프리미엄이 반영된 수준이다. 뉴욕 기반 패밀리오피스가 주도 투자자로 참여했고, 다수의 기관 및 고액자산가들이 자금을 보탰다.확보한 자금은 ‘부채 상환’과 성장 투자에...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/379251",
+    "published_at": "Sun, 19 Jul 2026 15:03:01 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "누부루가 3800만 달러 규모의 공모 자금 조달을 마무리하며 '테크네 인수' 추진과 재무구조 개선에 본격 시동을 걸었다는 뉴스. 관련 주체는 중견 기업이며, 파급 범위는 크립토 시장 전반에 영향을 주지 않지만, 관련 주체의 규모와 확정성으로 인해 7.5점을 받게 된다.",
+    "collected_at": "2026-07-19T15:45:55.218750+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "content": "Bitcoin's biggest advocate, Michael Saylor, says new plan to clean up the blockchain is 'a bad idea'",
+    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-biggest-advocate-michael-saylor-says-new-plan-to-clean-up-the-blockchain-is-a-bad-idea",
+    "published_at": "Sun, 19 Jul 2026 15:19:21 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인의 주요 옹호자인 마이클 세일러가 블록체인 청소 계획을 '나쁜 아이디어'라고 말한 뉴스",
+    "collected_at": "2026-07-19T15:45:55.897620+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "컨센시스, 북한 연계 계약직이 코드에 접근한 뒤 MetaMask 릴리스 중단",
+    "content": "컨센시스, 북한 연계 계약직이 코드에 접근한 뒤 MetaMask 릴리스 중단",
+    "url": "https://ns3.ai/ko/news/I4wOubn5N9",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "북한 연계 계약직이 코드에 접근하여 MetaMask 릴리스를 중단한 사건은 크립토 시장에 큰 영향을 줄 수 있는 매우 중요한 뉴스이므로 9점을 부여한다.",
+    "collected_at": "2026-07-19T15:46:02.396237+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "세일러, 비트코인 BIP-110 데이터 제한안은 나쁜 아이디어라고 비판",
+    "content": "세일러, 비트코인 BIP-110 데이터 제한안은 나쁜 아이디어라고 비판",
+    "url": "https://ns3.ai/ko/news/2ZUbVQrIOb",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110에 대한 세일러의 비판을 다루고 있으나, 영향 범위가 제한적이고 일반적인 뉴스에 가까움",
+    "collected_at": "2026-07-19T15:46:08.812329+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Kimi, GPU 수요가 용량 한계에 근접하자 신규 K3 구독 중단",
+    "content": "Kimi, GPU 수요가 용량 한계에 근접하자 신규 K3 구독 중단",
+    "url": "https://ns3.ai/ko/news/hpjYhlugzW",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "K3 구독 중단은 GPU 수요가 용량 한계에 근접한 것을 의미하며, 이는 크립토 시장에 영향을 줄 수 있는 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-19T15:46:40.964863+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "루미스 “탈중앙화 프로젝트에 은행 규칙 적용해선 안 돼”",
+    "content": "루미스 “탈중앙화 프로젝트에 은행 규칙 적용해선 안 돼”",
+    "url": "https://ns3.ai/ko/news/n2Cd9tw6ct",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "루미스 CEO가 탈중앙화 프로젝트에 은행 규칙을 적용할 수 없다는 주장을 내세워, 대형 거래소·유명 프로젝트와 관련된 뉴스이며, 구체적 금액이 동반되지 않지만, 규제 동향에 대한 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-07-19T15:46:51.479700+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "USDT Faces 2028 Compliance Deadline for Continued U.S. Exchange Access",
