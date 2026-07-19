@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Highlight Clip Circle President responds to the stock plunging from $260 to $62",
+    "content": "Highlight Clip Circle President responds to the stock plunging from $260 to $62\nCircle President responds to the stock plunging from $260 to $62\nOn July 14, 2026, during an interview with FOX Business, Circle President Heath Tarbert addressed concerns regarding the company's stock price dropping from $260 to $62. He stated that Circle is playing the long game, believing that if they achieve their mission of building full-stack internet platform infrastructure, in the long run, the stock will take care of itself.\nIn response to emerging competition from the 140-company Open USD consortium, which includes Visa, Stripe, Mastercard, and Google, Heath Tarbert expressed that USDC's network effects—backed by $73 billion in circulation and native support on 34 chains—are incredibly hard to replicate. Regarding the competitive landscape with Tether, he noted that USDC is the largest regulated stablecoin and holds the highest actual transaction volume. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25202",
+    "published_at": "2026-07-19T10:41:33+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Circle President의 인터뷰에서 USDC의 네트워크 효과와 경쟁사에 대한 반응이 언급되며, 시장이 흔들리는 큰 이슈가 아니지만 업계 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-07-19T11:04:01.542927+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "금감원, 두나무 제재 절차 돌입…업비트 해킹 대응 도마에",
+    "content": "한국 금융감독원(FSS)이 가상자산 거래소 업비트 운영사 두나무에 대한 현장검사 의견서를 보낸 것으로 알려졌다. 지난해 11월 발생한 3600만 달러 규모 해킹 사고를 둘러싼 제재 절차가 공식적으로 시작됐다는 의미다.연합뉴스는 13일, 금융감독원이 최근 두나무에 검사 의견서를 전달했다고 보도했다. 이 문서는 금융당국이 제재 수순에 들어가기 전, 회사 측에 검사 결과를 설명하고 소명을 받을 수 있도록 하는 절차다. 이후 당국은 두나무에 사전 제재 통지를 내리게 된다.업비트 해킹은 2025년 11월 27일 오전 4시 42분부터 약 54분간 이어졌으며, 당시 약 3600만 달러 규모의 자금이 탈취된 것으로 전해졌다. 다만 업비트는 인터넷...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/379217",
+    "published_at": "Sun, 19 Jul 2026 10:36:32 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "금융감독원이 업비트 운영사 두나무에 대한 제재 절차를 시작했고, 이는 업비트 해킹 사고와 관련된 대응이다.",
+    "collected_at": "2026-07-19T11:04:10.884299+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 양자 취약 코인 동결 논쟁…제로지식증명, 복구 해법 될까",
+    "content": "비트코인(BTC)의 ‘양자 취약 코인 동결’ 논쟁이 새로운 전환점을 맞고 있다. 제로지식증명 기술이 실제 복구 경로로 구현되면서, 동결이 ‘영구 소각’이 아닌 ‘잠금’이 될 수 있다는 관측이 힘을 얻는다.양자 컴퓨팅 위협과 BIP-361의 배경제임슨 롭(Jameson Lopp) 등 6명이 지난 4월 제안한 BIP-361은 양자 컴퓨터 시대, 이른바 ‘Q-Day’에 대비해 비트코인(BTC) 취약 주소를 단계적으로 차단하는 내용을 담고 있다. 3년 후 신규 입금을 막고, 5년 후 남은 자산을 동결하는 구조다. 대상은 전체 공급량의 34% 이상으로, 사토시 나카모토(Satoshi Nakamoto)가 보유한 것으로 추정되는 약 110만 BTC도 포함된다.Q-Day는 양자 컴퓨터가 공개키로부터...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/379213",
+    "published_at": "Sun, 19 Jul 2026 10:08:02 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인(BTC)의 양자 취약 코인 동결 논쟁에 대한 새로운 전환점과 제로지식증명 기술이 실제 복구 경로로 구현될 수 있다는 관측이 힘을 얻는다는 내용이 포함되어 있으며, 이는 비트코인(BTC) 취약 주소를 단계적으로 차단하는 내용을 담고 있는 BIP-361에 대한 영향이 크다.",
+    "collected_at": "2026-07-19T11:04:39.976618+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+    "content": "The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+    "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 19 Jul 2026 10:17:46 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Dunamu에 대한 규제 당국의 공식 발표와 관련된 뉴스, 그러나 아직 확정된 규제 내용이 공개되지 않았음",
+    "collected_at": "2026-07-19T11:05:28.609740+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "서클 사장, 주가 $260에서 $62로 하락 후 USDC 방어",
+    "content": "서클 사장, 주가 $260에서 $62로 하락 후 USDC 방어",
+    "url": "https://ns3.ai/ko/news/MUxPm2mmXP",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "서클 사장의 주가 하락 후 USDC 방어에 대한 언급이 있으나, 영향 범위가 제한적이고, 구체적인 정책·행동 변화가 수반되지 않아 7점을 부여함",
+    "collected_at": "2026-07-19T11:06:04.690259+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "한국 규제당국, 3,600만 달러 규모 업비트 해킹 관련 두나무 제재 절차 착수 보도",
+    "content": "한국 규제당국, 3,600만 달러 규모 업비트 해킹 관련 두나무 제재 절차 착수 보도",
+    "url": "https://ns3.ai/ko/news/0I0hLiFU7J",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 업비트 해킹과 관련하여 두나무에 대한 제재 절차가 착수된다는 공식 발표로, 규제당국의 중대한 조치로 파급력이 크다.",
+    "collected_at": "2026-07-19T11:08:01.538347+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트라이선스 논란 속… 전통 결제업계, 비트코인과 접점 넓히나",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 고래와 관련된 뉴스, 1억8800만 달러 규모의 비트코인 이동이 있어 크립토 관련 뉴스에 해당한다.",
     "collected_at": "2026-07-12T23:44:06.727323+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Coinbase “CLARITY Act, 크립토 불확실성 줄일 것”",
-    "content": "Coinbase “CLARITY Act, 크립토 불확실성 줄일 것”",
-    "url": "https://ns3.ai/ko/news/hg6MNfhil0",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "크립토 불확실성 줄일 것이라는 내용으로 크립토와 관련된 법적 및 산업 관련 뉴스",
-    "collected_at": "2026-07-12T23:44:16.407910+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "While the Crowd Waits, Crypto Builders Are Moving: Top 5 Altcoins Positioned for the Next 6 Months",
-    "content": "While the Crowd Waits, Crypto Builders Are Moving: Top 5 Altcoins Positioned for the Next 6 Months",
-    "url": "https://coinmarketcap.com/community/articles/6a54224e9b031643a13ebf9e/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐(크립토)와 관련된 Altcoins에 대한 분석과 추천이 포함되어 있어 시청자에게 중요하고 흥미로울 수 있다.",
-    "collected_at": "2026-07-12T23:44:19.658269+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Michael Saylor Hints at Another Bitcoin Move for Strategy: Buy or Sell?",
-    "content": "Michael Saylor Hints at Another Bitcoin Move for Strategy: Buy or Sell?",
-    "url": "https://coinmarketcap.com/community/articles/6a541ff79b031643a13ebf9c/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "마이클 세일러(Michael Saylor)가 비트코인에 대한 전략에 대한 힌트를 내준 것으로 보아 크립토 관련 보도입니다.",
-    "collected_at": "2026-07-12T23:44:25.143900+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Bitcoin Approaches Fidelity’s Power Law Support Line but Lacks a Bounce Catalyst",
-    "content": "Bitcoin Approaches Fidelity’s Power Law Support Line but Lacks a Bounce Catalyst",
-    "url": "https://coinmarketcap.com/community/articles/6a541da1677aca03af3e0471/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인에 대한 분석과 시장 상황을 다루고 있어 시청자에게 중요하고 흥미로운 내용입니다.",
-    "collected_at": "2026-07-12T23:44:31.645486+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Top Tesla Investor Says Saylor Is Destroying Bitcoin",
-    "content": "Top Tesla Investor Says Saylor Is Destroying Bitcoin",
-    "url": "https://coinmarketcap.com/community/articles/6a5418f2677aca03af3e046f/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "테슬라의 주요 투자자와 비트코인, 사일러가 관련되어 있어",
-    "collected_at": "2026-07-12T23:44:35.371234+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Ether Falls Below $1,800 as ETH Drops 1.23% in 24 Hours",
-    "content": "Ether Falls Below $1,800 as ETH Drops 1.23% in 24 Hours",
-    "url": "https://coinmarketcap.com/community/articles/6a5418f2e4487a0b715bb03a/",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 가격 변동에 대한 뉴스",
-    "collected_at": "2026-07-12T23:44:37.772165+00:00"
   }
 ]
