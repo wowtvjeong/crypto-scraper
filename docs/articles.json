@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "비트코인 철학 충돌…세일러, ‘BIP-110’ 정면 반대",
+    "content": "스트레티지(Strategy) 집행회장 마이클 세일러가 비트코인(BTC) 네트워크의 임시 포크를 통한 비금전적 거래 제한 제안 ‘BIP-110’에 대해 강하게 반대하고 나섰다. 그는 110가지 이유를 들어 이 제안이 ‘나쁜 생각’이라고 지적하며, 비트코인의 핵심 가치는 검열 없는 개방성과 중립성에 있다고 강조했다.13일(현지시간) 세일러는 X에 약 3,700단어 분량의 글을 올려, 오디널스(Ordinals) 같은 비트코인 블록체인 내 임의 데이터 기록을 막기 위한 BIP-110의 취지를 인정하면서도 해결책에는 동의할 수 없다고 밝혔다. 그는 “중립적 규칙, 하드 컨센서스, 열린 시장, 허가 없는 혁신이 비트코인을 더 강하게 만든다”고 적었다.세일러는 “많은...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/379261",
+    "published_at": "Sun, 19 Jul 2026 17:21:44 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 네트워크의 임시 포크를 통한 비금전적 거래 제한 제안에 대한 비트코인 철학에 대한 강한 반대 의견이 나왔으며, 이는 비트코인의 핵심 가치인 검열 없는 개방성과 중립성을 강조하고 있다.",
+    "collected_at": "2026-07-19T17:49:02.200378+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비레오 그로스(VREOF), 2,000만 달러 인수부터 8,850만 달러 투자까지…미국 대마 시장 '공격 확장'",
+    "content": "비레오 그로스(Vireo Growth, VREOF)가 대형 인수합병(M&A)과 시장 확장을 동시에 추진하며 미국 대마 산업 내 영향력 확대에 속도를 내고 있다. 펜실베이니아, 캘리포니아, 네바다 등 주요 주를 겨냥한 공격적인 거래와 자본 구조 재편이 이어지며 ‘멀티스테이트 사업자’로의 입지를 본격 강화하는 모습이다.최근 비레오 그로스는 파이토내추럴(PhytoNatural) 인수를 완료하며 펜실베이니아 시장 진출 기반을 확보했다. 총 거래 규모는 2,000만 달러(약 288억 원)로, 800만 달러는 현금, 나머지 1,200만 달러는 주식으로 지급된다. 이번 인수에는 최대 6개 매장을 운영할 수 있는 의료용 대마 리테일 허가권이 포함돼 있으며, 규제 승인 이후...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/379260",
+    "published_at": "Sun, 19 Jul 2026 17:03:39 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "미국 대마 산업의 영향력 확대와 관련된 뉴스, 다만 크립토와 직접적인 관련은 없다",
+    "collected_at": "2026-07-19T17:49:02.571197+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 철학 충돌…세일러, ‘BIP-110’ 정면 반대",
+    "content": "비트코인 철학 충돌…세일러, ‘BIP-110’ 정면 반대",
+    "url": "https://www.tokenpost.kr/news/blockchain/379261",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 철학 충돌과 세일러의 반대 의견이 주요 뉴스인 만큼, 파급력이 크고 업계 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-07-19T17:49:02.977461+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "세일러, 비트코인 포크 제안 BIP-110 논쟁 속 비판",
+    "content": "세일러, 비트코인 포크 제안 BIP-110 논쟁 속 비판",
+    "url": "https://ns3.ai/ko/news/ICufzTWGzU",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 포크 제안에 대한 논쟁이 있으므로 관련성이 있으나, 시청자에게 영향 범위가 제한적이다.",
+    "collected_at": "2026-07-19T17:49:51.588659+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Crypto Malware in 8 Steam Games Steals Tokens: What Happened",
+    "content": "Crypto Malware in 8 Steam Games Steals Tokens: What Happened",
+    "url": "https://coinmarketcap.com/community/articles/6a5d0d2103439d443a09dcda/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 소프트웨어 바이러스가 8개의 스팀 게임에 침투하여 토큰을 훔치는 사건이 발생했다.",
+    "collected_at": "2026-07-19T17:50:42.456286+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "비리오 그로스, 美 펜실베이니아 진출…2000만 달러 인수로 대마 사업 확장",
     "content": "비리오 그로스(Vireo Growth, CSE: VREO, OTCQX: VREOF)가 펜실베이니아 진출을 본격화하며 ‘의료용 대마 사업 확장’에 속도를 내고 있다. 회사는 파이토내추럴(PhytoNatural) 인수를 완료하고 신규 소매 허가권 확보와 동시에 시장 유동성 강화 조치까지 병행하며 성장 기반을 다졌다고 밝혔다. 이번 거래는 비리오와 하이브 홀딩스의 합작사인 비브 펜(Vive Penn)을 통해 진행됐으며, ‘파이토내추럴 트랜잭션’으로 명명된 증권매매계약(SPA)에 따라 체결됐다. 인수 대상에는 현재 운영은 이뤄지지 않고 있지만 규제 승인 시 최대 6개 매장을 열 수 있는 펜실베이니아 의료용 대마 소매 허가권이 포함돼 있어 향후 확장 잠재력이 크다는...  더보기",
     "url": "https://www.tokenpost.kr/news/economy/379255",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 현물 ETF에 대한 뉴스, 비트코인과 관련된 금융 상품에 대한 정보",
     "collected_at": "2026-07-13T04:10:40.464845+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "바이낸스, 업그레이드 위해 Moonbeam 입출금 일시 중단",
-    "content": "바이낸스, 업그레이드 위해 Moonbeam 입출금 일시 중단",
-    "url": "https://ns3.ai/ko/news/k1f5PdGEFn",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "바이낸스와 거래소 업그레이드, 암호화폐 입출금 일시 중단에 대한 보도",
-    "collected_at": "2026-07-13T04:10:46.896232+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Lawson to Trial JPYC Stablecoin Payments in Japan",
-    "content": "Lawson to Trial JPYC Stablecoin Payments in Japan",
-    "url": "https://coinmarketcap.com/community/articles/6a545839e4487a0b715bb06b/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "JPYC Stablecoin은 암호화폐와 직접 관련된 Stablecoin으로, 일본의 법정화폐인 엔화와 연관된 거래를 의미한다.",
-    "collected_at": "2026-07-13T04:10:49.162205+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Top Crypto Gainers of the Week: DeXe, Arbitrum, and Pyth Dominate",
-    "content": "Top Crypto Gainers of the Week: DeXe, Arbitrum, and Pyth Dominate",
-    "url": "https://coinmarketcap.com/community/articles/6a5455dd0c8cee6e351fcbb9/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "암호화폐 관련 키워드인 'Top Crypto Gainers'와 'DeXe', 'Arbitrum', 'Pyth'가 포함되어 있어",
-    "collected_at": "2026-07-13T04:10:55.678577+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Bitcoin ETFs Pull in $197M as 8-Week Outflow Streak Ends",
-    "content": "Bitcoin ETFs Pull in $197M as 8-Week Outflow Streak Ends",
-    "url": "https://coinmarketcap.com/community/articles/6a54538a677aca03af3e0492/",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 ETF에 대한 투자금액이 197만 달러로 증가하는 뉴스",
-    "collected_at": "2026-07-13T04:10:58.887203+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Upbit GAS Airdrop Payment Notice for Second Week of July",
-    "content": "Upbit GAS Airdrop Payment Notice for Second Week of July",
-    "url": "https://coinmarketcap.com/community/articles/6a54538a0c8cee6e351fcbb7/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Upbit은 거래소이므로 크립토와 관련이 있으며, GAS Airdrop에 대한 공지사항이므로 시청자에게 중요합니다.",
-    "collected_at": "2026-07-13T04:11:02.124478+00:00"
   }
 ]
