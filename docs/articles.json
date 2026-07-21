@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "7월 22일 출근길 팟캐스트 — 4억6388만달러 청산에 시장 충격…블랙록 비트코인 이동·규제 협상도 주목",
+    "content": "지난 24시간 암호화폐 시장에서 약 4억6388만달러 규모의 레버리지 포지션이 강제 청산됐다. 이번 흐름은 단순한 가격 흔들림이 아니라 과열된 방향성 베팅이 한 번에 정리된 사건이라는 점에서 시장의 시선을 끌었다.청산 물량 가운데 롱 포지션은 2억9203만달러로 전체의 63%를 차지했고 숏 포지션은 1억7185만달러로 37%였다. 상승을 기대한 자금이 더 크게 무너졌다는 뜻이어서 직전 구간의 낙관 심리가 예상보다 강했다는 해석이 가능하다.거래소별로는 바이낸스에서 10억6400만달러가 청산돼 전체의 53.71%를 차지했다. 대형 거래소에 청산이 집중됐다는 점은 단기 변동이 특정 종목이 아니라 시장 전반의 포지션 구조를 흔들었다는...  더보기",
+    "url": "https://www.tokenpost.kr/news/insights/379971",
+    "published_at": "Tue, 21 Jul 2026 22:01:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소에 청산이 집중된 레버리지 포지션의 강제 청산이 시장 전반의 포지션 구조를 흔들었다는 점에서 시장이 주목할 만한 뉴스이다.",
+    "collected_at": "2026-07-21T22:44:46.411217+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“미 민주당, 클래리티법 여전히 반발…윤리규정 집행주체 놓고 이견”–코인데스크",
+    "content": "[블록미디어 이정화 기자]  미국 민주당이 클래리티 법에 대해 여전히 반발하고 있다고 21일(현지시각) 코인데스크가 보도했다. 앞서 미국 언론들은 백악관이 법에 포함될 윤리조항에 대해 포괄적 양보를 했고, 공화당에 이 안을 전달했다고 보도했다. 그러나 해당 조항이 민주당에 전달됐는지 불분명한 상황이다. 민주당은 트럼프 대통령 가문의 디지털자산 관련 사업과 이해충돌을 비판하며 클래리티 법 승인을 거부하고 있다. 민주당은 윤리조항과 이해충돌 방지 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1119308?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 21 Jul 2026 22:08:29 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 법안인 클래리티 법의 승인에 대한 반발과 이해충돌 방지에 대한 논의가 포함되어 있으며, 관련 주체인 미국 민주당과 백악관의 이견이 언급된다.",
+    "collected_at": "2026-07-21T22:44:52.228855+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+    "content": "Crypto lobby group Digital Chamber sues Illinois to block digital asset tax",
+    "url": "https://www.coindesk.com/policy/2026/07/21/crypto-lobby-group-tdc-sues-illinois-to-block-digital-asset-tax",
+    "published_at": "Tue, 21 Jul 2026 22:08:10 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 대표 단체인 디지털 챔버가 일리노이 주에 있는 디지털 자산에 대한 세금을 막기 위해 소송을 제기하는 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-07-21T22:45:44.719255+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Canton 개발사 Digital Asset, 신한·SC Ventures에서 1,000만 달러 조달",
+    "content": "Canton 개발사 Digital Asset, 신한·SC Ventures에서 1,000만 달러 조달",
+    "url": "https://ns3.ai/ko/news/dGM7JRo1yT",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 개발사 Digital Asset가 신한·SC Ventures에서 1,000만 달러 조달을 받은 뉴스, 관련 주체가 중견 기업으로 파급 범위는 크립토 시장 전반",
+    "collected_at": "2026-07-21T22:46:01.160945+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "TDC, 디지털 자산 세법 차단 위해 일리노이주 제소",
+    "content": "TDC, 디지털 자산 세법 차단 위해 일리노이주 제소",
+    "url": "https://ns3.ai/ko/news/4hJn8rYHE7",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 주의 법적 조치로 인한 디지털 자산 시장의 파급력",
+    "collected_at": "2026-07-21T22:46:16.669470+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "TDC, 디지털 자산세 저지 위해 일리노이주 제소",
+    "content": "TDC, 디지털 자산세 저지 위해 일리노이주 제소",
+    "url": "https://ns3.ai/ko/news/1wx7hzwAdo",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "일리노이주가 디지털 자산세를 저지하기 위해 TDC를 제소한 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이지만 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-07-21T22:47:25.308732+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[뉴욕 코인시황/마감] 클래리티법·ETF 호재에 BTC 6만6000달러 돌파",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 가격 하락에 대한 뉴스",
     "collected_at": "2026-07-13T16:05:55.361831+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "The European Parliament Approved Mass Message Scanning Through a Procedural Loophole — Here’s What That Means for Your Privacy and Crypto",
-    "content": "The European Parliament Approved Mass Message Scanning Through a Procedural Loophole — Here’s What That Means for Your Privacy and Crypto",
-    "url": "https://coinmarketcap.com/community/articles/6a54e2852295f50f52a2356c/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토와 개인의 프라이버시가 관련된 보도입니다.",
-    "collected_at": "2026-07-13T16:06:00.901412+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Chinese Legal Experts Seek Clearer Crypto Money Laundering Rules",
-    "content": "Chinese Legal Experts Seek Clearer Crypto Money Laundering Rules",
-    "url": "https://coinmarketcap.com/community/articles/6a54e27e0c8cee6e351fcce7/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "규제와 암호화폐 간의 관련성으로 인해 중요합니다.",
-    "collected_at": "2026-07-13T16:06:04.453505+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Bitmine Buys 27,801 ETH as Total Holdings Reach 5.77 Million ETH",
-    "content": "Bitmine Buys 27,801 ETH as Total Holdings Reach 5.77 Million ETH",
-    "url": "https://coinmarketcap.com/community/articles/6a54e281df6cc96f1c3f4d13/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움(ETH)에 대한 거래 및 보유량 증가에 대한 보도",
-    "collected_at": "2026-07-13T16:06:07.659290+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "NYC Hearing Pressures Senate to Act on CLARITY Bill Before August Recess",
-    "content": "NYC Hearing Pressures Senate to Act on CLARITY Bill Before August Recess",
-    "url": "https://coinmarketcap.com/community/articles/6a54e2849b031643a13ec0e3/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "CLARITY Bill은 암호화폐 관련 법안으로 추정되며, 뉴욕시의 압박으로 인해 의회가 이 법안에 대한 조치를 취해야 한다는 점에서 중요합니다.",
-    "collected_at": "2026-07-13T16:06:09.977192+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "CCAF: Ethereum Post-Merge Energy Footprint Now Equals Eiffel Tower’s Annual Use",
-    "content": "CCAF: Ethereum Post-Merge Energy Footprint Now Equals Eiffel Tower’s Annual Use",
-    "url": "https://coinmarketcap.com/community/articles/6a54e2849b031643a13ec0e5/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움의 에너지 사용량에 대한 뉴스, 이더리움의 기술적 변화를 시청자에게 소개할 수 있는 좋은 소재",
-    "collected_at": "2026-07-13T16:06:14.409493+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Innovative Shift: UK’s Bold Step Toward Digital Tokenisation of Financial Assets",
-    "content": "Innovative Shift: UK’s Bold Step Toward Digital Tokenisation of Financial Assets",
-    "url": "https://coinmarketcap.com/community/articles/6a54e27f2295f50f52a23558/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "디지털 토큰화에 대한 영국의 대胆한 움직임이 암호화폐와 블록체인 산업과 관련이 있어 보입니다.",
-    "collected_at": "2026-07-13T16:06:20.336756+00:00"
   }
 ]
