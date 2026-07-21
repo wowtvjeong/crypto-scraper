@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황/마감] 클래리티법·ETF 호재에 BTC 6만6000달러 돌파",
+    "content": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장은 미국의 디지털자산 규제 체계 정비 기대와 현물 상장지수펀드(ETF) 자금 유입에 힘입어 상승했다. 비트코인은 한 달여 만에 6만6000달러를 넘어섰고 이더리움과 엑스알피 등 주요 알트코인도 동반 강세를 나타냈다. 다만 거래량과 기관 참여가 과거 상승 국면에 미치지 못하면서 시장은 본격적인 추세 전환보다 저점 회복 여부를 확인하는 단계에 머물렀다. 21일(현지시각) 코인마켓캡에 따르면 전체 디지털자산 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1119300?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 21 Jul 2026 21:16:27 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "클래리티법과 ETF 호재로 비트코인이 6만6000달러를 돌파하고 주요 알트코인이 동반 강세를 나타냈지만, 거래량과 기관 참여가 과거 상승 국면에 미치지 못하면서 시장은 본격적인 추세 전환보다 저점 회복 여부를 확인하는 단계에 머물렀다.",
+    "collected_at": "2026-07-21T21:55:12.913027+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
+    "content": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the “explosive growth of prediction markets.”",
+    "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 21:36:43 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CFTC와 관련된 뉴스이며, prediction markets가 크립토 시장과 관련이 있으므로 관련성이 높지만, 아직 시장 전체에 큰 영향을 미치지 않는 뉴스이므로 7.5점",
+    "collected_at": "2026-07-21T21:55:29.400434+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Movement Labs files for Chapter 11 bankruptcy after months of MOVE token turmoil",
+    "content": "The blockchain developer will continue operating under court supervision as it restructures following a market-making scandal, a co-founder’s suspension, and exchange delistings that rocked the project.",
+    "url": "https://cointelegraph.com/news/movement-labs-files-chapter-11-bankruptcy-move-token-turmoil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 21 Jul 2026 20:59:32 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "Movement Labs가 Chapter 11 파산을 신청하고, 재 구조화를 위해 법원 감독하에 운영을 계속할 예정인 뉴스. 대형 거래소에서 지갑을 삭제하고, 코인 가격이 급락하는 등 파급력이 크다.",
+    "collected_at": "2026-07-21T21:55:45.966012+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "변호사 “CLARITY 법안, CFTC의 예측시장 감독에 도움 될 수 있어”",
+    "content": "변호사 “CLARITY 법안, CFTC의 예측시장 감독에 도움 될 수 있어”",
+    "url": "https://ns3.ai/ko/news/gdpvpwPFsM",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CLARITY 법안이 CFTC의 예측시장 감독에 도움 될 수 있는지에 대한 변호사의 의견이 나와있으나, 아직 시장 전체에 큰 영향을 미치지 않는다.",
+    "collected_at": "2026-07-21T21:56:39.216050+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "루미스, CLARITY가 크립토 소유권을 보호하겠지만 한계는 남아 있다고 밝혀",
+    "content": "루미스, CLARITY가 크립토 소유권을 보호하겠지만 한계는 남아 있다고 밝혀",
+    "url": "https://ns3.ai/ko/news/gx7rRZo7Gr",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 소유권 보호에 대한 루미스, CLARITY의 입장에 대한 뉴스",
+    "collected_at": "2026-07-21T21:56:54.653633+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Hyve, 파리 블록체인 행사 AI 확장 속 Signal Week 인수",
+    "content": "Hyve, 파리 블록체인 행사 AI 확장 속 Signal Week 인수",
+    "url": "https://ns3.ai/ko/news/g7GGbb0Usb",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "Hyve가 Signal Week을 인수하는 것은 블록체인 행사에 대한 확장과 AI 기술의 적용을 의미하며, 이는 크립토 업계에 큰 영향을 줄 수 있다.",
+    "collected_at": "2026-07-21T21:57:26.030028+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "미국-이란 긴장 격화로 국제유가 다시 급등, 90달러선 넘나들다",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "디지털 토큰화에 대한 영국의 대胆한 움직임이 암호화폐와 블록체인 산업과 관련이 있어 보입니다.",
     "collected_at": "2026-07-13T16:06:20.336756+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "$0.05 $GTC Launch Block: Step 10 Gap & GTech Network Price Prediction",
-    "content": "$0.05 $GTC Launch Block: Step 10 Gap & GTech Network Price Prediction",
-    "url": "https://coinmarketcap.com/community/articles/6a54e2862295f50f52a2356e/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "GTC는 암호화폐이며, 가격 예측에 대한 내용이기 때문에 크립토 관련 뉴스입니다.",
-    "collected_at": "2026-07-13T16:06:23.671819+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "ETHGas Price Prediction: GWEI Falls 63% in 7 Days. What's Next?",
-    "content": "ETHGas Price Prediction: GWEI Falls 63% in 7 Days. What's Next?",
-    "url": "https://coinmarketcap.com/community/articles/6a54e281e4487a0b715bb19f/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움의 가스 가격 예측과 관련된 뉴스",
-    "collected_at": "2026-07-13T16:06:27.011269+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "UK Tokenization Plan Could Boost Annual Output by $44B by 2035: Report",
-    "content": "UK Tokenization Plan Could Boost Annual Output by $44B by 2035: Report",
-    "url": "https://coinmarketcap.com/community/articles/6a54e280df6cc96f1c3f4d11/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "토큰화(tokenization)와 관련된 영국의 계획이 언급되어 있어 암호화폐와 관련이 있습니다.",
-    "collected_at": "2026-07-13T16:06:29.267896+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "XRP Victory Day Marks Three Years Since Court Ruling Changed Ripple’s SEC Battle",
-    "content": "XRP Victory Day Marks Three Years Since Court Ruling Changed Ripple’s SEC Battle",
-    "url": "https://coinmarketcap.com/community/articles/6a54e282677aca03af3e05d8/",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "XRP와 Ripple, SEC와의 법적 분쟁에 대한 뉴스",
-    "collected_at": "2026-07-13T16:06:32.604107+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Ripple CEO Says SEC Lawsuit Nearly Pushed Company to Shut Down",
-    "content": "Ripple CEO Says SEC Lawsuit Nearly Pushed Company to Shut Down",
-    "url": "https://coinmarketcap.com/community/articles/6a54e281e4487a0b715bb197/",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "Ripple CEO와 SEC 사이의 법적 분쟁에 대한 내용으로, 크립토와 직접 관련이 있다.",
-    "collected_at": "2026-07-13T16:06:35.845653+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "VanEck: XRP Will Capture Value from Both SWIFT and DTCC",
-    "content": "VanEck: XRP Will Capture Value from Both SWIFT and DTCC",
-    "url": "https://coinmarketcap.com/community/articles/6a54e27f0c8cee6e351fcce9/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "XRP에 대한 언급과 SWIFT, DTCC와의 비교로 암호화폐 산업 관련성이 높은 보도",
-    "collected_at": "2026-07-13T16:06:41.543417+00:00"
   }
 ]
