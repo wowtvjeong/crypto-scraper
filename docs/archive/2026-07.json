@@ -1,5 +1,41 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[코인시황] 비트코인, 美 클래리티 법안 기대감에 6만6000달러 회복",
+    "content": "[블록미디어 오수환 기자] 비트코인 가격이 6만6000달러를 돌파했다. 뉴욕증시 상승과 디지털자산 규제 법안 통과 기대감이 투자심리를 끌어올린 영향으로 분석된다. 다만 최근 5개월간 투자자들의 평균 매입 단가가 형성된 6만8000달러 구간이 주요 저항선으로 꼽히는 만큼 해당 가격대를 돌파할 수 있을지가 관건으로 꼽힌다. 22일 오전 8시15분 기준 국내 디지털자산(가상자산) 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 1.60% 상승한 9677만원에 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1119328?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 21 Jul 2026 23:33:00 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격이 6만6000달러를 돌파한 뉴스, 그러나 주요 저항선인 6만8000달러 구간을 돌파할 수 있을지가 관건으로 꼽혀있다.",
+    "collected_at": "2026-07-21T23:48:28.024722+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "[코인시황] 비트코인, 美 클래리티 법안 기대감에 6만6000달러 회복",
+    "content": "[코인시황] 비트코인, 美 클래리티 법안 기대감에 6만6000달러 회복",
+    "url": "https://www.blockmedia.co.kr/archives/1119328?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "클래리티 법안 기대감이 비트코인 가격에 영향을 미친 것으로 보이며, 여러 매체가 동시에 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-21T23:49:01.136085+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "디지털 체임버, 0.2% 크립토 거래세 두고 일리노이주 제소",
+    "content": "디지털 체임버, 0.2% 크립토 거래세 두고 일리노이주 제소",
+    "url": "https://ns3.ai/ko/news/2GrlH1yB7D",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 거래세에 대한 일리노이주의 제소는 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-07-21T23:50:03.915113+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "7월 22일 출근길 팟캐스트 — 4억6388만달러 청산에 시장 충격…블랙록 비트코인 이동·규제 협상도 주목",
