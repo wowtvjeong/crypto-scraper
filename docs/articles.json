@@ -2,6 +2,54 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "알파벳, 인공지능 인프라 투자에 300조 원 배팅…글로벌 AI 경쟁 가열",
+    "content": "알파벳이 인공지능 인프라 투자를 확대하면서 올해 자본지출 계획을 다시 높였고, 내년에는 이보다 더 큰 폭의 지출 증가가 이어질 것이라고 밝혔다.23일 전해진 블룸버그 통신 보도에 따르면 아나트 아슈케나지 알파벳 최고재무책임자는 22일(현지시간) 2분기 실적발표 콘퍼런스콜에서 올해 자본지출 전망치를 기존 최대 1천900억달러에서 1천950억∼2천50억달러로 상향 조정했다. 원화로는 약 288조4천억∼303조2천억원 규모다. 자본지출은 기업이 공장, 서버, 데이터센터처럼 장기간 사용하는 설비와 기반 시설에 투자하는 돈을 뜻하는데, 최근 빅테크 업계에서는 인공지능 서비스 확대를 위한 핵심 지표로 받아들여진다.알파벳은 내년...  더보기",
+    "url": "https://www.tokenpost.kr/news/ai/380250",
+    "published_at": "Wed, 22 Jul 2026 23:46:38 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "알파벳이 인공지능 인프라 투자를 확대하면서 자본지출 계획을 높였고, 내년에는 더 큰 폭의 지출 증가가 이어질 것이라고 밝혔다. 이는 업계 전반에 영향을 줄 가능성이 있는 뉴스이다.",
+    "collected_at": "2026-07-22T23:54:46.951890+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[특징주] SK하이닉스, 알파벳 CAPEX 상향 훈풍에 강세…AI 메모리 수요 기대 부각",
+    "content": "SK하이닉스가 장 초반 강세를 나타내고 있다. 알파벳이 연간 설비투자 전망치를 높여 잡고 클라우드 매출 급증을 공개하면서, AI 데이터센터와 클라우드 인프라 확대에 따른 메모리 반도체 수요 기대가 다시 부각된 영향으로 풀이된다.해외 언론 보도를 보면 미국 증시 시간 외 거래에서 마이크론과 SK하이닉스 ADR은 알파벳의 설비투자 가이던스 상향 발표 직후 2~4%대 오름세를 보였다가 상승폭을 일부 줄였다. 다만 메모리 업황 개선 기대 자체는 유지되면서 국내 시장에서도 SK하이닉스 투자심리에 우호적으로 작용하는 모습이다.알파벳은 2026년 연간 설비투자 전망치를 기존 1800억~1900억달러에서 1950억~2050억달러로 상향했다....  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/380249",
+    "published_at": "Wed, 22 Jul 2026 23:45:49 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "알파벳의 설비투자 전망치 상향과 클라우드 매출 급증으로 AI 메모리 수요 기대가 부각되어 SK하이닉스의 강세를 나타내고 있다.",
+    "collected_at": "2026-07-22T23:54:48.242597+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "크립토 지원 Fairshake, 미시간 예비선거에 100만 달러 지출",
+    "content": "크립토 지원 Fairshake, 미시간 예비선거에 100만 달러 지출",
+    "url": "https://ns3.ai/ko/news/xvjtqkccNk",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 프로젝트인 Fairshake이 정치 선거에 100만 달러를 지출하는 큰 규모의 뉴스",
+    "collected_at": "2026-07-22T23:56:13.068703+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미즈호, Clarity Act가 Circle의 USDC 매출에 부담이 될 수 있다고 밝혀",
+    "content": "미즈호, Clarity Act가 Circle의 USDC 매출에 부담이 될 수 있다고 밝혀",
+    "url": "https://ns3.ai/ko/news/PcSv3NzLJA",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "미즈호와 Clarity Act가 Circle의 USDC 매출에 부담이 될 수 있다고 밝혀, 이는 대형 거래소와 규제 당국의 영향이 크고, USDC 매출에 직접적인 영향을 줄 수 있는 뉴스이므로 8점을 받음",
+    "collected_at": "2026-07-22T23:56:57.645009+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "파이어블록스, 한국 디지털자산 시장 공략 박차... 스테이블코인 활용 증가 주목",
     "content": "글로벌 블록체인 인프라 기업 파이어블록스가 한국을 자사 창업 배경과 맞닿아 있는 핵심 시장으로 규정하며, 보안과 규제 대응을 앞세워 한국 기관투자자 시장 공략에 속도를 내고 있다.마이클 샤울로프 파이어블록스 최고경영자는 2026년 7월 23일 연합뉴스와의 화상 인터뷰에서 한국 시장이 특별한 이유로 기술 수용 속도, 대형 기업의 존재감, 그리고 디지털자산 보안 위협이 동시에 작용하는 점을 들었다. 그는 창업 이전 북한 해킹그룹 라자루스의 한국 가상자산 거래소 공격 사건을 조사한 경험이 파이어블록스 설립의 문제의식으로 이어졌다고 설명했다. 디지털자산 사업이 커질수록 단순 거래 기능보다 자산 보관, 전송, 내부통제 같은...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/380243",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "블록체인 기술과 관련된 뉴스이며, 시청자에게도 흥미로운 주제인 기업의 블록체인 기술 도입에 대한 보도",
     "collected_at": "2026-07-13T20:54:09.391571+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "XRP holds above $1 as whale activity plunges, analysts eye $0.95-$1 support",
-    "content": "XRP holds above $1 as whale activity plunges, analysts eye $0.95-$1 support",
-    "url": "https://coinmarketcap.com/community/articles/6a553b8e2295f50f52a23684/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "XRP 가격 변동과 관련된 뉴스, 전문가 분석",
-    "collected_at": "2026-07-13T20:54:12.593345+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Analysts Argue That Panic Selling in Bitcoin Has Lost Its Momentum: What Do They Expect Next?",
-    "content": "Analysts Argue That Panic Selling in Bitcoin Has Lost Its Momentum: What Do They Expect Next?",
-    "url": "https://coinmarketcap.com/community/articles/6a553b8ee4487a0b715bb2b3/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인에 대한 분석가들의 의견과 시장 전망이 언급되어 있어 암호화폐와 관련이 있습니다.",
-    "collected_at": "2026-07-13T20:54:15.815122+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "OranjeBTC Adds 8 BTC, Holdings Reach 3,912",
-    "content": "OranjeBTC Adds 8 BTC, Holdings Reach 3,912",
-    "url": "https://coinmarketcap.com/community/articles/6a553b8f677aca03af3e06fe/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 관련 뉴스, 비트코인 보유량 증가",
-    "collected_at": "2026-07-13T20:54:19.076470+00:00"
-  },
-  {
-    "source": "coinmarketcap_community",
-    "source_type": "press",
-    "title": "Hyundai moves $20,000 in USDT from US to Mexico on Avalanche in 7 minutes",
-    "content": "Hyundai moves $20,000 in USDT from US to Mexico on Avalanche in 7 minutes",
-    "url": "https://coinmarketcap.com/community/articles/6a553b8edf6cc96f1c3f4df1/",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Avalanche라는 단어와 USDT라는 암호화폐가 언급되어 크립토와 관련이 있습니다.",
-    "collected_at": "2026-07-13T20:54:22.282478+00:00"
   }
 ]
