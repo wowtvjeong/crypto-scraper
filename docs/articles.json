@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "S&P Dow Jones and Pantera Launch Fundamental-Based Digital Asset Index, Top Holdings Include ETH, BNB and SOL",
+    "content": "S&P Dow Jones and Pantera Launch Fundamental-Based Digital Asset Index, Top Holdings Include ETH, BNB and SOL\nS&P Dow Jones Indices and Pantera Capital have launched the S&P Pantera Digital Asset Index, designed to provide institutional investors with a more disciplined and structured benchmark for digital asset allocation. Unlike traditional crypto indexes that track price momentum or popular tokens, the index uses a rules-based approach similar to traditional financial benchmarks, including only tokens and projects with real-world applications and actual revenue generation. The index currently includes 18 constituent tokens. While the full list has not been fully disclosed, the top five confirmed holdings are ETH, BNB, SOL, TRX, and HYPE. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25243",
+    "published_at": "2026-07-22T01:08:02+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소와 유명 기관이 새로운 크립토 인덱스를 출시하여, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-07-22T01:30:45.896469+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[KOL 인덱스] “러, 크립토 합법화가 진짜 변수” 커뮤니티 주목… 유가·호르무즈 리스크와 美 관세 발언도 동시 확산",
+    "content": "KOL 인덱스는 토큰포스트와 DataMaxiPlus의 커뮤니티 분석 기술을 기반으로, 텔레그램 내 투자자 반응과 관심이 높은 콘텐츠를 분석한 시리즈다. 전일 KOL 커뮤니티에서 주목받은 이슈를 통해 시장의 투자 심리와 트렌드를 진단한다. [편집자주]\n\n러시아가 암호화폐 유통을 제도권에 편입하는 법안을 통과시키며 “이게 시장에 실제 수급 변수가 될 수 있나”라는 반응이 확산됐다. 동시에 호르무즈 해협 통행 감소, 탱커 공격 여파로 인한 원유 운송 차질, 미 고용지표 둔화 등 리스크성 헤드라인이 한꺼번에 유입되며 커뮤니티는 매크로·지정학 이슈를 중심으로 촉각을 곤두세웠다.\n\n러 ‘디지털 통화·권리’ 법 통과… “합법 투자 길 열렸다” 해석...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/380005",
+    "published_at": "Wed, 22 Jul 2026 00:31:09 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "러시아가 암호화폐 유통을 제도권에 편입하는 법안을 통과시키는 소식과, 호르무즈 해협 통행 감소, 탱커 공격 여파로 인한 원유 운송 차질, 미 고용지표 둔화 등 리스크성 헤드라인이 동시에 유입되어 커뮤니티가 매크로·지정학 이슈를 중심으로 촉각을 곤두세운다.",
+    "collected_at": "2026-07-22T01:33:05.381581+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[속보] 금융위, “금융사 AI 전환을 위해 망분리 전면 해제 추진”",
+    "content": "[블록미디어 James Jung 기자] 금융위 유영준 디지털금융정책관은 21일 대한민국 전략경제포럼에서 “올해 말까지 샌드박스를 통해 역량 갖춘 금융사에 대해 망분리 전면 해제를 추진할 것”이라고 말했다.",
+    "url": "https://www.blockmedia.co.kr/archives/1119360?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 22 Jul 2026 01:26:44 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "금융위가 AI 전환을 위해 망분리 전면 해제를 추진하는 정책을 발표하는 뉴스, 이는 금융업계 전반에 영향을 줄 수 있는重大 발표",
+    "collected_at": "2026-07-22T01:35:30.788455+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[속보] 금융위, “AI 결제는 스테이블코인 외에 카드 등 기술중립적으로 논의해야”",
+    "content": "[블록미디어 James Jung 기자] 금융위 유영준 디지털금융정책관은 21일 대한민국 전략경제포럼에서 “AI 에이전틱 커머스 관련, 결제 수단은 스테이블코인 뿐 아니라 카드 등 기술중립적으로 논의해야 한다는데 공감한다”고 말했다.",
+    "url": "https://www.blockmedia.co.kr/archives/1119358?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 22 Jul 2026 01:16:30 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "금융위가 스테이블코인 외에 카드 등 기술중립적으로 논의해야 한다는 의견을 내놓은 것으로, 크립토와 관련된 정책적 변화에 대한 언급이 있어.",
+    "collected_at": "2026-07-22T01:35:48.334121+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[코인시황] 비트코인, 美 클래리티 법안 기대감에 6만6000달러 회복",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "암호화폐 거래소와 관련된 뉴스이며, Arbitrum TVS라는 L2 솔루션에 대한 정보가 포함되어 있습니다.",
     "collected_at": "2026-07-13T16:05:23.537295+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "캠브리지 연구 “이더리움, PoS 블록체인 중 전력 효율 상위권”",
-    "content": "캠브리지 연구 “이더리움, PoS 블록체인 중 전력 효율 상위권”",
-    "url": "https://www.tokenpost.kr/news/blockchain/377317",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "이더리움과 블록체인 기술에 대한 연구 내용",
-    "collected_at": "2026-07-13T16:05:25.941248+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "중국 검찰, 크립토 자금세탁 수사 강화 추진",
-    "content": "중국 검찰, 크립토 자금세탁 수사 강화 추진",
-    "url": "https://ns3.ai/ko/news/P367t81ltd",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토와 관련된 자금세탁 수사 강화 추진에 대한 보도",
-    "collected_at": "2026-07-13T16:05:29.426962+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "로빈후드 체인, 토큰화보다 밈코인 쏠림…전환 여부 주목",
-    "content": "로빈후드 체인, 토큰화보다 밈코인 쏠림…전환 여부 주목",
-    "url": "https://www.tokenpost.kr/news/blockchain/377316",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "로빈후드 체인이 토큰화와 밈코인에 대한 전환 여부를 주목하는 내용으로, 암호화폐와 관련된 뉴스입니다.",
-    "collected_at": "2026-07-13T16:05:35.936763+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Strategy, 3,588 BTC 매도 후 30억 달러 현금 준비금 구축",
-    "content": "Strategy, 3,588 BTC 매도 후 30억 달러 현금 준비금 구축",
-    "url": "https://ns3.ai/ko/news/xrUq6rqbKJ",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인(BTC) 매도에 대한 보도",
-    "collected_at": "2026-07-13T16:05:39.455218+00:00"
   }
 ]
