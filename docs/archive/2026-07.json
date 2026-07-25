@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Russia’s Largest Bank Sberbank Plans Crypto Trading Infrastructure",
+    "content": "Russia’s Largest Bank Sberbank Plans Crypto Trading Infrastructure\nSberbank, Russia’s largest bank, plans to build cryptocurrency trading infrastructure and launch a digital custody system by Dec. 1 to support regulated crypto trading, custody and settlement. The system will record customers’ crypto ownership and process most transactions off-chain, with Sberbank managing custody wallets for deposits, withdrawals and transfers. The move comes under Russia’s new crypto regulatory framework, which takes effect Sept. 1, with licensed intermediary requirements expected to apply from July 2027. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25288",
+    "published_at": "2026-07-25T18:41:16+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "러시아 최대 은행인 Sberbank이 암호화폐 거래 인프라를 구축하고 디지털 보관 시스템을 출시할 예정이며, 이는 규제된 암호화폐 거래, 보관 및 정산을 지원하기 위해 12월 1일까지 구축될 예정이다. 이 시스템은 고객의 암호화폐 소유권을 기록하고 대부분의 거래를 오프체인에서 처리하며, Sberbank은 입출금 및 이체를 위한 보관 지갑을 관리한다. 이 움직임은 9월 1일부터 적용되는 러시아의 새로운 암호화폐 규제 프레임워크 하에 이루어지며, 2027년 7월부터 라이센스 중개자 요구 사항이 적용될 예정이다.",
+    "collected_at": "2026-07-25T18:52:05.689234+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 국무부, 비트코인 옹호 단체와 손잡고 디지털 자유 확대",
+    "content": "미 국무부가 ‘디지털 자유’와 표현의 자유를 확대하는 새 프로그램을 출범하며 비트코인(BTC) 옹호 단체를 파트너로 선정했다. 암호화폐 업계 외곽의 정책단체가 미국 외교 정책 프로그램에 본격 참여하게 되면서, 디지털 자산과 기술 규제 논의에도 적지 않은 파장이 예상된다.13일 비트코인 정책 연구소(BPI)에 따르면 BPI는 미 국무부의 ‘프리덤 테크 엑설런스 프로그램(FTEP)’의 창립 파트너로 합류했다. 함께 이름을 올린 곳은 팔란티어 테크놀로지스($PLTR), 안두릴 인더스트리스, 공산주의 희생자 기념 재단이다. BPI는 자사 직원들이 국무부 전문가들과 함께 일하며 전 세계 ‘디지털 자유’를 지키는 역할을 맡게 된다고 밝혔다.국무부는...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/381306",
+    "published_at": "Sat, 25 Jul 2026 18:38:52 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미 국무부가 비트코인 옹호 단체와 함께 디지털 자유 확대 프로그램을 출범시키는 것은 크립토 업계 전반에 큰 영향을 줄 가능성이 있어",
+    "collected_at": "2026-07-25T18:52:06.120475+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin advocacy group to join US State Department’s ‘digital freedom’ program",
+    "content": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
+    "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 25 Jul 2026 18:15:44 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 주체인 비트코인 정책 연구소가 미국 국무부의 '디지털 자유' 프로그램에 참여하는 것으로 보아 크립토 시장 전반에 영향을 줄 가능성이 높지만, 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-07-25T18:52:06.622155+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Hyperliquid, 하루 수수료 140만 달러 후 HYPE 20,600개 소각",
+    "content": "Hyperliquid, 하루 수수료 140만 달러 후 HYPE 20,600개 소각",
+    "url": "https://ns3.ai/ko/news/4fbOvlhwZU",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소의 중대 발표와 관련된 뉴스, 하루 수수료 140만 달러는 큰 금액으로 파급력이 크고, HYPE 20,600개 소각은 특정 코인에 대한 영향이 크다.",
+    "collected_at": "2026-07-25T18:52:52.948202+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Bitcoin Policy Institute, 국무부 디지털 자유 프로그램에 참여",
+    "content": "Bitcoin Policy Institute, 국무부 디지털 자유 프로그램에 참여",
+    "url": "https://ns3.ai/ko/news/fnBIMnwzyT",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "국무부 디지털 자유 프로그램에 참여하는 것은 크립토 관련된 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-25T18:53:09.304757+00:00"
+  },
+  {
     "source": "coindesk",
     "source_type": "press",
     "title": "Russia’s largest bank Sberbank plans crypto trading infrastructure by December",
