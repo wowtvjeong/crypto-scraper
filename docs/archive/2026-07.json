@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "로빈후드, 크립토닷컴과 예측시장 확대 논의…성장 기대와 규제 부담 교차",
+    "content": "로빈후드(HOOD)가 암호화폐 거래소 크립토닷컴(Crypto.com)과 예측시장 사업 확대를 논의 중인 것으로 알려졌다. 주식과 크립토를 함께 다루는 플랫폼이 ‘예·아니오’ 형태의 이벤트 계약을 더 넓히려는 움직임으로, 관련 시장 경쟁이 한층 달아오를 전망이다.13일 월스트리트저널에 따르면 로빈후드는 크립토닷컴이 공급하는 이벤트 계약을 자사 예측시장 허브에 붙이는 방안을 검토하고 있다. 이벤트 계약은 특정 결과가 나올지 여부에 베팅하는 상품이다. 로빈후드는 2025년 3월 예측시장을 처음 열었고, 초기에는 미국 상품선물거래위원회(CFTC) 규정에 맞추기 위해 칼시(Kalshi)와 손잡았다. 이후에는 포캐스트엑스와 로텔라를 통해서도...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381318",
+    "published_at": "Sat, 25 Jul 2026 21:23:58 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토닷컴과 로빈후드가 예측시장 사업 확대를 논의 중인 것으로 알려졌으며, 관련 시장 경쟁이 한층 달아오를 전망이다. 또한 로빈후드는 크립토닷컴이 공급하는 이벤트 계약을 자사 예측시장 허브에 붙이는 방안을 검토하고 있다.",
+    "collected_at": "2026-07-25T22:25:02.105768+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“2017년 이후 최대 매집”…BTC 장기 보유자 129만개 쓸어담았다",
+    "content": "[멕시코=심영재 특파원] 비트코인(BTC) 장기 보유자들이 최근 6년 사이 가장 공격적인 매집에 나선 것으로 나타났다. 온체인 데이터에서는 회복 신호가 늘고 있지만 일부 지표는 아직 본격적인 강세장 진입을 단정하기에는 이르다고 진단했다. 25일(현지시각) 더크립토베이식(The Crypto Basic)은 크립토퀀트(CryptoQuant) 분석가 부락케스메시(Burakkesmeci)의 분석을 인용해 비트코인 장기 보유자(LTH)의 순포지션 증가 규모가 지난 5월24일 129만BTC를 기록하며 2017년 8월 이후 최고치를 경신했다고 보도했다. 2017년 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1120710?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 25 Jul 2026 22:00:41 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 장기 보유자들의 공격적인 매집에 대한 뉴스, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-25T22:25:38.132074+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "“2017년 이후 최대 매집”…BTC 장기 보유자 129만개 쓸어담았다",
+    "content": "“2017년 이후 최대 매집”…BTC 장기 보유자 129만개 쓸어담았다",
+    "url": "https://www.blockmedia.co.kr/archives/1120710?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-07-25T22:26:18.989918+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "트럼프 ‘4선 농담’ 속 TRUMP 코인 대량 이동…시장 경계감",
