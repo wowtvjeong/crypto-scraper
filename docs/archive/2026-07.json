@@ -1,5 +1,65 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "트럼프 ‘4선 농담’ 속 TRUMP 코인 대량 이동…시장 경계감",
+    "content": "[멕시코=심영재 특파원] 도널드 트럼프 미국 대통령이 ‘네 번째 임기’ 도전을 농담한 시점에 오피셜 트럼프(TRUMP) 밈코인 프로젝트와 연계된 지갑에서 약 1691만달러어치 토큰이 거래소 방향으로 이동했다. 실제 매도는 확인되지 않았지만 TRUMP 가격이 사상 최고가보다 97% 이상 하락한 가운데 프로젝트 보유 물량이 잇달아 이동하면서 시장의 경계감이 커지고 있다. 크립토슬레이트는 25일(현지시각) 온체인 분석업체 룩온체인을 인용해 TRUMP 프로젝트 연계 지갑이 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1120696?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 25 Jul 2026 20:35:22 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "트럼프 대통령의 농담으로 인해 TRUMP 코인 관련 지갑에서 대량 이동이 발생하여 시장 경계감이 높아지는 뉴스",
+    "collected_at": "2026-07-25T21:14:49.410989+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "트럼프 ‘4선 농담’ 속 TRUMP 코인 대량 이동…시장 경계감",
+    "content": "트럼프 ‘4선 농담’ 속 TRUMP 코인 대량 이동…시장 경계감",
+    "url": "https://www.blockmedia.co.kr/archives/1120696?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "트럼프의 농담이 TRUMP 코인에 영향을 주고, 시장에 경계감이 생기는 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-25T21:16:14.209964+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미래에셋, 약 1억200만 달러에 코빗 지분 과반 인수",
+    "content": "미래에셋, 약 1억200만 달러에 코빗 지분 과반 인수",
+    "url": "https://ns3.ai/ko/news/CR0avoNaGh",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 미래에셋이 코빗 지분 과반을 인수하는 큰 규모의 거래로, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-07-25T21:16:44.564283+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "프랑수아 가르생(François Garcin), 미지급된 Exaion 수수료로 인해 1,100만 유로에 대해 MARA 고소",
+    "content": "프랑수아 가르생(François Garcin), 미지급된 Exaion 수수료로 인해 1,100만 유로에 대해 MARA 고소",
+    "url": "https://www.cryptopolitan.com/ko/mara-europe-lead-sues-france-deal-disputes/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소와의 파트너십 문제로 인한 법적 분쟁, 유럽의 유명 인물이 고소하는 등 파급력이 크고, 여러 자산·시장 전반에 영향을 줄 가능성이 있지만 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-07-25T21:17:17.026031+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "스베르방크, 암호화폐 거래·수탁 인프라 구축 계획",
+    "content": "스베르방크, 암호화폐 거래·수탁 인프라 구축 계획",
+    "url": "https://ns3.ai/ko/news/aYxgvr0ad4",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "유명 은행 스베르방크가 암호화폐 거래·수탁 인프라를 구축하는 계획을 발표했으므로, 업계 전반에 주목할 만한 뉴스입니다.",
+    "collected_at": "2026-07-25T21:17:33.489254+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2671만 달러 청산",
