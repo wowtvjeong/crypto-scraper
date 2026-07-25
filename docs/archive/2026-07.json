@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "리플 사업 확장에도 XRP는 제자리…장기 횡보 전망까지",
+    "content": "리플의 사업 확장은 속도를 내고 있지만, 정작 XRP 가격은 좀처럼 힘을 받지 못하고 있다. 은행들의 채택 확대와 현물 XRP ETF 자금 유입에도 불구하고 XRP는 2025년 고점 대비 약 72% 낮은 수준에 머물러 있으며, 일부 분석가는 2028년까지 ‘횡보장’이 이어질 수 있다고 본다.리플은 올해 들어 생태계 확장에 집중하고 있다. 이번 주에는 RLUSD 스테이블코인을 위한 ‘리플 민트(Ripple Mint)’ 플랫폼을 출시했고, 여러 블록체인 네트워크로 사업을 넓혔다. 또 국경 간 결제 수단으로 XRP 레저를 채택하는 은행도 계속 늘고 있다. 다만 이런 ‘사업 성장’이 XRP 가격 상승으로 바로 이어지지는 않고 있다.배경과 수급 부담배경에는 구조적인...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381276",
+    "published_at": "Sat, 25 Jul 2026 11:54:13 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "XRP 가격이 리플 사업 확장에도 반응하지 못하고 있는 상황을 설명하는 기사로, 일부 분석가가 장기 횡보 전망까지 내놓고 있다.",
+    "collected_at": "2026-07-25T11:56:51.406221+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "유니스왑, ‘비공개 스왑’ 도입 논의…DEX 실행 방식 바뀔까",
+    "content": "유니스왑(Uniswap) 거버넌스가 거래 전 정보 노출을 줄이는 ‘비공개 스왑’ 옵션 도입안을 두고 논의에 들어갔다. 온체인 거래의 투명성이 오히려 봇 공격과 ‘샌드위치’ 악용을 부른다는 점에서, 탈중앙화거래소(DEX) 시장의 실행 방식 자체를 바꿀 수 있는 제안으로 평가된다.이 제안은 SilentSwap이 제출한 RFC(의견 요청서)로, 유니스왑 인터페이스에 선택형 ‘Swap Privately’ 기능을 추가하는 내용이다. 기존 스왑은 그대로 유지되고, 풀 수수료에도 영향을 주지 않는다고 설명했다. 구조적으로는 유니스왑 v4 훅과 유니스왑X를 활용해 거래 세부 정보를 실행 전 덜 노출하고, 영지식증명 ‘zk-SNARKs’와 사전 컴플라이언스 점검을 결합하는...  더보기",
+    "url": "https://www.tokenpost.kr/news/tech/381273",
+    "published_at": "Sat, 25 Jul 2026 11:09:14 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "유니스왑의 거래 전 정보 노출을 줄이는 '비공개 스왑' 옵션 도입안이 논의에 들어간 것으로, 탈중앙화거래소(DEX) 시장의 실행 방식 자체를 바꿀 수 있는 제안으로 평가된다.",
+    "collected_at": "2026-07-25T11:56:54.371408+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Fidelity joins push for Senate passage of CLARITY Act",
+    "content": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+    "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 25 Jul 2026 11:30:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Fidelity가 CLARITY Act를 통과시키기 위해 미국 상원에 압력을 가하고 있으며, 이는 크립토 시장 구조 법률에 대한 업계의 노력과 함께 진행되고 있다.",
+    "collected_at": "2026-07-25T11:57:45.135921+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "미 경찰단체, 암호화폐 시장구조 클래리티 법안 지지 가세",
     "content": "미국 암호화폐 시장 규제 틀을 세우려는 클래리티 법안에 경찰 단체까지 공개 지지를 보냈다. 전미경찰공제회는 7월 25일 성명에서 장기간 논의돼 온 클래리티 법안 최신안에 찬성한다고 밝혔다. 성명은 엘리자베스 워런 상원의원과 티머시 유진 스콧 상원의원을 수신자로 명시했다. 전미경찰공제회는 경찰관 등 법집행 인력의 근무 여건 개선을 위해 활동하는 단체다. 최신안은 공직자와 그 가족이 암호화폐를 발행하거나 홍보하지 못하도록 했다. 이는 법안 반대파가 기존 논의에서 문제 삼았던 대목이다. 대표적 암호화폐 비판론자인 워런 의원은 앞서 같은 주 수요일 최신안이 도널드 트럼프 대통령의 암호화폐 수익 창출을 허용하고...  더보기",
     "url": "https://www.tokenpost.kr/news/blockchain/381270",
