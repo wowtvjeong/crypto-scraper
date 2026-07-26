@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "SK하이닉스 ADR 폭등, AI 투자 과열의 신호?",
+    "content": "월스트리트저널은 SK하이닉스의 미국주식예탁증서, 즉 ADR이 한국 본주보다 비정상적으로 높은 가격에 거래되고 있다며 이를 인공지능 관련 주식 투자 과열의 신호로 진단했다.미국 일간 월스트리트저널의 선임 시장 칼럼니스트 제임스 매킨토시는 26일 현지시간 공개한 칼럼에서, 지난 10일 뉴욕증시에서 거래를 시작한 SK하이닉스 ADR이 한국 증시에 상장된 보통주보다 16∼51% 비싼 수준에서 형성됐다고 짚었다. 일반적으로 같은 회사 주식은 시장이 달라도 환율과 거래비용 등을 감안한 범위 안에서 비슷한 가격을 유지하는 게 자연스럽다. 그런데 이번처럼 가격 차가 크게 벌어진 것은 통상적인 시장 작동 원리로는 설명하기 어렵다는 것이...  더보기",
+    "url": "https://www.tokenpost.kr/news/tech/381444",
+    "published_at": "Sun, 26 Jul 2026 15:06:42 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "SK하이닉스 ADR이 한국 본주보다 비정상적으로 높은 가격에 거래되고 있는 것으로 보아, 인공지능 관련 주식 투자 과열의 신호로 간주되었다.",
+    "collected_at": "2026-07-26T15:36:05.062797+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 위믹스 3.0 네트워크서 보안 사고 의심...피해 규모 70만달러 이상 추정 外",
+    "content": "위믹스 3.0 네트워크서 보안 사고 의심...피해 규모 70만달러 이상 추정오데일리에 따르면 온체인 탐정 스펙터는 위믹스 3.0 네트워크에서 보안 사고가 의심된다고 밝혔다.초기 모니터링 결과 취약점 악용 공격 가능성이 있으며, 관련 자금 규모는 70만달러를 넘는 것으로 파악됐다.현재 위믹스 공식 측은 이번 의심 사고에 대한 공식 설명을 내놓지 않았다. 구체적인 공격 원인과 피해 범위, 실제 손실 규모는 추가 확인이 필요하다.미·이란, 파키스탄·카타르 제안 협상 재개안에 각각 응답미국과 이란이 파키스탄과 카타르가 제안한 협상 재개안에 대해 각각 입장을 밝혔다.오데일리에 따르면 아랍 위성방송과 사우디 매체 하다스는 양국이...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/381440",
+    "published_at": "Sun, 26 Jul 2026 14:30:25 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "위믹스 3.0 네트워크에서 보안 사고 의심이 나와, 피해 규모가 70만달러 이상으로 추정되며, 관련 자금 규모가 크고, 여러 매체가 동시에 다루고 있으나, 아직 공식 발표가 없으므로 8.5점",
+    "collected_at": "2026-07-26T15:36:06.011148+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BitMart, BMX 59% 급락 속 8월 26일까지 거래 종료 예정",
+    "content": "BitMart, BMX 59% 급락 속 8월 26일까지 거래 종료 예정",
+    "url": "https://ns3.ai/ko/news/qGIyk2zTcx",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소의 거래 종료 예정은 크립토 시장 전반에 영향을 줄 수 있는重大 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-07-26T15:36:30.116061+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BitMart, 플랫폼 정리 절차 시작…CEO는 “협의 없었다”",
+    "content": "BitMart, 플랫폼 정리 절차 시작…CEO는 “협의 없었다”",
+    "url": "https://ns3.ai/ko/news/i7KmRNy7EF",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 BitMart가 플랫폼 정리 절차를 시작하고 CEO가 협의가 없었다고 밝히는 뉴스는 업계 전반에 큰 파급력을 줄 가능성이 있어",
+    "collected_at": "2026-07-26T15:37:12.924243+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트마트는 9년간의 운영을 마치고 문을 닫을 예정입니다",
+    "content": "비트마트는 9년간의 운영을 마치고 문을 닫을 예정입니다",
+    "url": "https://www.cryptopolitan.com/ko/bitmart-announces-shutdown-bmx-crashes-by-60/",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 문을 닫는다는 것은 크립토 시장 전체에 큰 영향을 줄 수 있는重大 사건입니다.",
+    "collected_at": "2026-07-26T15:37:59.517399+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "CZ Says Acquiring Smaller Crypto Exchanges Carries Hidden Security Risks",
