@@ -1,5 +1,65 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Monad, 블록 시간을 300밀리초로 단축",
+    "content": "Monad, 블록 시간을 300밀리초로 단축",
+    "url": "https://ns3.ai/ko/news/N5Ud6vBjDt",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Monad이 블록 시간을 단축하는 뉴스이며, 관련 주체는 중견 프로젝트로 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있으나 아직 확정 발표가 아니므로 7.5점",
+    "collected_at": "2026-07-26T21:25:05.768941+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "애널리스트, CLARITY 법 통과 시 비트코인 $20만 전망…7가지 걸림돌",
+    "content": "애널리스트, CLARITY 법 통과 시 비트코인 $20만 전망…7가지 걸림돌",
+    "url": "https://kr.beincrypto.com/bitcoin-200k-clarity-act-roadblocks/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "CLARITY 법 통과 시 비트코인 $20만 전망이라는 전망이 나온다. 하지만 7가지 걸림돌이 있다.",
+    "collected_at": "2026-07-26T21:25:38.362678+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "분석가들, 비트코인 20만 달러 시나리오를 CLARITY Act 통과와 연결",
+    "content": "분석가들, 비트코인 20만 달러 시나리오를 CLARITY Act 통과와 연결",
+    "url": "https://ns3.ai/ko/news/a46sWSejNQ",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "CLARITY Act 통과와 관련된 뉴스이며, 분석가들의 시나리오가 포함되어 있어 시장이 주목할 만한 뉴스임.",
+    "collected_at": "2026-07-26T21:25:53.076544+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "암호화폐 거래소들이 해외 투자자들에게 중국 AI 관련 주식에 대한 접근성을 제공하고 있다",
+    "content": "암호화폐 거래소들이 해외 투자자들에게 중국 AI 관련 주식에 대한 접근성을 제공하고 있다",
+    "url": "https://www.cryptopolitan.com/ko/crypto-exchanges-back-door-china-ai-boom/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 거래소가 해외 투자자들에게 중국 AI 관련 주식에 대한 접근성을 제공하는 뉴스, 여러 매체가 동시에 다룰 만한 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-26T21:26:25.580686+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Flare CEO Reveals Six-Month XRPFi Roadmap as FXRP Adoption Tops 150 Million",
+    "content": "Flare CEO Reveals Six-Month XRPFi Roadmap as FXRP Adoption Tops 150 Million",
+    "url": "https://coinmarketcap.com/community/articles/6a6671cf457d0435713b77aa/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "Flare CEO의 6개월 XRPFi 로드맵 공개와 FXRP의 150만 명 이상의 채택을 언급하는 뉴스, 그러나 영향 범위가 제한적",
+    "collected_at": "2026-07-26T21:27:29.028019+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 5471만 달러 청산",
