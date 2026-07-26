@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Upbit to List Morpho (MORPHO) and Euler (EUL) in KRW Market",
+    "content": "Upbit to List Morpho (MORPHO) and Euler (EUL) in KRW Market\nSouth Korea’s largest crypto exchange, Upbit will list MORPHO at 5:00 p.m. UTC+8 on July 25 and EUL at 11:00 a.m. UTC+8 on July 26. Deposits and withdrawals for both tokens will be supported only via Ethereum. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25289",
+    "published_at": "2026-07-26T01:04:11+00:00",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 거래소 Upbit이 MORPHO와 EUL을 신규 상장하는 뉴스",
+    "collected_at": "2026-07-26T01:05:51.972930+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "국민연금, 7월 국내 주식 순매수 전환... 투자심리 변화 감지",
+    "content": "국민연금이 2026년 7월 국내 주식 비중을 다시 맞추는 리밸런싱을 재개했지만, 시장이 우려했던 대규모 매도 대신 이달 들어서는 오히려 순매수 흐름을 보이고 있다.26일 한국거래소에 따르면 국민연금이 포함된 연기금 등은 7월 초부터 24일까지 유가증권시장에서 684억원어치를 순매수했다. 국민연금은 국내 증시에서 영향력이 큰 기관투자가여서 자금 방향이 수급과 투자심리에 적지 않은 영향을 준다. 그동안 시장에서는 지난달 말 리밸런싱 유예 종료 이후 국민연금이 국내 주식을 대거 팔 수 있다는 전망이 나왔지만, 실제 월간 흐름은 올해 들어 처음으로 순매수로 나타났다. 연기금 등은 앞서 1월 1조8천911억원, 2월 6천816억원, 3월...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/381347",
+    "published_at": "Sun, 26 Jul 2026 00:46:37 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "국민연금의 리밸런싱과 순매수 흐름이 국내 주식 시장에 미치는 영향을 다루고 있으며, 영향력이 큰 기관투자자로 시세에 큰 영향을 줄 수 있다.",
+    "collected_at": "2026-07-26T01:06:00.435061+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "솔라나(SOL), 블록 용량 100만 유닛 확대 추진…스테이킹 ETF 출시로 제도권 자금 유입 본격화",
+    "content": "솔라나(SOL), 블록 용량 100만 유닛 확대 추진…스테이킹 ETF 출시로 제도권 자금 유입 본격화솔라나(SOL)가 74달러대에서 제한적인 등락을 보이는 가운데, 블록 용량 대폭 확대와 미국 최초 스테이킹 보상 제공 ETF 출시로 생태계 확장과 제도권 진입이 가속화되고 있다. 주간 10억 건 이상의 트랜잭션을 기록하며 레이어1 프로토콜 중 가장 높은 활용도를 입증한 솔라나는 기술적 중립 시그널 속에서도 기관 자금 유입과 온체인 활동 증가로 견조한 회복세를 이어가고 있다.코인마켓캡에 따르면 솔라나는 26일 오전 9시 41분 기준 74.74달러에 거래되며 24시간 전 대비 0.91% 상승했다. 시가총액은 약 435억 7,000만 달러로 암호화폐 시장...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381344",
+    "published_at": "Sun, 26 Jul 2026 00:43:49 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소와 유명 프로젝트가 관련된 뉴스이며, 구체적 금액과 정책/자금 관련 소식이 포함되어 있어 업계 전반에 주목할 만한 뉴스입니다.",
+    "collected_at": "2026-07-26T01:06:36.013314+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Wise, GENIUS 법 체계 아래 미국 신탁은행 인가 재신청 계획",
+    "content": "Wise, GENIUS 법 체계 아래 미국 신탁은행 인가 재신청 계획",
+    "url": "https://ns3.ai/ko/news/58xqKSH6m5",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Wise와 GENIUS가 미국 신탁은행 인가 재신청을 계획하는 것으로 보아, 관련 주체가 대형 거래소·기관에 해당하고, 파급 범위가 크립토 시장 전반에 영향을 줄 가능성이 있어 8점을 부여한다.",
+    "collected_at": "2026-07-26T01:09:32.582515+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Hasu “BitMEX 보험기금이 매각을 복잡하게 할 수 있다”",
+    "content": "Hasu “BitMEX 보험기금이 매각을 복잡하게 할 수 있다”",
+    "url": "https://ns3.ai/ko/news/MrK3DN9xhP",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "BitMEX 보험기금의 매각이 크립토 시장에 미치는 영향이 중요하지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-26T01:10:19.055230+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트마인, 이더리움 보유와 스테이킹 전략으로 시장의 주목을 받다",
