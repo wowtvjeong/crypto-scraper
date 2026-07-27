@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Storj Labs Files for Chapter 11 Bankruptcy After Raising Approximately $35 Million",
+    "content": "Storj Labs Files for Chapter 11 Bankruptcy After Raising Approximately $35 Million\nStorj Labs, the company behind decentralized cloud storage network Storj, has voluntarily filed for Chapter 11 bankruptcy protection to address legacy debt while continuing operations.\nThe company said customer services will remain uninterrupted during the restructuring. Management, the community, STORJ token holders and investors are expected to jointly own the reorganized company.\nStorj Labs previously raised about $5 million in traditional funding and grants, alongside roughly $30 million through its 2017 STORJ token sale. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25298",
+    "published_at": "2026-07-27T00:35:43+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 프로젝트의 Chapter 11 파산과 재조직, 유의미한 자금 조달 및 투자자 참여",
+    "collected_at": "2026-07-27T01:07:03.588617+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "WEMIX Contract Owner Privileges Compromised, $6.25M in Tokens Illegally Minted and Transferred",
+    "content": "WEMIX Contract Owner Privileges Compromised, $6.25M in Tokens Illegally Minted and Transferred\nWEMIX, the blockchain ecosystem backed by South Korean listed gaming company Wemade, confirmed a security incident involving its smart contract.\nThe company said an attacker obtained owner privileges on July 26, enabling approximately $6.25 million worth of WEMIX tokens to be abnormally minted and transferred. WEMIX has identified the related addresses and is working with exchanges and blockchain security firms to trace the funds, with potential law enforcement involvement if necessary. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25299",
+    "published_at": "2026-07-27T01:01:30+00:00",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향, 큰 폭의 가격 변동",
+    "collected_at": "2026-07-27T01:07:04.189531+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "위믹스 계약 침해로 무단 발행…공격자 72만4000달러 상당 이동",
+    "content": "위믹스 스테이블코인 관련 계약에서 권한 침해가 발생했다. 공격자는 토큰을 무단 발행한 뒤 일부 자금을 여러 체인과 지갑으로 옮긴 것으로 파악됐다. 26일 위믹스는 사고 업데이트 공지를 통해 공격자가 위믹스달러와 연결된 계약 소유권을 침해한 뒤 약 72만4198.27 USDC.e를 이동시켰다고 밝혔다. 이상 거래는 일요일 9시 17분 UTC에 발생했다. 위믹스에 따르면 공격자는 약 523만 위믹스달러를 발행하고 이를 3만736 위믹스와 72만4198.27 USDC.e로 전환했다. USDC.e는 이더리움과 BNB 스마트체인으로 브리지된 뒤 이더와 테더 USDT 등으로 교환됐다. 이후 여러 주소로 분산된 것으로 조사됐다. 위믹스는 일부 자금이 중앙화 거래소로...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381513",
+    "published_at": "Mon, 27 Jul 2026 00:58:13 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "위믹스 계약 침해로 무단 발행된 토큰이 여러 체인과 지갑으로 이동한 것으로 파악되며, 이는 크립토 시장 전반에 큰 영향을 줄 수 있는重大 사건이다.",
+    "collected_at": "2026-07-27T01:07:04.989854+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "네이버, 엔비디아·브룩필드와 손잡고 AI 인프라 확장…100억 달러 투자 확보",
+    "content": "네이버가 엔비디아와 브룩필드로부터 총 100억달러 규모의 투자와 인프라 조달 기반을 확보하면서 글로벌 인공지능 인프라 사업 확대에 본격적으로 나섰다.네이버는 27일 공시를 통해 엔비디아와 글로벌 인공지능 팩토리 공동 구축 사업을 추진하고, 이를 위해 엔비디아를 대상으로 10억달러 규모의 제3자배정 유상증자를 실시한다고 밝혔다. 인공지능 팩토리는 대규모 그래픽처리장치와 데이터센터를 묶어 인공지능 학습·추론에 필요한 연산 자원을 공급하는 시설을 뜻한다. 이번 협력에서 네이버는 데이터센터 부지 확보와 구축, 운영을 맡고 엔비디아는 핵심 반도체인 그래픽처리장치 공급을 담당한다. 네이버가 제3자배정 유상증자에 나서는...  더보기",
+    "url": "https://www.tokenpost.kr/news/ai/381515",
+    "published_at": "Mon, 27 Jul 2026 00:56:37 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "네이버가 엔비디아와 브룩필드와의 협력으로 인공지능 인프라 사업을 확대하고, 100억 달러 규모의 투자와 인프라 조달을 확보하는 큰 뉴스이다.",
+    "collected_at": "2026-07-27T01:07:20.360918+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "솔라나(SOL), 75달러 중반에서 안정적인 상승세…기관 투자자 관심 지속",
+    "content": "솔라나(SOL)가 75달러 중반에서 거래되고 있으며, 안정적인 상승세를 보이고 있다. 주요 거래소와 가격 집계 사이트에 따르면, SOL의 가격은 69~78달러 사이에서 소폭의 일일 상승을 나타내고 있다.미국 솔라나 현물 ETF에서는 최근 60만 5100달러의 순유출이 발생했으나, 누적 역사적 순유입액은 11억 3600만 달러에 달한다. VanEck 솔라나 ETF는 하루 26만 700달러 순유입을 기록했고, Invesco Galaxy 솔라나 ETF는 94만 1400달러의 순유출을 나타냈다. 현재 SOL 현물 ETF의 총 순자산가치는 9억 500만 달러에 달하고, 이는 단기 순유출에도 불구하고 솔라나에 대한 기관 투자자들의 지속적인 관심을 시사한다.솔라나 생태계는 소버린 웰스...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381507",
+    "published_at": "Mon, 27 Jul 2026 00:43:51 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "솔라나의 가격이 안정적인 상승세를 보이고 있으며, 기관 투자자들의 지속적인 관심을 받고 있다. 또한, 솔라나 생태계의 성장과 관련된 정보가 포함되어 있다.",
+    "collected_at": "2026-07-27T01:09:15.134545+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[KOL 인덱스] “비트마트 결국 문 닫는다” 커뮤니티 불안 확산… CZ ‘자기수탁’ 발언·BTC ‘최종 투매 아직’ 관측도",
+    "content": "KOL 인덱스는 토큰포스트와 DataMaxiPlus의 커뮤니티 분석 기술을 기반으로, 텔레그램 내 투자자 반응과 관심이 높은 콘텐츠를 분석한 시리즈다. 전일 KOL 커뮤니티에서 주목받은 이슈를 통해 시장의 투자 심리와 트렌드를 진단한다. [편집자주]\n\n“거래소 또 하나가 접는다”는 소식이 확산되며 커뮤니티의 불안 심리가 빠르게 커졌다. BitMEX에 이어 BitMart가 운영 중단을 공지했다는 글이 상위권을 차지했고, 거래소 토큰 BMX 급락 캡처가 연이어 공유됐다. 한편 CZ가 ‘힘든 시기’와 ‘자기수탁(Self-custody)’을 언급했다는 속보성 메시지가 붙으며, 단순 뉴스 소비를 넘어 자산 보관 방식까지 화제가 번졌다.\n\nBitMart 종료 공지·BMX 급락…...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381501",
+    "published_at": "Mon, 27 Jul 2026 00:30:47 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "BitMEX와 BitMart의 운영 중단 소식과 CZ의 자기수탁 발언이 커뮤니티 불안을 확산시키고, 자산 보관 방식까지 화제가 된다는 점에서 시장 전반에 영향을 줄 가능성이 있는 뉴스이다.",
+    "collected_at": "2026-07-27T01:09:35.019004+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "윔엑스, 해킹 여파로 브리지·거래 서비스 일시 중단",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "트럼프 대통령의 대중국 발언과 미국의 이란 공습이 겹치며 투자 심리를 압박한 영향으로 비트코인과 아시아 증시가 동반 하락하는 뉴스",
     "collected_at": "2026-07-17T04:55:14.069396+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인·아시아 증시 동반 하락…중동 긴장·트럼프 발언에 리스크 회피 확산",
-    "content": "비트코인(BTC)과 아시아 증시가 동반 하락하며 시장 전반에 ‘리스크 회피’ 흐름이 확산됐다. 미국의 이란 공습과 트럼프 대통령의 대중국 발언이 겹치며 투자 심리를 압박한 영향이다.비트코인은 17일 기준 6만3468달러 수준(약 9400만원)에서 거래되며 약세 흐름을 이어갔다. 전일 6만5000달러에서 약 1.4% 하락한 데 이어 추가로 밀리며 50일 이동평균선 아래로 내려왔다. 단기 상승 모멘텀이 약화됐다는 신호로 해석된다.미국 공습·중동 긴장…리스크 자산 전반 압박같은 날 아시아 주요 증시도 급락했다. 일본 닛케이 지수는 약 3% 하락하며 한 달 내 최저 수준으로 밀렸고, 호주 ASX200도 0.5% 하락했다. 나스닥 선물 역시 0.8% 떨어지며...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378727",
-    "published_at": "Fri, 17 Jul 2026 04:15:49 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "중동 긴장과 트럼프 발언이 리스크 회피 흐름을 확산시키고 비트코인 가격이 하락하는 등 크립토 시장 전반에 영향을 주는 뉴스",
-    "collected_at": "2026-07-17T04:55:32.500136+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미 상원 클래리티 법안 또 제동…트럼프 암호화폐 이해충돌이 변수",
-    "content": "미국 상원이 추진하는 ‘클래리티(CLARITY) 법안’이 핵심 쟁점인 ‘트럼프 대통령의 암호화폐 이해충돌’ 문제에 막혀 또다시 속도를 내지 못하고 있다. 7일(현지시간) 새 수정안이 공개될 예정이지만, 민주당의 폭넓은 지지는 여전히 확보되지 않은 상태다.미국 상원에서는 디지털자산 규제를 명확히 하려는 ‘클래리티 법안’ 논의가 계속되고 있다. 그러나 크리스 머피, 제프 머클리, 크리스 밴홀런, 엘리자베스 워런 등 민주당 상원의원들은 트럼프 대통령의 암호화폐 관련 이익을 제한하지 않으면 입법 취지가 무너진다고 반발하고 있다. 이들은 단순한 규제 정비보다, 재임 중 고위 공직자가 개인적 암호화폐 사업에서 이익을 얻지 못하도록...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/378723",
-    "published_at": "Fri, 17 Jul 2026 03:51:26 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국 상원에서 추진하는 클래리티 법안과 트럼프 대통령의 암호화폐 이해충돌이 주요 쟁점인 뉴스",
-    "collected_at": "2026-07-17T04:56:10.195874+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미국 증권 결제, 블록체인으로 넘어가나…멕시벤처스, DTCC 첫 실거래 주목",
-    "content": "미국 증권 결제의 핵심 인프라를 맡아온 DTCC가 주식, ETF, 미국 국채를 블록체인에서 처리한 첫 실거래를 마무리하면서 ‘토큰화’와 기관용 블록체인 결제가 더 이상 시험 단계에 머물지 않는다는 점이 확인됐다. 멕시벤처스(MEXC Ventures)는 최근 리서치를 통해 7월 15일 진행된 이번 거래가 JPMorgan, 블랙록(BlackRock) 등 40개 이상 기관이 참여한 실제 생산 환경 사례였으며, 오는 10월 전체 서비스 출시에 앞서 미국 금융시장의 결제 구조가 본격적으로 재편될 가능성을 보여줬다고 분석했다.이번 조치의 핵심은 새로운 가상자산을 발행한 것이 아니라, 기존 증권을 블록체인상 ‘디지털 트윈’ 형태로 옮겨 법적 권리와 경제적 실질을...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/378722",
-    "published_at": "Fri, 17 Jul 2026 03:39:08 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "미국 증권 결제의 핵심 인프라를 맡아온 DTCC가 블록체인에서 처리한 첫 실거래를 마무리하면서, 기관용 블록체인 결제가 더 이상 시험 단계에 머물지 않는다는 점이 확인됐다. 또한, 미국 금융시장의 결제 구조가 본격적으로 재편될 가능성이 보여줬다.",
-    "collected_at": "2026-07-17T04:56:27.751906+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[인터뷰] “금융의 배관을 갈아엎는 중”…유발 루즈 “기관 블록체인, 실험은 끝났다”",
-    "content": "도쿄 아카사카의 고풍스러운 건물과 초록빛 정원이 통유리창 너머로 펼쳐졌다. WebX 2026 기간 중 더 클래식 하우스 앳 아카사카 프린스에서 토큰포스트와 마주 앉은 유발 루즈(Yuval Rooz) 디지털애셋(Digital Asset) 공동창업자 겸 최고경영자(CEO)는 블록체인이 금융을 바꾸는 과정을 집의 배관을 교체하는 일에 비유했다. 벽에 걸린 그림을 바꾸거나 침대를 옮기는 수준이 아니다. 바닥을 들어내고 땅을 파서 집 아래의 파이프를 통째로 바꿔야 한다. 더 어려운 점은 공사 기간에도 그 집에서 계속 살아야 한다는 것이다. 그가 지난 10여 년간 해온 일이 바로 이것이다. 디지털애셋은 2014년 말 금융서비스를 블록체인 위로 옮기겠다는...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/378719",
-    "published_at": "Fri, 17 Jul 2026 03:15:42 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "유발 루즈 디지털애셋 공동창업자 겸 CEO가 블록체인이 금융을 바꾸는 과정을 집의 배관 교체와 비교하며, 디지털애셋이 금융서비스를 블록체인 위로 옮기겠다는 목표를 언급하는 등 블록체인과 금융 관련 중요한 뉴스",
-    "collected_at": "2026-07-17T04:56:46.187937+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[오후 뉴스브리핑] 미국 재무부, 이란 중앙은행 관련 가상자산 지갑 제재 대상 추가 外",
-    "content": "미국 재무부가 이란 중앙은행과 관련된 가상자산 지갑 4개를 제재 대상에 추가했다고 오데일리가 보도했다.테더는 이에 따라 해당 지갑에 보관된 1억3100만달러 규모 USDT를 동결했다.이번 조치로 관련 지갑에서 동결된 금액은 총 약 4억7500만달러로 늘었다.이란군이 쿠웨이트 내 미군 병력 배치 및 병참 지원 센터를 드론으로 공격했다고 밝혔다.오데일리에 따르면 이란군은 해당 시설을 겨냥해 무인기 공격을 감행했다고 주장했다. 이번 발표는 중동 지역 군사 긴장이 고조되는 가운데 나왔다.러시아 정부가 암호화폐 규제 법안 최종본에 비전문 투자자의 외국 스테이블코인 매입을 금지하는 조항을 추가할 예정이라고 PANews가 Bits.media를...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/378716",
-    "published_at": "Fri, 17 Jul 2026 03:02:15 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국 재무부가 이란 중앙은행과 관련된 가상자산 지갑 4개를 제재 대상에 추가하고, 테더가 해당 지갑에 보관된 1억3100만달러 규모 USDT를 동결했다는 뉴스. 이란군의 드론 공격과 관련된 군사 긴장의 영향도 언급되어 있다.",
-    "collected_at": "2026-07-17T04:57:42.629489+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "오세훈 서울시장, 청년층 자산 형성 위기 지적하며 금융시장 개혁 촉구",
-    "content": "오세훈 서울시장이 17일 국내 증시의 급격한 변동성과 장기 연체 채무 탕감 기조를 함께 문제 삼으며, 청년층의 자산 형성과 주거 안정을 해치는 정책 흐름이라고 비판하고 정부에 근본 대책 마련을 촉구했다.오 시장은 이날 페이스북 글에서 최근 주식시장 불안이 단순한 가격 등락을 넘어 청년층의 경제적 사다리를 흔들고 있다고 진단했다. 그는 올해 코스피 사이드카 발동이 37회로, 글로벌 금융위기 당시인 2008년 연간 기록인 26회를 이미 넘어섰다고 언급했다. 사이드카는 주가가 급등락할 때 프로그램 매매를 잠시 멈추는 장치인데, 그만큼 시장 불안이 잦았다는 뜻이다. 오 시장은 이런 상황의 배경으로 단일 종목 레버리지...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/378712",
-    "published_at": "Fri, 17 Jul 2026 02:54:10 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "정부의 금융시장 개혁 촉구와 청년층의 자산 형성과 주거 안정에 대한 문제 제기, 국내 증시의 급격한 변동성과 장기 연체 채무 탕감 기조의 비판",
-    "collected_at": "2026-07-17T04:58:19.722317+00:00"
   }
 ]
