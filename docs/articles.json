@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "X머니, 크로스리버 붙였다…암호화폐는 빠졌다",
+    "content": "일론 머스크의 금융 서비스 구상인 X머니가 미국 인가 은행 크로스리버를 은행 파트너로 확보하고 개인 간 송금, 이자 지급 계좌, 비자 직불카드 출시 기반을 마련했다.\n코인텔레그래프에 따르면 크로스리버(Cross River)는 현지시간 27일 X에 통합되는 금융 플랫폼 X머니에 은행 인프라를 제공한다고 밝혔다. 제공 범위는 △개인 간 송금 △미국 연방예금보험공사(FDIC) 예금보험이 적용되는 이자 지급형 계좌 △비자(Visa) 직불카드다.\n이번 구조에서 X는 이용자 접점을 맡고, 크로스리버는 자금 보관과 결제 처리를 담당한다. 이용자는 X 화면에서 금융 서비스를 이용하지만 실제 은행 기능은 인가받은 파트너 은행이 수행하는 방식이다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381941",
+    "published_at": "Mon, 27 Jul 2026 21:23:30 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크로스리버가 금융 플랫폼 X머니와 파트너십을 맺어, 암호화폐를 포함한 다양한 금융 서비스를 제공할 예정이다.",
+    "collected_at": "2026-07-27T21:35:09.496142+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트마인, 이더리움 579만개 보유…공급량 4.8% 차지",
+    "content": "비트마인 이머전 테크놀로지스(Bitmine Immersion Technologies)가 이더리움(ETH) 579만개를 보유하며 기업 보유량 기준으로 시장 내 존재감을 더 키웠다. 지난주에만 1만개에 가까운 ETH를 추가 매입했고, 보유분의 대부분을 스테이킹으로 돌리며 수익화에도 속도를 내고 있다.비트마인은 월요일 공개한 자료에서 지난 26일 기준 현금과 시장성 증권, 암호화폐 보유액을 합친 규모가 118억달러라고 밝혔다. 이 가운데 약 490만 ETH, 전체 보유량의 85%가 검증자 운영을 통해 스테이킹된 상태다. 회사는 모든 물량이 자체 인프라와 파트너 검증자에 투입될 경우 연간 약 2억9900만달러의 스테이킹 보상을 기대할 수 있다고 추산했다.이번 매입은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/381934",
+    "published_at": "Mon, 27 Jul 2026 20:26:53 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트마인이 이더리움 579만개를 보유하며 기업 보유량 기준으로 시장 내 존재감을 키웠고, 스테이킹을 통해 수익화에도 속도를 내고 있다. 그러나 아직 시장 전체에 큰 영향을 미치는 것은 아니다.",
+    "collected_at": "2026-07-27T21:36:22.446050+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "리도, 165억달러 규모 이더리움 스테이킹 구조 개편…검증인 3분의 1 줄인다",
+    "content": "800만 ETH 통합 이전…이더리움 네트워크 효율성 개선 기대 [블록미디어 명정선 기자] 이더리움 최대 유동성 스테이킹 프로토콜 리도(Lido)가 약 165억달러 규모의 스테이킹 자산을 새로운 검증인(Validator) 구조로 이전하는 대규모 업그레이드를 시작했다. 이번 개편을 통해 이더리움 전체 검증인 수가 약 3분의 1 감소할 것으로 예상되며 네트워크 합의 계층의 효율성이 크게 개선될 전망이다. 27일(현지시각) 코인데스크에 따르면 리도는 2023년 V2 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1121183?utm_source=general&utm_medium=rss",
+    "published_at": "Mon, 27 Jul 2026 21:31:04 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 네트워크의 효율성 개선과 검증인 수 감소로 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-07-27T21:36:58.119045+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "위믹스 스테이블코인 해킹…523만개 무단 발행에 네트워크 전면 중단",
+    "content": "계약 권한 탈취로 위믹스$ 무단 발행…브리지·DEX 서비스 일시 중단 [블록미디어 명정선 기자] 위메이드의 블록체인 플랫폼 위믹스(WEMIX)가 스테이블코인 ‘위믹스$(WEMIX$)’ 스마트컨트랙트의 관리자 권한이 탈취되는 보안 사고를 겪으며 네트워크 운영을 일시 중단했다. 공격자는 약 523만개의 위믹스$를 무단 발행한 뒤 일부 자산을 이더리움과 BNB체인으로 이동시켜 현금화한 것으로 확인됐다. 위믹스는 27일 공지를 통해 사고 직후 WEMIX3.0 네트워크의 브리지와 유동성 풀, [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1121174?utm_source=general&utm_medium=rss",
+    "published_at": "Mon, 27 Jul 2026 20:54:40 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "위믹스 스테이블코인 해킹으로 인한 네트워크 전면 중단과 523만개의 무단 발행, 그리고 현금화가 발생한 것으로 확인되며, 이는 크립토 시장 전반에 큰 파급력을 미칠 수 있는 매우 심각한 사건이다.",
+    "collected_at": "2026-07-27T21:37:33.066864+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트마인, 이더리움 9946개 추가 매입…톰 리 “ETH/BTC 강세는 시장 회복 신호”",
+    "content": "578만 ETH 보유하며 공급량 5% 확보 눈앞…BM20 강세 속 업비트 거래대금도 2위 [블록미디어 명정선 기자] 비트마인이 지난주 이더리움(ETH) 약 9946개를 추가 매입하며 이더리움 보유량을 확대했다. 톰 리 비트마인 회장은 이더리움이 비트코인 대비 강세를 이어가는 점을 근거로 디지털자산 시장의 상승 모멘텀이 강화되고 있다는 견해를 밝혔다. 27일(현지시각) 코인데스크 등 주요 외신에 따르면 비트마인은 지난주 약 1940만달러 규모의 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1121170?utm_source=general&utm_medium=rss",
+    "published_at": "Mon, 27 Jul 2026 20:37:15 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트마인이 이더리움을 추가 매입하고, 톰 리 회장이 시장 회복 신호로 여기는 ETH/BTC 강세에 대한 언급이 있으나, 아직 시장 전체에 큰 영향을 미치지 않는 소식",
+    "collected_at": "2026-07-27T21:37:50.579315+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 3억 2671만 달러 청산",
     "content": "지난 24시간 동안 암호화폐 시장에서 약 3억 2671만 달러(약 4,770억원) 상당의 레버리지 포지션이 청산된 것으로 나타났다. 현재 집계된 데이터에 따르면, 청산된 포지션 중 롱 포지션이 2억 8587만 달러로 전체의 87.5%를 차지했고, 숏 포지션은 4084만 달러로 12.5%를 기록했다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 동안 가장 많은 포지션 청산이 발생한 거래소는 바이낸스로, 총 1,733만 달러(전체의 44.3%)가 청산됐다. 이 중 숏 포지션 청산 비율이 55.94%로 더 높았다. 두 번째로 많은 청산이 발생한 거래소는 Gate로, 536만 달러(13.69%)의 포지션이 청산됐으며, 이 중 숏 포지션이 86.98%를 차지했다. OKX에서는 약...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/381929",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": false,
     "reason": "문샷AI의 성과가 관련주들을 하락시키고, 월가에서 큰 관심을 끌고 있어 크립토 시장에 영향을 줄 가능성이 높다.",
     "collected_at": "2026-07-18T04:26:36.486156+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "유럽중앙은행(ECB)은 스테이블코인이 디지털 결제 및 뱅킹의 새로운 시대를 이끌 것으로 전망합니다",
-    "content": "유럽중앙은행(ECB)은 스테이블코인이 디지털 결제 및 뱅킹의 새로운 시대를 이끌 것으로 전망합니다",
-    "url": "https://www.cryptopolitan.com/ko/ecb-sees-stablecoins-driving-a-new-era-for-digital-payments-and-banking/",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "유럽중앙은행(ECB)이 스테이블코인을 디지털 결제 및 뱅킹의 새로운 시대를 이끌 것으로 전망하는 공식 발표로, 대형 기관의 중대 발표에 해당합니다",
-    "collected_at": "2026-07-18T04:28:42.340492+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Consensys Says North Korea-Linked Developer Contributed to MetaMask Code Before Access Was Revoked",
-    "content": "Consensys Says North Korea-Linked Developer Contributed to MetaMask Code Before Access Was Revoked\nAccording to Drop Site News, blockchain firm Consensys accidentally hired a software developer linked to North Korea. The developer, using the alias “Tyler Knapp,” joined through a third-party service provider and contributed to MetaMask-related code, including crypto-to-fiat conversion features. Consensys said it revoked the developer’s access after identifying the security risk and confirmed that no assets or data were compromised, no malicious code was deployed, and users were not affected. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25195",
-    "published_at": "2026-07-17T23:50:46+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와 관련된 보안 위협으로 인한 파급력과, 구체적 금액이 동반되지 않지만 중요한 정책/자금 관련 소식이 수반되는 점",
-    "collected_at": "2026-07-18T01:26:17.897336+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "크라켄, NFT·비유동 자산 평가 도구 강화…기관 서비스 경쟁 본격화",
-    "content": "크라켄 기관 전용 서비스가 NFT와 비유동 디지털 자산의 ‘가격 산정’ 문제를 풀기 위한 새 도구를 도입한다. 업숏과의 파트너십을 통해 평가 기능을 보강하면서, 암호화폐 시장에서도 가장 까다로운 영역인 비유동 자산 관리 수요를 겨냥했다.13일 크라켄에 따르면 크라켄 인스티튜셔널은 업숏(Upshot)과 협력해 NFT와 유동성이 낮은 디지털 자산의 가치평가 도구를 제공할 예정이다. 비트코인(BTC)이나 이더리움(ETH)처럼 거래가 활발한 자산과 달리, NFT 포트폴리오나 일부 온체인 자산은 적정가를 판단하기 어렵다는 점이 배경이다.기관 투자자에게 이 문제는 단순한 참고 지표가 아니다. 자산가치가 불분명하면 보고서 작성과 담보 설정,...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378981",
-    "published_at": "Sat, 18 Jul 2026 01:06:34 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크라켄 기관 전용 서비스가 NFT와 비유동 디지털 자산의 가격 산정 문제를 풀기 위한 새 도구를 도입하는 뉴스, 업계 전반에 영향을 줄 수 있는 기관 서비스 경쟁 본격화",
-    "collected_at": "2026-07-18T01:26:18.282212+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "SEC-CFTC 코인 분류 공조에도…미국 규제 혼선 다시 불붙었다",
-    "content": "미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)가 주요 암호화폐를 ‘상품’으로 보는 공동 입장에 나섰지만, 정치권과 로비의 압박이 거세지며 논란이 이어지고 있다. 크립토 업계가 원하는 것은 명확한 분류지만, 워싱턴에서는 오히려 ‘누가 시장을 통제할 것인가’라는 권한 싸움이 더 선명해지는 분위기다.13일 CFTC에 따르면 이번 공동 해석성 발표는 주요 디지털 자산의 분류 기준을 정리하려는 취지였지만, 논쟁을 끝내지는 못하고 있다. 오히려 어떤 자산이 규제 대상에 포함되는지, 또 어느 기관이 집행 권한을 갖는지를 둘러싼 새로운 쟁점을 드러냈다. 암호화폐가 증권인지 상품인지에 따라 거래소 상장, 준법 부담, 집행...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378978",
-    "published_at": "Sat, 18 Jul 2026 00:51:46 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "미국 규제 당국이 주요 암호화폐의 분류 기준을 정리하려는 취지였지만, 논쟁을 끝내지는 못하고 있다. 오히려 새로운 쟁점을 드러내면서, 크립토 업계가 원하는 명확한 분류에 대한 논란이 이어지고 있다.",
-    "collected_at": "2026-07-18T01:26:32.847753+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "SEC 암호화폐 규칙안 백악관 심사로…DeFi 세이프 하버 분수령 되나",
-    "content": "SEC의 ‘크립토 규칙 제정’ 작업이 백악관 검토 단계로 넘어간 것으로 알려지면서, 암호화폐 시장이 새로운 규제 국면을 맞을 가능성이 커졌다. 특히 탈중앙화금융(DeFi)에 대한 ‘세이프 하버’가 포함될지에 관심이 쏠린다.13일(현지시간) 외신에 따르면 SEC가 추진하는 ‘Regulation Crypto’는 규칙 초안 수준을 넘어 행정부 검토 절차에 들어갔다. 업계가 수년간 요구해온 것은 처벌 중심의 집행이 아니라 명확한 규정이었다. 이번 논의가 실제 규칙으로 이어진다면, 기업들은 그동안의 불확실성 대신 제안된 문구를 놓고 의견을 내고 대응 전략을 세울 수 있게 된다.DeFi 세이프 하버가 핵심 변수이번 규칙안에서 가장 민감한 대목은 DeFi다....  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378972",
-    "published_at": "Sat, 18 Jul 2026 00:36:41 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "SEC의 암호화폐 규칙안이 백악관 심사로 넘어간 것으로 알려져, 암호화폐 시장이 새로운 규제 국면을 맞을 가능성이 커졌다. 탈중앙화금융(DeFi)에 대한 '세이프 하버'가 포함될지에 관심이 쏠린다.",
-    "collected_at": "2026-07-18T01:27:10.759283+00:00"
   }
 ]
