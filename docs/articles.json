@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "7월 28일 출근길 팟캐스트 — 3억2671만달러 청산 충격, 롱 87.5% 붕괴 속 블랙록 2억7100만달러 이체 주목",
+    "content": "오늘 시장에서 발생한 가장 중요한 사건은 지난 24시간 동안 3억2671만달러 규모의 레버리지 포지션이 강제 청산된 일이다. 단순한 가격 흔들림이 아니라, 상승 쪽에 과도하게 기울어 있던 포지션이 한꺼번에 정리된 사건으로 읽힌다.청산 물량 가운데 롱 포지션은 2억8587만달러로 전체의 87.5%를 차지했다. 시장 참가자 다수가 추가 상승에 베팅해 있었다는 뜻이고, 이번 변동이 그 기대를 강하게 되돌린 셈이다.특히 이더리움 청산 규모는 1억4240만달러로 가장 컸고, 비트코인은 7873만달러가 청산됐다. 대형 자산 두 곳에 청산이 집중됐다는 점은 이번 충격이 일부 알트코인 문제가 아니라 시장 중심부에서 발생했다는 해석을 가능하게...  더보기",
+    "url": "https://www.tokenpost.kr/news/insights/381936",
+    "published_at": "Mon, 27 Jul 2026 21:51:08 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 자산의 레버리지 포지션 강제 청산, 시장 중심부에서 발생한 충격적인 사건",
+    "collected_at": "2026-07-27T22:51:29.322814+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "엔비디아에 무슨 일이…AI 투자 확대에 ‘부도 위험’ 급등",
+    "content": "7500억달러 규모 AI 프로젝트 논의에 CDS 급등…시장 “재무 부담 커질 수도” [블록미디어 명정선 기자] 엔비디아가 초대형 인공지능(AI) 인프라 프로젝트에 참여한다는 소식이 전해지면서 신용시장의 우려가 커지고 있다. 투자자들은 AI 투자 확대에 따른 재무 부담 가능성을 반영하며 엔비디아의 신용부도스와프(CDS) 프리미엄을 사상 최대 폭으로 끌어올렸다. 27일(현지시각) 블룸버그 등 주요 외신에 따르면 엔비디아의 5년 만기 CDS 프리미엄은 장중 연 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1121188?utm_source=general&utm_medium=rss",
+    "published_at": "Mon, 27 Jul 2026 22:13:51 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "엔비디아의 재무 부담 가능성이 커지는 소식이 시장에 전해지면서 신용시장의 우려가 커지고 있다.",
+    "collected_at": "2026-07-27T22:51:30.037675+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "프랭클린 템플턴, CLARITY Act 통과 지지",
+    "content": "프랭클린 템플턴, CLARITY Act 통과 지지",
+    "url": "https://ns3.ai/ko/news/1j1EpkcSvX",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "유명 투자자 프랭클린 템플턴이 CLARITY Act에 대한 지지를 표명했지만, 구체적인 정책·행동 변화가 수반되지 않아 7점을 넘지 않는다.",
+    "collected_at": "2026-07-27T22:53:30.126099+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "뉴욕, 3만1,000가구 과세 명단 공개…크립토 신상털기 우려 확산",
+    "content": "뉴욕, 3만1,000가구 과세 명단 공개…크립토 신상털기 우려 확산",
+    "url": "https://ns3.ai/ko/news/qRLEE3FzDi",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "뉴욕에서 크립토 관련 신상털기 우려가 확산되는 뉴스, 관련 주체가 크고 파급 범위가 크지만 확정 발표는 아님",
+    "collected_at": "2026-07-27T22:53:47.487836+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Metaplanet Plans Bitcoin-Backed Bonds Yielding Up to 6%",
+    "content": "Metaplanet Plans Bitcoin-Backed Bonds Yielding Up to 6%",
+    "url": "https://coinmarketcap.com/community/articles/6a67dd168bfbe17845e677ab/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 주체인 Metaplanet이 크립토를 기반으로 한 보증된 이자율 6%까지의 보안을 출시하는 뉴스",
+    "collected_at": "2026-07-27T22:54:55.266868+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "X머니, 크로스리버 붙였다…암호화폐는 빠졌다",
     "content": "일론 머스크의 금융 서비스 구상인 X머니가 미국 인가 은행 크로스리버를 은행 파트너로 확보하고 개인 간 송금, 이자 지급 계좌, 비자 직불카드 출시 기반을 마련했다.\n코인텔레그래프에 따르면 크로스리버(Cross River)는 현지시간 27일 X에 통합되는 금융 플랫폼 X머니에 은행 인프라를 제공한다고 밝혔다. 제공 범위는 △개인 간 송금 △미국 연방예금보험공사(FDIC) 예금보험이 적용되는 이자 지급형 계좌 △비자(Visa) 직불카드다.\n이번 구조에서 X는 이용자 접점을 맡고, 크로스리버는 자금 보관과 결제 처리를 담당한다. 이용자는 X 화면에서 금융 서비스를 이용하지만 실제 은행 기능은 인가받은 파트너 은행이 수행하는 방식이다....  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/381941",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "XRP의 현재 가격과 시장 상황에 대한 분석이 나와 있으나, 기관 자금 유입에 대한 기대는 아직 보여주지 못하고 있으며, 시장은 실제 수요와 거래량으로 이를 증명하길 요구하는 분위기다.",
     "collected_at": "2026-07-18T04:24:58.591231+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "이더리움 반등 멈췄다…ETF 기대에도 정책 불확실성 재부각",
-    "content": "13일(현지시간) 아캄 인텔리전스에 따르면 이더리움(ETH)의 반등세가 다시 한풀 꺾였다. 현물 ETF 기대감은 여전하지만, 완화되지 않은 정책 불확실성과 식은 위험선호 심리가 겹치며 상승 동력이 약해진 모습이다.ETF 기대는 유효하지만, 시장은 ‘실제 수요’를 본다이더리움 ETF는 투자 접근성을 넓힌다는 점에서 여전히 핵심 호재로 꼽힌다. 증권계좌와 자문 플랫폼을 통해 '직접 보유' 부담 없이 ETH에 투자할 수 있게 되면서, 기관 자금 유입 가능성도 커졌다.다만 시장은 기대만으로 움직이지 않는다. 트레이더들은 자금 유입 규모, 발행사 간 경쟁 구도, 자문사 채택 속도, 실제 운용 수요를 따져보고 있다. ETF가 승인되더라도 곧바로...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378994",
-    "published_at": "Sat, 18 Jul 2026 02:21:27 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 ETF 기대감이 있지만, 정책 불확실성과 식은 위험선호 심리가 겹치며 상승 동력이 약해진 모습이다. ETF 승인은 기대지만, 곧바로 시장에 반영되지 않을 수 있다.",
-    "collected_at": "2026-07-18T04:25:17.174822+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인, 기술주 약세에 6만3000달러 하회…6만달러 지지선 주목",
-    "content": "비트코인(BTC)이 6만3000달러 아래로 떨어지며 시장이 다시 ‘방어적’ 분위기로 돌아섰다. 기술주 약세가 가상자산 시장으로 번지면서 단기 위험자산 회피 심리가 강해진 영향이다.13일 아캄 인텔리전스(Arkham Intelligence)에 따르면 이번 하락은 비트코인(BTC) 자체의 약세만이 아니라 성장주 전반에 대한 압력과 맞물려 나타났다. 현물 ETF, 개선된 커스터디 서비스, 기관 참여 확대에도 비트코인은 여전히 거시 환경에 민감하게 반응하고 있다.시장에서는 특히 6만~6만1500달러 구간을 다음 지지선으로 보고 있다. 이 구간에서 매수세가 받쳐주면 이번 조정을 ‘숨 고르기’로 해석할 수 있지만, 지지선이 무너지면 추가 하락 가능성도 열릴...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378991",
-    "published_at": "Sat, 18 Jul 2026 02:06:32 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인이 6만3000달러 아래로 떨어진 시황에 대한 설명과, 6만~6만1500달러 구간을 다음 지지선으로 보고 있는 시장의 반응에 대한 언급이 있다. 그러나 이 기사는 단순히 현황 리포트로 보이며, 시장 전체에 큰 영향을 줄 만한 사건이나 뉴스가 언급되지 않기 때문에 7점을 넘지 않는다.",
-    "collected_at": "2026-07-18T04:25:35.618331+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "SEC, 투자자 공시 전자 전달 추진…비트코인 ETF에도 영향 주목",
-    "content": "미국 증권거래위원회(SEC)가 투자자 공시를 ‘전자 방식’으로 전달하는 방안을 밀어붙이고 있다. 겉으로는 행정 규정처럼 보이지만, 비트코인(BTC)과 이더리움(ETH) ETF처럼 규제 상품으로 편입된 크립토 시장에는 적지 않은 변화가 될 수 있다.이번 제안은 투자설명서, 위험 고지, 수수료 안내, 펀드 업데이트 같은 문서를 종이 대신 디지털로 전달하는 방향에 초점이 맞춰져 있다. 크립토가 점점 ETF, 펀드, 브로커리지 계좌와 더 깊게 연결되는 만큼, 공시 전달 방식 자체가 시장의 ‘기본 인프라’가 되고 있다는 의미다.크립토는 새 시장이지만, 공시는 전통 금융 틀을 따른다가상자산 투자상품은 새로워 보여도 실제로는 전통적인 증권 구조...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378989",
-    "published_at": "Sat, 18 Jul 2026 01:51:26 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "크립토 ETF에 영향 주목하는 SEC의 제안이 크립토 시장의 '기본 인프라'가 될 수 있기 때문에, 업계 전반에 주목할 만한 뉴스",
-    "collected_at": "2026-07-18T04:25:54.267472+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "크라켄, 프로용 대출 기능 개편…담보·유동성 관리 유연성 높였다",
-    "content": "크라켄($KRAK)이 프로 사용자 대상 ‘대출’ 메커니즘을 손봤다. 단순히 자금을 빌리는 기능을 넘어서 담보를 더 효율적으로 쓰고, 유동성을 유연하게 관리할 수 있도록 한 점이 핵심이다.암호화폐 거래에서 대출 상품은 가격만큼 중요한 영역이다. 보유 자산을 팔지 않고도 현금을 확보할 수 있어 자본 효율성을 높일 수 있지만, 이자 비용과 청산 위험도 함께 따라온다. 크라켄의 이번 업데이트는 이런 실전형 수요를 겨냥한 조치로 보인다.이 같은 상품은 특히 전문 트레이더에게 유용하다. 보유한 코인에 대한 익스포저는 유지하면서도 다른 거래나 운용에 필요한 자금을 확보할 수 있기 때문이다. 다만 담보 가치가 급락하면 추가 자금...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/378986",
-    "published_at": "Sat, 18 Jul 2026 01:36:26 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크라켄이 프로 사용자 대상 대출 메커니즘을 개편하여 담보와 유동성을 유연하게 관리할 수 있도록 한 점이 핵심이다.",
-    "collected_at": "2026-07-18T04:26:11.575584+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "문샷AI 쇼크, 앤트로픽 앞질렀다…AI 관련주 비상",
-    "content": "[블록미디어 이정화 기자] 중국의 인공지능(AI) 개발 기업 문샷AI(Moonshot AI) 돌풍이 거세다. 앤트로픽, 오픈AI를 능가하는 성능을 보여줬기 때문이다. 미국의 천문학적인 AI 투자금을 비웃는 듯한 문샷AI의 성과를 놓고 월가에서도 갑론을박이다. 관련주들이 하락하면서 지난해 딥시크 쇼크가 재연되는 것이 아니냐는 우려가 나온다. 문샷AI의 키미(Kimi) K3가 이룬 성과 문샷AI가 최근 내놓은 모델이 미국 최상위 모델들을 압도하는 성과를 달성했다. 문샷의 ‘Kimi [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1118190?utm_source=general&utm_medium=rss",
-    "published_at": "Sat, 18 Jul 2026 02:11:59 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "문샷AI의 성과가 관련주들을 하락시키고, 월가에서 큰 관심을 끌고 있어 크립토 시장에 영향을 줄 가능성이 높다.",
-    "collected_at": "2026-07-18T04:26:36.486156+00:00"
   }
 ]
