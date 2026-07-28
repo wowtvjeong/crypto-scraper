@@ -1,5 +1,29 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Visa outlines stablecoin strategy during Q3 earnings call",
+    "content": "Visa said it is investing across the stablecoin stack, highlighting OpenUSD, tokenized deposits and AI-powered commerce during the company’s third-quarter earnings call.",
+    "url": "https://cointelegraph.com/news/visa-earnings-stablecoin-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 28 Jul 2026 21:57:49 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Visa가 stablecoin에 대한 전략을 밝히고, OpenUSD와 tokenized deposits, AI-powered commerce에 투자를 하겠다고 밝혔다는 점",
+    "collected_at": "2026-07-28T22:51:30.761094+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Visa, 스테이블코인 생태계 전반에 투자…예금 토큰을 성장 동력으로 제시",
+    "content": "Visa, 스테이블코인 생태계 전반에 투자…예금 토큰을 성장 동력으로 제시",
+    "url": "https://ns3.ai/ko/news/InvIJVce7w",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Visa가 스테이블코인 생태계 전반에 투자하는 것은 크립토 시장에 큰 영향을 줄 수 있는 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-07-28T22:52:39.589396+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "Fed 앞두고 비트코인·리플 동반 약세…XRP ETF 수요는 유지",
