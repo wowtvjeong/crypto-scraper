@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "애플 앱스토어 가짜 월렛 논란…미국서 26억원대 소송",
+    "content": "애플($AAPL)이 iOS 앱스토어에 올라온 ‘가짜’ 암호화폐 월렛 앱 때문에 미국 캘리포니아에서 소송을 당했다. 이용자 3명이 합쳐 약 180만달러, 원화로 약 26억여원을 잃었다고 주장하면서다.13일 코인텔레그래프에 따르면, 이번 사건은 2025년 5월부터 8월 사이 앱스토어에서 ‘Sparrow Wallet’로 가장한 앱이 유통되며 벌어졌다. 실제 Sparrow Wallet은 윈도, macOS, 리눅스 전용 데스크톱 소프트웨어라 모바일용 앱이 존재하지 않는데도, 일부 이용자는 이를 확인하지 못하고 내려받았다.문제의 앱은 사용자가 ‘시드 구문’을 입력하도록 유도한 뒤 자금을 빼가는 방식으로 피해를 냈다. 소송을 제기한 3명은 각각 비트코인(BTC) 87만5000달러,...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/382022",
+    "published_at": "Tue, 28 Jul 2026 01:11:50 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "애플 앱스토어에서 가짜 암호화폐 월렛 앱이 유통되어 이용자들이 큰 피해를 본 사건으로, 애플과 관련된 소송이 발생했다. 이 사건은 크립토 시장에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-07-28T01:29:41.894343+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[특징주] 삼성전기, 엔비디아 쇼크에 12%대 급락…AI 반도체주 투매 직격탄",
+    "content": "삼성전기가 글로벌 인공지능(AI)·반도체주 조정 여파에 장 초반 12% 넘게 급락하고 있다.28일 현재 삼성전기는 115만3000원에 거래되고 있다. 전일 대비 12.98% 내린 수준이다.간밤 뉴욕증시에서 엔비디아가 4.99% 급락한 데 이어 AMD(-5.17%), ASML(-5.8%), 마이크론(-2.25%), 샌디스크(-11.0%) 등이 동반 하락하면서 국내 반도체주 전반에도 매도세가 확산한 것으로 풀이된다. 필라델피아 반도체지수도 2.23% 내렸다.여기에 중국 기업의 심자외선(DUV) 노광장비 개발 소식까지 겹치며 AI·반도체 업종 전반의 투자심리가 위축됐다. 국내 증시에서도 삼성전자와 SK하이닉스 등 반도체 대형주가 약세를 보이면서 삼성전기도 수급 악화의 직격탄을...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/382015",
+    "published_at": "Tue, 28 Jul 2026 01:01:24 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "반도체 업계의 주요 기업들이 급락하고, 필라델피아 반도체지수도 내렸으며, 중국 기업의 심자외선 노광장비 개발 소식이 겹쳐 AI·반도체 업종 전반의 투자심리가 위축되었다.",
+    "collected_at": "2026-07-28T01:29:42.603556+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "솔라나 ETF 수수료 제로 시대 개막…스테이킹 수익률 4.65% 제공",
+    "content": "솔라나 ETF 수수료 제로 시대 개막…스테이킹 수익률 4.65% 제공21셰어즈가 솔라나 ETF(TSOL)에 대한 파격적인 수수료 면제 정책을 발표하며 암호화폐 ETF 시장에 새로운 바람을 일으키고 있다. 2026년 7월 28일부터 1년간 운용 수수료를 0.21%에서 0.00%로 완전히 면제한다는 방침이다. 여기에 SOL 스테이킹을 통한 약 4.65%의 순수익률까지 제공해 투자자들의 실질 수익을 극대화하겠다는 전략이다.시장에서는 이번 수수료 면제 조치가 솔라나 ETF 시장의 경쟁 구도를 재편할 수 있는 계기가 될 것으로 전망하고 있다. 암호화폐 ETF는 일반적으로 0.15~0.25% 수준의 운용보수를 부과해 왔지만, 21셰어즈는 이를 완전히 제거하고 스테이킹...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/382002",
+    "published_at": "Tue, 28 Jul 2026 00:43:56 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트의 파격적인 수수료 면제 정책 발표로 암호화폐 ETF 시장 경쟁 구도가 재편될 것으로 전망되며, 투자자들의 실질 수익을 극대화하는 전략이 제시되므로, 업계 전반에 주목할 만한 뉴스",
+    "collected_at": "2026-07-28T01:31:07.002353+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 매도·규제 강화·삼성·KB 실사용 확대…크립토닷컴, 디지털 자산 대중화 본격화 진단",
+    "content": "가상자산 시장이 비트코인(BTC) 보유 기업들의 재무 조정, 미국 의회의 규제 강화 움직임, 주요 금융·IT 기업들의 디지털 자산 채택 확산으로 분주한 한 주를 보냈다. 크립토닷컴(Crypto.com) 리서치에 따르면 최근 시장은 가격 조정 국면 속에서도 제도권 편입과 실사용 확대라는 두 축이 동시에 전개되며 구조적 변화를 이어가고 있다.우선 비트코인(BTC)을 재무 자산으로 편입한 기업들은 가격 변동성 확대에 대응해 일부 물량을 매각하며 유동성 관리에 나섰다. 스트래티지(Strategy)는 6월 이후 약 3620 BTC를 처분했고, 삿스타(Satsuma Technology) 주주들은 잔여 668 BTC 청산을 승인했다. 이는 차입 부담 완화와 현금 확보를 위한...  더보기",
+    "url": "https://www.tokenpost.kr/news/insights/381998",
+    "published_at": "Tue, 28 Jul 2026 00:39:04 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토닷컴 리서치에 따르면 비트코인 가격 조정 국면에도 제도권 편입과 실사용 확대가 구조적 변화를 이어가고 있다. 주요 금융·IT 기업들이 디지털 자산 채택 확산을 진행하고 있으며, 비트코인 보유 기업들이 가격 변동성 확대에 대응해 유동성 관리에 나섰다.",
+    "collected_at": "2026-07-28T01:32:01.730141+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "중국, 심자외선 노광장비 양산 돌입... ASML 주가 충격",
+    "content": "중국 국영기업이 반도체 제조에 쓰이는 심자외선 노광장비의 양산에 들어갔다는 보도가 나오자, 시장은 중국의 기술 자립이 예상보다 빨라질 수 있다고 받아들이며 ASML을 비롯한 글로벌 반도체 장비주의 주가를 크게 끌어내렸다.블룸버그 통신은 27일(현지시간) 정보기술 매체 디 인포메이션을 인용해, 상하이에 본사를 둔 한 국영기업이 액침 방식 심자외선 노광장비 생산을 시작했다고 전했다. 이 회사는 반도체 장비 스타트업 위량성 등에서 연구개발 인력을 끌어모은 것으로 알려졌다. 노광장비는 반도체 회로를 웨이퍼 위에 빛으로 새기는 핵심 설비로, 특히 액침 심자외선 장비는 최첨단 장비인 극자외선 장비보다는 한 단계 아래지만...  더보기",
+    "url": "https://www.tokenpost.kr/news/tech/381985",
+    "published_at": "Tue, 28 Jul 2026 00:06:42 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "중국의 기술 자립이 예상보다 빨라질 수 있다고 받아들여, 글로벌 반도체 장비주의 주가를 크게 끌어내렸다. 반도체 장비 스타트업 위량성 등에서 연구개발 인력을 끌어모은 것으로 알려졌다.",
+    "collected_at": "2026-07-28T01:34:08.709033+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Kalshi and Polymarket Gain Temporary Legal Win as Court Blocks Minnesota Ban",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "미국 현물 비트코인 ETF의 순유입은 비트코인 시장에 영향을 줄 수 있는 중요한 뉴스이기 때문에 8점을 받았다.",
     "collected_at": "2026-07-18T06:30:10.793271+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "미국 현물 이더리움 ETF, 순유입 3,675만 달러 기록",
-    "content": "미국 현물 이더리움 ETF, 순유입 3,675만 달러 기록",
-    "url": "https://ns3.ai/ko/news/HlUMxJZV2s",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "미국 현물 이더리움 ETF의 순유입이 3,675만 달러를 기록한 것으로 보아, 이더리움 시장에 영향을 미치는 중요한 뉴스인 것으로 보인다.",
-    "collected_at": "2026-07-18T06:30:27.151457+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "T. Rowe Price, 정오 브리핑에서 멀티 토큰 현물 ETF 출시",
-    "content": "T. Rowe Price, 정오 브리핑에서 멀티 토큰 현물 ETF 출시",
-    "url": "https://ns3.ai/ko/news/Mz4VXSLTky",
-    "published_at": null,
-    "relevance_score": 10,
-    "is_crypto_related": true,
-    "reason": "대형 투자 기관 T. Rowe Price가 멀티 토큰 현물 ETF를 출시하는 공식 발표, 이는 크립토 시장 전반에 큰 영향을 줄 수 있는重大 뉴스",
-    "collected_at": "2026-07-18T06:30:58.757269+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "현물 비트코인 ETF에 1억3,200만 달러 유입, 이더리움 ETF에는 3,670만 달러 유입",
-    "content": "현물 비트코인 ETF에 1억3,200만 달러 유입, 이더리움 ETF에는 3,670만 달러 유입",
-    "url": "https://ns3.ai/ko/news/SaJcE7cdw8",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
-    "collected_at": "2026-07-18T06:31:13.960204+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Cobie, Coinbase가 온체인 사용자 경험을 개선할 것이라고 밝혀",
-    "content": "Cobie, Coinbase가 온체인 사용자 경험을 개선할 것이라고 밝혀",
-    "url": "https://ns3.ai/ko/news/WkaH4gkrLV",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Coinbase가 온체인 사용자 경험을 개선할 것이라고 밝혀, 관련 주체가 대형 거래소로 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-18T06:31:46.697521+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Bitdeer, 244.3 BTC 매도 후 비트코인 보유량 0 유지",
-    "content": "Bitdeer, 244.3 BTC 매도 후 비트코인 보유량 0 유지",
-    "url": "https://ns3.ai/ko/news/dN0gqfDaH7",
-    "published_at": null,
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Bitdeer가 비트코인 보유량을 0으로 유지하는 것으로 보아, 시청자에게 유의미한 뉴스지만 영향 범위가 제한적이다.",
-    "collected_at": "2026-07-18T06:32:01.992668+00:00"
   }
 ]
