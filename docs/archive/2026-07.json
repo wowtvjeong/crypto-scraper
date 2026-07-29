@@ -1,5 +1,41 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "솔라나, 73달러 지지선 ‘비상’…무너지면 50달러까지 열리나",
+    "content": "디지털자산 솔라나(SOL)가 핵심 지지선인 73.75달러를 지켜낼 수 있을지가 단기 시세를 좌우할 최대 변수로 떠올랐다. 시장에서는 해당 가격이 무너질 경우 60달러를 거쳐 50달러까지 추가 하락할 가능성이 있다는 전망이 나오고 있다. “73.75달러 붕괴 시 매도 압력 확대” 디지털자산 분석가 알리 마르티네즈는 29일(현지시각) 73.75달러를 솔라나의 가장 중요한 지지선으로 꼽았다. 이 가격대에서 약 5000만 SOL이 매수된 만큼 지지선이 붕괴될 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1122154?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 29 Jul 2026 22:23:44 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "시장 전망에 따라 솔라나의 지지선이 무너질 가능성이 언급되어 시세에 큰 영향을 줄 것으로 보인다.",
+    "collected_at": "2026-07-29T22:27:22.241235+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Binance.US to attempt prediction markets entry as CFTC-licensed entity, says CEO",
+    "content": "The CEO of the US crypto exchange said that the company would apply for a license with the CFTC in August allowing it to offer prediction markets.",
+    "url": "https://cointelegraph.com/news/binance-us-prediction-markets-cftc-designated-contract-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 29 Jul 2026 21:52:27 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 규제 당국에 자격신청을 하면서 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-07-29T22:29:04.273599+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
+    "content": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
+    "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
+    "published_at": "Wed, 29 Jul 2026 22:01:24 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토와 관련된 업계 전반에 영향을 줄 가능성이 있는 뉴스인 Robinhood의 크립토 관련 사업이 성장하고 있지만, 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-07-29T22:29:19.699863+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Just In: Binance US Plans to Apply for CFTC DCM Status to Offer Prediction Markets",
