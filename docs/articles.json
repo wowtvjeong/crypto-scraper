@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "인공지능 펀드 시추에이셔널, 대형 손실로 시타델에 자산 매각",
+    "content": "인공지능 관련 종목에 공격적으로 베팅해 주목받았던 헤지펀드 시추에이셔널 어웨어니스가 최근 큰 손실과 마진콜에 몰리면서, 보유 상장주식 포트폴리오의 상당 부분을 헤지펀드 시타델에 넘긴 것으로 전해졌다.미국 월스트리트저널은 30일(현지시간) 사안에 정통한 소식통을 인용해 이 같은 내용을 보도했다. 시추에이셔널은 오픈에이아이 연구원 출신 리오폴드 애션브레너가 세운 투자사로, 인공지능 확산의 수혜가 기대되는 반도체·전력·인프라 기업과 인공지능 스타트업에 일찍 투자해 시장의 관심을 모아왔다. 인공지능 관련주 강세가 이어지던 시기에는 설립 2년여 만에 운용자산이 200억달러를 넘길 정도로 몸집을 키웠다.이 펀드는...  더보기",
+    "url": "https://www.tokenpost.kr/news/insights/383083",
+    "published_at": "Thu, 30 Jul 2026 23:16:35 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "인공지능 관련 주식에 투자한 헤지펀드가 큰 손실을 입고 대형 손실로 인해 자산을 매각하는 뉴스. 파급력은 크립토 시장에 직접적인 영향을 주지 않지만, 인공지능 확산에 대한 기대가 크립토 시장에 영향을 줄 수 있으므로, 관련성이 있지만 크립토 시장에 직접적인 영향을 주지 않는 뉴스.",
+    "collected_at": "2026-07-30T23:54:53.335966+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[특징주] 삼성전자, 美 AI·반도체 랠리 타고 프리마켓 급등",
+    "content": "삼성전자가 미국 증시발 인공지능(AI)·반도체 랠리에 올라타며 프리마켓에서 급등하고 있다.넥스트레이드(NXT)에 따르면 삼성전자는 프리마켓에서 23만4000원에 거래되며 전일 대비 2만7000원(13.04%) 상승 중이다. 간밤 뉴욕증시에서 마이크로소프트가 AI 사업 호조를 바탕으로 급등하고, 필라델피아 반도체지수가 8% 넘게 뛰면서 국내 반도체 대형주로 매수세가 확산한 영향으로 풀이된다.앞서 미국 증시에서는 마이크로소프트 호실적을 계기로 빅테크의 AI 투자 확대 기조가 재확인됐고, 마이크론·AMD 등 반도체주가 일제히 강세를 보였다. 이에 따라 국내에서도 삼성전자와 SK하이닉스를 비롯해 삼성전기, SK스퀘어 등 반도체 관련주...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/383082",
+    "published_at": "Thu, 30 Jul 2026 23:13:25 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "삼성전자와 SK하이닉스 등 반도체 관련주가 미국 증시의 AI·반도체 랠리에 따라 급등하고 있다.",
+    "collected_at": "2026-07-30T23:55:03.771052+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미국·일본 외환 당국, 엔화 방어 위한 시장 개입 포착",
+    "content": "일본과 미국의 외환 당국이 엔화 약세를 막기 위해 같은 시점에 시장에 관여한 정황이 포착되면서, 최근 급격히 진행된 엔화 가치 하락에 제동을 걸려는 공조 움직임이 드러났다.니혼게이자이신문은 31일 전날 뉴욕 외환시장에서 달러당 엔화 환율이 장중 한때 157.80엔까지 내려간 배경에 일본 정부와 일본은행의 엔화 매입·달러 매도 개입이 있었다고 보도했다. 일본 시간으로 30일 오후 10시 30분 이후 달러당 162.80엔 수준이던 환율이 약 50분 만에 2% 넘게 급락한 것은, 그만큼 시장에서 갑작스러운 엔화 매수세가 강하게 유입됐다는 뜻으로 읽힌다. 이후 환율은 31일 오전 6시 기준 159.54엔 수준으로 다시 올라섰다.이번에 특히...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/383081",
+    "published_at": "Thu, 30 Jul 2026 23:06:38 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "엔화 가치 하락에 제동을 걸려는 공조 움직임이 드러나 일본 정부와 일본은행의 시장 개입이 포착되었습니다.",
+    "collected_at": "2026-07-30T23:55:23.284539+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트멕스, 파생상품 35종 조기 정산 완료…9월 거래소 폐쇄 절차 본격화",
+    "content": "[블록미디어 명정선 기자] 디지털자산(가상자산) 파생상품 거래소 비트멕스(BitMEX)가 상장된 파생상품 계약 35종의 조기 정산을 모두 완료하며 오는 9월 거래소 운영 종료를 위한 절차를 본격화했다. 다음 달부터는 신규 포지션 진입이 제한되며 거래소 폐쇄 이후에는 자산을 남겨둔 이용자에게 별도 계정 유지 수수료가 부과된다. 비트멕스는 30일(현지시각) 거래 중인 파생상품 계약 35종에 대한 조기 정산(Early Settlement)을 완료했다고 밝혔다. 거래소 공개 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1122614?utm_source=general&utm_medium=rss",
+    "published_at": "Thu, 30 Jul 2026 23:13:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 비트멕스의 파생상품 조기 정산 완료 및 거래소 폐쇄 절차 본격화, 영향 범위가 크고 여러 매체가 다룰 만한 뉴스",
+    "collected_at": "2026-07-30T23:56:53.516508+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "한국, 불법 해외 가상자산 거래소 차단 검토",
+    "content": "한국, 불법 해외 가상자산 거래소 차단 검토",
+    "url": "https://ns3.ai/ko/news/QE3EEZt0pJ",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "한국 정부가 불법 해외 가상자산 거래소를 차단하는 검토를 진행하고 있으므로, 크립토 관련 뉴스이며, 관련 주체가 국가 규제당국으로 파급 범위가 크며 확정성이 높음",
+    "collected_at": "2026-07-30T23:57:10.025939+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "7월 31일 출근길 팟캐스트 — 숏 포지션 청산 9,230만 달러 집중, 비트코인·이더리움 동반 상승",
     "content": "지난 24시간 암호화폐 시장에서 발생한 가장 중요한 사건은 약 1억4720만 달러 규모의 레버리지 포지션 청산이다. 특히 숏 포지션 청산이 9230만 달러로 전체의 62.67%를 차지했는데, 이는 하락에 베팅했던 자금이 급격한 반등에 밀려 대거 정리됐다는 뜻이다.이번 청산은 단순한 변동성 확대를 넘어 시장 심리가 짧은 시간 안에 위쪽으로 기울었음을 보여준다. 청산이 한 방향에 집중됐다는 점은 단기 수급이 가격을 밀어 올리는 연쇄 효과를 만들었을 가능성을 시사한다.시장 충격 반응청산 이후 비트코인은 전날 대비 1.88% 오른 6만4733달러, 이더리움은 1.89% 상승한 1921달러를 기록했다. 가격 상승폭은 크지 않아 보여도 숏 청산이...  더보기",
     "url": "https://www.tokenpost.kr/news/insights/383070",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 ETF에 대한 5일 연속의 유입이 4월以来 처음으로 발생했다는 뉴스",
     "collected_at": "2026-07-21T07:39:45.859960+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-    "content": "UK Parliament begins inquiry into banking chokepoint for crypto businesses",
-    "url": "https://www.coindesk.com/policy/2026/07/21/uk-parliamentary-group-begins-inquiry-into-banking-chokepoint-for-crypto-businesses",
-    "published_at": "Tue, 21 Jul 2026 06:15:26 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토 비즈니스에 대한 은행의 제한점을 조사하는 영국 의회가 시작되었다는 뉴스, 관련 주체가 규제 당국이며 파급 범위가 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-21T07:40:01.276995+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Polymarket Refers Nearly 100 Suspicious Wallets to Law Enforcement",
-    "content": "Polymarket Refers Nearly 100 Suspicious Wallets to Law Enforcement\nPolymarket said it has strengthened its insider-trading surveillance and referred nearly 100 suspicious wallets to law enforcement. According to Bloomberg’s analysis of Polysights data, about $200 million in trades on the platform during the first half of 2026 were flagged for characteristics associated with potential insider activity, largely involving geopolitical markets tied to Iran and Venezuela. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25228",
-    "published_at": "2026-07-21T02:14:17+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Polymarket이 내부거래 방지 강화 및 100개 이상의 의심스러운 지갑을 법 집행 기관에 넘긴 뉴스",
-    "collected_at": "2026-07-21T04:59:03.676237+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "ENS DAO Approves Two-Year Security Council to Veto Malicious Transactions",
-    "content": "ENS DAO Approves Two-Year Security Council to Veto Malicious Transactions\nENS DAO has approved a new eight-member Security Council with a two-year term and a 5-of-8 multisig. The council may cancel transactions deemed malicious during the two-day timelock after a governance proposal passes, but cannot move treasury funds, submit or amend proposals, or override DAO decisions. Its authority will automatically expire unless extended by another DAO vote. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25229",
-    "published_at": "2026-07-21T03:48:28+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "ENS DAO가 2년간의 보안 이사회를 승인하여 악성 거래를 취소할 수 있는 권한을 부여하는 중요한 뉴스",
-    "collected_at": "2026-07-21T04:59:04.094726+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Spot Bitcoin ETFs Record $227M in Net Inflows on July 20",
-    "content": "Spot Bitcoin ETFs Record $227M in Net Inflows on July 20\nOn July 20 (ET), U.S. spot Bitcoin ETFs recorded total net inflows of $227 million, marking the fifth consecutive day of net inflows. U.S. spot Ethereum ETFs saw total net inflows of $38.09 million. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25230",
-    "published_at": "2026-07-21T04:08:57+00:00",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
-    "collected_at": "2026-07-21T04:59:04.420397+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Strategy Says Bitcoin Reserve Could Cover 31 Years of Dividends",
-    "content": "Strategy Says Bitcoin Reserve Could Cover 31 Years of Dividends\nStrategy Corporate Treasurer Chaitanya Jain said the company’s Bitcoin reserve could cover approximately 31 years of dividends, while its U.S. dollar reserve could cover around 1.8 years. Strategy founder Michael Saylor said that, as of July 19, the company held 843,775 BTC and had increased its dollar reserve by $225 million to $3.2 billion. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25231",
-    "published_at": "2026-07-21T04:46:49+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 기업의 비트코인 보유량과 관련된 뉴스, 구체적인 금액이 언급되어 시장 전체에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-21T04:59:16.914244+00:00"
   }
 ]
