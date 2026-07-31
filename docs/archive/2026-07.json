@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "무기한 선물, 크립토 파생시장 중심으로…펀딩비 리스크는 더 커졌다",
+    "content": "비트코인(BTC)과 이더리움(ETH)을 넘어, 암호화폐 파생상품 시장의 중심이 ‘무기한 선물(perps)’로 빠르게 이동하고 있다. 높은 유동성과 낮은 비용, 강력한 레버리지 구조가 결합되면서 개인과 기관 모두의 핵심 거래 도구로 자리 잡았다는 분석이다.코인데스크가 트레이더들을 인터뷰한 결과, 무기한 선물은 만기일이 없다는 특징 덕분에 지속적인 포지션 유지가 가능하며, 특히 알트코인 시장에서는 사실상 유일한 파생상품 수단으로 활용되고 있는 것으로 나타났다. 만기형 선물은 유동성이 부족해 실질적으로 거래가 어렵고, 현물은 장기 보유 목적이 아닌 이상 활용도가 떨어진다는 평가다.“선택이 아닌 필수”…무기한 선물 시장...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/383445",
+    "published_at": "Fri, 31 Jul 2026 18:00:53 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 파생시장의 중심이 무기한 선물로 이동하고 있으며, 개인과 기관 모두가 핵심 거래 도구로 사용하고 있는 것으로 나타났다. ",
+    "collected_at": "2026-07-31T18:49:55.400410+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "콜드카드 결함에 흔들린 비트코인 자가 보관…ETF·기관 수탁 힘 실릴까",
+    "content": "비트코인(BTC) ‘자가 보관’ 신뢰가 흔들렸다. 하드웨어 지갑 콜드카드(Coldcard)의 치명적 결함으로 개인 지갑의 복구 문구가 재생성될 수 있다는 사실이 드러나며, 시장 전반에 보안 불안이 확산되고 있다.문제는 사용자들이 ‘안전하다’고 믿었던 콜드카드 지갑에서 시작됐다. 특정 펌웨어 버전에서 생성된 시드(seed, 복구 문구)의 무작위성이 충분하지 않아, 공격자가 이를 추정해 비트코인(BTC)을 탈취할 수 있는 취약점이 확인됐다. 해당 결함은 현재 수정됐지만, 이미 생성된 지갑은 보호되지 않아 이용자들은 새로운 지갑을 만들고 자산을 옮겨야 한다.“지금 즉시 자산 옮겨라” 긴급 경고코인카이트(Coinkite) 최고경영자 NVK는 공개...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/383441",
+    "published_at": "Fri, 31 Jul 2026 17:20:16 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "콜드카드 지갑의 치명적 결함으로 개인 지갑의 보안이 위협받고, 사용자들은 새로운 지갑을 만들고 자산을 옮겨야 하는 긴급한 상황이 발생했다.",
+    "collected_at": "2026-07-31T18:51:02.313494+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“미국 규제 우회”… 문샷 AI, 알리바바 통해 엔비디아 칩 2만개 활용",
+    "content": "[멕시코=심영재 특파원] 중국 생성형 인공지능(AI) 스타트업 문샷 AI(Moonshot AI)가 알리바바그룹(Alibaba Group)의 클라우드 인프라를 통해 엔비디아(Nvidia) AI 칩 약 2만개를 활용하고 있는 것으로 전해졌다. 최근 오픈AI와 앤트로픽(앤스로픽)의 최신 모델에 근접한 성능을 보여준 ‘키미(Kimi) K3’의 배경으로 대규모 AI 연산 인프라가 확인되면서 미국의 대중국 반도체 수출 규제 실효성을 둘러싼 논란도 커지고 있다. 블룸버그는 31일(현지시각) 문샷 AI와 알리바바의 운영 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1123035?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 31 Jul 2026 18:05:39 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "크립토와 직접 관련이 없지만, 엔비디아의 AI 칩을 활용하는 대규모 AI 연산 인프라가 미국의 대중국 반도체 수출 규제 실효성을 둘러싼 논란을 일으키고 있다.",
+    "collected_at": "2026-07-31T18:51:58.016287+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "스페이스X 공매도 246억달러⋯실적·보호예수 해제 앞두고 베팅",
+    "content": "[멕시코=심영재 특파원] 스페이스X(SpaceX)를 겨냥한 공매도(쇼트) 베팅이 급증하고 있다. 상장 후 첫 실적 발표와 9억주가 넘는 보호예수(lock-up) 물량 해제를 앞두고 주가 하락에 베팅하는 투자자들이 빠르게 늘어나면서 공매도 규모가 테슬라를 넘어섰다. 블룸버그는 31일(현지시각) S3파트너스(S3 Partners) 자료를 인용해 지난 29일 기준 스페이스X 공매도 잔고가 2억1930만주로 집계됐다고 보도했다. 이는 시장에서 실제 거래 가능한 유통주식의 약 34%에 해당한다. 공매도 규모는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1123030?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 31 Jul 2026 17:41:52 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "스페이스X 공매도가 급증하고 있으며, 상장 후 첫 실적 발표와 보호예수 해제를 앞두고 주가 하락에 베팅하는 투자자가 늘어나고 있다. 이는 스페이스X의 주가에 큰 영향을 미칠 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-07-31T18:52:33.194814+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+    "content": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+    "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+    "published_at": "Fri, 31 Jul 2026 18:24:55 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Tether의 2분기 운영 이익이 1.5억 달러로 보고되었으며, 예비 보유량이 절반으로 감소했습니다. 이 뉴스는 대형 거래소와 유명 프로젝트와 관련이 있으며, 구체적인 금액이 동반된 정책/자금 관련 소식입니다.",
+    "collected_at": "2026-07-31T18:53:05.129638+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "테더 2분기 순이익 15억 달러, USDT 준비금 버퍼는 절반으로 감소",
+    "content": "테더 2분기 순이익 15억 달러, USDT 준비금 버퍼는 절반으로 감소",
+    "url": "https://ns3.ai/ko/news/gisOwT8xqI",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 테더의 2분기 순이익이 15억 달러로 발표되었고, USDT 준비금 버퍼가 절반으로 감소하는 등 구체적 금액이 동반된 정책/자금 관련 소식이기 때문에 8점을 받았습니다.",
+    "collected_at": "2026-07-31T18:54:43.728302+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Variational Founder Lucas V. Schuermann: Why Swaps Could Become the Standard for On-Chain RWA Trading",

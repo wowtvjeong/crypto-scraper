@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "무기한 선물, 크립토 파생시장 중심으로…펀딩비 리스크는 더 커졌다",
+    "content": "비트코인(BTC)과 이더리움(ETH)을 넘어, 암호화폐 파생상품 시장의 중심이 ‘무기한 선물(perps)’로 빠르게 이동하고 있다. 높은 유동성과 낮은 비용, 강력한 레버리지 구조가 결합되면서 개인과 기관 모두의 핵심 거래 도구로 자리 잡았다는 분석이다.코인데스크가 트레이더들을 인터뷰한 결과, 무기한 선물은 만기일이 없다는 특징 덕분에 지속적인 포지션 유지가 가능하며, 특히 알트코인 시장에서는 사실상 유일한 파생상품 수단으로 활용되고 있는 것으로 나타났다. 만기형 선물은 유동성이 부족해 실질적으로 거래가 어렵고, 현물은 장기 보유 목적이 아닌 이상 활용도가 떨어진다는 평가다.“선택이 아닌 필수”…무기한 선물 시장...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/383445",
+    "published_at": "Fri, 31 Jul 2026 18:00:53 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 파생시장의 중심이 무기한 선물로 이동하고 있으며, 개인과 기관 모두가 핵심 거래 도구로 사용하고 있는 것으로 나타났다. ",
+    "collected_at": "2026-07-31T18:49:55.400410+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "콜드카드 결함에 흔들린 비트코인 자가 보관…ETF·기관 수탁 힘 실릴까",
+    "content": "비트코인(BTC) ‘자가 보관’ 신뢰가 흔들렸다. 하드웨어 지갑 콜드카드(Coldcard)의 치명적 결함으로 개인 지갑의 복구 문구가 재생성될 수 있다는 사실이 드러나며, 시장 전반에 보안 불안이 확산되고 있다.문제는 사용자들이 ‘안전하다’고 믿었던 콜드카드 지갑에서 시작됐다. 특정 펌웨어 버전에서 생성된 시드(seed, 복구 문구)의 무작위성이 충분하지 않아, 공격자가 이를 추정해 비트코인(BTC)을 탈취할 수 있는 취약점이 확인됐다. 해당 결함은 현재 수정됐지만, 이미 생성된 지갑은 보호되지 않아 이용자들은 새로운 지갑을 만들고 자산을 옮겨야 한다.“지금 즉시 자산 옮겨라” 긴급 경고코인카이트(Coinkite) 최고경영자 NVK는 공개...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/383441",
+    "published_at": "Fri, 31 Jul 2026 17:20:16 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "콜드카드 지갑의 치명적 결함으로 개인 지갑의 보안이 위협받고, 사용자들은 새로운 지갑을 만들고 자산을 옮겨야 하는 긴급한 상황이 발생했다.",
+    "collected_at": "2026-07-31T18:51:02.313494+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“미국 규제 우회”… 문샷 AI, 알리바바 통해 엔비디아 칩 2만개 활용",
+    "content": "[멕시코=심영재 특파원] 중국 생성형 인공지능(AI) 스타트업 문샷 AI(Moonshot AI)가 알리바바그룹(Alibaba Group)의 클라우드 인프라를 통해 엔비디아(Nvidia) AI 칩 약 2만개를 활용하고 있는 것으로 전해졌다. 최근 오픈AI와 앤트로픽(앤스로픽)의 최신 모델에 근접한 성능을 보여준 ‘키미(Kimi) K3’의 배경으로 대규모 AI 연산 인프라가 확인되면서 미국의 대중국 반도체 수출 규제 실효성을 둘러싼 논란도 커지고 있다. 블룸버그는 31일(현지시각) 문샷 AI와 알리바바의 운영 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1123035?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 31 Jul 2026 18:05:39 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "크립토와 직접 관련이 없지만, 엔비디아의 AI 칩을 활용하는 대규모 AI 연산 인프라가 미국의 대중국 반도체 수출 규제 실효성을 둘러싼 논란을 일으키고 있다.",
+    "collected_at": "2026-07-31T18:51:58.016287+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "스페이스X 공매도 246억달러⋯실적·보호예수 해제 앞두고 베팅",
+    "content": "[멕시코=심영재 특파원] 스페이스X(SpaceX)를 겨냥한 공매도(쇼트) 베팅이 급증하고 있다. 상장 후 첫 실적 발표와 9억주가 넘는 보호예수(lock-up) 물량 해제를 앞두고 주가 하락에 베팅하는 투자자들이 빠르게 늘어나면서 공매도 규모가 테슬라를 넘어섰다. 블룸버그는 31일(현지시각) S3파트너스(S3 Partners) 자료를 인용해 지난 29일 기준 스페이스X 공매도 잔고가 2억1930만주로 집계됐다고 보도했다. 이는 시장에서 실제 거래 가능한 유통주식의 약 34%에 해당한다. 공매도 규모는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1123030?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 31 Jul 2026 17:41:52 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "스페이스X 공매도가 급증하고 있으며, 상장 후 첫 실적 발표와 보호예수 해제를 앞두고 주가 하락에 베팅하는 투자자가 늘어나고 있다. 이는 스페이스X의 주가에 큰 영향을 미칠 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-07-31T18:52:33.194814+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+    "content": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
+    "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
+    "published_at": "Fri, 31 Jul 2026 18:24:55 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Tether의 2분기 운영 이익이 1.5억 달러로 보고되었으며, 예비 보유량이 절반으로 감소했습니다. 이 뉴스는 대형 거래소와 유명 프로젝트와 관련이 있으며, 구체적인 금액이 동반된 정책/자금 관련 소식입니다.",
+    "collected_at": "2026-07-31T18:53:05.129638+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "테더 2분기 순이익 15억 달러, USDT 준비금 버퍼는 절반으로 감소",
+    "content": "테더 2분기 순이익 15억 달러, USDT 준비금 버퍼는 절반으로 감소",
+    "url": "https://ns3.ai/ko/news/gisOwT8xqI",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 테더의 2분기 순이익이 15억 달러로 발표되었고, USDT 준비금 버퍼가 절반으로 감소하는 등 구체적 금액이 동반된 정책/자금 관련 소식이기 때문에 8점을 받았습니다.",
+    "collected_at": "2026-07-31T18:54:43.728302+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Variational Founder Lucas V. Schuermann: Why Swaps Could Become the Standard for On-Chain RWA Trading",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Movement Labs가 Chapter 11 파산을 신청하고, 재 구조화를 위해 법원 감독하에 운영을 계속할 예정인 뉴스. 대형 거래소에서 지갑을 삭제하고, 코인 가격이 급락하는 등 파급력이 크다.",
     "collected_at": "2026-07-21T21:55:45.966012+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "변호사 “CLARITY 법안, CFTC의 예측시장 감독에 도움 될 수 있어”",
-    "content": "변호사 “CLARITY 법안, CFTC의 예측시장 감독에 도움 될 수 있어”",
-    "url": "https://ns3.ai/ko/news/gdpvpwPFsM",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "CLARITY 법안이 CFTC의 예측시장 감독에 도움 될 수 있는지에 대한 변호사의 의견이 나와있으나, 아직 시장 전체에 큰 영향을 미치지 않는다.",
-    "collected_at": "2026-07-21T21:56:39.216050+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "루미스, CLARITY가 크립토 소유권을 보호하겠지만 한계는 남아 있다고 밝혀",
-    "content": "루미스, CLARITY가 크립토 소유권을 보호하겠지만 한계는 남아 있다고 밝혀",
-    "url": "https://ns3.ai/ko/news/gx7rRZo7Gr",
-    "published_at": null,
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "크립토 소유권 보호에 대한 루미스, CLARITY의 입장에 대한 뉴스",
-    "collected_at": "2026-07-21T21:56:54.653633+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Hyve, 파리 블록체인 행사 AI 확장 속 Signal Week 인수",
-    "content": "Hyve, 파리 블록체인 행사 AI 확장 속 Signal Week 인수",
-    "url": "https://ns3.ai/ko/news/g7GGbb0Usb",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Hyve가 Signal Week을 인수하는 것은 블록체인 행사에 대한 확장과 AI 기술의 적용을 의미하며, 이는 크립토 업계에 큰 영향을 줄 수 있다.",
-    "collected_at": "2026-07-21T21:57:26.030028+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미국-이란 긴장 격화로 국제유가 다시 급등, 90달러선 넘나들다",
-    "content": "국제유가는 미국과 이란의 군사 충돌이 격화하고 홍해 항로 불안까지 겹치면서 21일 다시 큰 폭으로 올랐다. 중동에서 원유 생산과 운송을 둘러싼 지정학적 위험이 한꺼번에 커지자, 실제 공급 차질이 전면화하기 전부터 시장이 선제적으로 불안 심리를 가격에 반영한 것으로 풀이된다.이날 ICE 선물거래소에서 9월 인도분 브렌트유 선물 종가는 배럴당 91.01달러로 전장보다 2.01% 상승했다. 뉴욕상업거래소에서 8월 인도분 미국 서부텍사스산원유 선물 종가도 배럴당 84.91달러로 2.02% 올랐다. 종가 기준으로 브렌트유는 6월 10일 이후, 서부텍사스산원유는 6월 11일 이후 가장 높은 수준이다. 국제유가가 단기간에 다시 90달러 선을...  더보기",
-    "url": "https://www.tokenpost.kr/news/economy/379970",
-    "published_at": "Tue, 21 Jul 2026 20:16:37 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "국제유가가 미국-이란 긴장 격화로 급등하는 뉴스, 90달러 선 넘나들며 중동 원유 생산과 운송에 대한 지정학적 위험이 커짐",
-    "collected_at": "2026-07-21T20:40:25.398861+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 4억 6388만 달러 청산",
-    "content": "지난 24시간 동안 암호화폐 시장에서 약 4억 6388만 달러(약 6,760억원) 상당의 레버리지 포지션이 청산된 것으로 나타났다. 현재 집계된 데이터에 따르면, 청산된 포지션 중 롱 포지션이 2억 9203만 달러로 전체의 63%를 차지했고, 숏 포지션은 1억 7185만 달러로 37%를 기록했다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 동안 가장 많은 포지션 청산이 발생한 거래소는 바이낸스로, 총 10억 6400만 달러(전체의 53.71%)가 청산됐다. 이 중 롱 포지션이 6억 8100만 달러로 64%를 차지했다. 두 번째로 많은 청산이 발생한 거래소는 OKX로, 2억 1600만 달러(10.91%)의 포지션이 청산됐으며, 롱 포지션 비율은 54.23%였다. 바이비트는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/379968",
-    "published_at": "Tue, 21 Jul 2026 20:01:47 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 시장에서 레버리지 포지션 4억 6388만 달러 청산, 바이낸스 거래소에서 가장 많은 청산 발생",
-    "collected_at": "2026-07-21T20:40:25.870552+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[모닝 뉴스브리핑] 무브먼트랩스, 미 연방파산법 11장 파산보호 신청 外",
-    "content": "무브먼트랩스, 미 연방파산법 11장 파산보호 신청오데일리에 따르면 무브먼트 블록체인 개발사 무브먼트랩스가 미 연방파산법 11장에 따른 파산보호를 신청했다.무브먼트랩스는 앞서 시장조성 계약을 둘러싸고 조사를 받았다. 해당 계약은 6,600만 MOVE의 빠른 매도를 허용한 것으로 알려졌으며, 이후 MOVE 가격이 급락하고 조사와 토큰 환매가 진행됐다.무브먼트랩스는 최근 국경 간 결제와 스테이블코인 결제 사업으로 방향을 전환했다. 파산보호 절차 중에도 운영은 계속될 수 있지만, 블록체인 네트워크와 파트너십, 결제 확장 계획의 후속 조치는 아직 불분명하다.트럼프 “이란과의 문제 아직 끝나지 않았다”오데일리에 따르면 트럼프 미국...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/379965",
-    "published_at": "Tue, 21 Jul 2026 19:50:45 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표, 크립토 시장에 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-07-21T20:41:03.990169+00:00"
   }
 ]
