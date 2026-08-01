@@ -1,5 +1,53 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CZ “약세장 현금이 투자처를 찾는 중”…차마스는 데이터센터 부지 선호",
+    "content": "CZ “약세장 현금이 투자처를 찾는 중”…차마스는 데이터센터 부지 선호",
+    "url": "https://ns3.ai/ko/news/sMQG7hy9jr",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CZ와 차마스의 발언이 크립토 시장에 영향을 줄 수 있는 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-01T17:53:21.074825+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CZ, 약세장 자금 사냥 중…소셜캐피탈 창업자 ‘AI칩 건너뛰라’",
+    "content": "CZ, 약세장 자금 사냥 중…소셜캐피탈 창업자 ‘AI칩 건너뛰라’",
+    "url": "https://kr.beincrypto.com/cz-chamath-bear-market-ai-money/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CZ의 약세장 자금 사냥에 대한 소셜캐피탈 창업자의 의견이 기사 제목에 포함되어 있으며, 이는 크립토 시장에 영향을 줄 수 있는 뉴스입니다. 그러나 아직 시장 전체를 흔들 정도는 아님.",
+    "collected_at": "2026-08-01T17:53:37.519714+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Cryptocurrency Powers Political Spending in Michigan’s Fierce Congressional Battle",
+    "content": "Cryptocurrency Powers Political Spending in Michigan’s Fierce Congressional Battle",
+    "url": "https://coinmarketcap.com/community/articles/6a6e2036d9d5ef358ef40026/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토와 정치 지출이 관련된 미시간 주의 강력한 의회 전투에 대한 뉴스",
+    "collected_at": "2026-08-01T17:54:39.977248+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Tether News: Q2 Profit Hits $1.5B as USDT Supply Reaches $184.6B",
+    "content": "Tether News: Q2 Profit Hits $1.5B as USDT Supply Reaches $184.6B",
+    "url": "https://coinmarketcap.com/community/articles/6a6e203a61864a30eb9da216/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Tether의 Q2 수익이 1.5억 달러로 기록되고 USDT 공급량이 18억4600만 달러에 달했다는 뉴스. 관련 주체가 대형 거래소이며, 여러 매체가 동시에 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님.",
+    "collected_at": "2026-08-01T17:54:56.480235+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "솔라나, 73달러 선 방어 속 보안 경고와 생태계 확장 주목받아",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 자산관리 회사인 Franklin Templeton이 크립토를 주요 기술로 언급하고, 크립토가 미래의 중요한 역할을 할 것이라고 주장하는 뉴스",
     "collected_at": "2026-07-22T20:10:33.524566+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "상원 공화당, 새 Crypto CLARITY Act 초안 공개",
-    "content": "상원 공화당, 새 Crypto CLARITY Act 초안 공개",
-    "url": "https://ns3.ai/ko/news/45frxLeLmD",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "규제 관련 소식으로 업계 전반이 주목할 만한 뉴스",
-    "collected_at": "2026-07-22T20:10:50.095185+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Balance Coin이 Bitcoin ​​보관소에서 100만 달러가 유출되는 해킹 공격으로 1달러 고정 가격에서 폭락했습니다",
-    "content": "Balance Coin이 Bitcoin ​​보관소에서 100만 달러가 유출되는 해킹 공격으로 1달러 고정 가격에서 폭락했습니다",
-    "url": "https://www.cryptopolitan.com/ko/balance-coin-crashes-after-oracle-attack/",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 해킹 공격이 발생하여 Balance Coin의 가격이 폭락했다.",
-    "collected_at": "2026-07-22T20:11:36.831816+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "튠, 이르면 다음 주 상원서 CLARITY Act 표결 추진 가능성",
-    "content": "튠, 이르면 다음 주 상원서 CLARITY Act 표결 추진 가능성",
-    "url": "https://ns3.ai/ko/news/2Ekyce0PW4",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "규제 관련 뉴스이며, CLARITY Act는 크립토와 관련된 법안이지만, 아직 표결 추진 가능성이 있는 단순한 소식으로 파급력은 제한적이다.",
-    "collected_at": "2026-07-22T20:11:52.521466+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "코인베이스 CEO, 클래리티 법안은 상원 표결 준비 완료됐다고 밝혀",
-    "content": "코인베이스 CEO, 클래리티 법안은 상원 표결 준비 완료됐다고 밝혀",
-    "url": "https://ns3.ai/ko/news/6elgvNK6UG",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "클래리티 법안은 미국의 규제 관련 법안으로, 코인베이스 CEO가 상원 표결 준비 완료라고 밝혔다는 소식은 크립토 업계에 큰 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-22T20:12:08.046691+00:00"
   }
 ]
