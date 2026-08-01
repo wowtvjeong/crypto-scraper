@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 트레이드 xyz, SK하이닉스 계약 급락 청산 손실 보상 절차 시작 外",
+    "content": "트레이드 xyz, SK하이닉스 계약 급락 청산 손실 보상 절차 시작우블록체인에 따르면 트레이드 xyz는 7월 27일 SK하이닉스 계약(SK하이닉스) 가격 이상으로 발생한 청산 손실에 대해 보상 절차를 시작했다고 밝혔다.플랫폼은 기준 가격을 1,115.50달러로 적용해 피해 가능 청산 손실을 개별 산정하고 있다. 1만 USDC 미만 보상금은 별도 조치 없이 피해 지갑으로 전액 지급됐다.1만 USDC를 초과하는 청구 건에는 우선 9,999 USDC가 지급됐으며, 나머지 금액은 강화된 실사가 완료된 뒤 지급될 예정이다. 피해 이용자는 8월 15일까지 플랫폼 고객지원팀에 연락해야 한다.당시 SK하이닉스 계약의 표시 가격은 1,127.90달러에서 917.25달러까지...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/383671",
+    "published_at": "Sat, 01 Aug 2026 14:30:17 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와의 계약 이슈로 인한 보상 절차 시작, 여러 자산·시장 전반에 영향을 줄 가능성이 있다",
+    "collected_at": "2026-08-01T15:34:04.786449+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Strategy, 82억2천만 달러 분기 손실 후 CLARITY Act 지지",
+    "content": "Strategy, 82억2천만 달러 분기 손실 후 CLARITY Act 지지",
+    "url": "https://ns3.ai/ko/news/SG4dsRnxjD",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 기업이 분기 손실 후 CLARITY Act를 지지하는 뉴스, 관련 주체가 중견 기업으로 파급 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-01T15:35:25.113904+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Highlight Clip MARA CEO: Bitcoin Has Missed Its Chance to Become a Payment Method",

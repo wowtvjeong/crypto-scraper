@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 트레이드 xyz, SK하이닉스 계약 급락 청산 손실 보상 절차 시작 外",
+    "content": "트레이드 xyz, SK하이닉스 계약 급락 청산 손실 보상 절차 시작우블록체인에 따르면 트레이드 xyz는 7월 27일 SK하이닉스 계약(SK하이닉스) 가격 이상으로 발생한 청산 손실에 대해 보상 절차를 시작했다고 밝혔다.플랫폼은 기준 가격을 1,115.50달러로 적용해 피해 가능 청산 손실을 개별 산정하고 있다. 1만 USDC 미만 보상금은 별도 조치 없이 피해 지갑으로 전액 지급됐다.1만 USDC를 초과하는 청구 건에는 우선 9,999 USDC가 지급됐으며, 나머지 금액은 강화된 실사가 완료된 뒤 지급될 예정이다. 피해 이용자는 8월 15일까지 플랫폼 고객지원팀에 연락해야 한다.당시 SK하이닉스 계약의 표시 가격은 1,127.90달러에서 917.25달러까지...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/383671",
+    "published_at": "Sat, 01 Aug 2026 14:30:17 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와의 계약 이슈로 인한 보상 절차 시작, 여러 자산·시장 전반에 영향을 줄 가능성이 있다",
+    "collected_at": "2026-08-01T15:34:04.786449+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Strategy, 82억2천만 달러 분기 손실 후 CLARITY Act 지지",
+    "content": "Strategy, 82억2천만 달러 분기 손실 후 CLARITY Act 지지",
+    "url": "https://ns3.ai/ko/news/SG4dsRnxjD",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 기업이 분기 손실 후 CLARITY Act를 지지하는 뉴스, 관련 주체가 중견 기업으로 파급 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-01T15:35:25.113904+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Highlight Clip MARA CEO: Bitcoin Has Missed Its Chance to Become a Payment Method",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "텔레그램이 비수탁형 디지털자산 지갑을 출시할 계획으로 그램 가격과 거래량이 상승했다. 그러나 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-07-22T17:48:04.396780+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "하이퍼리퀴드 7% 급락⋯고래 물량·ETF 자금 유출 부담",
-    "content": "[멕시코=심영재 특파원] 하이퍼리퀴드(Hyperliquid·HYPE) 가격이 대규모 언스테이킹과 상장지수펀드(ETF) 자금 유출 우려 속에 60달러 아래로 떨어졌다. 시장에서는 54~55달러 지지 여부가 향후 흐름을 가를 핵심 변수로 떠올랐다. 코인피디아는 22일(현지시각) 멀티코인캐피털이 3개 지갑에서 196만HYPE를 언스테이킹했다고 보도했다. 거래 당시 평가액은 약 1억2000만달러로, 최근 수주 동안 확인된 HYPE 언스테이킹 가운데 가장 큰 규모 중 하나다. 멀티코인, 196만HYPE 언스테이킹 온체인 자료에 따르면 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1119652?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 22 Jul 2026 16:49:15 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대규모 언스테이킹과 ETF 자금 유출 우려로 하이퍼리퀴드 가격이 급락하는 등 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-22T17:48:22.254795+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "유가 4% 뛸 때 보험료는 1900% 폭등…호르무즈가 보낸 ‘진짜 경고’",
-    "content": "[멕시코=심영재 특파원] 호르무즈해협을 통과하는 유조선의 전쟁위험 보험료가 분쟁 전보다 약 1900% 급등했다는 분석이 나왔다. 국제유가 상승률을 크게 웃도는 보험료 급등이 에너지 공급망의 실질적인 위험을 보여준다는 평가다. 비트코인닷컴은 22일(현지시각) 글로벌 금융자문·자산관리회사 드비어그룹의 분석을 인용해 대형 유조선의 전쟁위험 보험료율이 선체 가격의 약 0.25%에서 5%로 상승했다고 보도했다. 미국 중부사령부는 전날 이란에 대한 11일 연속 공습을 마쳤다고 발표했다. 다만 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1119646?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 22 Jul 2026 16:34:17 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "유가 상승과 관련된 보험료 급등은 에너지 공급망의 실질적인 위험을 보여주고 있으며, 국제적인 정치적 상황과 관련된 뉴스이므로, 8.5점을 부여한다.",
-    "collected_at": "2026-07-22T17:48:40.713181+00:00"
   }
 ]
