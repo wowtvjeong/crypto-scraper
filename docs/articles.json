@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "Circle, ARK 인베스트 대규모 매수에도 주가 75% 급락",
+    "content": "Circle (CRCL), ARK 인베스트 대규모 매수에도 주가 62.61달러 마감…연초 대비 75% 급락스테이블코인 발행사 Circle Internet Group (CRCL)이 뉴욕증권거래소(NYSE)에서 62.61달러에 거래를 마감했다. 전일 종가 64.24달러 대비 2.54% 하락한 수치다. 장중 최고가 63.51달러, 최저가 58.66달러를 기록하며 거래량은 약 1,364만 주를 넘어섰다. 52주 최고가 189.92달러와 최저가 49.90달러 사이에서 등락을 거듭하고 있는 CRCL은 상장 이후 가장 어려운 시기를 겪고 있다는 분석이 나온다.주목할 점은 주가 하락 국면에서도 캐시 우드가 이끄는 ARK 인베스트가 적극적인 매수에 나섰다는 사실이다. 7월 31일 하루에만 ARK는 세 개 액티브 운용...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/383992",
+    "published_at": "Sun, 02 Aug 2026 23:01:57 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대규모 매수에도 주가 75% 급락하는 등 시장 전체에 영향을 줄 만한 뉴스",
+    "collected_at": "2026-08-02T23:26:12.899581+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“연준이 안 보인다”…채권시장 흔드는 워시 의장, 미 국채금리 급등 우려",
+    "content": "[블록미디어 명정선 기자] 미국 국채시장에서 장기 금리 상승세가 가팔라지는 가운데 케빈 워시 연방준비제도(Fed) 의장의 정책 기조를 둘러싼 불확실성이 투자자들의 불안을 키우고 있다. 시장에서는 연준이 인플레이션 대응 방안을 명확히 제시하지 않으면서 장기 국채 매도세가 이어질 수 있다는 우려가 확산하고 있다. 블룸버그는 2일(현지시각) 브랜디와인 글로벌 인베스트먼트 매니지먼트와 웰링턴 매니지먼트 등 주요 채권 투자자들을 인용해 미국 국채시장이 연준의 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1123339?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 02 Aug 2026 22:56:37 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "미국 국채시장에서 장기 금리 상승세가 가팔라지는 가운데 연준의 정책 기조를 둘러싼 불확실성이 투자자들의 불안을 키우고 있다.",
+    "collected_at": "2026-08-02T23:26:52.442466+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "중국 공안 연구진, 정확도 90%의 크립토 자금세탁 탐지 도구 개발",
+    "content": "중국 공안 연구진, 정확도 90%의 크립토 자금세탁 탐지 도구 개발",
+    "url": "https://ns3.ai/ko/news/rRxptYRY2q",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "중국 공안 연구진이 정확도 90%의 크립토 자금세탁 탐지 도구를 개발한 것으로 보아, 크립토 업계 전반에 영향을 줄 가능성이 있는 뉴스입니다.",
+    "collected_at": "2026-08-02T23:27:10.947185+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Trump Media, Crypto.com으로 보낸 2,628 BTC는 매각되지 않았다고 밝혀",
+    "content": "Trump Media, Crypto.com으로 보낸 2,628 BTC는 매각되지 않았다고 밝혀",
+    "url": "https://ns3.ai/ko/news/Zd6zlGQwdV",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소와 유명 프로젝트 간의 파트너십과 관련된 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-02T23:27:25.459058+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BitGo CEO, Anthropic에 100 BTC 지갑 해킹 도전 제안",
+    "content": "BitGo CEO, Anthropic에 100 BTC 지갑 해킹 도전 제안",
+    "url": "https://ns3.ai/ko/news/anhfbieghw",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 CEO가 유명 인공지능 연구소에 해킹 도전 제안을 하는 것은 크립토 시장에 큰 파급력을 줄 수 있는 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-08-02T23:27:57.330434+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "8월 3일 출근길 팟캐스트 — 6억 달러 숏 청산에 시장 급반전, 비트코인·이더리움 동반 상승",
     "content": "지난 24시간 암호화폐 시장에서 약 6억648만 달러 규모의 레버리지 포지션이 강제 청산됐다. 이번 청산의 83.19%가 숏 포지션에 몰렸다는 점은 하락에 베팅한 자금이 급하게 되사기에 나서며 시장 방향이 위로 꺾였다는 해석을 가능하게 한다.특히 숏 청산 금액만 5억500만 달러에 달했다. 단순한 변동성 확대를 넘어, 최근 시장에 쌓여 있던 약세 베팅이 한꺼번에 흔들린 사건으로 읽힌다.시장 가격은 곧바로 반응했다. 비트코인은 전일 대비 1.46% 오른 6만3387달러, 이더리움은 2.41% 상승한 1880달러를 기록했다. 상승폭 자체보다 대형 자산이 먼저 반응했다는 점이 중요하다.주요 알트코인도 대체로 강세였다. 리플은 2.74%, 솔라나는...  더보기",
     "url": "https://www.tokenpost.kr/news/insights/383969",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": false,
     "reason": "국제유가의 급등과 관련된 뉴스이며, 전 세계 에너지 시장 전반의 긴장도 함께 높아지는 경우가 많다.",
     "collected_at": "2026-07-23T18:59:25.651755+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "타셋, 스테이블코인 준비금 플랫폼 공개…중소 은행 참여 확대 나섰다",
-    "content": "미국 핀테크 기업 타셋이 ‘스테이블코인 보관금(리저브)’ 시장을 겨냥한 플랫폼을 공개했다. 수조 달러 규모로 성장할 것으로 예상되는 시장에서 중소 은행의 참여를 확대하겠다는 구상이다.타셋은 24일 ‘프로젝트 네냐(Project NENYA)’를 발표하고, 스테이블코인 준비금 관리를 위한 ‘스마트 리저브 관리 및 실행 엔진’을 선보였다고 밝혔다. 해당 플랫폼은 2027년 초 출시를 목표로 하며, 2026년 상반기부터 파일럿 프로그램이 시작될 예정이다.이번 프로젝트는 기술력과 규제 대응 인프라가 부족한 미국 지역 및 중형 은행을 주요 대상으로 한다. 그동안 스테이블코인 발행사와의 협업이 쉽지 않았던 은행들이 시장에 진입할 수 있도록...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/380674",
-    "published_at": "Thu, 23 Jul 2026 18:20:30 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "스테이블코인 준비금 플랫폼 공개와 중소 은행의 참여 확대가 크립토 시장에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-23T18:59:43.152422+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미 상원, 클라리티법 본회의 표결 임박…크립토 규제 분기점 될까",
-    "content": "미국 암호화폐 시장의 규제 틀을 새로 짜는 ‘클라리티법(Clarity Act)’이 상원 본회의 표결 문턱까지 올라섰다. 비트코인(BTC)을 비롯한 디지털자산에 대해 연방 차원의 명확한 규칙을 만들겠다는 내용으로, 업계에서는 오랜 ‘불확실성’ 해소의 분수령으로 보고 있다.코인베이스($COIN) 최고경영자 브라이언 암스트롱은 이 법안이 “양당의 수천 시간 작업의 결과”라며, FTX 붕괴 같은 사례가 규제 공백 속에서 반복돼서는 안 된다고 강조했다. 현재 법안은 하원 통과와 상원 은행위원회 승인까지 마친 상태다.SEC·CFTC 역할 구분, 자금세탁 방지 조항도 포함클라리티법은 616페이지 분량으로, 가상자산 감독 권한을 상품선물거래위원회(CFTC)에...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/380673",
-    "published_at": "Thu, 23 Jul 2026 18:15:04 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "미국 상원에서 클라리티법의 본회의 표결이 임박해, 크립토 규제 분기점이 될 수 있는 중요한 뉴스",
-    "collected_at": "2026-07-23T19:00:02.574933+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "국민성장펀드, 엘지디스플레이에 1조원 저리 대출 결정… OLED 산업 강화 박차",
-    "content": "국민성장펀드가 엘지디스플레이에 1조원대 저리 대출을 지원하는 방향을 결정하면서, 국내 유기발광다이오드 산업 경쟁력 강화에 정책 자금이 본격 투입될 가능성이 커졌다.23일 금융권에 따르면 금융위원회는 지난 21일 국민성장펀드 투자심의위원회를 열고 엘지디스플레이 지원 방안을 의결한 것으로 전해졌다. 최종 확정은 다음 주 기금운용심의회를 거쳐 이뤄질 전망이다. 국민성장펀드는 정부가 국가 전략산업에 장기 자금을 공급하기 위해 조성한 정책성 펀드로, 민간이 감당하기 어려운 대규모 설비 투자와 기술 개발을 뒷받침하는 역할을 맡고 있다.이번 지원의 초점은 중소형 올레드 생산기술 고도화에 맞춰져 있다. 올레드는 스스로...  더보기",
-    "url": "https://www.tokenpost.kr/news/economy/380671",
-    "published_at": "Thu, 23 Jul 2026 18:06:37 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "국내 OLED 산업 경쟁력 강화에 정책 자금이 투입될 가능성이 커졌으며, 중소형 올레드 생산기술 고도화에 초점이 맞춰져 있다.",
-    "collected_at": "2026-07-23T19:00:23.181926+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "거래소 떠나는 이용자들…셀프 커스터디·직접 스왑 확산",
-    "content": "암호화폐 시장에서 중앙화 거래소 의존도가 다시 낮아지고 ‘지갑 간 직접 거래’와 ‘셀프 커스터디’가 빠르게 확산되는 흐름이 나타나고 있다. 거래·보관·결제까지 한 곳에서 처리하던 기존 방식에서 벗어나, 자산 통제권을 스스로 유지하려는 움직임이 뚜렷해졌다는 분석이다.최근 몇 년간 대형 거래소 리스크가 부각되면서 이용자들은 ‘편의성’ 이면의 통제 문제를 인식하기 시작했다. 여기에 과도한 신원 인증 요구까지 더해지면서, 보다 빠르고 유연한 대안 플랫폼으로 이동하는 흐름이 이어지고 있다.‘노 KYC’ 거래소 비타니아, 프라이버시 수요 흡수이 같은 변화 속에서 비타니아(BitAnia)는 개인정보 수집을 배제한 ‘노 KYC’ 구조로...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/380670",
-    "published_at": "Thu, 23 Jul 2026 18:04:14 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "암호화폐 시장에서 중앙화 거래소 의존도가 낮아지고 '지갑 간 직접 거래'와 '셀프 커스터디'가 확산되는 흐름이 나타나고 있다.",
-    "collected_at": "2026-07-23T19:00:40.660259+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Kazakhstan Introduces Strategic Mining Rules, Expanding State Crypto Reserve Plan",
-    "content": "Kazakhstan Introduces Strategic Mining Rules, Expanding State Crypto Reserve Plan\nKazakhstan approved the “Strategic Digital Mining Implementation Rules” on July 18, 2026. Under the rules, strategic digital mining companies can receive electricity quotas at rates capped by the maximum price for power producers, but must transfer part of their mined digital assets to Astana Hub.\nThe assets will be managed by a state investment company under the National Bank of Kazakhstan and used for the country’s strategic crypto reserve. The reserve may invest in digital assets, digital asset-backed derivatives, and equity of companies involved in digital asset development or investment. The rules will take effect 10 calendar days after official publication. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25268",
-    "published_at": "2026-07-23T16:48:57+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "국가 규제 당국이 크립토 관련 정책을 발표하여 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-23T17:53:33.142295+00:00"
   }
 ]
