@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 기술업계 감원 재확산…크립토 기업도 구조조정·폐업 잇따라",
+    "content": "최근 몇 주 사이 미국 기술업계 전반에서 감원이 다시 늘어나고 있다. 특히 크립토 업계는 시장 둔화를 이유로 인력 축소와 사업 정리에 나서는 사례가 잇따르면서 업황 위축이 고용시장에도 본격 반영되는 모습이다.크런치베이스 뉴스 집계에 따르면 8월 5일로 끝난 최근 집계 기간 동안 미국 기술 부문에서 최소 4567명이 해고됐거나 해고 대상에 포함됐다. 이번 주 새로 추적 대상에 오른 기업에는 아마존($AMZN), 비자($V), 우버($UBER), 질로우($ZG) 같은 대형 기술기업과 함께 팔콘엑스, 루노, 펌프펀(Pump.fun), 비트마트, 무브먼트랩스 등이 포함됐다.크립토 업계 구조조정 확산크립토 부문에서는 캘리포니아 기반 암호화폐 브로커...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/385993",
+    "published_at": "Wed, 05 Aug 2026 18:23:37 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 업계 구조조정 확산, 대형 기술기업과 함께 여러 기업이 해고 또는 해고 대상에 포함되었다.",
+    "collected_at": "2026-08-05T18:59:22.437588+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "파이어블록스, 월렛풀로 금고 거래 병목 우회",
+    "content": "파이어블록스(Fireblocks)가 여러 금고 계정을 하나의 거래 출처로 묶어 거래 지연을 우회하는 ‘Wallet Pools’를 출시했다. 특정 금고의 거래가 멈추면 새 거래를 정상 상태의 금고로 보내는 기능이다.\n크립토브리핑(Crypto Briefing)은 파이어블록스가 여러 금고를 통합 풀로 구성하고 ‘상태 등급별 라운드로빈’ 알고리즘으로 병목 구간을 우회한다고 5일 전했다. 이 기능은 이더리움(ETH) 같은 계정 기반 체인에서 논스 순서 때문에 앞선 거래가 멈추면 후속 거래까지 대기하는 문제를 겨냥했다.\n논스는 계정 기반 블록체인에서 거래 순서를 정하는 번호다. 같은 계정에서 먼저 제출된 거래가 낮은 수수료나 네트워크 수수료 급등으로...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/385988",
+    "published_at": "Wed, 05 Aug 2026 17:48:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "파이어블록스가 크립토 업계에서 중요한 기능인 'Wallet Pools'를 출시하여 거래 지연을 우회하는 방법을 소개했다. 이 기능은 이더리움과 같은 계정 기반 체인에서 논스 순서로 인한 거래 지연 문제를 해결한다.",
+    "collected_at": "2026-08-05T19:00:54.658299+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "단일종목 레버리지 ETF 도입 논란, 국민의힘 국정조사·특검 요구",
+    "content": "국민의힘이 최근 주식시장 급변의 원인으로 지목된 단일종목 레버리지 상장지수펀드 도입 문제를 둘러싸고 국정조사와 특별검사 도입을 잇달아 요구하면서, 금융정책 결정 과정의 적절성을 따져야 한다는 공세를 강화했다.정점식 국민의힘 원내대표는 5일 더불어민주당을 향해 이른바 ‘주식시장 대란 국정조사’를 수용하라고 거듭 촉구했다. 그는 이번 요구가 단순한 정쟁이 아니라 시장 신뢰 회복을 위한 점검이라고 강조했다. 특히 국회 상임위원회별 현안 질의만으로는 경제부총리, 금융위원장, 대통령실 정책 책임자 등 핵심 인사를 한자리에서 검증하기 어렵다는 점을 들어, 국정조사가 필요하다고 주장했다.국민의힘은 논란의 중심에 선...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/385985",
+    "published_at": "Wed, 05 Aug 2026 17:40:32 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": false,
+    "reason": "국민의힘의 단일종목 레버리지 상장지수펀드 도입 논란과 관련된 국정조사·특검 요구는 금융정책 결정 과정의 적절성을 따져야 하는데, 이는 크립토와 관련이 없지만 금융 시장에 큰 영향을 미칠 수 있는 중요한 뉴스입니다.",
+    "collected_at": "2026-08-05T19:01:33.719048+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "네타냐후, 이란 핵무기 저지 재확인…국제유가 하루 5%대 하락",
+    "content": "베냐민 네타냐후(Benjamin Netanyahu) 이스라엘 총리가 이란의 핵무기 보유를 막겠다는 기존 입장을 재확인했다. 호르무즈 해협 재개방 협상과 국제원자력기구(IAEA)의 검증 공백이 맞물리면서 원유와 비트코인(BTC) 시장에도 지정학적 불확실성이 이어지고 있다.\n네타냐후 총리는 7월 5일 연설에서 “합의가 있든 없든 이란이 핵무기를 보유하도록 허용하지 않겠다”고 말했다. 이스라엘 외교부가 공개한 연설문에도 같은 발언이 담겼다.\n와이넷(Ynet)은 네타냐후 총리가 8월 4일 휴전 관련 성명에서 “농축 물질은 합의나 재개된 전투를 통해 이란 밖으로 나갈 것”이라고 말했다고 전했다. 외교적 합의와 군사 행동을 모두 선택지로 남겨둔...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/385981",
+    "published_at": "Wed, 05 Aug 2026 17:28:21 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이란 핵무기 저지 재확인으로 원유와 비트코인 시장에 지정학적 불확실성이 이어지고 있어, 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스",
+    "collected_at": "2026-08-05T19:02:27.974733+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "AI 보이스 피싱, 월가 대형 운용사 3곳 노렸다",
+    "content": "월가 대형 운용사 세 곳이 임직원의 목소리를 복제한 AI 보이스 피싱 공격의 표적이 됐다. 자금과 민감 정보가 집중된 금융기관의 신원 확인 절차를 노린 사회공학 공격이다.\n크립토브리핑(Crypto Briefing)은 5일 해커들이 투시그마(Two Sigma), 시타델(Citadel), 포인트72(Point72)를 겨냥해 임원과 동료의 목소리를 복제했다고 보도했다. 투시그마는 공격을 차단했으며 데이터 유출이나 시스템 영향은 없었다고 밝혔다.\n시타델과 포인트72는 논평을 거부했다. 세 회사가 공격 내용을 공식 공지한 자료는 6일 한국시간 기준 공개되지 않았다.\n공격 대상이 된 운용사들이 관리하는 자금 규모는 수십조원에 달한다. 투시그마는 자사...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/385980",
+    "published_at": "Wed, 05 Aug 2026 17:27:10 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "월가 대형 운용사들이 관리하는 자금 규모가 수십조원에 달하며, 공격 대상이 된 세 회사가 관리하는 자금 규모가 크고, 사회공학 공격으로 금융기관의 신원 확인 절차를 노린다.",
+    "collected_at": "2026-08-05T19:02:47.694098+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "이더리움 스테이킹 보상 54% 축소 추진…디파이 수익 구조 흔들",
+    "content": "[멕시코=심영재 특파원] 이더리움 스테이킹 보상을 최대 54% 줄이는 제안(EIP-8361)이 공개되면서 탈중앙화금융(DeFi) 생태계 전반에 미칠 영향이 주목받고 있다. 제안이 시행되면 검증인(Validator)의 기본 스테이킹 수익률이 약 2.6%에서 약 1.2%로 낮아져 에이브(Aave), 리도(Lido), 펜들(Pendle), 이더파이(ether.fi) 등 스테이킹 수익을 기반으로 하는 주요 프로토콜의 수익 구조가 재조정될 수 있다는 분석이 나온다. 보상 2.6%에서 1.2%로… 발행량 줄여 ETH 희소성 강화 5일(현지시각) [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1124704?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 05 Aug 2026 18:18:29 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 스테이킹 보상을 최대 54% 줄이는 제안(EIP-8361)이 공개되면서 탈중앙화금융(DeFi) 생태계 전반에 미칠 영향이 주목받고 있다. ",
+    "collected_at": "2026-08-05T19:03:58.537929+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Coinbase to Suspend Trading for Six Pairs on August 6",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 은행과 유명 거래소의 파트너십으로 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
     "collected_at": "2026-07-26T11:15:00.419842+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "MiCA 시행, 유럽 크립토 기업들은 M&A 압력 직면",
-    "content": "MiCA 시행, 유럽 크립토 기업들은 M&A 압력 직면",
-    "url": "https://ns3.ai/ko/news/oZRlgksK5i",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "MiCA 시행과 유럽 크립토 기업에 미치는 영향이 크고, M&A 압력이 시장 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-07-26T11:15:13.881393+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "브리지 해킹으로 CCIP 이전이 늘며 체인링크에 70억 달러 유입",
-    "content": "브리지 해킹으로 CCIP 이전이 늘며 체인링크에 70억 달러 유입",
-    "url": "https://ns3.ai/ko/news/H8VgchEO1T",
-    "published_at": null,
-    "relevance_score": 10,
-    "is_crypto_related": true,
-    "reason": "브리지 해킹으로 인한 CCIP 이전이 늘며 체인링크에 70억 달러가 유입되는 것은 크립토 시장 전반에 큰 영향을 줄 수 있는重大 사건이다.",
-    "collected_at": "2026-07-26T11:15:45.884492+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "KB국민은행, 8월 Kinexys 결제 서비스 출시 예정",
-    "content": "KB국민은행, 8월 Kinexys 결제 서비스 출시 예정",
-    "url": "https://ns3.ai/ko/news/xq56iFLJNJ",
-    "published_at": null,
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 서비스 출시 예정인 뉴스",
-    "collected_at": "2026-07-26T11:16:11.890965+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "유럽 암호화폐 규제, M&A 물결 촉발 가능",
-    "content": "유럽 암호화폐 규제, M&A 물결 촉발 가능",
-    "url": "https://ns3.ai/ko/news/qV2yUrwZFf",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유럽 암호화폐 규제와 M&A 물결의 가능성이 언급되어 있어 시청자에게 유의미한 뉴스지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-26T11:17:20.293370+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 6만4천 달러 지켰다…시바이누 35% 급등, 밈코인 다시 들썩",
-    "content": "비트코인(BTC)이 지정학적 긴장 완화 소식에 반등하며 6만4천 달러 선을 지켜냈다. 트럼프 대통령의 군사 행동 보류 결정이 투자 심리를 자극한 가운데, 시바이누(SHIB)는 하루 만에 35% 이상 급등하며 시장의 중심에 섰다.미국의 대이란 군사 행동이 중단되면서 위험자산 선호 심리가 되살아났다. 트럼프 대통령은 오만과의 협상 재개를 기다리며 군에 ‘대기’ 명령을 내렸고, 이 소식이 전해진 직후 비트코인(BTC)은 6만4,500달러까지 상승했다가 소폭 조정을 거쳤다. 최근 며칠간의 변동성 속에서도 6만4천 달러 지지선은 여전히 유지되는 모습이다.비트코인 ‘6만4천 달러’ 방어…변동성 속 회복력 확인비트코인은 주 초반 6만5천 달러에서...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381417",
-    "published_at": "Sun, 26 Jul 2026 09:49:28 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인이 지정학적 긴장 완화 소식에 반등하며 6만4천 달러 선을 지켜냈다는 소식과 시바이누가 35% 이상 급등하는 뉴스가 크립토 시장에 영향을 주는 것으로 보인다. 그러나 이 뉴스는 아직 시장 전체를 흔들 정도는 아님.",
-    "collected_at": "2026-07-26T09:50:24.024731+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나(SOL) 가격 상승과 활성 주소 증가, 디파이 및 RWA 성장세 주목",
-    "content": "솔라나(SOL)가 26일 오후 5시 40분 기준으로 74.83달러를 기록하며 전날 대비 1.49% 상승했다. 24시간 거래량은 8억2,971만 달러로 전날 대비 46.14% 감소했으며, 시가총액은 436억2,747만 달러로 암호화폐 시가총액 순위 7위를 유지하고 있다.주간 활성 주소 1,800만 돌파, 주요 블록체인 중 1위 기록가격 부진과 달리 솔라나 네트워크 활동은 오히려 강세를 보이고 있다. 솔라나 허브와 DefiLlama 데이터에 따르면 솔라나는 최근 일주일간 활성 주소 수가 1,800만 개를 돌파하며 BNB 체인, 트론, 비트코인, 이더리움을 제치고 주요 블록체인 중 1위를 기록했다.DefiLlama는 솔라나의 총예치자산(TVL)이 약 50억 달러 수준에서 안정적으로...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381410",
-    "published_at": "Sun, 26 Jul 2026 08:44:29 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "솔라나(SOL) 가격 상승과 활성 주소 증가, 디파이 및 RWA 성장세가 주목할 만한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-26T09:50:24.349075+00:00"
   }
 ]
