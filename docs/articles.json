@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "서클 7% 급등, 은행 인가와 Arc 메인넷 출시 기대에 투자자 집중",
+    "content": "서클(CRCL) 7% 급등, 은행 인가와 Arc 메인넷 출시 기대감에 투자자 주목서클 인터넷 그룹(Circle Internet Group, CRCL)이 주요 규제 인가와 블록체인 인프라 확장 소식에 힘입어 7% 이상 급등하며 투자자들의 관심을 끌고 있다. 번스타인(Bernstein)이 목표주가 140달러를 제시하며 강력한 매수 의견을 내놓은 가운데, 서클의 USDC 생태계 성장과 Arc 퍼블릭 메인넷 출시 계획이 주가 상승을 견인했다. 4일(현지시간) 뉴욕증권거래소(NYSE)에서 CRCL은 66.67달러에 거래를 마감했으며, 장중 최고 68.40달러까지 상승했다.번스타인, 목표주가 140달러 제시하며 장기 수익 전망 강조번스타인은 서클에 대해 '아웃퍼폼(Outperform)' 등급을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386890",
+    "published_at": "Fri, 07 Aug 2026 23:01:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "서클의 USDC 생태계 성장과 Arc 퍼블릭 메인넷 출시 계획이 주가 상승을 견인했다. 또한, 번스타인(Bernstein)이 목표주가 140달러를 제시하며 강력한 매수 의견을 내놓았다.",
+    "collected_at": "2026-08-07T23:55:09.624065+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 공화당, 토요일 클래리티 절차 의향…표결은 9월로",
+    "content": "[블록미디어 이정화 기자] 미국 상원 공화당 지도부가 디지털자산 시장 구조를 규정하는 클래리티 법(CLARITY Act)의 9월 표결을 목표로 이번 주말에도 의사 절차에 착수할 방침인 것으로 전해졌다. 다만 수익률(yield) 관련 규정과 초당적 윤리 합의가 여전히 핵심 변수로 남아 있다. 7일(현지시각) 엘리노어 테렛 크립토 전문 기자는 자신의 X에 “여러 소식통에 따르면 존 튠 공화당 상원 원내대표 측이 디지털자산 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125532?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 23:36:43 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원 공화당이 클래리티 법의 표결을 목표로 하며, 디지털자산 시장 구조를 규정하는 법안이 시장에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-07T23:55:19.293155+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미국과 이란 간의 대치 상황이 암호화폐 시장에까지 번지면서 미국 재무부는 거래소에 제재를 가했다",
+    "content": "미국과 이란 간의 대치 상황이 암호화폐 시장에까지 번지면서 미국 재무부는 거래소에 제재를 가했다",
+    "url": "https://www.cryptopolitan.com/ko/us-iran-standoff-crypto-treasury-exchanges/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대화폐 시장까지 번지는 미국과 이란 간의 대치 상황과 미국 재무부의 거래소 제재가 관련되어, 업계 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-07T23:56:08.266244+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "트럼프 미디어, 크립토닷컴과 맺은 계약 줄줄이 중단",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "크립토 관련 프로젝트인 Hyperliquid의 계약이 비정상적인 거래로 인해 가격이 급락하고, 이에 대한 조사 중인 사건이 보고되었다.",
     "collected_at": "2026-07-28T10:23:52.450084+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Nexo Uses German MiCAR-Licensed Partners for EEA Custody and Brokerage",
-    "content": "Nexo Uses German MiCAR-Licensed Partners for EEA Custody and Brokerage\nNexo announced it has reaffirmed its product compliance across the European Economic Area (EEA) ahead of the Markets in Crypto-Assets Regulation (MiCAR) entering into force. The digital assets platform operates via a localized setup, splitting its custody and brokerage infrastructure between two MiCAR-licensed German partners.Under this structure, Tangany provides institutional-grade digital asset custody, while DLT Finance (authorized under MiFID II and MiCAR) facilitates the brokerage of digital assets and financial instruments.\nSponsored by Nexo — \nlink",
-    "url": "https://t.me/wublockchainenglish/25319",
-    "published_at": "2026-07-28T09:31:27+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Nexo가 독일 MiCAR 라이센스를 보유한 파트너사를 통해 EEA 보관 및 중개 서비스를 제공하는 뉴스",
-    "collected_at": "2026-07-28T10:23:52.733239+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "XRP, 1.05달러 지지선 공방…ETF 기대 속 분기점 임박",
-    "content": "XRP가 1.06달러(약 1,549원)선에서 등락을 거듭하며 방향성 탐색 국면에 들어섰다. 하루 새 4% 넘게 밀린 가운데, ‘현물 ETF 기대감’은 여전히 시장 심리를 지탱하지만 가격 구조는 불안정하다는 평가가 나온다.최근 XRP는 좁은 박스권 안에서 압축 흐름을 보이고 있다. 뚜렷한 추세 없이 매수·매도 세력이 팽팽히 맞서며, 어느 한쪽으로도 결론이 나지 않은 상태다. 거래소 간 가격 괴리 역시 유동성 차이에서 비롯된 현상으로, 시장의 명확한 방향성을 보여주지는 못하고 있다.시장에서는 2025년 말 XRP 5달러 전망 등 낙관적 시나리오가 확산되고 있지만, 이는 근거보다 의견에 가까운 수준이다. 단기적으로 투자자들은 장기 전망보다 ‘가격...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382264",
-    "published_at": "Tue, 28 Jul 2026 10:19:47 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "XRP 가격에 대한 분석과 시장의 방향성에 대한 의견이 나와 있지만, 아직 뚜렷한 추세나 결론이 나지 않은 상태로, 단기적으로는 장기 전망보다 가격에 초점을 맞추고 있다.",
-    "collected_at": "2026-07-28T10:23:53.043642+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스트레티지 STRC 매입 논란…비트코인보다 우선주 방어 우선됐나",
-    "content": "마이클 세일러가 이끄는 스트레티지(Strategy)가 우선주 ‘STRC’ 매입에 나선 것을 두고 시장의 시선이 엇갈리고 있다. 한 시장 분석가는 이번 조치가 비트코인(BTC) 비축보다 우선주 가격 방어에 가까워 보인다며, 장기 투자자에게 잘못된 신호를 줄 수 있다고 지적했다.13일(현지시간) 외신에 따르면 해당 분석가는 스트레티지가 STRC에 2,500만달러를 투입해 시세를 약 2.3% 끌어올린 점을 문제 삼았다. STRC는 고정 상환가가 있는 일반 채권과 달리 변동금리 우선주라서, 발행가인 100달러로 반드시 되돌아가야 할 계약상 이유가 없다는 설명이다.‘100달러’ 복귀 기대가 비현실적이라는 지적비판의 핵심은 투자자 심리다. STRC는 발행가...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382263",
-    "published_at": "Tue, 28 Jul 2026 10:11:55 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "스트레티지가 우선주 STRC에 2,500만달러를 투입한 사실과, 비트코인보다 우선주 가격 방어에 우선순위를 둔 점이 시장의 시선과 투자자 심리를 엇갈리게 하는 주요 뉴스입니다.",
-    "collected_at": "2026-07-28T10:23:53.363472+00:00"
   }
 ]

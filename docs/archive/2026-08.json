@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "서클 7% 급등, 은행 인가와 Arc 메인넷 출시 기대에 투자자 집중",
+    "content": "서클(CRCL) 7% 급등, 은행 인가와 Arc 메인넷 출시 기대감에 투자자 주목서클 인터넷 그룹(Circle Internet Group, CRCL)이 주요 규제 인가와 블록체인 인프라 확장 소식에 힘입어 7% 이상 급등하며 투자자들의 관심을 끌고 있다. 번스타인(Bernstein)이 목표주가 140달러를 제시하며 강력한 매수 의견을 내놓은 가운데, 서클의 USDC 생태계 성장과 Arc 퍼블릭 메인넷 출시 계획이 주가 상승을 견인했다. 4일(현지시간) 뉴욕증권거래소(NYSE)에서 CRCL은 66.67달러에 거래를 마감했으며, 장중 최고 68.40달러까지 상승했다.번스타인, 목표주가 140달러 제시하며 장기 수익 전망 강조번스타인은 서클에 대해 '아웃퍼폼(Outperform)' 등급을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386890",
+    "published_at": "Fri, 07 Aug 2026 23:01:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "서클의 USDC 생태계 성장과 Arc 퍼블릭 메인넷 출시 계획이 주가 상승을 견인했다. 또한, 번스타인(Bernstein)이 목표주가 140달러를 제시하며 강력한 매수 의견을 내놓았다.",
+    "collected_at": "2026-08-07T23:55:09.624065+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 공화당, 토요일 클래리티 절차 의향…표결은 9월로",
+    "content": "[블록미디어 이정화 기자] 미국 상원 공화당 지도부가 디지털자산 시장 구조를 규정하는 클래리티 법(CLARITY Act)의 9월 표결을 목표로 이번 주말에도 의사 절차에 착수할 방침인 것으로 전해졌다. 다만 수익률(yield) 관련 규정과 초당적 윤리 합의가 여전히 핵심 변수로 남아 있다. 7일(현지시각) 엘리노어 테렛 크립토 전문 기자는 자신의 X에 “여러 소식통에 따르면 존 튠 공화당 상원 원내대표 측이 디지털자산 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125532?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 23:36:43 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원 공화당이 클래리티 법의 표결을 목표로 하며, 디지털자산 시장 구조를 규정하는 법안이 시장에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-07T23:55:19.293155+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미국과 이란 간의 대치 상황이 암호화폐 시장에까지 번지면서 미국 재무부는 거래소에 제재를 가했다",
+    "content": "미국과 이란 간의 대치 상황이 암호화폐 시장에까지 번지면서 미국 재무부는 거래소에 제재를 가했다",
+    "url": "https://www.cryptopolitan.com/ko/us-iran-standoff-crypto-treasury-exchanges/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대화폐 시장까지 번지는 미국과 이란 간의 대치 상황과 미국 재무부의 거래소 제재가 관련되어, 업계 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-07T23:56:08.266244+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "트럼프 미디어, 크립토닷컴과 맺은 계약 줄줄이 중단",
