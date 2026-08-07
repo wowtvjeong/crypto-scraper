@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss",
+    "content": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss\nAccording to WuBlockchain Data Center, about 22.7% of 22 mainstream Bitcoin mining machines tracked were generating negative daily net returns as of August 6. Under current electricity-cost and network assumptions, the most energy-efficient model has an estimated shutdown price of about $46,787, meaning even top-performing machines would approach break-even if BTC falls below that level. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25464",
+    "published_at": "2026-08-07T10:03:19+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 일반적인 뉴스인 비트코인 채굴자 중 23%가 일일 손실을 보고하고 있는 것으로 나타났으며, 현재의 전기 비용과 네트워크 가정 하에 가장 에너지 효율적인 모델의 폐쇄 가격은 약 46만 7877달러로, 상위 성능의 기계도 BTC가 그 가격 이하로 떨어지면 이익을 보게 될 것으로 예상된다.",
+    "collected_at": "2026-08-07T10:25:45.879037+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 상원, CLARITY Act 표결 미뤄…암호화폐 시장구조법 9월로 넘어가나",
+    "content": "미국 상원 공화당 지도부가 암호화폐 시장구조 법안인 ‘CLARITY Act’ 표결 없이 8월 휴회에 들어갈 가능성이 커졌다. 정치권의 교착이 길어지면서 업계 핵심 현안인 디지털자산 규제 틀 마련도 최소 9월 이후로 밀릴 전망이다.7일(현지시간) 폴리티코에 따르면 상원 다수당 원내대표 존 튠은 이번 회기 종료 전 해당 법안에 대한 표결은 없다고 확인했다. 그는 민주당의 반대가 거세다며, 상원 복귀 후 우선순위로 다루겠다고 밝혔다. 튠은 코인텔레그래프에 전달된 발언에서 “민주당은 ‘Clarity’ 표결에 완강하다”고 말했다.‘CLARITY Act’는 미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)의 감독 권한을 구분하고, 디지털자산 시장에...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/386694",
+    "published_at": "Fri, 07 Aug 2026 10:13:25 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원에서 암호화폐 시장구조 법안인 'CLARITY Act'의 표결이 미뤄지면서, 업계 핵심 현안인 디지털자산 규제 틀 마련이 최소 9월 이후로 밀릴 전망이다.",
+    "collected_at": "2026-08-07T10:25:46.570899+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "리플 XRP, CLARITY 법안 지연에 약세…1달러 지지선 분기점",
+    "content": "리플의 엑스알피(XRP)가 입법 지연이라는 ‘변수’에 흔들리며 단기 하락 압력을 받고 있다. 핵심 호재로 기대되던 규제 법안 일정이 밀리면서 투자 심리가 빠르게 식고 있다.CLARITY 법안 지연에 XRP 약세…시장 기대감 급속 냉각최근 24시간 기준 엑스알피(XRP) 가격은 약 2.2% 하락해 1.03달러(약 1,459원) 부근에서 거래되고 있다. 비트코인(BTC)이 보합권을 유지한 것과 달리 주요 알트코인 중 낙폭이 두드러졌다.이번 하락의 핵심 배경은 미국 상원의 입법 일정 변화다. 존 튠 상원 원내대표는 ‘CLARITY 법안’ 심의를 8월 휴회 이후인 9월로 연기했다. 규제 명확성을 기대하던 시장에 단기 ‘호재 공백’이 발생한 셈이다.법안 지연 소식 이후...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386693",
+    "published_at": "Fri, 07 Aug 2026 10:11:07 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "규제 법안 지연으로 투자 심리가 식어 XRP 가격이 하락하고 있다.",
+    "collected_at": "2026-08-07T10:25:46.859390+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "위터뮤트, 미국서 증권중개업 등록…토큰화 증권 진출 본격화",
+    "content": "암호화폐 마켓메이커 위터뮤트(Wintermute)가 미국에서 증권중개업자(broker-dealer)로 등록하며 전통 금융시장으로 보폭을 넓혔다. 이번 등록으로 미국 내 주식과 옵션 거래는 물론, 디지털 자산과 연계된 상장지수상품(ETP)까지 다룰 수 있는 길이 열렸다.13일 코인텔레그래프에 따르면 위터뮤트는 자회사 위터뮤트 USA LLC가 미국 증권거래위원회(SEC)와 금융산업규제당국(FINRA)에 등록을 마쳤다고 밝혔다. 회사는 이를 통해 ‘토큰화 증권’ 시장이 커지는 흐름에 선제적으로 대응하겠다는 구상이다.전통 금융과 디지털 자산, 동시에 겨냥에브게니 가에보이 위터뮤트 창업자 겸 최고경영자(CEO)는 “디지털 자산 시장은 하나의 방향으로만...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386691",
+    "published_at": "Fri, 07 Aug 2026 10:10:32 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국에서 증권중개업자로 등록하며 전통 금융시장으로 보폭을 넓히고, 디지털 자산과 연계된 상장지수상품(ETP)까지 다룰 수 있는 길이 열렸다.",
+    "collected_at": "2026-08-07T10:25:54.376317+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트코인 활성 주소 8개월 만에 최대… 상승장 기대 아닌 ‘지갑 해킹’ 때문",
+    "content": "[블록미디어 이정화 기자] 비트코인 네트워크의 일일 활성 주소 수가 8개월 만에 최고치를 경신했다. 하지만 시장은 이를 가격 상승에 대한 낙관론이 아닌, 하드웨어 지갑의 보안 취약점 노출에 따른 ‘자금 피신 패닉’이 만든 결과로 분석하고 있다 펌웨어 난수 결함에 1억달러 유출… 코인카이트 “즉시 지갑 이동하라” 7일 블록체인 데이터 분석업체 글래스노드(Glassnode) 및 관련 업계에 따르면, 지난 7월 31일 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125293?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 09:54:13 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 네트워크의 일일 활성 주소 수가 8개월 만에 최고치를 경신했다는 뉴스와, 하드웨어 지갑의 보안 취약점 노출에 따른 '자금 피신 패닉'이 만든 결과로 분석되고 있다. 또한, 펌웨어 난수 결함에 1억달러 유출이 발생했다는 사실이 언급된다.",
+    "collected_at": "2026-08-07T10:26:50.907891+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "콜드카드 해킹, 장기 보유자에서 21만 BTC 이동과 연관",
+    "content": "콜드카드 해킹, 장기 보유자에서 21만 BTC 이동과 연관",
+    "url": "https://ns3.ai/ko/news/shSFPsOdmB",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대량의 비트코인이 이동한 사실이 알려져 장기 보유자와 관련된 큰 사건으로 파급력이 크다.",
+    "collected_at": "2026-08-07T10:27:53.839692+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "XRP, 미국 상원 암호화폐 규제 법안 표결 연기로 급락",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "시큐리타이즈의 자회사가 SEC 투자자문사 등록을 완료하였고, 기관 대상 규제 사업을 확장하고 있다. 이는 크립토 업계의 일반적인 뉴스보다 더 유의미하고 영향 범위가 더 넓은 뉴스이다.",
     "collected_at": "2026-07-27T20:16:33.297116+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "시큐리타이즈, SEC 자문 등록 밝혔다…기관 공략 넓힌다",
-    "content": "토큰화 자산 플랫폼 시큐리타이즈(SECZ)의 자회사 시큐리타이즈캐피털이 미국 증권거래위원회(SEC) 등록 투자자문사(RIA) 자격을 취득했다고 밝혔다.\n코인텔레그래프는 27일(현지시간) 시큐리타이즈캐피털이 SEC 등록 투자자문사 자격을 취득했다고 보도했다. 회사는 기존에 보유한 브로커딜러, 대체거래시스템(ATS), 명의개서대리인, 펀드 관리 기능에 투자자문 기능을 더하게 됐다.\n이번 등록의 핵심은 면제보고자문사(ERA)에서 정식 등록 자문사로 지위가 바뀐 점이다. ERA는 일정 요건을 충족한 사모 운용사가 최소 보고 의무를 지는 형태다. 정식 등록 이후에는 투자자문업법 적용을 받으며 공시, 컴플라이언스, 기록 보존, SEC 현장...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381913",
-    "published_at": "Mon, 27 Jul 2026 19:05:16 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "시큐리타이즈캐피털이 SEC 등록 투자자문사 자격을 취득하여 투자자문 기능을 확대하고, 정식 등록 이후 투자자문업법 적용을 받는 등 크립토 업계에 큰 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-07-27T20:16:52.220076+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "가짜 레저 업데이트 이메일에 속아… XRP 40만개 유출",
-    "content": "XRP 보유자가 ‘레저(Ledger)’를 사칭한 피싱 이메일에 속아 하룻밤 사이 40만 XRP를 잃은 사례가 전해졌다. 단순한 하드웨어 지갑 업데이트처럼 보였지만, 실제로는 지갑 정보를 빼내기 위한 사기 수법이었다.13일 크립토 자문가 조지 칼테키스(George Kaltekis)가 공유한 사연에 따르면, 피해자는 부활절 밤 가족과 시간을 보내던 중 오후 10시께 급한 전화를 했다. 이메일에는 장치 업데이트를 유도하는 안내가 담겨 있었고, 피해자는 이를 정상적인 절차로 착각해 클릭한 뒤 지갑 정보를 입력했다. 이후 공격자들이 자금을 빼내면서 약 40만 XRP가 한 번에 사라졌다.칼테키스는 이 같은 피싱 수법이 최근 들어 점점 정교해지고 있다고...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381912",
-    "published_at": "Mon, 27 Jul 2026 18:56:58 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 자문가가 공유한 사례로, XRP 보유자가 피싱 이메일에 속아 40만 XRP를 잃은 사례가 전해졌다. 최근 들어 피싱 수법이 정교해지고 있다.",
-    "collected_at": "2026-07-27T20:17:11.043114+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitmine keeps buying Ether as ETH outperforms Bitcoin",
-    "content": "The company added nearly 10,000 ETH over the past week, bringing its holdings to 5.79 million Ether, about 85% of which is staked through its validator operations.",
-    "url": "https://cointelegraph.com/news/bitmine-keeps-buying-ether-as-eth-outperforms-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 27 Jul 2026 19:22:59 +0000",
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "중견 기업의 ETH 보유량 증가와 스테이킹 관련 소식",
-    "collected_at": "2026-07-27T20:18:08.957592+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "호스킨슨, 이더리움 창립 질문에 발끈…“400번은 답했다”",
-    "content": "카르다노 창립자 찰스 호스킨슨이 최근 더 블록 인터뷰에서 이더리움(ETH) 창립 배경을 다시 묻는 질문에 강하게 반응했다. 그는 관련 질문을 “부끄러운 줄 알라”고 받아치며, “기본적인 조사도 하지 않았다”고 불쾌감을 드러냈다.호스킨슨은 자신이 이더리움과 관련된 같은 질문에 이미 “약 400번” 답했다고 말했다. 그는 12년 전, 고작 6개월 동안 몸담았던 일을 두고 반복적으로 설명을 요구받는 건 지나친 일이라고 선을 그었다. 이더리움의 초기 과정은 이미 책과 보도를 통해 충분히 알려졌다는 주장이다.그는 반복되는 질문을 개인적 트라우마에 비유하기도 했다. 과거의 불편한 경험을 이미 정리했는데도 같은 이야기를 계속 캐묻는 건...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381908",
-    "published_at": "Mon, 27 Jul 2026 18:40:21 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 창립자와 관련된 뉴스이며, 호스킨슨의 반응과 이더리움의 초기 과정에 대한 그의 주장이 시청자에게 주목할 만한 뉴스입니다. 다만, 9점은 더블린 중앙은행의 대규모 디지털 화폐 구축 발표와 같은 '즉시 속보'급 사건에만 부여할 수 있으므로, 8.5점을 부여합니다.",
-    "collected_at": "2026-07-27T18:53:00.133259+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 장기 약세장 바닥 신호 모이나…과거 후반부 패턴과 유사",
-    "content": "비트코인(BTC)이 사상 최고가 대비 약 50% 낮은 수준에서 거래되는 가운데, 40주 넘게 이어진 하락장이 과거 ‘바닥’ 국면과 비슷한 흐름을 보인다는 분석이 나왔다. 한 애널리스트는 장기 지표 4개가 동시에 수렴하고 있다며, 이번 약세장이 초기보다 ‘후반부’에 가깝다고 진단했다.13일 외신에 따르면 비트코인(BTC)은 현재 장기 ‘파워 로우’ 모델의 하단 경계선 근처에서 움직이고 있다. 이 가격 모델은 역사적으로 약 96%의 정확도를 보여온 것으로 알려졌지만, 아직 경계선을 결정적으로 이탈하지는 않았다. 다만 가격은 범위의 가장 낮은 구간에 머물고 있다.나스닥·금과 비교해도 극단적 수준비트코인(BTC)은 나스닥 대비로도 지난 2017년...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381903",
-    "published_at": "Mon, 27 Jul 2026 18:25:46 +0000",
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "비트코인의 장기 약세장 바닥 신호에 대한 분석과 과거 후반부 패턴과 유사한 흐름을 보인다는 점이 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스임.",
-    "collected_at": "2026-07-27T18:53:00.849528+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "월가 주목한 무기한 선물…미국 규제 시장 변수 될까",
-    "content": "미국 규제 시장에 ‘무기한 선물’이 본격 진입하면서 월가가 새로운 변수에 주목하고 있다. 개인 투자자 중심의 일시적 유행인지, 기존 선물 시장을 흔들 구조적 변화인지 판단이 엇갈리는 모습이다.최근 흐름은 분명 눈에 띈다. 6월 출시된 칼시(Kalshi)의 무기한 선물은 일주일 만에 거래량 10억 달러를 돌파했다. 이는 예측시장 이후 가장 빠른 흥행 속도다. 칼시는 이후 금과 은을 기초자산으로 한 상품까지 확대를 추진하며, 비트코인(BTC) 등 암호화폐에 국한되지 않을 가능성도 시사했다.‘만기 없는 선물’, 시장 구조를 바꾸나무기한 선물(perpetual futures)은 기존 선물과 유사하지만 ‘만기’가 없다. 투자자는 계약을 매월 롤오버할...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/381901",
-    "published_at": "Mon, 27 Jul 2026 18:20:53 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "미국 규제 시장에 무기한 선물이 진입하면서 월가가 새로운 변수에 주목하고 있으며, 이는 암호화폐 시장에 큰 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-27T18:53:01.234050+00:00"
   }
 ]

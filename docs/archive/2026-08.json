@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss",
+    "content": "Nearly 23% of Major Bitcoin Miners Are Now Operating at a Daily Loss\nAccording to WuBlockchain Data Center, about 22.7% of 22 mainstream Bitcoin mining machines tracked were generating negative daily net returns as of August 6. Under current electricity-cost and network assumptions, the most energy-efficient model has an estimated shutdown price of about $46,787, meaning even top-performing machines would approach break-even if BTC falls below that level. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25464",
+    "published_at": "2026-08-07T10:03:19+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 일반적인 뉴스인 비트코인 채굴자 중 23%가 일일 손실을 보고하고 있는 것으로 나타났으며, 현재의 전기 비용과 네트워크 가정 하에 가장 에너지 효율적인 모델의 폐쇄 가격은 약 46만 7877달러로, 상위 성능의 기계도 BTC가 그 가격 이하로 떨어지면 이익을 보게 될 것으로 예상된다.",
+    "collected_at": "2026-08-07T10:25:45.879037+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 상원, CLARITY Act 표결 미뤄…암호화폐 시장구조법 9월로 넘어가나",
+    "content": "미국 상원 공화당 지도부가 암호화폐 시장구조 법안인 ‘CLARITY Act’ 표결 없이 8월 휴회에 들어갈 가능성이 커졌다. 정치권의 교착이 길어지면서 업계 핵심 현안인 디지털자산 규제 틀 마련도 최소 9월 이후로 밀릴 전망이다.7일(현지시간) 폴리티코에 따르면 상원 다수당 원내대표 존 튠은 이번 회기 종료 전 해당 법안에 대한 표결은 없다고 확인했다. 그는 민주당의 반대가 거세다며, 상원 복귀 후 우선순위로 다루겠다고 밝혔다. 튠은 코인텔레그래프에 전달된 발언에서 “민주당은 ‘Clarity’ 표결에 완강하다”고 말했다.‘CLARITY Act’는 미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)의 감독 권한을 구분하고, 디지털자산 시장에...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/386694",
+    "published_at": "Fri, 07 Aug 2026 10:13:25 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원에서 암호화폐 시장구조 법안인 'CLARITY Act'의 표결이 미뤄지면서, 업계 핵심 현안인 디지털자산 규제 틀 마련이 최소 9월 이후로 밀릴 전망이다.",
+    "collected_at": "2026-08-07T10:25:46.570899+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "리플 XRP, CLARITY 법안 지연에 약세…1달러 지지선 분기점",
+    "content": "리플의 엑스알피(XRP)가 입법 지연이라는 ‘변수’에 흔들리며 단기 하락 압력을 받고 있다. 핵심 호재로 기대되던 규제 법안 일정이 밀리면서 투자 심리가 빠르게 식고 있다.CLARITY 법안 지연에 XRP 약세…시장 기대감 급속 냉각최근 24시간 기준 엑스알피(XRP) 가격은 약 2.2% 하락해 1.03달러(약 1,459원) 부근에서 거래되고 있다. 비트코인(BTC)이 보합권을 유지한 것과 달리 주요 알트코인 중 낙폭이 두드러졌다.이번 하락의 핵심 배경은 미국 상원의 입법 일정 변화다. 존 튠 상원 원내대표는 ‘CLARITY 법안’ 심의를 8월 휴회 이후인 9월로 연기했다. 규제 명확성을 기대하던 시장에 단기 ‘호재 공백’이 발생한 셈이다.법안 지연 소식 이후...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386693",
+    "published_at": "Fri, 07 Aug 2026 10:11:07 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "규제 법안 지연으로 투자 심리가 식어 XRP 가격이 하락하고 있다.",
+    "collected_at": "2026-08-07T10:25:46.859390+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "위터뮤트, 미국서 증권중개업 등록…토큰화 증권 진출 본격화",
+    "content": "암호화폐 마켓메이커 위터뮤트(Wintermute)가 미국에서 증권중개업자(broker-dealer)로 등록하며 전통 금융시장으로 보폭을 넓혔다. 이번 등록으로 미국 내 주식과 옵션 거래는 물론, 디지털 자산과 연계된 상장지수상품(ETP)까지 다룰 수 있는 길이 열렸다.13일 코인텔레그래프에 따르면 위터뮤트는 자회사 위터뮤트 USA LLC가 미국 증권거래위원회(SEC)와 금융산업규제당국(FINRA)에 등록을 마쳤다고 밝혔다. 회사는 이를 통해 ‘토큰화 증권’ 시장이 커지는 흐름에 선제적으로 대응하겠다는 구상이다.전통 금융과 디지털 자산, 동시에 겨냥에브게니 가에보이 위터뮤트 창업자 겸 최고경영자(CEO)는 “디지털 자산 시장은 하나의 방향으로만...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386691",
+    "published_at": "Fri, 07 Aug 2026 10:10:32 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국에서 증권중개업자로 등록하며 전통 금융시장으로 보폭을 넓히고, 디지털 자산과 연계된 상장지수상품(ETP)까지 다룰 수 있는 길이 열렸다.",
+    "collected_at": "2026-08-07T10:25:54.376317+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트코인 활성 주소 8개월 만에 최대… 상승장 기대 아닌 ‘지갑 해킹’ 때문",
+    "content": "[블록미디어 이정화 기자] 비트코인 네트워크의 일일 활성 주소 수가 8개월 만에 최고치를 경신했다. 하지만 시장은 이를 가격 상승에 대한 낙관론이 아닌, 하드웨어 지갑의 보안 취약점 노출에 따른 ‘자금 피신 패닉’이 만든 결과로 분석하고 있다 펌웨어 난수 결함에 1억달러 유출… 코인카이트 “즉시 지갑 이동하라” 7일 블록체인 데이터 분석업체 글래스노드(Glassnode) 및 관련 업계에 따르면, 지난 7월 31일 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125293?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 09:54:13 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 네트워크의 일일 활성 주소 수가 8개월 만에 최고치를 경신했다는 뉴스와, 하드웨어 지갑의 보안 취약점 노출에 따른 '자금 피신 패닉'이 만든 결과로 분석되고 있다. 또한, 펌웨어 난수 결함에 1억달러 유출이 발생했다는 사실이 언급된다.",
+    "collected_at": "2026-08-07T10:26:50.907891+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "콜드카드 해킹, 장기 보유자에서 21만 BTC 이동과 연관",
+    "content": "콜드카드 해킹, 장기 보유자에서 21만 BTC 이동과 연관",
+    "url": "https://ns3.ai/ko/news/shSFPsOdmB",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대량의 비트코인이 이동한 사실이 알려져 장기 보유자와 관련된 큰 사건으로 파급력이 크다.",
+    "collected_at": "2026-08-07T10:27:53.839692+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "XRP, 미국 상원 암호화폐 규제 법안 표결 연기로 급락",
