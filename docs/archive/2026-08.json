@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "content": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장은 비트코인이 장중 6만5000달러를 넘어서는 등 완만한 상승 흐름을 보였다. 미국 고용지표를 둘러싼 통화정책 기대와 대규모 고래 매집이 매수 심리를 뒷받침한 가운데 숏 포지션 청산이 가격 반등을 증폭시켰다. 다만 비트코인 BIP 110을 둘러싼 네트워크 분열 논쟁과 미국 디지털자산 시장구조 법안인 클래리티법안(CLARITY Act) 처리 지연 그리고 중동 긴장에 따른 유가 상승은 추가 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125515?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 21:10:15 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 반등과 관련된 뉴스, 그러나 BIP 110 논쟁과 클래리티법안 처리 지연 등 악재도 언급되어 있다.",
+    "collected_at": "2026-08-07T21:10:56.179471+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+    "content": "Truth Social's parent company is unwinding two major Crypto.com partnerships as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "published_at": "Fri, 07 Aug 2026 21:05:59 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 업체인 Crypto.com와의 파트너십이 중단되는 소식이 나왔고, 이는 크립토 시장에 영향을 줄 수 있다.",
+    "collected_at": "2026-08-07T21:11:01.741893+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "content": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "url": "https://www.blockmedia.co.kr/archives/1125515?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "고용 호재에 비트코인 반등하는 뉴스, 관련 주체는 비트코인 자체이지만 영향 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-07T21:11:20.382322+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "트럼프 미디어, Crypto.com 지원 CRO 재무 운용 계획 폐기",
+    "content": "트럼프 미디어, Crypto.com 지원 CRO 재무 운용 계획 폐기",
+    "url": "https://ns3.ai/ko/news/np4W5W4L0e",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Crypto.com과 관련된 뉴스이며, 구체적인 재무 운용 계획 폐기라는 내용이 포함되어 있어 업계 전반에 주목할 만한 뉴스입니다.",
+    "collected_at": "2026-08-07T21:11:36.190625+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "트럼프 미디어, Crypto.com과 암호화폐 프로젝트 2개 중단",
+    "content": "트럼프 미디어, Crypto.com과 암호화폐 프로젝트 2개 중단",
+    "url": "https://ns3.ai/ko/news/H7BqLPlRPV",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Crypto.com과 암호화폐 프로젝트 2개 중단이라는 뉴스는 크립토 업계의 중견 기업과 관련된 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-07T21:11:53.617817+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "폴리마켓, 가격 조작 억제를 위해 TWAP 결제 도입",
+    "content": "폴리마켓, 가격 조작 억제를 위해 TWAP 결제 도입",
+    "url": "https://ns3.ai/ko/news/w4C5hp967j",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "폴리마켓이 가격 조작을 억제하기 위해 TWAP 결제를 도입하는 것은 크립토 시장 전반에 영향을 줄 수 있는 중요한 뉴스이므로 8점을 받는다.",
+    "collected_at": "2026-08-07T21:12:10.456824+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans",

@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "content": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장은 비트코인이 장중 6만5000달러를 넘어서는 등 완만한 상승 흐름을 보였다. 미국 고용지표를 둘러싼 통화정책 기대와 대규모 고래 매집이 매수 심리를 뒷받침한 가운데 숏 포지션 청산이 가격 반등을 증폭시켰다. 다만 비트코인 BIP 110을 둘러싼 네트워크 분열 논쟁과 미국 디지털자산 시장구조 법안인 클래리티법안(CLARITY Act) 처리 지연 그리고 중동 긴장에 따른 유가 상승은 추가 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125515?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 07 Aug 2026 21:10:15 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 반등과 관련된 뉴스, 그러나 BIP 110 논쟁과 클래리티법안 처리 지연 등 악재도 언급되어 있다.",
+    "collected_at": "2026-08-07T21:10:56.179471+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
+    "content": "Truth Social's parent company is unwinding two major Crypto.com partnerships as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
+    "url": "https://decrypt.co/375166/trump-media-abandons-crypto-treasury-prediction-market",
+    "published_at": "Fri, 07 Aug 2026 21:05:59 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 업체인 Crypto.com와의 파트너십이 중단되는 소식이 나왔고, 이는 크립토 시장에 영향을 줄 수 있다.",
+    "collected_at": "2026-08-07T21:11:01.741893+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "content": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
+    "url": "https://www.blockmedia.co.kr/archives/1125515?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "고용 호재에 비트코인 반등하는 뉴스, 관련 주체는 비트코인 자체이지만 영향 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-07T21:11:20.382322+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "트럼프 미디어, Crypto.com 지원 CRO 재무 운용 계획 폐기",
+    "content": "트럼프 미디어, Crypto.com 지원 CRO 재무 운용 계획 폐기",
+    "url": "https://ns3.ai/ko/news/np4W5W4L0e",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Crypto.com과 관련된 뉴스이며, 구체적인 재무 운용 계획 폐기라는 내용이 포함되어 있어 업계 전반에 주목할 만한 뉴스입니다.",
+    "collected_at": "2026-08-07T21:11:36.190625+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "트럼프 미디어, Crypto.com과 암호화폐 프로젝트 2개 중단",
+    "content": "트럼프 미디어, Crypto.com과 암호화폐 프로젝트 2개 중단",
+    "url": "https://ns3.ai/ko/news/H7BqLPlRPV",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Crypto.com과 암호화폐 프로젝트 2개 중단이라는 뉴스는 크립토 업계의 중견 기업과 관련된 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-07T21:11:53.617817+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "폴리마켓, 가격 조작 억제를 위해 TWAP 결제 도입",
+    "content": "폴리마켓, 가격 조작 억제를 위해 TWAP 결제 도입",
+    "url": "https://ns3.ai/ko/news/w4C5hp967j",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "폴리마켓이 가격 조작을 억제하기 위해 TWAP 결제를 도입하는 것은 크립토 시장 전반에 영향을 줄 수 있는 중요한 뉴스이므로 8점을 받는다.",
+    "collected_at": "2026-08-07T21:12:10.456824+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인이 6만3000달러선까지 후퇴했다는 뉴스, 그러나 시장 전체에 큰 영향을 주는 것은 아니다",
     "collected_at": "2026-07-28T10:29:44.067905+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "창펑자오 “아세안 디지털자산 면허 상호 인정해야…EU처럼 단일시장 구축”",
-    "content": "[블록미디어 이정화 기자] 바이낸스 공동 설립자 창펑자오가 동남아시아국가연합(ASEAN) 회원국 간 디지털자산 사업자 면허를 상호 인정하는 제도를 도입해야 한다고 제안했다. 국가별로 제각각인 규제 체계를 조화시켜 역내 디지털 경제 통합을 앞당겨야 한다는 주장이다. 창펑 자오는 28일 필리핀 마닐라에서 열린 ‘아세안 기술 서밋 2026(ASEAN Tech Summit Manila 2026)’에서 “한 국가에서 규제를 충족한 사업자가 다른 회원국에 진출할 때 동일한 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121406?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 28 Jul 2026 08:46:14 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "아세안 회원국 간 디지털자산 사업자 면허 상호 인정 제도가 도입될 가능성이 높고, 이는 크립토 시장 전반에 영향을 줄 수 있다.",
-    "collected_at": "2026-07-28T10:30:00.333425+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "미 법원, 미네소타 예측시장 규제 제동…칼시·폴리마켓 손 들어줬다",
-    "content": "[블록미디어 이정화 기자] 미국 연방법원이 미네소타주의 예측시장 규제 법안 집행을 일시 중단하면서 예측시장 플랫폼인 칼시(Kalshi)와 폴리마켓(Polymarket)이 법적 분쟁에서 일단 유리한 고지를 점했다. 이번 결정으로 미네소타주는 해당 법을 근거로 두 플랫폼에 대한 제재를 당분간 집행할 수 없게 됐다. 법원 “원고 승소 가능성 있다”…예비금지명령 인용 27일(현지시각) 더 블록 등 외신에 따르면 연방법원은 칼시와 폴리마켓이 제기한 소송에서 예비금지명령을 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121424?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 28 Jul 2026 08:04:44 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "미네소타주의 예측시장 규제 법안 집행을 일시 중단하는 법원의 결정은 크립토 시장에 큰 영향을 줄 수 있는重大한 뉴스입니다. 칼시와 폴리마켓이 법적 분쟁에서 유리한 고지를 점했다는 점도 시청자에게 큰 관심을 끌 것입니다.",
-    "collected_at": "2026-07-28T10:30:17.717984+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "바이낸스, ERA/BNB 등 현물 거래쌍 8종 상장폐지…31일 거래 종료",
-    "content": "[블록미디어 이정화 기자] 디지털자산 거래소 바이낸스가 오는 31일 일부 현물 거래쌍에 대한 거래를 종료하고 상장 폐지한다. 바이낸스는 28일 공지를 통해 한국시간 기준 7월 31일 오전 11시부터 총 8개 현물 거래쌍의 거래를 중단한다고 밝혔다. 상장 폐지 대상은 ERA/BNB, MAGIC/USDC, MASK/USDC, MOVE/TRY, MOVE/USDC, POL/BTC, STORJ/TRY, SUSHI/USDC 등이다. 이번 조치와 함께 해당 거래쌍을 기반으로 운영되는 현물 거래봇 서비스도 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121437?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 28 Jul 2026 07:55:30 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "바이낸스가 일부 현물 거래쌍을 상장폐지하고 거래를 종료하는 뉴스, 영향 범위는 크립토 시장 전반에 미치는 영향은 크지 않지만, 거래소의 주요 결정으로 시청자에게 유의미함",
-    "collected_at": "2026-07-28T10:30:35.071970+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
-    "content": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
-    "url": "https://www.decenter.kr/article/20072810",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "금융보안원이 스마트 콘트랙트에 대한 세부 지침을 만드는 것은 크립토와 관련된 중요한 뉴스로, 이는 크립토의 확장과 규제에 큰 영향을 미칠 수 있다.",
-    "collected_at": "2026-07-28T10:31:24.377530+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "美 가상화폐 현물 ETF 3.11억 달러 순유출",
-    "content": "美 가상화폐 현물 ETF 3.11억 달러 순유출",
-    "url": "https://www.decenter.kr/article/20072848",
-    "published_at": null,
-    "relevance_score": 10,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향",
-    "collected_at": "2026-07-28T10:31:59.004968+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
-    "content": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
-    "url": "https://www.decenter.kr/article/20072810",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "금융보안원이 스마트콘트랙트에 대한 세부 지침을 만드는 것은 크립토 관련 규제와 관련된 중요한 뉴스입니다.",
-    "collected_at": "2026-07-28T10:32:13.672946+00:00"
   }
 ]
