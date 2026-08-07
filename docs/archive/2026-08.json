@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "트럼프 미디어, 크로노스(CRO) 딜 접고 에너지 합병에 집중",
+    "content": "13일* 액시오스에 따르면 도널드 트럼프 대통령의 회사 트럼프 미디어 & 테크놀로지 그룹(TMTG)이 가상자산 거래소 크립토닷컴과 추진하던 두 건의 거래를 접고, 에너지 기업 TAE와의 합병에 집중하기로 했다. 당초 64억달러 규모의 크로노스(CRO) 재무딜과 '트루스 소셜' 내 예측시장 도입 계획이 모두 흔들리면서, 시장의 시선은 트럼프 미디어의 사업 우선순위 변경에 쏠리고 있다.TMTG 임시 최고경영자 케빈 맥거번은 회사가 크립토닷컴, 특수목적회사 요크빌 어퀴지션(Yorkville Acquisition Corp)과 함께 추진한 거래를 철회한다고 밝혔다. 세 회사는 '시장 상황'과 '사업 및 이해관계자 우선순위 변화'가 결정 배경이라고 설명했다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/386886",
+    "published_at": "Fri, 07 Aug 2026 21:55:56 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "트럼프 미디어가 크립토닷컴과 추진하던 거래를 접고 에너지 기업 TAE와의 합병에 집중하기로 한 소식이 크립토 시장에 큰 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-07T22:03:13.218472+00:00"
+  },
+  {
+    "source": "decenter",
+    "source_type": "press",
+    "title": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
+    "content": "금융보안원, 스마트콘트랙트 세부 지침 만든다",
+    "url": "https://www.decenter.kr/article/20072810",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "금융보안원이 스마트콘트랙트에 대한 세부 지침을 만드는 것은 크립토와 관련된 중요한 뉴스이며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있습니다.",
+    "collected_at": "2026-08-07T22:03:20.243082+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Donald Trump’s media company to terminate Crypto.com deal",
+    "content": "The president’s company will unwind an agreement with Crypto.com to create a multibillion-dollar CRO treasury and reportedly not integrate prediction markets onto Truth Social.",
+    "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 07 Aug 2026 21:39:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Crypto.com과 중견 기업 Donald Trump의 미디어 회사 간의 파트너십 종료로 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-07T22:03:35.681092+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+    "content": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+    "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+    "published_at": "Fri, 07 Aug 2026 21:13:21 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와의 파트너십이 중단되는 뉴스, 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-07T22:03:51.115055+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CLARITY 법안, 지지표 부족한 가운데 9월 상원 표결 직면",
+    "content": "CLARITY 법안, 지지표 부족한 가운데 9월 상원 표결 직면",
+    "url": "https://ns3.ai/ko/news/kbm4oKHrvX",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "CLARITY 법안은 크립토 시장에 영향을 줄 수 있는 규제 관련 뉴스이며, 지지표 부족에도 불구하고 상원 표결에 직면한 점을 고려하여 높은 점수를 매겼습니다.",
+    "collected_at": "2026-08-07T22:04:38.580256+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Trump Media, Crypto.com과의 64억 달러 규모 CRO 트레저리 계약 종료",
+    "content": "Trump Media, Crypto.com과의 64억 달러 규모 CRO 트레저리 계약 종료",
+    "url": "https://ns3.ai/ko/news/Ttefd3AcBl",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Crypto.com과 중견 기업 Trump Media의 파트너십 종료로 크립토 시장 전반에 영향을 줄 수 있는 뉴스",
+    "collected_at": "2026-08-07T22:04:55.981716+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[뉴욕 코인시황/마감] ‘클래리티 연기·BIP 110’ 악재 딛고…고용 호재에 비트코인 반등",
