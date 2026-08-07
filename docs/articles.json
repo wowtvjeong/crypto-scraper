@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans",
+    "content": "Trump Media Pulls Back From Crypto, Scraps CRO Treasury Venture and Scales Down Prediction Market Plans\nTrump Media and Technology Group is scaling back its crypto ambitions, terminating a planned CRO-focused digital asset treasury venture with CryptoCom and Yorkville Acquisition Corp. and abandoning related services and digital asset products. The company is also dropping plans to integrate prediction markets directly into Truth Social, opting instead to market CryptoCom’s prediction products to its users. Interim CEO Kevin McGurn said Trump Media is refocusing on its media business and its pending merger with fusion energy company TAE, citing a saturated digital asset treasury market and intensifying competition in prediction markets. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25473",
+    "published_at": "2026-08-07T20:27:21+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 관련된 뉴스. Trump Media가 크립토 관련 사업을 축소하고 중단하는 소식이 기사에 담겨 있어, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-07T20:29:24.404991+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미국, 이란 연계 가상자산 거래소 제재…크립토 돈줄 차단 나섰다",
+    "content": "미국 재무부가 이란 정권의 자금세탁과 제재 회피에 관여한 혐의로 디지털 자산 거래소 2곳에 제재를 부과했다. 군사적 긴장이 이어지는 가운데, 미국이 가상자산을 통한 ‘우회 자금 흐름’을 정조준한 셈이다.13일(현지시간) 미 재무부 해외자산통제국(OFAC)은 쉘빗(Shelbit)과 아반 테더(Aban Tether)를 제재 명단에 올렸다고 밝혔다. OFAC는 이들 거래소가 ‘불법 암호화폐 활동’과 ‘제재 회피’를 도왔고, 그 수익이 이란 혁명수비대(IRGC)를 지원하는 데 쓰였다고 설명했다. 함께 이란 국적의 시아바시 카이반푸르(Siavash Kayvanpour)와 그와 연결된 지갑, 기업들도 제재 대상이 됐다.스콧 베선트 미 재무장관은 “우리는 경제적 압박을 계속...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/386877",
+    "published_at": "Fri, 07 Aug 2026 20:25:55 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 재무부가 이란 정권의 자금세탁과 제재 회피에 관여한 혐의로 디지털 자산 거래소 2곳에 제재를 부과했다는 뉴스. 이란 국적의 시아바시 카이반푸르와 그와 연결된 지갑, 기업들도 제재 대상이 됐다.",
+    "collected_at": "2026-08-07T20:29:25.342211+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "호르무즈 해협 협상 불확실성, 국제유가 상승세 견인",
+    "content": "국제유가는 7일 이란과 오만의 호르무즈 해협 통항 협상 내용을 둘러싼 불확실성이 이어지면서 상승했다. 세계 원유 수송의 핵심 길목인 호르무즈 해협에서 통항 조건이 바뀔 수 있다는 관측이 커지자, 시장은 공급 차질 가능성을 다시 가격에 반영하는 모습이었다.이날 ICE선물거래소에서 10월 인도분 브렌트유 선물 종가는 배럴당 83.55달러로 전장보다 1.3% 올랐고, 뉴욕상업거래소에서 9월 인도분 서부텍사스산원유 선물 종가는 배럴당 78.18달러로 1.2% 상승했다. 브렌트유와 서부텍사스산원유는 각각 국제 원유시장과 미국 유가의 대표 지표로 쓰이는데, 두 가격이 함께 오른 것은 중동 정세가 전반적인 공급 불안 심리를 자극했기...  더보기",
+    "url": "https://www.tokenpost.kr/news/economy/386872",
+    "published_at": "Fri, 07 Aug 2026 20:07:19 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "국제유가가 상승한 이유는 호르무즈 해협 통항 협상 불확실성으로 인한 공급 차질 가능성 때문이며, 이는 중동 정세가 전반적인 공급 불안 심리를 자극했다.",
+    "collected_at": "2026-08-07T20:29:25.747361+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
+    "content": "The US government sanctioned an individual and two crypto exchanges it said facilitated money laundering for a combined $5 million in digital assets linked to Iran.",
+    "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Fri, 07 Aug 2026 20:02:20 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 아니라 중견 기관의 중대 발표에 해당하는 OFAC의 규제 동향",
+    "collected_at": "2026-08-07T20:30:47.737313+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
+    "content": "The U.S. Treasury sanctioned two crypto exchanges it says laundered millions of dollars for Iran's Revolutionary Guard, naming a Georgia- and UAE-based operator and an Iran-based platform.",
+    "url": "https://decrypt.co/375163/treasury-sanctions-crypto-exchanges-laundered-millions-iran",
+    "published_at": "Fri, 07 Aug 2026 20:28:33 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "미국 정부가 크립토 거래소에 대한 공식 규제 발표로, 크립토 시장 전반에 큰 파급력을 가질 것으로 예상된다.",
+    "collected_at": "2026-08-07T20:31:05.307940+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "HTX, 제재 뒤 자산 이동 정황…폴로닉스와 얽힌 준비금 논란",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "금융보안원이 스마트콘트랙트에 대한 세부 지침을 만드는 것은 크립토 관련 규제와 관련된 중요한 뉴스입니다.",
     "collected_at": "2026-07-28T10:32:13.672946+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "IMF warns Brazil’s stablecoin activity outpaces traditional capital flows",
-    "content": "The IMF said Brazil’s stablecoin market has expanded rapidly since 2017, with cross-border crypto flows growing faster than traditional capital flows.",
-    "url": "https://cointelegraph.com/news/imf-brazil-stablecoin-activity-outpaces-traditional-capital-flows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 28 Jul 2026 10:09:47 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "IMF가 브라질의 스테이블 코인 시장에 대한 보고를 발표하여, 크립토 시장에 대한 전반적인 관심을 높이는 뉴스",
-    "collected_at": "2026-07-28T10:32:28.922647+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-    "content": "Lido launched Curated Module v2, an upgrade that could reduce Ethereum’s validator count by one-third by consolidating validators and introducing new operator rules.",
-    "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 28 Jul 2026 09:14:45 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Lido의 업그레이드가 이더리움의 검증인 수를 1/3으로 줄일 수 있는 새로운 운영 규칙을 도입하고 검증인들을 통합하는 것에 대한 뉴스",
-    "collected_at": "2026-07-28T10:32:45.231048+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Highlight Clip MARA CEO: Using Electricity for AI Is Far More Profitable Than Bitcoin Mining",
-    "content": "Highlight Clip MARA CEO: Using Electricity for AI Is Far More Profitable Than Bitcoin Mining\nMARA CEO: Using Electricity for AI Is Far More Profitable Than Bitcoin Mining\nFred Thiel, CEO of MARA, one of the world's largest publicly listed Bitcoin mining companies, said in a July 23 interview with Natalie Brunell that electricity has become the industry's most critical resource, as the same amount of power can generate far greater returns when used for AI than for Bitcoin mining.\nThis is why MARA and many of its peers are shifting toward AI data centers. However, MARA will continue mining Bitcoin, as it remains an effective way to utilize surplus electricity in regions where energy is free or inexpensive. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25316",
-    "published_at": "2026-07-28T06:18:11+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "MARA CEO가 비트코인 채굴보다 AI에 사용하는 전기에 더 높은 수익을 얻을 수 있는지에 대한 주장과, 그에 따라 비트코인 채굴에서 AI 데이터 센터로 전환하는 움직임에 대한 언급",
-    "collected_at": "2026-07-28T07:32:19.691827+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Ex-Multicoin Co-Founder Kyle Samani Turns on His Old Firm: “They’re Working Against Everything Solana Builders Are Build",
-    "content": "Ex-Multicoin Co-Founder Kyle Samani Turns on His Old Firm: “They’re Working Against Everything Solana Builders Are Building”\nKyle Samani, a Multicoin Capital co-founder and former managing partner, said developers building in the Solana ecosystem should recognize that Multicoin is “working against everything you are building.” His criticism followed a joint filing by Multicoin and the Hyperliquid Policy Center supporting the CFTC as the sole federal regulator of exchange-traded prediction markets and calling for clearer rules and greater transparency in contract approvals. Samani stepped back from Multicoin’s management in February 2026 but remains a prominent Solana advocate. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25317",
-    "published_at": "2026-07-28T07:17:02+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Multicoin Capital의 전 공동 창립자이자 현장 경영 파트너인 Kyle Samani가 Solana 생태계 개발자들에게 Multicoin이 'Solana 개발자들이 만드는 모든 것을 반대하고 있다'고 비판했다. 이는 Multicoin과 Hyperliquid Policy Center가 CFTC를 거래소 거래 예측 시장의 유일한 연방 규제 기관으로 지정하고, 계약 승인에 대한 규칙과 투명성을 높이기 위해 공동으로 제출한 서류에 대한 반응이다. ",
-    "collected_at": "2026-07-28T07:32:20.249446+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "금융위·한국거래소, 2026년부터 저PBR 기업 명단 공개… 코리아 디스카운트 압박 시작",
-    "content": "금융위원회와 한국거래소가 장기간 주가순자산비율(PBR·주가를 회사 순자산과 비교한 지표)이 낮은 기업의 명단을 2026년 11월부터 공개하기로 하면서, 국내 증시에서 이른바 저평가 상태를 오래 방치한 상장사에 대한 시장 압박이 본격화될 전망이다.금융위원회와 한국거래소는 28일 저PBR 기업 공표 제도의 세부 기준안을 내놨다. 핵심은 단기적인 주가 부진이 아니라 구조적으로 낮은 평가를 받아온 회사를 가려내겠다는 데 있다. 이를 위해 기업을 코스피와 코스닥으로 나누고, 다시 국제산업분류기준(GICS) 11개 업종별로 구분해 반기마다 PBR을 산정한다. 그 결과 코스피는 하위 25%, 코스닥은 하위 10%에 6개 반기, 즉 3년 연속 포함되면...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/382178",
-    "published_at": "Tue, 28 Jul 2026 07:16:40 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "국내 증시에서 저평가 상태를 오래 방치한 상장사에 대한 시장 압박이 본격화될 전망이다.",
-    "collected_at": "2026-07-28T07:32:38.996014+00:00"
   }
 ]
