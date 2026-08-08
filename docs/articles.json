@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 상원, CLARITY 법안 표결 절차 착수…9월 규제 분수령 될까",
+    "content": "미국 상원 다수당 원내대표 존 튠이 ‘디지털 자산 시장 명확화법’(CLARITY Act)을 본회의에서 다루기 위한 ‘클로처’ 절차에 들어가면서, 미국 암호화폐 시장 구조 법안이 9월 초 중요한 표결 국면을 맞게 됐다. 다만 실제 통과까지는 여전히 넘어야 할 정치적 장벽이 적지 않다.9월 15일 재개 뒤 절차 표결…민주당 협조가 관건미 상원 일간 브리핑에 따르면 튠 원내대표는 CLARITY Act를 상원 본회의 심의 안건으로 올리기 위한 동의안에 대해 ‘클로처’를 신청했다. 상원이 9월 15일 재개한 뒤 표결이 이뤄질 가능성이 크다. ‘클로처’가 통과되려면 60표가 필요해 공화당만으로는 부족하고, 최소한 민주당 일부의 찬성이 필요하다.이번 조치는...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/387027",
+    "published_at": "Sat, 08 Aug 2026 15:25:58 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원에서 암호화폐 시장 구조 법안이 9월 초 중요한 표결 국면을 맞게 되면서, 미국 암호화폐 시장에 큰 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T15:53:36.508899+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "content": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "published_at": "Sat, 08 Aug 2026 15:25:38 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "브라질 중앙은행이 크립토 거래소에 대규모 해외 이체를 지연하도록 명령하는 등 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T15:53:36.903620+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "브라질, 일부 해외 암호화폐 이체에 24시간 보류 조치 명령",
+    "content": "브라질, 일부 해외 암호화폐 이체에 24시간 보류 조치 명령",
+    "url": "https://ns3.ai/ko/news/scpDU9ngK0",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "브라질이 일부 해외 암호화폐 이체에 24시간 보류 조치를 명령하는 것은 크립토 시장에 영향을 줄 수 있는重大한 뉴스이므로 8점을 부여한다.",
+    "collected_at": "2026-08-08T15:53:37.309337+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미 상원, CLARITY Act 절차 표결을 9월 15일로 예정",
+    "content": "미 상원, CLARITY Act 절차 표결을 9월 15일로 예정",
+    "url": "https://ns3.ai/ko/news/phOX40ocFR",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "미 상원이 규제 관련 법안 절차 표결을 예정하는 뉴스, 관련 주체가 국가 규제당국으로 파급 범위가 크고 확정성이 높음",
+    "collected_at": "2026-08-08T15:53:49.747585+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Thune, 종결토론 신청 후 9월 15일 CLARITY Act 절차 표결 추진",
+    "content": "Thune, 종결토론 신청 후 9월 15일 CLARITY Act 절차 표결 추진",
+    "url": "https://ns3.ai/ko/news/0F475xwbeo",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "규제 당국의 공식 결정과 관련된 뉴스, CLARITY Act는 크립토와 관련된 법안으로 파급력이 크다.",
+    "collected_at": "2026-08-08T15:54:20.631352+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "GSR: Most DAOs Hold Around 70% of Treasury Assets in Native Tokens, Creating Negative Feedback Loops",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": false,
     "reason": "SK하이닉스 선물 가격의 급락으로 발생한 청산 손실을 전액 보상하는 Trade.xyz의 결정은 시장을 흔드는 큰 사건으로, 하지만 시장 전체에 직접적인 영향을 주는 것은 아님",
     "collected_at": "2026-07-29T07:39:18.648006+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "연준 동결 전망 우세한데…시타델, FOMC 깜짝 인상 가능성 제기",
-    "content": "미국 연방준비제도(Fed)의 금리 결정을 앞두고 ‘깜짝 인상’ 가능성이 시장의 핵심 변수로 떠올랐다. 컨센서스는 동결에 무게가 실리지만, 일부 대형 투자사는 당일 인상 시나리오를 강하게 제기하며 긴장감을 키우고 있다.미국 최대 헤지펀드 중 하나인 시타델은 30일(현지시간) 연방공개시장위원회(FOMC)에서 기준금리가 25bp(0.25%포인트) 인상될 가능성에 대비해야 한다고 밝혔다. 이 경우 금리는 3.75~4.00% 구간으로 올라서게 된다. 반면 다수 시장 참여자들은 금리 동결을 예상한다. 크라켄 소속 이코노미스트 토마스 퍼퓨모는 “7월 회의의 가장 유력한 결과는 금리 변화 없음”이라고 짚었다.동결 전망 우세 속 ‘깜짝 인상’ 가능성시장...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382544",
-    "published_at": "Wed, 29 Jul 2026 05:49:15 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "미국 연방준비제도(Fed)의 금리 결정을 앞두고 '깜짝 인상' 가능성이 시장의 핵심 변수로 떠올랐으며, 시타델은 30일 연방공개시장위원회(FOMC)에서 기준금리가 25bp 인상될 가능성에 대비해야 한다고 밝혔다.",
-    "collected_at": "2026-07-29T07:40:11.825996+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "아시아 증시 급락에도 비트코인 상승…탈동조화 신호 커지나",
-    "content": "비트코인(BTC)이 아시아 증시 급락 속에서도 상승세를 유지하며 시장의 ‘탈동조화’ 가능성을 드러냈다.수요일(현지시각) 비트코인은 약 6만3,800달러(약 9,230만 원)까지 올라 1% 상승했다. 같은 시기 아시아 주식시장은 올해 들어 가장 큰 낙폭 중 하나를 기록했지만, 크립토 시장은 비교적 견조한 흐름을 보였다. 최근 7일 사이 인공지능(AI) 관련주 급락 국면에서도 비트코인이 버텨낸 것은 이번이 두 번째다.주요 알트코인도 동반 상승했다. 이더리움(ETH)은 1% 오른 1,899달러, 리플(XRP)은 2% 상승한 1.07달러를 기록했다. 바이낸스코인(BNB)은 567달러로 올랐고, 솔라나(SOL)는 73달러 선을 유지했다. 도지코인(DOGE) 역시 소폭...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382539",
-    "published_at": "Wed, 29 Jul 2026 05:39:51 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "비트코인이 아시아 증시 급락에도 상승하며 시장의 '탈동조화' 가능성을 드러내는 등 크립토 시장에 대한 중요한 뉴스",
-    "collected_at": "2026-07-29T07:41:07.154721+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 6만3800달러…반도체 급락에도 올랐다",
-    "content": "비트코인(BTC)이 한국 대표 지수의 이틀 연속 11% 하락 보도 속에서도 6만3800달러(약 8930만원) 부근으로 올랐다. 반도체주 급락이 아시아 증시 전반을 흔든 가운데 암호화폐 시장은 상대적으로 견조한 흐름을 보였다는 평가다.\n코인데스크는 29일 BTC가 1% 상승하며 6만4000달러(약 8960만원)선에 가까워졌다고 전했다. 같은 날 한국 대표 지수는 11% 하락했고, 전날에도 11% 밀린 것으로 전해졌다.\n충격은 반도체주에 집중됐다. SK하이닉스(000660)는 분기 순이익이 557% 증가했다고 발표했지만 시장 예상치를 밑돌며 주가가 약 17% 하락했다. 30일 실적 발표를 앞둔 삼성전자(005930)도 12% 내렸다.\nMSCI 아시아태평양지수는 2% 하락해...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382537",
-    "published_at": "Wed, 29 Jul 2026 05:37:31 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인이 반도체 급락에도 올랐다는 점과 암호화폐 시장의 상대적으로 견조한 흐름을 보인다는 평가가 나온다. 그러나 시장 전체를 흔들 정도의 큰 사건은 아니다.",
-    "collected_at": "2026-07-29T07:41:24.631417+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "모건스탠리, 이더리움·솔라나 ETP 동시 출시…최저 수수료 경쟁 본격화",
-    "content": "모건스탠리가 이더리움(ETH)과 솔라나(SOL) 기반 상장지수상품을 동시 출시하며 ‘최저 수수료’ 경쟁을 촉발했다. 스테이킹 보상까지 투자자에게 환원하는 구조로 시장 주도권 확대에 나선 모습이다.7월 28일 뉴욕증권거래소 아카(NYSE Arca)에서 모건스탠리 자산운용(MSIM)은 ‘모건스탠리 이더리움 트러스트(MSSE)’와 ‘모건스탠리 솔라나 트러스트(MSOL)’ 거래를 시작했다. 두 상품의 총보수는 각각 0.14%로, 미국 내 기존 이더리움·솔라나 상품 중 가장 낮은 수준이다. 앞서 이더리움 최저 수수료는 그레이스케일의 ‘미니 이더리움 트러스트’ 0.15%, 솔라나는 프랭클린템플턴의 ‘SOEZ’ 0.19%였다. 블룸버그 ETF 애널리스트 에릭 발추나스는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382534",
-    "published_at": "Wed, 29 Jul 2026 05:09:45 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 모건스탠리가 이더리움과 솔라나 ETP를 동시 출시하며 최저 수수료 경쟁을 촉발했다. 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-29T07:42:01.358109+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "DWF 랩스 “미 기술주와 함께 꺾인 비트코인… 규제 지연·FOMC 앞두고 숨고르기”",
-    "content": "[블록미디어 지승환 기자] 디지털자산(가상자산) 시장이 미국 기술주 하락과 맞물려 조정을 받으며 비트코인(BTC)의 4주 연속 상승세가 일단락됐다. 미 의회의 ‘클래리티 법안(CLARITY Act)’ 입법 차질 우려와 연방공개시장위원회(FOMC) 정례회의를 앞둔 경계감이 시장 전반에 작동한 것으로 풀이된다. 여기에 대규모 선물 강제 청산까지 겹치면서 시장이 가파른 숨고르기에 들어간 모양새다. 미 기술주와 동반 하락…비트코인 변동성 폭 감소 주목 글로벌 디지털자산 마켓메이커 및 투자사 DWF [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121460?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 06:25:23 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "미국의 기술주 하락과 맞물려 비트코인의 가격 변동이 조정되고, 클래리티 법안 입법 차질 우려와 FOMC 정례회의가 시장에 영향을 미치고 있다.",
-    "collected_at": "2026-07-29T07:43:31.449854+00:00"
   }
 ]

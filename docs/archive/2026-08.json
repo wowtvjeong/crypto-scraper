@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 상원, CLARITY 법안 표결 절차 착수…9월 규제 분수령 될까",
+    "content": "미국 상원 다수당 원내대표 존 튠이 ‘디지털 자산 시장 명확화법’(CLARITY Act)을 본회의에서 다루기 위한 ‘클로처’ 절차에 들어가면서, 미국 암호화폐 시장 구조 법안이 9월 초 중요한 표결 국면을 맞게 됐다. 다만 실제 통과까지는 여전히 넘어야 할 정치적 장벽이 적지 않다.9월 15일 재개 뒤 절차 표결…민주당 협조가 관건미 상원 일간 브리핑에 따르면 튠 원내대표는 CLARITY Act를 상원 본회의 심의 안건으로 올리기 위한 동의안에 대해 ‘클로처’를 신청했다. 상원이 9월 15일 재개한 뒤 표결이 이뤄질 가능성이 크다. ‘클로처’가 통과되려면 60표가 필요해 공화당만으로는 부족하고, 최소한 민주당 일부의 찬성이 필요하다.이번 조치는...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/387027",
+    "published_at": "Sat, 08 Aug 2026 15:25:58 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원에서 암호화폐 시장 구조 법안이 9월 초 중요한 표결 국면을 맞게 되면서, 미국 암호화폐 시장에 큰 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T15:53:36.508899+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "content": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+    "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+    "published_at": "Sat, 08 Aug 2026 15:25:38 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "브라질 중앙은행이 크립토 거래소에 대규모 해외 이체를 지연하도록 명령하는 등 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T15:53:36.903620+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "브라질, 일부 해외 암호화폐 이체에 24시간 보류 조치 명령",
+    "content": "브라질, 일부 해외 암호화폐 이체에 24시간 보류 조치 명령",
+    "url": "https://ns3.ai/ko/news/scpDU9ngK0",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "브라질이 일부 해외 암호화폐 이체에 24시간 보류 조치를 명령하는 것은 크립토 시장에 영향을 줄 수 있는重大한 뉴스이므로 8점을 부여한다.",
+    "collected_at": "2026-08-08T15:53:37.309337+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미 상원, CLARITY Act 절차 표결을 9월 15일로 예정",
+    "content": "미 상원, CLARITY Act 절차 표결을 9월 15일로 예정",
+    "url": "https://ns3.ai/ko/news/phOX40ocFR",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "미 상원이 규제 관련 법안 절차 표결을 예정하는 뉴스, 관련 주체가 국가 규제당국으로 파급 범위가 크고 확정성이 높음",
+    "collected_at": "2026-08-08T15:53:49.747585+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Thune, 종결토론 신청 후 9월 15일 CLARITY Act 절차 표결 추진",
+    "content": "Thune, 종결토론 신청 후 9월 15일 CLARITY Act 절차 표결 추진",
+    "url": "https://ns3.ai/ko/news/0F475xwbeo",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "규제 당국의 공식 결정과 관련된 뉴스, CLARITY Act는 크립토와 관련된 법안으로 파급력이 크다.",
+    "collected_at": "2026-08-08T15:54:20.631352+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "GSR: Most DAOs Hold Around 70% of Treasury Assets in Native Tokens, Creating Negative Feedback Loops",
