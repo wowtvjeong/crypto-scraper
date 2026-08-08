@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "비트코인 BIP-110 강제 신호 돌입…채굴자 지지 2.53%에 그쳐",
+    "content": "비트코인(BTC) 개선안 ‘BIP-110’이 강제 신호 단계에 들어갔지만, 채굴자 지지가 기준치에 한참 못 미치면서 사실상 초반부터 힘을 잃는 모습이다. 네트워크 규칙을 둘러싼 논쟁이 다시 수면 위로 떠오르며 ‘비트코인’의 블록 공간을 어떻게 써야 하는지에 대한 갈등도 커지고 있다.코인텔레그래프에 따르면 BIP-110은 토요일 블록 961,632에서 의무 신호 구간에 진입했다. 직전 2,016개 블록 가운데 신호를 보낸 채굴자는 51개에 불과해 지지율은 2.53%에 그쳤고, 조기 활성화에 필요한 55% 기준과는 큰 차이를 보였다.이 시점부터 BIP-110을 적용하는 노드는 버전 비트 4를 표시하지 않은 블록을 거부하기 시작했다. 반면 일반 비트코인...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387067",
+    "published_at": "Sat, 08 Aug 2026 21:40:53 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 개선안 BIP-110이 강제 신호 단계에 들어갔지만, 채굴자 지지가 기준치에 못 미치면서 초반부터 힘을 잃는 모습이다.",
+    "collected_at": "2026-08-08T21:53:00.812371+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "‘트럼프 연계’ AI파이낸셜, 주가 폭락 속 결제사업 헐값 매각",
+    "content": "[멕시코=심영재 특파원] 도널드 트럼프 미국 대통령 일가의 디지털자산(가상자산) 플랫폼과 거래한 뒤 시가총액 10억달러까지 치솟았던 핀테크 기업 AI파이낸셜이 핵심 결제사업을 약 1200만달러에 매각했다. 과거 알트5시그마로 알려졌던 이 회사의 주가는 지난해 8월 이후 90% 넘게 떨어졌다. 블룸버그는 8일(현지시각) 라스베이거스에 본사를 둔 AI파이낸셜이 결제사업 부문을 비상장회사 프라임델타에 매각했다고 보도했다. AI파이낸셜이 지난 7일 제출한 규제당국 공시에 따르면 거래는 현금과 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125718?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 21:50:42 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-08T21:53:11.742860+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+    "content": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+    "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 08 Aug 2026 21:17:08 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Bitcoin의 BIP-110이 miner 지원이 3% 미만으로 강제 신호화에 들어간다는 뉴스이며, 이에 대한 시장 반응과 hard-fork fallback에 대한 논의가 진행 중인 것으로 보아 시청자에게 유의미한 뉴스지만, 영향 범위가 아직 제한적임",
+    "collected_at": "2026-08-08T21:53:46.209221+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
     "content": "비트코인(BTC) 네트워크가 96만1632번째 블록에 도달하며 소프트포크 제안 BIP-110의 강제 신호 기간에 들어갔다. 채굴자 신호 지지율은 2.5%를 좀처럼 넘지 못해 활성화 기준인 55%에 크게 못 미치는 상태다.\n신호 구간이 열린 시각은 9일 오전 4시35분(한국시간)이다. 코인데스크는 오랫동안 예고돼온 강제 신호 기간이 이 블록에서 발동됐다고 전했다. BIP-110은 결제와 무관한 데이터가 비트코인 블록에 새겨지는 것을 한시적으로 억제하기 위해 제안된 소프트포크다.\n지지자들이 꺼내 든 카드는 사용자 강제 연성 분기(UASF)다. 채굴자의 동의를 기다리는 대신 이용자들이 노드 소프트웨어를 업데이트해, BIP-110 지지 신호를 담지 않은...  더보기",
     "url": "https://www.tokenpost.kr/news/blockchain/387059",

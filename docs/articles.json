@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "비트코인 BIP-110 강제 신호 돌입…채굴자 지지 2.53%에 그쳐",
+    "content": "비트코인(BTC) 개선안 ‘BIP-110’이 강제 신호 단계에 들어갔지만, 채굴자 지지가 기준치에 한참 못 미치면서 사실상 초반부터 힘을 잃는 모습이다. 네트워크 규칙을 둘러싼 논쟁이 다시 수면 위로 떠오르며 ‘비트코인’의 블록 공간을 어떻게 써야 하는지에 대한 갈등도 커지고 있다.코인텔레그래프에 따르면 BIP-110은 토요일 블록 961,632에서 의무 신호 구간에 진입했다. 직전 2,016개 블록 가운데 신호를 보낸 채굴자는 51개에 불과해 지지율은 2.53%에 그쳤고, 조기 활성화에 필요한 55% 기준과는 큰 차이를 보였다.이 시점부터 BIP-110을 적용하는 노드는 버전 비트 4를 표시하지 않은 블록을 거부하기 시작했다. 반면 일반 비트코인...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387067",
+    "published_at": "Sat, 08 Aug 2026 21:40:53 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 개선안 BIP-110이 강제 신호 단계에 들어갔지만, 채굴자 지지가 기준치에 못 미치면서 초반부터 힘을 잃는 모습이다.",
+    "collected_at": "2026-08-08T21:53:00.812371+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "‘트럼프 연계’ AI파이낸셜, 주가 폭락 속 결제사업 헐값 매각",
+    "content": "[멕시코=심영재 특파원] 도널드 트럼프 미국 대통령 일가의 디지털자산(가상자산) 플랫폼과 거래한 뒤 시가총액 10억달러까지 치솟았던 핀테크 기업 AI파이낸셜이 핵심 결제사업을 약 1200만달러에 매각했다. 과거 알트5시그마로 알려졌던 이 회사의 주가는 지난해 8월 이후 90% 넘게 떨어졌다. 블룸버그는 8일(현지시각) 라스베이거스에 본사를 둔 AI파이낸셜이 결제사업 부문을 비상장회사 프라임델타에 매각했다고 보도했다. AI파이낸셜이 지난 7일 제출한 규제당국 공시에 따르면 거래는 현금과 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125718?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 21:50:42 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-08T21:53:11.742860+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+    "content": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
+    "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 08 Aug 2026 21:17:08 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Bitcoin의 BIP-110이 miner 지원이 3% 미만으로 강제 신호화에 들어간다는 뉴스이며, 이에 대한 시장 반응과 hard-fork fallback에 대한 논의가 진행 중인 것으로 보아 시청자에게 유의미한 뉴스지만, 영향 범위가 아직 제한적임",
+    "collected_at": "2026-08-08T21:53:46.209221+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
     "content": "비트코인(BTC) 네트워크가 96만1632번째 블록에 도달하며 소프트포크 제안 BIP-110의 강제 신호 기간에 들어갔다. 채굴자 신호 지지율은 2.5%를 좀처럼 넘지 못해 활성화 기준인 55%에 크게 못 미치는 상태다.\n신호 구간이 열린 시각은 9일 오전 4시35분(한국시간)이다. 코인데스크는 오랫동안 예고돼온 강제 신호 기간이 이 블록에서 발동됐다고 전했다. BIP-110은 결제와 무관한 데이터가 비트코인 블록에 새겨지는 것을 한시적으로 억제하기 위해 제안된 소프트포크다.\n지지자들이 꺼내 든 카드는 사용자 강제 연성 분기(UASF)다. 채굴자의 동의를 기다리는 대신 이용자들이 노드 소프트웨어를 업데이트해, BIP-110 지지 신호를 담지 않은...  더보기",
     "url": "https://www.tokenpost.kr/news/blockchain/387059",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "그레이스케일 CEO가 XRP 현물 ETF 지분을 매각하는 것은 시장 불확실성과 관련된 중요한 뉴스이며, 연준의 금리 결정과 CLARITY Act 처리 지연도 관련된 주요 요소로 평가된다.",
     "collected_at": "2026-07-29T14:47:38.143541+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "‘금리인상 35%’ 7월 FOMC…비트코인, 워시 입에 쏠린 눈",
-    "content": "[멕시코=심영재 특파원] 미국 연방준비제도(Fed·연준)의 7월 연방공개시장위원회(FOMC) 회의가 비트코인(BTC)을 비롯한 디지털자산(가상자산) 시장의 단기 방향을 결정할 최대 변수로 떠올랐다. 시장은 이번 회의에서 경제전망과 점도표가 공개되지 않음에도 금리 인상 가능성과 제롬 파월 후임인 케빈 워시 의장의 정책 기조에 주목하고 있다. 29일(현지시각) 연준은 이날 미 동부시간 기준으로 오후 2시 기준금리를 발표한 뒤 오후 2시30분 케빈 워시 의장의 기자회견을 진행한다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122021?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 14:00:08 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "FOMC 회의와 케빈 워시 의장의 정책 기조에 대한 관심이 비트코인 시장에 큰 영향을 줄 수 있기 때문에 8점을 부여한다.",
-    "collected_at": "2026-07-29T14:47:56.796471+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "러시아, 텔레그램 두로프 수배령…GRAM 3%대 급락(종합)",
-    "content": "[멕시코=심영재 특파원] 러시아 연방보안국(FSB)이 텔레그램 창업자 겸 최고경영자(CEO) 파벨 두로프를 테러 지원 혐의로 기소하고 국제수배 대상에 올렸다고 밝혔다. 러시아는 텔레그램이 우크라이나 정보기관이 활용한 채널과 봇을 방치해 테러와 사보타주에 이용됐다고 주장했다. 관련 소식이 전해지자 GRAM(그램·옛 톤코인) 가격은 급락하고 파생상품 시장에서도 매도세가 확대됐다. 지난 28일(현지시각) 러시아 연방보안국(FSB)은 파벨 두로프를 테러 활동 지원 혐의로 기소하고 국제수배를 결정했다고 러시아 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122016?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 13:44:13 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "텔레그램 창업자 겸 최고경영자 파벨 두로프가 테러 지원 혐의로 기소되어 국제수배 대상이 된 것으로 밝혀졌고, 그램 가격이 급락하는 등 파급력이 크다.",
-    "collected_at": "2026-07-29T14:48:15.520954+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "우선순위 밀린 미 클래리티법…통과 확률 27% 급락",
-    "content": "[멕시코=심영재 특파원] 미국 디지털자산(가상자산) 시장의 핵심 입법으로 꼽히는 클래리티(CLARITY)법안이 또다시 상원 일정에서 밀리며 연내 처리 가능성이 크게 낮아졌다. 예측시장에서는 법안 통과 가능성이 역대 최저 수준으로 떨어졌지만, 공화·민주 양당 의원들은 윤리 조항을 둘러싼 절충안을 마련해 백악관에 전달할 예정이어서 협상은 이어지고 있다. 29일(현지시각) 미국 상원은 러시아 제재 법안과 연방정부 인사 인준을 우선 처리하면서 클래리티법안 심의를 뒤로 미뤘다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122014?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 13:23:10 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "미국 디지털자산 시장의 핵심 입법으로 꼽히는 클래리티법안이 연내 처리 가능성이 크게 낮아졌고, 협상은 이어지고 있지만, 아직 시장 전체에 직접적인 영향을 주는 결정은 나지 않았다.",
-    "collected_at": "2026-07-29T14:48:33.390158+00:00"
   }
 ]
