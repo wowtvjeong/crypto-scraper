@@ -1,5 +1,41 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "블랙록, 이번 주 비트코인 7320개 매집",
+    "content": "[블록미디어 이정화 기자] 블랙록이 운용 중인 비트코인 ETF(상장지수펀드)를 통해 이번 주 총 7320개 비트코인을 매입했다. 7일(현지시각) 온체인 렌즈(ONCHAIN LENS)에 따르면 블랙록의 비트코인 ETF(IBIT)는 이날 코인베이스 프라임(Coinbase Prime)에서 1840개 비트코인을 인출했다. 해당 인출을 포함한 이번 주 누적 매집 규모는 7320개로 집계됐다. 블랙록의 지속적 매집은 기관 수요가 견조하다는 신호로 해석된다. 단기 가격 영향은 유동성, 매도 압력 및 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125546?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 00:40:48 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "블랙록의 지속적 매집은 기관 수요가 견조하다는 신호로 해석되며, 이는 크립토 시장에 영향을 줄 수 있는 뉴스입니다.",
+    "collected_at": "2026-08-08T00:51:45.288531+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“클래리티가 비트코인을 움직인다” …주말 ‘워싱턴 비공개 협상’ 주목해야",
+    "content": "[블록미디어 이정화 기자] 미국 상원에서 클래리티 법안 심사는 9월로 연기됐다. 그러나 이번 주말 워싱턴에서 벌어질 물밑 협상이 비트코인 가격을 크게 움직일 수 있다는 분석이 나왔다. 7일(현지시각) 비인트립토와 엘리노아 테렛 코인 전문 기자에 따르면 상원의 공식 휴가가 시작되는 월요일까지 공화당과 민주당 간에 비공개 협상이 진행될 가능성이 높다. 🚨NEW: Leader Thune’s office is telling crypto industry leaders [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125538?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 00:00:59 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "클래리티 법안과 관련된 워싱턴 비공개 협상이 비트코인 가격을 크게 움직일 수 있다는 분석이 나왔다는 점",
+    "collected_at": "2026-08-08T00:52:04.724912+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "브라질, 1만 달러 초과 가상자산 송금에 24시간 지연 도입 계획",
+    "content": "브라질, 1만 달러 초과 가상자산 송금에 24시간 지연 도입 계획",
+    "url": "https://ns3.ai/ko/news/3bfEGO7GQm",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "브라질이 1만 달러 초과 가상자산 송금에 24시간 지연 도입 계획을 발표함으로써, 크립토 시장 전반에 영향을 줄 수 있는重大 뉴스가 발표되었습니다.",
+    "collected_at": "2026-08-08T00:53:08.886062+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "서클 7% 급등, 은행 인가와 Arc 메인넷 출시 기대에 투자자 집중",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "아세안 전역에 단일 가상자산 라이선스를 적용하는 '패스포팅' 체계를 공개 지지하며 규제 혁신 필요성을 강조했다는 점에서 크립토 업계 전반에 큰 영향을 줄 가능성이 있다.",
     "collected_at": "2026-07-28T12:23:42.674320+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[속보] 메타 채권 금리 급등, 빅테크 투자 수익성 경고등",
-    "content": "[블록미디어 이정화 기자] AI 인프라 투자를 위한 자본 수요가 폭발적으로 증가하면서 미국 기술 기업들의 조금 조달 비용이 가파르게 상승하고 있다. 월스트리트저널에 따르면 메타의 경우 125억달러 규모의 채권에 10년만기 국채에 2.875%의 가산 금리가 붙었다. 지난해 유사한 자금 조달 사례보다 월등히 높은 금리다.",
-    "url": "https://www.blockmedia.co.kr/archives/1121505?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 28 Jul 2026 12:17:49 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "메타 채권 금리 급등, 빅테크 투자 수익성 경고등은 미국 기술 기업들의 자본 수요 증가와 관련된 뉴스이지만, 크립토와 직접적인 관련이 없고, 빅테크 기업의 투자 수익성 경고등은 크립토 시장에 미치는 직접적인 영향이 없는 일반적인 뉴스이므로 8점을 부여한다.",
-    "collected_at": "2026-07-28T12:24:17.902649+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "비트코인 3만9000달러까지 밀릴까…전문가들 “10월 바닥 가능성” 잇단 경고",
-    "content": "[블록미디어 이정화 기자] 비트코인이 단기 반등 이후 다시 큰 폭의 조정을 거쳐 3만달러 후반까지 하락할 수 있다는 전망이 잇따르고 있다. 일부 시장 전문가들은 현재 투자심리가 과거 약세장 막바지와 유사하다며 10월을 전후해 최종 바닥을 형성할 가능성을 제기했다. 반면 일각에서는 금리와 경기 여건이 개선될 경우 이미 저점을 통과했을 수 있다는 반론도 나오면서 시장의 전망이 엇갈리고 있다. “단기 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121422?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 28 Jul 2026 12:09:51 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인의 가격이 하락할 수 있다는 전망이 잇따르고 있으며, 일부 전문가들은 10월을 전후해 최종 바닥을 형성할 가능성을 제기했다.",
-    "collected_at": "2026-07-28T12:24:35.234100+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation",
-    "content": "Hyperliquid Community Addresses SK Hynix Perp Anomaly: Deployed by XYZ and Under Investigation\nHyperliquid’s xyz:SKHYNIX perpetual contract briefly fell 17.9% after an anomalous pre-market trade in South Korea’s NXT market priced one SK Hynix share at KRW 1.272 million, triggering a roughly 30% move and a trading halt in the underlying market. The Hyperliquid contract followed the move through its oracle, while Binance prices also declined amid cross-market arbitrage before later recovering.\nA Hyperliquid team member said the contract was deployed and operated by third-party team XYZ, which is investigating the incident. Under HIP-3, independent deployers are responsible for key mark-price, oracle and external price inputs for their markets. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25318",
-    "published_at": "2026-07-28T09:18:04+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 프로젝트인 Hyperliquid의 계약이 비정상적인 거래로 인해 가격이 급락하고, 이에 대한 조사 중인 사건이 보고되었다.",
-    "collected_at": "2026-07-28T10:23:52.450084+00:00"
   }
 ]
