@@ -1,5 +1,77 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인·이더리움 ETF, 4월 이후 가장 강한 한 주에 거의 11억 달러 유입",
+    "content": "비트코인·이더리움 ETF, 4월 이후 가장 강한 한 주에 거의 11억 달러 유입",
+    "url": "https://ns3.ai/ko/news/Oc34qg0x2m",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "비트코인·이더리움 ETF의 유입금액이 4월 이후 가장 강한 한 주에 거의 11억 달러로 증가한 것으로 나타났다. 이는 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이다.",
+    "collected_at": "2026-08-08T19:06:11.198657+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "9월 15일 표결 앞두고 톤, 클래리티법에 대한 클로처 신청",
+    "content": "9월 15일 표결 앞두고 톤, 클래리티법에 대한 클로처 신청",
+    "url": "https://ns3.ai/ko/news/CyORYtIEsO",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "클로처 신청은 규제의 변화에 대한 중요한 신호로 간주되며, 톤, 클래리티법은 크립토 시장에 큰 영향을 미치는 법률입니다.",
+    "collected_at": "2026-08-08T19:06:11.851057+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "US Senate Set to Advance CLARITY Act on Sept. 15 After Thune Files Cloture",
+    "content": "US Senate Set to Advance CLARITY Act on Sept. 15 After Thune Files Cloture",
+    "url": "https://coinmarketcap.com/community/articles/6a777b879ef92b1fe75a4712/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "CLARITY Act는 크립토와 관련된 법안으로, US Senate에서 심의될 예정이며, cloture를 filed한 Thune의 움직임은 이 법안의 진행을 앞당기는 데 영향을 미칠 것으로 보인다.",
+    "collected_at": "2026-08-08T19:06:12.251598+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Security Flaw in Coldcard Seed Phrase Puts Thousands of Bitcoin Wallets at Risk",
+    "content": "Security Flaw in Coldcard Seed Phrase Puts Thousands of Bitcoin Wallets at Risk",
+    "url": "https://coinmarketcap.com/community/articles/6a77792f1f148e4ef5bf16d8/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대규모 비트코인 지갑이 위험에 처한 보안 결함에 대한 뉴스",
+    "collected_at": "2026-08-08T19:07:20.187612+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "BitMEX Shutdown Follows Failed Sale Talks With Exchanges…",
+    "content": "BitMEX Shutdown Follows Failed Sale Talks With Exchanges…",
+    "url": "https://coinmarketcap.com/community/articles/6a77792f1f148e4ef5bf16d6/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 BitMEX의 폐쇄와 관련된 뉴스, 여러 자산·시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T19:07:35.567964+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "US court freezes $30.5 million in Bybit hack case as asset recovery expands",
+    "content": "US court freezes $30.5 million in Bybit hack case as asset recovery expands",
+    "url": "https://coinmarketcap.com/community/articles/6a7776d51f148e4ef5bf16d4/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Bybit의 해킹 사고와 관련된 30.5만 달러의 자산이 미국 법원에서凍結되었다는 뉴스, 관련 주체의 규모와 파급 범위가 크고 확정성이 높아",
+    "collected_at": "2026-08-08T19:07:50.984224+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Senate Majority Leader Thune Files Cloture on Clarity Act, Setting Up September Vote",

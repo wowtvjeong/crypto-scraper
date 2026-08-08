@@ -1,5 +1,77 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인·이더리움 ETF, 4월 이후 가장 강한 한 주에 거의 11억 달러 유입",
+    "content": "비트코인·이더리움 ETF, 4월 이후 가장 강한 한 주에 거의 11억 달러 유입",
+    "url": "https://ns3.ai/ko/news/Oc34qg0x2m",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "비트코인·이더리움 ETF의 유입금액이 4월 이후 가장 강한 한 주에 거의 11억 달러로 증가한 것으로 나타났다. 이는 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이다.",
+    "collected_at": "2026-08-08T19:06:11.198657+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "9월 15일 표결 앞두고 톤, 클래리티법에 대한 클로처 신청",
+    "content": "9월 15일 표결 앞두고 톤, 클래리티법에 대한 클로처 신청",
+    "url": "https://ns3.ai/ko/news/CyORYtIEsO",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "클로처 신청은 규제의 변화에 대한 중요한 신호로 간주되며, 톤, 클래리티법은 크립토 시장에 큰 영향을 미치는 법률입니다.",
+    "collected_at": "2026-08-08T19:06:11.851057+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "US Senate Set to Advance CLARITY Act on Sept. 15 After Thune Files Cloture",
+    "content": "US Senate Set to Advance CLARITY Act on Sept. 15 After Thune Files Cloture",
+    "url": "https://coinmarketcap.com/community/articles/6a777b879ef92b1fe75a4712/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "CLARITY Act는 크립토와 관련된 법안으로, US Senate에서 심의될 예정이며, cloture를 filed한 Thune의 움직임은 이 법안의 진행을 앞당기는 데 영향을 미칠 것으로 보인다.",
+    "collected_at": "2026-08-08T19:06:12.251598+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Security Flaw in Coldcard Seed Phrase Puts Thousands of Bitcoin Wallets at Risk",
+    "content": "Security Flaw in Coldcard Seed Phrase Puts Thousands of Bitcoin Wallets at Risk",
+    "url": "https://coinmarketcap.com/community/articles/6a77792f1f148e4ef5bf16d8/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대규모 비트코인 지갑이 위험에 처한 보안 결함에 대한 뉴스",
+    "collected_at": "2026-08-08T19:07:20.187612+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "BitMEX Shutdown Follows Failed Sale Talks With Exchanges…",
+    "content": "BitMEX Shutdown Follows Failed Sale Talks With Exchanges…",
+    "url": "https://coinmarketcap.com/community/articles/6a77792f1f148e4ef5bf16d6/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 BitMEX의 폐쇄와 관련된 뉴스, 여러 자산·시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-08T19:07:35.567964+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "US court freezes $30.5 million in Bybit hack case as asset recovery expands",
+    "content": "US court freezes $30.5 million in Bybit hack case as asset recovery expands",
+    "url": "https://coinmarketcap.com/community/articles/6a7776d51f148e4ef5bf16d4/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Bybit의 해킹 사고와 관련된 30.5만 달러의 자산이 미국 법원에서凍結되었다는 뉴스, 관련 주체의 규모와 파급 범위가 크고 확정성이 높아",
+    "collected_at": "2026-08-08T19:07:50.984224+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Senate Majority Leader Thune Files Cloture on Clarity Act, Setting Up September Vote",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Hungary의 금융당국이 크립토 거래에 대한 검증 규제를 폐지하고, CoinCash가 MiCA 라이센스를 획득하여 크립토 거래에 대한 규제를 받는 최초의 회사가 되었다는 뉴스",
     "collected_at": "2026-07-29T10:29:45.546121+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미국의 중국산 로봇 수입 제한, 한국 로봇주 오름세로 반영",
-    "content": "미국의 외국산 로봇 수입 제한 발표 이후 29일 국내 로봇 관련 종목은 증시 전반의 약세 속에서도 오름세로 마감했다. 시장에서는 이번 조치가 사실상 중국산 로봇을 겨냥한 것으로 해석되면서, 한국 기업이 미국 시장에서 반사이익을 얻을 수 있다는 기대가 주가에 반영된 것으로 보고 있다.이날 코스닥시장에서 레인보우로보틱스는 전장보다 2.5% 오른 41만500원에 거래를 마쳤다. 현대무벡스는 12.47%, 에스피지는 20.29%, 코스모로보틱스는 5.29% 상승했고, 일부 중소형 로봇주는 가격제한폭까지 오르며 장을 끝냈다. 로봇주는 장중 한때 코스피와 코스닥의 전반적인 하락 흐름에 밀려 상승폭이 줄거나 약세로 돌아서기도 했지만, 오후...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/382623",
-    "published_at": "Wed, 29 Jul 2026 10:16:38 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "미국이 중국산 로봇 수입을 제한하는 조치로 인해 한국 로봇주가 오름세를 보인 것으로 보아, 크립토와 관련이 없지만 관련 산업에 대한 뉴스이기 때문에 7.5점을 부여한다.",
-    "collected_at": "2026-07-29T10:29:45.874558+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "토큰화 자산 66억 달러…거래소가 증권사 넘본다",
-    "content": "주요 암호화폐 거래소에서 거래되는 토큰화 전통자산 시가총액이 2026년 6월 66억 달러(약 9조2000억원)로 늘었다. 주식과 금, 원자재가 코인 거래소의 새 경쟁 상품으로 올라서고 있다는 분석이다.\n암호화폐 데이터 업체 코인게코는 29일 토큰화 전통자산 시장 보고서를 공개했다. 보고서에서 집계한 시가총액은 2025년 1월 14억 달러(약 1조9000억원)였고, 이후 18개월 만에 5배 가까이 확대됐다. 조사 대상은 바이낸스, 오케이엑스, 바이비트, 비트겟, 게이트, MEXC 등 주요 중앙화 거래소 6곳이다.\n대상 자산은 귀금속, 미국 주식, 원자재, 글로벌 지수, 외환 등이다. 초기 성장은 금과 은 같은 토큰화 귀금속이 이끌었다. 그러나 2026년...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382622",
-    "published_at": "Wed, 29 Jul 2026 10:15:39 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소와 주요 자산의 시가총액이 5배 가까이 증가하는 큰 폭의 가격 변동을 보인다는 분석이 나왔고, 거래소가 증권사와 경쟁하는 새로운 경쟁 상품으로 올라서고 있다는 점이 시장 전체에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-29T10:29:46.339528+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "바이낸스, 금·은 옵션 출시…크립토 플랫폼서 전통자산 거래 확대",
-    "content": "암호화폐 거래소 바이낸스가 금과 은 옵션 상품을 출시하며 ‘전통자산’ 거래를 본격 확대하고 있다. 금 가격 상승과 인플레이션 헤지 수요가 맞물리면서, 크립토 투자자들의 관심이 빠르게 이동하는 흐름이다.세계 최대 거래소 바이낸스는 7월 30일(현지시간) 금과 은을 기초자산으로 한 옵션 거래를 공식 도입했다. 해당 상품은 아부다비 글로벌 마켓(ADGM)의 규제를 받는 네스트 익스체인지 리미티드(Nest Exchange Limited)를 통해 제공되며, 올해 1월부터 거래된 금·은 무기한 선물의 강한 수요를 기반으로 출시됐다.바이낸스의 셔니엣 잔(Shunyet Jan) 거래 책임자는 “금이 사상 최고가를 경신하고 전통 주식 외 헤지 수단을 찾는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382619",
-    "published_at": "Wed, 29 Jul 2026 10:10:11 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "바이낸스에서 금·은 옵션 상품을 출시하며 전통자산 거래를 확대하고 있으며, 크립토 투자자들의 관심이 빠르게 이동하는 흐름이다. 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-29T10:30:21.116100+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "홍콩 거래 허용된 XRP…1.09달러 돌파 여부 주목",
-    "content": "XRP가 1달러 선을 지키며 반등 흐름을 이어가는 가운데, 홍콩 규제 호재가 추가 상승의 ‘불씨’로 작용하고 있다. 다만 상승 지속 여부는 실제 매수세 유입에 달렸다는 분석이 나온다.홍콩 최초의 개인 투자자 대상 라이선스 암호화폐 거래소인 OSL HK는 공식 채널을 통해 자사 ‘플래시 트레이드’ 플랫폼에서 리플(XRP)의 달러 거래를 지원한다고 밝혔다. OTC 시장에서도 XRP/USD와 XRP/HKD 거래가 가능하다. 이로써 리플은 비트코인(BTC), 이더리움(ETH), 솔라나(SOL)와 함께 해당 규제 거래소에서 개인 거래가 허용된 자산군에 포함됐다.이번 조치는 단순 상장을 넘어선 의미를 가진다. 홍콩은 디지털 자산 규제 체계를 갖춘 아시아 핵심 금융...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382618",
-    "published_at": "Wed, 29 Jul 2026 10:09:53 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "홍콩 거래 허용된 XRP의 의미가 크고, 여러 매체가 동시에 다룰 만한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-29T10:30:39.484891+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "바이비트, 최고등급 MMF 토큰 담보…당일 결제 시험한다",
-    "content": "바이비트가 최고 신용등급 머니마켓펀드(MMF)를 기초자산으로 한 토큰을 거래 담보로 받기로 했다. 전통 금융의 단기 유동성 상품을 암호화폐 거래소 증거금 체계에 연결하는 시도다.\n바이비트는 29일 두바이에서 핀루프와 협력해 핀루프 USD 인스턴트 디지털 리퀴디티(FUIDL)를 자사 플랫폼에 도입한다고 밝혔다. FUIDL은 달러 유동성을 토큰 형태로 담은 상품으로, 바이비트는 이를 거래용 담보로 인정할 계획이다.\nFUIDL의 기초자산인 달러 유동성 펀드는 스탠더드앤드푸어스(SP)로부터 AAAm, 무디스로부터 Aaa-mf, 피치로부터 AAAmmf 등급을 각각 받았다. 세 등급 모두 MMF에 부여되는 최상위 등급이다. MMF는 국채나 초단기 채권처럼...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382612",
-    "published_at": "Wed, 29 Jul 2026 09:44:41 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "바이비트가 최고 신용등급 MMF 토큰을 거래 담보로 받기로 한 뉴스, 대형 거래소와 유명 금융 기관의 협력",
-    "collected_at": "2026-07-29T10:31:53.164155+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "이더리움 ETF로 자금 쏠림…비트코인서 빠진 기관 머니, 재배치 신호일까",
-    "content": "이더리움(ETH) 현물 ETF에 자금이 몰리고 비트코인(BTC) ETF에서는 자금이 빠져나가면서, 기관 자금의 ‘이동’이 일시적 순환인지 구조적 변화인지에 관심이 쏠린다.28일(현지시간) 룩온체인(Lookonchain)이 코인글래스 데이터를 인용해 분석한 결과에 따르면 최근 7일간 이더리움(ETH) ETF에는 총 3만7959 ETH, 약 7117만 달러(약 1033억 원)가 순유입됐다. 반면 같은 기간 비트코인(BTC) ETF에서는 3170 BTC, 약 2억23만 달러(약 2906억 원)가 순유출됐다. 이로써 ETH ETF는 3주 연속 순유입을 기록했다.블랙록 ETF가 흐름 주도…자금 쏠림 뚜렷세부적으로 보면 자금 흐름은 특정 상품에 강하게 집중됐다. 블랙록의 비트코인 ETF ‘아이셰어즈...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382611",
-    "published_at": "Wed, 29 Jul 2026 09:39:53 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 ETF에 자금이 몰리고 비트코인 ETF에서는 자금이 빠져나가는 등 기관 자금의 이동이 구조적 변화인지에 관심이 쏠리는 등 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-29T10:32:11.646361+00:00"
   }
 ]
