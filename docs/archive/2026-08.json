@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "美 상원 클래리티 법안 9월로…스테이블코인 이자가 최대 쟁점",
+    "content": "미국 상원이 가상자산 규제의 핵심 법안인 ‘클래리티 법안(CLARITY Act)’ 처리를 8월 휴회 전에는 마무리하지 않기로 했다. 다만 법안이 폐기된 것은 아니며, 존 튠 상원 공화당 원내대표는 휴회 전 ‘클로처(cloture)’를 걸어 9월 본회의 표결로 넘기겠다는 뜻을 업계에 전달한 것으로 알려졌다. 13일(현지시간) 엘리너 텔럿에 따르면, 남은 관건은 공화당이 상원 통과에 필요한 60표를 확보할 수 있느냐다.‘클로처’ 절차는 시작됐지만, 아직은 60표가 관문‘클로처’는 토론을 끝내고 법안 심사로 넘어가기 위한 절차일 뿐, 통과를 의미하지 않는다. 서명 자체에는 상원 의원 16명의 동의가 필요하고, 실제 표결에서는 60표가 있어야 토론 종결이...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/386938",
+    "published_at": "Sat, 08 Aug 2026 05:26:06 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원이 가상자산 규제의 핵심 법안인 '클래리티 법안'을 9월 본회의 표결로 넘기겠다는 뜻을 업계에 전달했다. 이는 대형 거래소·기관의 중대 발표와 유사한 파급력을 가질 수 있다.",
+    "collected_at": "2026-08-08T06:03:39.794248+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "이더리움, 핵심 지지선 회복…”기관 매수세로 5000달러 재도전”",
+    "content": "[블록미디어 이정화 기자] 이더리움(ETH)이 1900달러 선에 안착하며 주요 기술적 지지선을 되찾았다. 기관 투자자들의 매집이 꾸준히 이어지면서 5000달러 재도전 가능성에 대한 기대감이 커지고 있다. 전문가들은 이더리움이 장기적으로 강력한 상승 흐름을 구축하고 있다고 분석한다. 8일 오후 2시 현재 현재 이더리움은 지난 한 달간 약 9퍼센트 상승하며 1900달러 안팎에서 거래되고 있다. 이는 지난 2025년 8월 기록했던 사상 최고가인 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125554?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 05:19:51 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이더리움의 기술적 지지선 회복과 기관 투자자들의 매집으로 5000달러 재도전 가능성에 대한 기대감이 커지고 있다.",
+    "collected_at": "2026-08-08T06:03:40.062654+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "익명의 고래, 코인베이스에서 5,720만 달러 상당의 ETH 출금",
+    "content": "익명의 고래, 코인베이스에서 5,720만 달러 상당의 ETH 출금",
+    "url": "https://ns3.ai/ko/news/BV4KgZEGmW",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 소식이 있으나, 특정 고래의 출금에 대한 소식으로 시청자에게 부수적인 정보",
+    "collected_at": "2026-08-08T06:03:40.861506+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "익명 지갑, 갤럭시 디지털에서 8,730만 달러 상당 비트코인 인출",
+    "content": "익명 지갑, 갤럭시 디지털에서 8,730만 달러 상당 비트코인 인출",
+    "url": "https://ns3.ai/ko/news/Eaapn2Hc3A",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "갤럭시 디지털에서 비트코인 인출이 발생했지만, 인출한 비트코인의 수령 주체는 익명으로 밝혀지지 않았기 때문에, 시장 전체에 큰 영향을 미치지 않는 소식으로 평가됩니다.",
+    "collected_at": "2026-08-08T06:03:42.263171+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "XRPL, 기관을 위한 기밀 전송 제안 공개",
+    "content": "XRPL, 기관을 위한 기밀 전송 제안 공개",
+    "url": "https://ns3.ai/ko/news/5Ti56wzaK1",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "XRPL이 기관을 위한 기밀 전송 제안을 공개하는 것은 업계 전반에 주목할 만한 뉴스이며, XRPL의 발전과 확대에 대한 중요한 시그널이다.",
+    "collected_at": "2026-08-08T06:04:31.458533+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "EU, 역외 스테이블코인 발행사에 대한 MiCA 규정 재검토 착수",
+    "content": "EU, 역외 스테이블코인 발행사에 대한 MiCA 규정 재검토 착수",
+    "url": "https://ns3.ai/ko/news/4YppbVzJSg",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "EU의 MiCA 규정 재검토는 크립토 시장에 큰 영향을 줄 수 있는 대규모 규제 변경에 대한 시사점이 있어, 관련 주체의 규모와 파급 범위가 높아 점수가 높게 매겨집니다.",
+    "collected_at": "2026-08-08T06:05:05.516178+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "U.S. Spot Bitcoin ETFs Record $98.85M in Net Inflows, Extend Streak to Five Days",
