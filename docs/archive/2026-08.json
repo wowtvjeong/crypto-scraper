@@ -1,5 +1,29 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "프랑스, 48개국과 디지털자산 정보 자동 공유 추진…역외 탈세 차단",
+    "content": "[멕시코=심영재 특파원] 프랑스가 디지털자산(가상자산) 이용자의 거래와 신원 정보를 48개국과 자동으로 교환하는 법안을 추진한다. 경제협력개발기구(OECD)가 마련한 디지털자산 보고체계(CARF)를 국내법으로 도입해 역외 탈세를 막겠다는 취지다. 8일(현지시각) 비트코인닷컴에 따르면 장 노엘 바로 프랑스 유럽·외교부 장관은 지난달 17일 상원에 법안 921호를 제출했다. 법안은 CARF에 따라 디지털자산 거래정보를 다자간 자동 교환하는 체계를 프랑스 법률에 반영하는 내용을 담고 있다. CARF는 디지털자산 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125720?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 22:03:33 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "48개국과 자동으로 디지털자산 거래 정보를 교환하는 법안이 프랑스에서 추진되고 있으며, 역외 탈세 차단을 목적으로 한다. 이는 대형 거래소·기관의 중대 발표와 유사한 파급력을 가지고 있다.",
+    "collected_at": "2026-08-08T22:17:26.455529+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "프랑스, 48개국과 디지털자산 정보 자동 공유 추진…역외 탈세 차단",
+    "content": "프랑스, 48개국과 디지털자산 정보 자동 공유 추진…역외 탈세 차단",
+    "url": "https://www.blockmedia.co.kr/archives/1125720?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 규제 동향이 언급되며, 여러 국가가 참여하는 국제 협력의 결과로 파급력이 크다.",
+    "collected_at": "2026-08-08T22:17:32.977247+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트코인 BIP-110 강제 신호 돌입…채굴자 지지 2.53%에 그쳐",
