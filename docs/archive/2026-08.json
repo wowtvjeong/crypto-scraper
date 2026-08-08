@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "GSR: Most DAOs Hold Around 70% of Treasury Assets in Native Tokens, Creating Negative Feedback Loops",
+    "content": "GSR: Most DAOs Hold Around 70% of Treasury Assets in Native Tokens, Creating Negative Feedback Loops\nAccording to the report from GSR, crypto treasury management has major structural flaws. Most DAOs hold around 70% of their treasury assets in their own native tokens, causing treasury value, protocol revenue, and market activity to decline simultaneously and creating a procyclical negative feedback loop. Projects often seek hedging only after token prices fall, when implied volatility has already risen and protection becomes costly. The report recommends separating operational reserves from long-term holdings and using collar structures to obtain downside protection at zero cost, extending projects’ runway during bear markets. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25478",
+    "published_at": "2026-08-08T15:12:07+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "DAO의 자산 관리 구조적 결함에 대한 보고서와, 이를 개선하기 위한 추천 사항이 포함되어 있어 크립토 업계 전반에 영향을 줄 수 있는 뉴스",
+    "collected_at": "2026-08-08T15:19:39.654349+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 콜드카드 난수 결함으로 비트코인 1080개 탈취 外",
+    "content": "비트코인 하드웨어 지갑 콜드카드, 난수 발생기 결함으로 41분 만에 뚫렸다.\n2021년 펌웨어 업데이트 후 개인키 생성 경우의 수가 약 40억 가지로 줄면서 공격자가 기기에 손대지 않고 비트코인 1080개를 탈취했다. 손실액은 7000만~8860만 달러(약 988억~1251억원)로 추산됐다.\n미국 연준 9월 기준금리 인상 확률이 55%에서 44%로 급락했다.\n호르무즈 해협 통항 재개 기대에 국제유가가 내려앉고 미국 7월 비농업 고용이 예상을 밑돌면서 금리 인상 전망이 한 주 만에 후퇴했다. 다음 주에는 7월 소비자물가지수와 생산자물가지수가 발표된다.\n한 고래 주소가 이더리움 2만5000개를 34시간에 걸쳐 분할 매수했다.\n포지션 규모는 약 4650만...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/387020",
+    "published_at": "Sat, 08 Aug 2026 15:04:11 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 하드웨어 지갑 콜드카드의 난수 발생기 결함으로 1080개가 탈취된 사건이 발생하여, 크립토 시장에 큰 파급력을 미친다. 또한, 미국 연준의 기준금리 인상 확률이 급락하여 금리 인상 전망이 후퇴했다.",
+    "collected_at": "2026-08-08T15:19:40.827301+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture",
+    "content": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
+    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 08 Aug 2026 15:08:06 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 구조 법안에 대한 투표가 예정되어 있어 시장에 영향을 줄 수 있는 중요한 뉴스",
+    "collected_at": "2026-08-08T15:19:58.253067+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
