@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "content": "[블록미디어 이정화 기자] 비트와이즈(Bitwise) 최고투자책임자(CIO) 맷 호건은 비트코인에 수조 달러 규모의 기관 자금이 유입될 것으로 전망했다. 그는 전 세계적으로 운용되는 대규모 자본 풀이 최대 200조 달러에 달하며, 이 중 단 1%만 비트코인으로 전환되어도 엄청난 장기적 성장을 견인할 수 있다고 강조했다. 글로벌 자본 200조달러…1% 유입 시 파급력 8일(현지시각) 맷 호건 비트와이즈 CIO는 코인데스크와의 인터뷰에서 금융 자문사, [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125688?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 14:16:47 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중견 발표, 유의미한 규제 동향, 큰 폭의 가격 변동에 영향을 줄 수 있는 기관 자금 유입에 대한 전망",
+    "collected_at": "2026-08-08T14:55:36.293086+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "로빈후드 체인, TVL 8억 달러 달성 후 전통금융과 밈코인 겨냥",
+    "content": "로빈후드 체인, TVL 8억 달러 달성 후 전통금융과 밈코인 겨냥",
+    "url": "https://ns3.ai/ko/news/DrWfHpeOLh",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드 체인이 TVL 8억 달러를 달성하고 전통금융과 밈코인에 겨냥하는 뉴스라서, 파급력이 크고 여러 자산·시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-08T14:55:57.566522+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "content": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "url": "https://www.blockmedia.co.kr/archives/1125688?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트와이즈가 비트코인에 수조 달러 기관 자금 유입될 것이라는 발표를 하였기 때문에, 대형 거래소·유명 프로젝트와 관련된 뉴스이며, 구체적 금액이 동반된 정책/자금 관련 소식이기 때문에 8점을 받았다.",
+    "collected_at": "2026-08-08T14:56:49.239868+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "출시 후 한 달여 만에 Robinhood Chain TVL 8억 달러 돌파, 거래 2억 건 처리",
+    "content": "출시 후 한 달여 만에 Robinhood Chain TVL 8억 달러 돌파, 거래 2억 건 처리",
+    "url": "https://ns3.ai/ko/news/hdFrrY1IQa",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Robinhood Chain의 TVL이 8억 달러를 돌파하고 거래 2억 건을 처리한 것으로 보아, 관련 주체가 중견 기업급으로 파급 범위도 크고, 확정된 데이터이므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-08T14:57:03.706671+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "바이비트, 도난 암호화폐 관련 미국 법원 금지명령 확보",
+    "content": "바이비트, 도난 암호화폐 관련 미국 법원 금지명령 확보",
+    "url": "https://ns3.ai/ko/news/15Apa5TH73",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 바이비트와 미국 법원 금지명령 확보라는重大한 뉴스가 언급되어 있으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있습니다.",
+    "collected_at": "2026-08-08T14:57:21.569736+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "갤럭시 리서치, 이더리움과 솔라나의 토큰 발행 재검토 가능성 제시",
+    "content": "갤럭시 리서치, 이더리움과 솔라나의 토큰 발행 재검토 가능성 제시",
+    "url": "https://ns3.ai/ko/news/KBBCeLW65E",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "갤럭시 리서치가 이더리움과 솔라나의 토큰 발행을 재검토할 가능성을 제시하는 뉴스라서, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-08T14:57:36.009674+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트코인, 8월 약세장 속 6만7500달러 돌파 시험대",

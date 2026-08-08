@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "content": "[블록미디어 이정화 기자] 비트와이즈(Bitwise) 최고투자책임자(CIO) 맷 호건은 비트코인에 수조 달러 규모의 기관 자금이 유입될 것으로 전망했다. 그는 전 세계적으로 운용되는 대규모 자본 풀이 최대 200조 달러에 달하며, 이 중 단 1%만 비트코인으로 전환되어도 엄청난 장기적 성장을 견인할 수 있다고 강조했다. 글로벌 자본 200조달러…1% 유입 시 파급력 8일(현지시각) 맷 호건 비트와이즈 CIO는 코인데스크와의 인터뷰에서 금융 자문사, [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125688?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 14:16:47 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중견 발표, 유의미한 규제 동향, 큰 폭의 가격 변동에 영향을 줄 수 있는 기관 자금 유입에 대한 전망",
+    "collected_at": "2026-08-08T14:55:36.293086+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "로빈후드 체인, TVL 8억 달러 달성 후 전통금융과 밈코인 겨냥",
+    "content": "로빈후드 체인, TVL 8억 달러 달성 후 전통금융과 밈코인 겨냥",
+    "url": "https://ns3.ai/ko/news/DrWfHpeOLh",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드 체인이 TVL 8억 달러를 달성하고 전통금융과 밈코인에 겨냥하는 뉴스라서, 파급력이 크고 여러 자산·시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-08T14:55:57.566522+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "content": "비트와이즈, “비트코인에 수조 달러 기관 자금 유입될 것”",
+    "url": "https://www.blockmedia.co.kr/archives/1125688?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트와이즈가 비트코인에 수조 달러 기관 자금 유입될 것이라는 발표를 하였기 때문에, 대형 거래소·유명 프로젝트와 관련된 뉴스이며, 구체적 금액이 동반된 정책/자금 관련 소식이기 때문에 8점을 받았다.",
+    "collected_at": "2026-08-08T14:56:49.239868+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "출시 후 한 달여 만에 Robinhood Chain TVL 8억 달러 돌파, 거래 2억 건 처리",
+    "content": "출시 후 한 달여 만에 Robinhood Chain TVL 8억 달러 돌파, 거래 2억 건 처리",
+    "url": "https://ns3.ai/ko/news/hdFrrY1IQa",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Robinhood Chain의 TVL이 8억 달러를 돌파하고 거래 2억 건을 처리한 것으로 보아, 관련 주체가 중견 기업급으로 파급 범위도 크고, 확정된 데이터이므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-08T14:57:03.706671+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "바이비트, 도난 암호화폐 관련 미국 법원 금지명령 확보",
+    "content": "바이비트, 도난 암호화폐 관련 미국 법원 금지명령 확보",
+    "url": "https://ns3.ai/ko/news/15Apa5TH73",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 바이비트와 미국 법원 금지명령 확보라는重大한 뉴스가 언급되어 있으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있습니다.",
+    "collected_at": "2026-08-08T14:57:21.569736+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "갤럭시 리서치, 이더리움과 솔라나의 토큰 발행 재검토 가능성 제시",
+    "content": "갤럭시 리서치, 이더리움과 솔라나의 토큰 발행 재검토 가능성 제시",
+    "url": "https://ns3.ai/ko/news/KBBCeLW65E",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "갤럭시 리서치가 이더리움과 솔라나의 토큰 발행을 재검토할 가능성을 제시하는 뉴스라서, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-08T14:57:36.009674+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트코인, 8월 약세장 속 6만7500달러 돌파 시험대",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
     "collected_at": "2026-07-29T07:44:41.470606+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-    "content": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
-    "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 07:11:27 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유럽 국가의 정책 보고서에서 크립토 관련 뉴스가 언급되었고, 크립토의 특정 사용 사례에 대한 언급이 있으나, 시장 전체에 큰 영향을 미치지 않는 소식",
-    "collected_at": "2026-07-29T07:44:56.850887+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Trade.xyz to cover SK Hynix perp liquidation losses tied to price anomaly",
-    "content": "Trade.xyz said its oracle worked as designed but will reimburse eligible traders after an external SK Hynix price print caused the contract’s mark price to fall nearly 19%.",
-    "url": "https://cointelegraph.com/news/trade-xyz-sk-hynix-perp-liquidations-price-anomaly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 05:29:48 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Trade.xyz의 오라클이 정상 작동했지만, SK Hynix 가격 이상 현상으로 인해 계약의 마크 가격이 19% 가까이 떨어진 후, 관련된 트레이더에게 보상할 예정이라는 뉴스",
-    "collected_at": "2026-07-29T07:45:28.646033+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Uniswap founder rejects claims v4 fees reduce LP earnings",
-    "content": "Hayden Adams said critics misunderstood Uniswap’s newly approved v4 protocol fees, rejecting claims the change reduces liquidity providers’ earnings.",
-    "url": "https://cointelegraph.com/news/uniswap-founder-rejects-v4-fees-reduce-lp-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 05:02:07 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Uniswap의 창립자 Hayden Adams가 v4 프로토콜 수수료 변경에 대한 비판을 반박하는 뉴스",
-    "collected_at": "2026-07-29T07:45:43.980189+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Michael Saylor Opposes Bitcoin Consensus Changes, Advocates for a Simple and Neutral Base Layer",
-    "content": "Michael Saylor Opposes Bitcoin Consensus Changes, Advocates for a Simple and Neutral Base Layer\nStrategy founder Michael Saylor said Bitcoin’s biggest threat comes from internal factions rewriting consensus rules and seizing economic rights. He compared Bitcoin’s consensus rules to a constitution and opposed proposals including BIP-110, additional covenant machinery, and larger blocks, arguing they could weaken transaction freedom, blockspace scarcity, and network security while increasing validation costs and attack surfaces.\nSaylor said as the block subsidy halves every 210,000 blocks, miners will rely more on fees to secure Bitcoin, and weakening the fee market could threaten long-term security. He called for keeping Bitcoin’s base layer simple, neutral, scarce, and secure, with innovation built at the edges, and protocol changes made only when necessary and conservatively. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25329",
-    "published_at": "2026-07-29T02:44:44+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 내부 파벌의 합의 규칙 변경 반대와 단순하고 중립적인 베이스 레이어를 주장하는 마이클 세일러의 발언",
-    "collected_at": "2026-07-29T04:48:09.781982+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "ARK Invest: Crypto Consolidation, Bankruptcies and Shutdowns to Increase in Coming Months",
-    "content": "ARK Invest: Crypto Consolidation, Bankruptcies and Shutdowns to Increase in Coming Months\nARK Invest researcher Lorenzo Valente said the crypto industry is undergoing a deeper consolidation than previous bear markets, with capital allocation becoming increasingly concentrated as teams and exchanges lacking product-market fit exit the market. Revenue concentration remains high across multiple sectors, including applications, infrastructure, and L1s.\nHyperliquid and PumpFun account for 67% of total application revenue, while the top three projects, including Ethena, account for nearly 80%. Valente expects industry M&A activity, bankruptcy filings, project shutdowns, and talent acquisitions to increase further in the coming months. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25330",
-    "published_at": "2026-07-29T03:41:11+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "ARK Invest의 연구원이 암호화폐 산업의 심한 집중화와 파산·폐쇄 증가에 대해 예상하고 있으며, 주요 프로젝트와 거래소가 시장에 큰 영향을 미치는 주요 뉴스",
-    "collected_at": "2026-07-29T04:48:10.052445+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Upbit to List META2",
-    "content": "Upbit to List META2\nSouth Korea’s largest crypto exchange Upbit will list META2 in its KRW, BTC, and USDT markets. MetaDAO is a decentralized governance protocol within the Solana ecosystem that uses a futarchy (prediction market-based governance) mechanism. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25331",
-    "published_at": "2026-07-29T04:26:34+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Upbit은 크립토 거래소로, META2를 목록화하는 소식이며, MetaDAO는 Solana 생태계 내의 탈중앙화된 통치 프로토콜이다.",
-    "collected_at": "2026-07-29T04:48:24.349746+00:00"
   }
 ]
