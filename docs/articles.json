@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인, 8월 약세장 속 6만7500달러 돌파 시험대",
+    "content": "비트코인(BTC)이 전통적으로 약했던 8월에 들어서면서 다시 '조정' 논란에 휩싸였다. 예측시장 칼시(Kalshi)는 8월 말까지 비트코인이 6만7500달러를 넘을 가능성을 54%로 봤지만, 온체인 분석가 조아오 웨드손은 아직 '바닥'을 확인하기 이르다고 판단했다.6만5500달러가 첫 관문비트코인은 현재 6만4953달러 부근에서 거래되며 6만5500달러 선을 회복해야 하는 상황이다. 특히 단기 보유자 평균 매입가로 알려진 6만7523달러 아래에 머물고 있어, 반등이 나오더라도 이 구간에서 차익실현 매물이 나올 수 있다는 우려가 크다.이 가격대는 칼시 투자자들이 가장 주목하는 6만7500달러와도 겹친다. 최근 비트코인과 단기 보유자 비용 기준의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387014",
+    "published_at": "Sat, 08 Aug 2026 13:56:05 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 분석과 예측이 담긴 기사로, 시장이 약세장에 처해 있다는 점과 6만7500달러 돌파에 대한 가능성과 우려가 함께 언급되어 있다.",
+    "collected_at": "2026-08-08T14:04:04.935607+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "“밈코인 배제는 지적 오만…능동적 투자에 필수”–T. 로우 프라이스",
+    "content": "[블록미디어 이정화 기자] 글로벌 자산운용사 T. 로우 프라이스(T. Rowe Price)가 1조9000억달러 규모의 자산을 운용하는 자사 디지털자산 상장지수펀드(ETF)에 밈코인을 편입한 배경을 설명했다. 원칙적으로 확립된 밈코인을 배제하는 것은 능동적인 투자 접근 방식을 훼손할 수 있다는 입장이다. 이는 기관 투자자들이 밈코인을 단순한 투기 자산이 아닌, 디지털자산 포트폴리오의 한 부분으로 인식하기 시작했음을 보여주는 중요한 전환점으로 평가된다. 기관 투자자의 밈코인 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125681?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 13:55:31 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "유명 자산운용사 T. 로우 프라이스가 1조9000억달러 규모의 자산을 운용하는 디지털자산 상장지수펀드에 밈코인을 편입한 배경을 설명했다. 이는 기관 투자자들이 밈코인을 디지털자산 포트폴리오의 한 부분으로 인식하기 시작했음을 보여주는 중요한 전환점으로 평가된다.",
+    "collected_at": "2026-08-08T14:04:05.465155+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin will never fall below $60K again: Nansen founder",
+    "content": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
+    "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 08 Aug 2026 13:30:00 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Nansen의 창립자 Alex Svanevik의 발언이 포함되어 있으며, 구체적인 가격에 대한 예측이 나와 있지만, 아직 시장 전체에 큰 영향을 미치지는 않음",
+    "collected_at": "2026-08-08T14:04:06.174801+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+    "content": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+    "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+    "published_at": "Sat, 08 Aug 2026 14:00:00 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인에 institutional money가 유입될 것이라는 예상이 나왔으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-08T14:04:26.253189+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "T. Rowe Price, 밈코인은 액티브 크립토 ETF 심사 대상에 포함돼야 한다고 밝혀",
+    "content": "T. Rowe Price, 밈코인은 액티브 크립토 ETF 심사 대상에 포함돼야 한다고 밝혀",
+    "url": "https://ns3.ai/ko/news/Rkrk3w7pIH",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 기관인 T. Rowe Price가 크립토 ETF에 대한 심사 대상에 포함되는데, 이는 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-08T14:04:58.062942+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "중국 채굴 회사 설립자: “비트코인 가격 상승에 속지 마세요. 강세장은 아직 시작되지 않았습니다.”",
+    "content": "중국 채굴 회사 설립자: “비트코인 가격 상승에 속지 마세요. 강세장은 아직 시작되지 않았습니다.”",
+    "url": "https://kr.bitcoinsistemi.com/chinese-mining-company-founder-dont-be-fooled-by-the-rise-in-bitcoin-the-bull-run-hasnt-started-yet/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 주장과 관련된 뉴스, 그러나 시장 전체에 영향을 주는 큰 사건은 아님",
+    "collected_at": "2026-08-08T14:05:13.430422+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Bitmart Founder Responds After Shutdown Causes Withdrawal Issues",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Upbit은 크립토 거래소로, META2를 목록화하는 소식이며, MetaDAO는 Solana 생태계 내의 탈중앙화된 통치 프로토콜이다.",
     "collected_at": "2026-07-29T04:48:24.349746+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "한국 개인투자자, 레버리지 ETF 몰렸다가 56조 손실 직면",
-    "content": "국내 개인투자자들이 최근 증시 조정 국면에서 레버리지 상장지수펀드에 공격적으로 투자했다가 큰 폭의 평가손실을 본 것으로 추정된다는 해외 투자은행 분석이 나왔다. 주가가 떨어질 때 수익과 손실이 함께 확대되는 상품 특성상, 반도체 대형주와 지수 연동 상품에 자금이 몰린 뒤 조정이 이어지면서 손실 규모가 빠르게 불어났다는 해석이다.29일 금융투자업계에 따르면 씨티글로벌마켓증권의 모하메드 아파바이 아시아태평양 트레이딩 전략 헤드는 기관투자자 대상 시장 보고서에서 한국 자산을 기초로 한 레버리지 ETF 시가총액이 지난달 22일 525억달러에서 최근 190억달러 수준으로 줄었다고 분석했다. 레버리지 ETF는 기초지수나...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/382519",
-    "published_at": "Wed, 29 Jul 2026 04:26:45 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": false,
-    "reason": "레버리지 ETF에 대한 개인 투자자의 공격적인 투자와 그에 따른 큰 폭의 평가손실, 그리고 이에 대한 해외 투자은행의 분석이 언급되어 있어, 업계 전반에 주목할 만한 뉴스임.",
-    "collected_at": "2026-07-29T04:48:44.930534+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "파이 24만명 SLICE 배분…유동성풀 실험 넓혔다",
-    "content": "파이네트워크(Pi Network)가 두 번째 테스트넷 토큰 슬라이스(SLICE) 배분을 마치고 런치패드 유동성풀 가격 추적 실험을 확대했다. 참여자 24만2000여명이 테스트파이 1592만 개를 커밋했고, 슬라이스 1000만 개가 배분됐다.\n파이네트워크는 24일 공식 블로그에서 6월 11일부터 28일까지 진행한 슬라이스 배분 절차를 완료했다고 밝혔다. 슬라이스는 테스트넷 전용 토큰으로, 파이 재단은 이 토큰이 메인넷으로 이전되지 않는다고 설명했다.\n이번 실험의 핵심은 커밋 물량의 흐름이다. 참여자가 커밋한 테스트파이는 프로젝트 팀 지갑으로 넘어가지 않고 발행된 슬라이스와 함께 유동성풀에 예치됐다. 일반적인 토큰 판매처럼 판매 대금이...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382516",
-    "published_at": "Wed, 29 Jul 2026 04:05:33 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "파이네트워크의 테스트넷 토큰 슬라이스 배분과 유동성풀 가격 추적 실험에 대한 뉴스, 관련 주체는 프로젝트 팀과 참여자들로 파급 범위는 크립토 시장 전반에 영향을 주지 않지만, 유동성풀 가격 추적 실험의 확대는 시장 참여자들의 관심을 끌 수 있다.",
-    "collected_at": "2026-07-29T04:49:01.430140+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 바닥 신호였나…거래소 폐쇄 통설에 데이터 반박",
-    "content": "비트코인(BTC) 바닥 논쟁이 다시 불붙은 가운데, 거래소 폐쇄가 ‘바닥 신호’라는 통설에 대해 데이터 기반 반박이 제기됐다. 최근 연쇄적인 서비스 종료에도 시장 구조는 과거와 다르다는 분석이다.“거래소 폐쇄=바닥” 통설 반박암호화폐 분석가 주앙 웨드손(Joao Wedson)은 2026년 들어 폐쇄를 발표하거나 운영을 중단한 거래소와 플랫폼이 9곳에 불과하다고 밝혔다. 이는 지난 8년간 가장 낮은 수치로, 이전 하락장과 비교하면 현저히 적은 수준이다. 그는 이러한 데이터가 최근 폐쇄 사례를 비트코인(BTC) ‘사이클 바닥’ 신호로 해석하는 주장과 상충된다고 지적했다.웨드손은 “데이터는 반복적으로 사실처럼 제시되는 근거 없는 내러티브를...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382511",
-    "published_at": "Wed, 29 Jul 2026 03:49:32 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 바닥 논쟁에 대한 데이터 기반 반박이 제기되어, 시청자에게 유의미한 뉴스지만 영향 범위가 제한적이다.",
-    "collected_at": "2026-07-29T04:49:20.797590+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인, 이제 사는 시장 넘어 지키는 시장으로…멕시벤처스, 기관 보안 컨소시엄 출범 조명",
-    "content": "비트코인(BTC)에 투자해온 주요 기관들이 이제는 네트워크 자체의 보안 인프라에 직접 자금을 투입하기 시작했다. 멕시벤처스(MEXC Ventures)에 따르면 Strategy, 블랙록, 피델리티 디지털 애셋, 코인베이스를 포함한 9개 기관은 최근 비트코인 보안 컨소시엄(BSC)을 공식 출범하고 향후 3년간 총 1500만 달러를 오픈소스 보안 연구와 개발자 생태계 지원에 배정하기로 했다. 이는 단순한 비트코인(BTC) 매수 차원을 넘어, 시장을 떠받치는 핵심 인프라를 ‘직접’ 보호하려는 방향 전환으로 해석된다.이번 컨소시엄은 누가 봐도 상징성이 크다. 참여 기관에는 비트코인 현물 ETF 시장의 핵심 운용사와 대형 보유 기업, 기관 커스터디 사업자들이...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382506",
-    "published_at": "Wed, 29 Jul 2026 03:39:04 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 기관들이 비트코인 보안 컨소시엄을 출범시키고 1500만 달러를 투입하는 등, 시장 전반에 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-07-29T04:49:38.089373+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[오후 뉴스브리핑] 에니와 토탈에너지스, 키프로스 첫 가스전 개발 승인 外",
-    "content": "에니와 토탈에너지스가 키프로스의 첫 가스전 개발을 승인했다.크로노스 가스전은 2028년부터 이집트를 통해 액화천연가스(LNG) 수출 물량을 공급할 예정이다.이번 프로젝트는 키프로스가 자국 해상 가스 자원을 본격적으로 상업화하는 첫...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/382493",
-    "published_at": "Wed, 29 Jul 2026 03:02:10 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "크립토와 관련이 없는 일반 뉴스, 그러나 크립토 업계 전반에 영향을 줄 수 있는 대형 거래소·유명 프로젝트와 유사한 규모의 프로젝트가 키프로스에서 가스전 개발을 승인했다.",
-    "collected_at": "2026-07-29T04:51:27.056226+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "“디파이 규제, 코드 아닌 재량이 겨눈다”…타이거리서치, SEC 성명 파장 분석",
-    "content": "미국 증권거래위원회(SEC)가 온체인 볼트와 대출 전략에 기존 증권법 논리를 적용할 수 있다는 입장을 내놓으면서 디파이(DeFi) 시장 전반에 긴장감이 커지고 있다. 타이거리서치(Tiger Research)는 최근 보고서를 통해 SEC의 이번 성명이 코드 자체보다 자금 배분에 재량권을 행사하는 주체를 겨냥하고 있으며, 넓게는 약 259억달러 규모의 온체인 자산운용 시장이 잠재적 영향권에 들어갈 수 있다고 진단했다.이번 논란의 출발점은 7월 22일 헤스터 피어스 위원이 발표한 성명이다. 핵심은 온체인 볼트, 대출 전략, 수익 최적화 구조라 하더라도 자금 모집과 운용의 ‘경제적 실질’이 하우이 테스트(Howey Test)를 충족하면 투자계약, 즉...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382486",
-    "published_at": "Wed, 29 Jul 2026 02:39:12 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "디파이 시장 전반에 긴장감이 커지고 있는 미국 SEC의 성명과 관련된 뉴스, SEC의 성명이 코드 자체보다 자금 배분에 재량권을 행사하는 주체를 겨냥하고 있으며, 온체인 자산운용 시장이 잠재적 영향권에 들어갈 수 있다.",
-    "collected_at": "2026-07-29T04:52:04.214786+00:00"
   }
 ]
