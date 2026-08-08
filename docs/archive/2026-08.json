@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "content": "비트코인(BTC) 네트워크가 96만1632번째 블록에 도달하며 소프트포크 제안 BIP-110의 강제 신호 기간에 들어갔다. 채굴자 신호 지지율은 2.5%를 좀처럼 넘지 못해 활성화 기준인 55%에 크게 못 미치는 상태다.\n신호 구간이 열린 시각은 9일 오전 4시35분(한국시간)이다. 코인데스크는 오랫동안 예고돼온 강제 신호 기간이 이 블록에서 발동됐다고 전했다. BIP-110은 결제와 무관한 데이터가 비트코인 블록에 새겨지는 것을 한시적으로 억제하기 위해 제안된 소프트포크다.\n지지자들이 꺼내 든 카드는 사용자 강제 연성 분기(UASF)다. 채굴자의 동의를 기다리는 대신 이용자들이 노드 소프트웨어를 업데이트해, BIP-110 지지 신호를 담지 않은...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387059",
+    "published_at": "Sat, 08 Aug 2026 20:25:57 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 네트워크가 소프트포크 제안 BIP-110의 강제 신호 기간에 들어간 것으로 보아 시청자에게 유의미한 뉴스지만, 영향 범위가 아직 제한적이다.",
+    "collected_at": "2026-08-08T20:54:58.201878+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "모레노 “클래리티 협상 끝났다”…다음 달 상원 표결 승부",
+    "content": "[멕시코=심영재 특파원] 미국 디지털자산(가상자산) 시장구조법안인 클래리티법안(CLARITY Act)을 둘러싼 여야 협상이 사실상 종료 단계에 들어갔다는 주장이 나왔다. 버니 모레노 미국 상원의원은 공화당과 민주당이 11개월간 진행한 협상이 끝났으며 9월15일 예정된 토론종결 표결에서 각 상원의원이 선택해야 한다고 밝혔다. 다만 공화당 내부에서도 현재 법안에 반대하는 의원들이 있어 60표 확보 여부는 여전히 불투명하다. “11개월 협상 끝났다” 8일(현지시각) 비트코인닷컴에 따르면 버니 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125712?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 20:51:09 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원의원은 클래리티법안 협상이 끝났으며 9월15일 예정된 표결에서 각 상원의원이 선택해야 한다고 밝혔다. 이는 미국 디지털자산 시장구조에 큰 영향을 미칠 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-08-08T20:54:58.626155+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "content": "[멕시코=심영재 특파원] 미국 비트코인과 이더리움 현물 상장지수펀드(ETF)에 지난주 약 11억달러가 순유입됐다. 두 상품군 모두 4월 이후 가장 강한 주간 자금 유입을 기록했다. 다만 ETF 거래대금은 오히려 감소해 자금 유입 회복이 시장 전반의 거래 활성화로 이어졌다고 보기는 어렵다는 평가가 나온다. 8일(현지시각) 더블록과 소소밸류 자료에 따르면 미국 비트코인 현물 ETF는 지난주 5거래일 연속 순유입을 기록하며 약 8억5350만달러를 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125710?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 20:26:34 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 비트코인과 이더리움 현물 상장지수펀드(ETF)에 11억달러가 순유입되며, 4월 이후 최대 주간 자금 유입을 기록했다. 다만 ETF 거래대금은 감소해 자금 유입 회복이 시장 전반의 거래 활성화로 이어지지 않는다.",
+    "collected_at": "2026-08-08T20:54:59.020908+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "content": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "url": "https://www.blockmedia.co.kr/archives/1125710?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미 디지털자산 현물 ETF에 대한 유입이 크고, 4월 이후 최대라는 점이 시장 전체에 영향을 줄 가능성이 있는 뉴스를 나타내고, 확정된 데이터이므로 높은 점수를 부여합니다.",
+    "collected_at": "2026-08-08T20:55:28.018120+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "content": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "url": "https://www.tokenpost.kr/news/blockchain/387059",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "BIP-110 강제신호 구간 시작은 채굴자 지지율에 영향을 줄 수 있는 중요한 이벤트로, 채굴자 지지율이 2.5% 미만이라는 정보도 관련성이 있지만, 구체적인 영향 범위가 아직 미정인 점을 고려하여 8점을 부여함.",
+    "collected_at": "2026-08-08T20:55:43.505610+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BIP-110 의무 신호 전송 시작, 해당 체인은 비트코인보다 한 블록 뒤처져",
+    "content": "BIP-110 의무 신호 전송 시작, 해당 체인은 비트코인보다 한 블록 뒤처져",
+    "url": "https://ns3.ai/ko/news/E9oqlgyhwG",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인과 관련된 BIP-110 의무 신호 전송 시작에 대한 뉴스, 해당 체인은 비트코인보다 한 블록 뒤처져 있어 시청자에게 유의미한 뉴스지만 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-08T20:56:17.532174+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "브라질, 디지털자산 해외 송금 규제…1만달러 초과 시 24시간 보류",

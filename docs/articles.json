@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "content": "비트코인(BTC) 네트워크가 96만1632번째 블록에 도달하며 소프트포크 제안 BIP-110의 강제 신호 기간에 들어갔다. 채굴자 신호 지지율은 2.5%를 좀처럼 넘지 못해 활성화 기준인 55%에 크게 못 미치는 상태다.\n신호 구간이 열린 시각은 9일 오전 4시35분(한국시간)이다. 코인데스크는 오랫동안 예고돼온 강제 신호 기간이 이 블록에서 발동됐다고 전했다. BIP-110은 결제와 무관한 데이터가 비트코인 블록에 새겨지는 것을 한시적으로 억제하기 위해 제안된 소프트포크다.\n지지자들이 꺼내 든 카드는 사용자 강제 연성 분기(UASF)다. 채굴자의 동의를 기다리는 대신 이용자들이 노드 소프트웨어를 업데이트해, BIP-110 지지 신호를 담지 않은...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387059",
+    "published_at": "Sat, 08 Aug 2026 20:25:57 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 네트워크가 소프트포크 제안 BIP-110의 강제 신호 기간에 들어간 것으로 보아 시청자에게 유의미한 뉴스지만, 영향 범위가 아직 제한적이다.",
+    "collected_at": "2026-08-08T20:54:58.201878+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "모레노 “클래리티 협상 끝났다”…다음 달 상원 표결 승부",
+    "content": "[멕시코=심영재 특파원] 미국 디지털자산(가상자산) 시장구조법안인 클래리티법안(CLARITY Act)을 둘러싼 여야 협상이 사실상 종료 단계에 들어갔다는 주장이 나왔다. 버니 모레노 미국 상원의원은 공화당과 민주당이 11개월간 진행한 협상이 끝났으며 9월15일 예정된 토론종결 표결에서 각 상원의원이 선택해야 한다고 밝혔다. 다만 공화당 내부에서도 현재 법안에 반대하는 의원들이 있어 60표 확보 여부는 여전히 불투명하다. “11개월 협상 끝났다” 8일(현지시각) 비트코인닷컴에 따르면 버니 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125712?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 20:51:09 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 상원의원은 클래리티법안 협상이 끝났으며 9월15일 예정된 표결에서 각 상원의원이 선택해야 한다고 밝혔다. 이는 미국 디지털자산 시장구조에 큰 영향을 미칠 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-08-08T20:54:58.626155+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "content": "[멕시코=심영재 특파원] 미국 비트코인과 이더리움 현물 상장지수펀드(ETF)에 지난주 약 11억달러가 순유입됐다. 두 상품군 모두 4월 이후 가장 강한 주간 자금 유입을 기록했다. 다만 ETF 거래대금은 오히려 감소해 자금 유입 회복이 시장 전반의 거래 활성화로 이어졌다고 보기는 어렵다는 평가가 나온다. 8일(현지시각) 더블록과 소소밸류 자료에 따르면 미국 비트코인 현물 ETF는 지난주 5거래일 연속 순유입을 기록하며 약 8억5350만달러를 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125710?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 08 Aug 2026 20:26:34 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 비트코인과 이더리움 현물 상장지수펀드(ETF)에 11억달러가 순유입되며, 4월 이후 최대 주간 자금 유입을 기록했다. 다만 ETF 거래대금은 감소해 자금 유입 회복이 시장 전반의 거래 활성화로 이어지지 않는다.",
+    "collected_at": "2026-08-08T20:54:59.020908+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "content": "미 디지털자산 현물 ETF에 한 주간 11억달러 유입…4월 이후 최대",
+    "url": "https://www.blockmedia.co.kr/archives/1125710?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미 디지털자산 현물 ETF에 대한 유입이 크고, 4월 이후 최대라는 점이 시장 전체에 영향을 줄 가능성이 있는 뉴스를 나타내고, 확정된 데이터이므로 높은 점수를 부여합니다.",
+    "collected_at": "2026-08-08T20:55:28.018120+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "content": "채굴자 지지 2.5% 못 넘어…BIP-110 강제신호 구간 시작됐다",
+    "url": "https://www.tokenpost.kr/news/blockchain/387059",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "BIP-110 강제신호 구간 시작은 채굴자 지지율에 영향을 줄 수 있는 중요한 이벤트로, 채굴자 지지율이 2.5% 미만이라는 정보도 관련성이 있지만, 구체적인 영향 범위가 아직 미정인 점을 고려하여 8점을 부여함.",
+    "collected_at": "2026-08-08T20:55:43.505610+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BIP-110 의무 신호 전송 시작, 해당 체인은 비트코인보다 한 블록 뒤처져",
+    "content": "BIP-110 의무 신호 전송 시작, 해당 체인은 비트코인보다 한 블록 뒤처져",
+    "url": "https://ns3.ai/ko/news/E9oqlgyhwG",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인과 관련된 BIP-110 의무 신호 전송 시작에 대한 뉴스, 해당 체인은 비트코인보다 한 블록 뒤처져 있어 시청자에게 유의미한 뉴스지만 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-08T20:56:17.532174+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "브라질, 디지털자산 해외 송금 규제…1만달러 초과 시 24시간 보류",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "미국 디지털자산 시장의 핵심 입법으로 꼽히는 클래리티법안이 연내 처리 가능성이 크게 낮아졌고, 협상은 이어지고 있지만, 아직 시장 전체에 직접적인 영향을 주는 결정은 나지 않았다.",
     "collected_at": "2026-07-29T14:48:33.390158+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "BNY to bring transfer agency records onchain in blockchain push",
-    "content": "BNY is launching a blockchain-based transfer agency platform as the bank expands its digital asset infrastructure and moves core financial records onchain.",
-    "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 13:36:18 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 은행(BNY)이 블록체인 기반의 전이 기관 플랫폼을 출시하고, 주요 금융 기록을 블록체인에 이전하는 것을 포함하여 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-29T14:48:47.185382+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "BNY, With Over $59 Trillion in Assets Under Custody and Administration, to Launch Blockchain-Based Digital Transfer Agen",
-    "content": "BNY, With Over $59 Trillion in Assets Under Custody and Administration, to Launch Blockchain-Based Digital Transfer Agency\nBNY, which has over $59 trillion in assets under custody and administration, plans to launch a digital transfer agency that records fund transactions and ownership on-chain while retaining its traditional system. The business currently services about $8.6 trillion across 7.6 million accounts, with Baillie Gifford, BlackRock and BNY’s Dreyfus expected to be among the first users. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25336",
-    "published_at": "2026-07-29T11:08:37+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 금융 기관인 BNY가 블록체인 기반 디지털 전송 기관을 출시하는 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있지만 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-07-29T12:29:23.103330+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "러시아, 두로프 국제수배…톤 규제 변수 커졌다",
-    "content": "러시아 연방보안국(FSB)이 텔레그램 창업자 파벨 두로프(Pavel Durov)를 테러활동 방조 혐의로 국제 지명수배하면서 텔레그램 기반 톤(TON) 생태계에 새 규제 변수가 떠올랐다.\n프로토스는 29일(현지시간) FSB가 두로프에게 러시아 형법 205조의1 1.1항을 적용했다고 전했다. FSB는 텔레그램이 우크라이나 특수기관과 테러·극단주의 조직이 러시아 내 사보타주와 테러, 대량 살상, 사이버 사기를 준비하고 조율하는 데 쓰인 채널과 채팅방, 봇을 방치했다고 주장했다.\n러시아 수사당국은 텔레그램 데이팅 봇 레오나르도 다빈치크를 문제 삼았다. 러시아 측은 2025년 7월 이후 16개 지역에서 12세에서 22세 사이 이용자 46명이 붙잡혔고,...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382656",
-    "published_at": "Wed, 29 Jul 2026 12:14:34 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "러시아 연방보안국(FSB)이 텔레그램 창업자 파벨 두로프를 국제 지명수배하면서 텔레그램 기반 톤(TON) 생태계에 새 규제 변수가 떠올랐다. 텔레그램이 우크라이나 특수기관과 테러·극단주의 조직이 러시아 내 사보타주와 테러, 대량 살상, 사이버 사기를 준비하고 조율하는 데 쓰인 채널과 채팅방, 봇을 방치했다는 주장으로 인해, 러시아 수사당국이 텔레그램 데이팅 봇 레오나르도 다빈치크를 문제 삼았다. ",
-    "collected_at": "2026-07-29T12:29:24.457660+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[LIVE] 워시의 두 번째 FOMC…금리 동결이냐 깜짝 인상이냐",
-    "content": "토큰포스트는 미국 연방준비제도(Fed·연준)의 연방공개시장위원회(FOMC) 금리 결정과 케빈 워시 연준 의장의 기자회견을 유튜브 라이브를 통해 실시간 중계한다. 연준의 금리 결정문은 한국시간 7월 30일 오전 3시에 발표되며, 워시 의장의 기자회견은 오전 3시 30분부터 진행될 예정이다. 이번 FOMC에서는 기준금리 동결이 기본 시나리오로 거론되는 가운데, 연준이 시장의 예상을 깨고 금리를 0.25%포인트 인상할 가능성이 핵심 관전 포인트로 떠오르고 있다. 금리선물 시장은 예상 밖 인상 가능성을 상당 부분 반영하고 있으며, 연준의 결정을 둘러싼 불확실성이 커지면서 연방기금금리 선물 미결제약정도 사상 최대 수준으로...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382648",
-    "published_at": "Wed, 29 Jul 2026 12:02:56 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "금리 결정과 관련된 뉴스이며, 시장의 예상을 깨고 금리를 인상할 가능성이 핵심 관전 포인트로 떠오르고 있다.",
-    "collected_at": "2026-07-29T12:29:41.936727+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "유니스왑 v4 수수료 논란…창립자 반박에도 LP 수익 영향 공방",
-    "content": "유니스왑 창립자 헤이든 아담스(Hayden Adams)가 v4 프로토콜 수수료 도입을 둘러싼 논란에 공개적으로 반박했다. 유동성 공급자 수익을 훼손한다는 주장에 대해 ‘잘못된 전제’라고 선을 그으며 논쟁이 기술적 해석 문제로 번지고 있다.보도에 따르면, 유니스왑 거버넌스는 여러 블록체인의 일부 v4 풀에 프로토콜 수수료 적용을 승인했다. 이후 디파이(DeFi) 커뮤니티에서는 해당 구조가 유동성 공급자(LP) 수익을 줄일 수 있다는 비판이 제기됐다.아담스는 0.30% 수수료 풀을 기준으로 설명을 제시했다. 이 중 0.05% 수준의 프로토콜 수수료는 전체 스왑 수수료의 약 14%에 해당하며, LP 수익을 ‘차감’하는 구조가 아니라 기존 구조에...  더보기",
-    "url": "https://www.tokenpost.kr/news/tech/382650",
-    "published_at": "Wed, 29 Jul 2026 11:50:03 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유니스왑 창립자와 LP 수익에 대한 논쟁이 진행중인 뉴스, 관련 주체가 유니스왑과 LP이며 파급 범위는 크립토 시장에 영향을 줄 가능성이 있으나 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-29T12:30:16.418128+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "코스피 2700조원 증발…비트코인 시총 넘었다",
-    "content": "코스피가 29거래일 만에 지운 시가총액이 전 세계 비트코인(BTC) 전체 가치보다 컸던 것으로 나타났다. 반도체 대형주 급락이 국내 증시 전체 손실로 번지며 주식시장 변동성이 암호화폐 시장과 나란히 비교될 정도로 커졌다는 평가다.\n코스피 구성 종목의 합산 시가총액은 6월 19일 7670조원(약 5조 달러)에서 29일 개장 기준 4960조원(약 3조4000억 달러)으로 줄었다고 프로토스는 전했다. 원화 기준 감소폭은 약 2700조원, 달러 기준으로는 약 1조6000억 달러(약 2330조원)다.\n같은 시점 BTC 시가총액은 약 1조3000억 달러(약 1893조원) 수준이었다. 코스피가 5주 남짓한 기간에 잃은 금액이 BTC 전체 시총을 웃돈 셈이다. 원화 기준...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382647",
-    "published_at": "Wed, 29 Jul 2026 11:46:07 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "코스피의 시가총액이 비트코인 전체 가치보다 커졌다는 사실이 주목할 만한 뉴스이며, 시장 전반에 영향을 미친 대형 주식 시장의 변동성도 언급되어 있다.",
-    "collected_at": "2026-07-29T12:30:53.459655+00:00"
   }
 ]
