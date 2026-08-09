@@ -2,6 +2,18 @@
   {
     "source": "coingecko_news",
     "source_type": "press",
+    "title": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",
+    "content": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",
+    "url": "https://ns3.ai/ko/news/USNeDEy6A3",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 합의 보상이 줄어들어 SharpLink의 전략이 시험대에 올랐다는 뉴스는 크립토 관련이지만, 영향 범위가 제한적이고, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T20:19:52.651080+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
     "title": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
     "content": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
     "url": "https://ns3.ai/ko/news/yriq4EaReD",

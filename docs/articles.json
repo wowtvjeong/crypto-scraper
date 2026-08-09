@@ -2,6 +2,18 @@
   {
     "source": "coingecko_news",
     "source_type": "press",
+    "title": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",
+    "content": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",
+    "url": "https://ns3.ai/ko/news/USNeDEy6A3",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 합의 보상이 줄어들어 SharpLink의 전략이 시험대에 올랐다는 뉴스는 크립토 관련이지만, 영향 범위가 제한적이고, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T20:19:52.651080+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
     "title": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
     "content": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
     "url": "https://ns3.ai/ko/news/yriq4EaReD",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "SEC의 공식 발표와 관련된 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
     "collected_at": "2026-07-30T09:14:44.294157+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "디지털자산 업계 ‘감원 한파’⋯ 7월에만 거래소 12곳 해고·구조조정",
-    "content": "[블록미디어 양원모 기자] 디지털자산 시장의 불확실성이 이어지는 가운데 업계 전반으로 인력 감축이 확산하고 있다. 거래소와 블록체인 기업들이 비용 절감과 운영 효율화를 앞세워 조직을 재편하면서 7월에만 최소 12개 기업이 해고 또는 구조조정에 나섰다. 30일(현지시각) 크립토잡스리스트에 따르면 핀테크 기업 포함 7월 디지털자산 관련 기업의 공개 감원 규모는 총 894명으로 집계됐다. 1월부터로 범위를 넓히면 확인된 감원 인원은 7254명, [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122349?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 07:41:44 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "디지털자산 업계 전반에 걸쳐 거래소와 블록체인 기업들이 비용 절감과 운영 효율화를 앞세워 조직을 재편하면서 7월에만 최소 12개 기업이 해고 또는 구조조정에 나섰다. ",
-    "collected_at": "2026-07-30T09:15:19.459432+00:00"
   }
 ]
