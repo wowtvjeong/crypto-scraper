@@ -2,6 +2,18 @@
   {
     "source": "coingecko_news",
     "source_type": "press",
+    "title": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
+    "content": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
+    "url": "https://ns3.ai/ko/news/jkv6ijQUjH",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "HIP-3와 HYPE 바이백, Hyperliquid의 RWA 거래 증가와 관련된 뉴스이지만, 영향 범위가 제한적이고, 특정 프로젝트 한정 이슈이므로 7점",
+    "collected_at": "2026-08-09T15:30:55.383719+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
     "title": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
     "content": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
     "url": "https://ns3.ai/ko/news/KSSZxLCIQQ",
