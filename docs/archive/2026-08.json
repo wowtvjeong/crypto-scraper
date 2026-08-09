@@ -1,5 +1,65 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황] 비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",
+    "content": "[블록미디어 명정선 기자] 뉴욕 디지털자산(가상자산) 시장에서 비트코인이 6만5000달러선을 회복했다. 미국 현물 비트코인 상장지수펀드(ETF)에 지난 4월 중순 이후 가장 많은 주간 자금이 유입되면서 기관 수요 회복 기대가 커졌다. 미국 고용지표 부진으로 연방준비제도(Fed)의 추가 긴축 우려가 완화된 점도 투자심리를 뒷받침했다. 다만 비트코인이 장기 이동평균선 부근에서 기술적 저항을 받을 수 있다는 분석이 나오면서 추세적인 상승 여부에는 신중한 분위기가 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125788?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 20:43:28 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 뉴스, ETF 자금 유입에 따른 반등, 장기 저항선에 대한 분석",
+    "collected_at": "2026-08-09T20:59:17.438081+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "World Liberty Financial $100M Token Deal Tied to Bobby Zhou",
+    "content": "World Liberty Financial $100M Token Deal Tied to Bobby Zhou",
+    "url": "https://coinmarketcap.com/community/articles/6a78e6ce7de1b80240b8f0aa/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토와 관련된 뉴스인 World Liberty Financial의 $100M Token Deal이 Bobby Zhou와 관련이 있다는 점에서 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스임",
+    "collected_at": "2026-08-09T20:59:37.379929+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "XRP: ETFs Continue Their Rise, but the Market Shows Signs of Fragility",
+    "content": "XRP: ETFs Continue Their Rise, but the Market Shows Signs of Fragility",
+    "url": "https://coinmarketcap.com/community/articles/6a78e6cf17b438590cb8fd0d/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "XRP ETF가 상승하고 있지만 시장은 취약성을 보이는 것으로 나타나고 있기 때문에 7.5점을 받았다.",
+    "collected_at": "2026-08-09T20:59:51.925763+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "World Liberty $100M Buyer Linked to UK Money Laundering Probe",
+    "content": "World Liberty $100M Buyer Linked to UK Money Laundering Probe",
+    "url": "https://coinmarketcap.com/community/articles/6a78e21d9db90547c68dc202/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토와 관련된 뉴스인 World Liberty의 100만 달러 구매자가 영국의洗錢 수사에 연루되어 있다는 내용으로, 관련 주체가 중견 기업급이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T21:00:27.387194+00:00"
+  },
+  {
+    "source": "coinness",
+    "source_type": "press",
+    "title": "비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",
+    "content": "뉴욕 디지털자산(가상자산) 시장에서 비트코인이 6만5000달러선을 회복했다. 미국 현물 비트코인 상장지수펀드(ETF)에 지난 4월 중순 이후 가장 많은 주간 자금이 유입되면서 기관 수요 회복 기대가 커졌다. 미국 고용지표 부진으로 연방준비제도(Fed)의 추가 긴축 우려가",
+    "url": "https://www.blockmedia.co.kr/archives/1125788",
+    "published_at": "2026-08-09T20:43:28.000Z",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인이 6만5000달러선을 회복하고, ETF 자금 유입으로 기관 수요 회복 기대가 커졌지만, 장기 저항선은 '경계'로 평가되고 있다. 이 기사는 일반적인 시황 코멘트와 ETF 자금 유입에 대한 소식이 포함되어 있지만, 시장 전체에 큰 영향을 미치는 사건은 아니다.",
+    "collected_at": "2026-08-09T21:00:44.405331+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",

@@ -1,5 +1,65 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[뉴욕 코인시황] 비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",
+    "content": "[블록미디어 명정선 기자] 뉴욕 디지털자산(가상자산) 시장에서 비트코인이 6만5000달러선을 회복했다. 미국 현물 비트코인 상장지수펀드(ETF)에 지난 4월 중순 이후 가장 많은 주간 자금이 유입되면서 기관 수요 회복 기대가 커졌다. 미국 고용지표 부진으로 연방준비제도(Fed)의 추가 긴축 우려가 완화된 점도 투자심리를 뒷받침했다. 다만 비트코인이 장기 이동평균선 부근에서 기술적 저항을 받을 수 있다는 분석이 나오면서 추세적인 상승 여부에는 신중한 분위기가 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125788?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 20:43:28 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격에 대한 뉴스, ETF 자금 유입에 따른 반등, 장기 저항선에 대한 분석",
+    "collected_at": "2026-08-09T20:59:17.438081+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "World Liberty Financial $100M Token Deal Tied to Bobby Zhou",
+    "content": "World Liberty Financial $100M Token Deal Tied to Bobby Zhou",
+    "url": "https://coinmarketcap.com/community/articles/6a78e6ce7de1b80240b8f0aa/",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토와 관련된 뉴스인 World Liberty Financial의 $100M Token Deal이 Bobby Zhou와 관련이 있다는 점에서 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스임",
+    "collected_at": "2026-08-09T20:59:37.379929+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "XRP: ETFs Continue Their Rise, but the Market Shows Signs of Fragility",
+    "content": "XRP: ETFs Continue Their Rise, but the Market Shows Signs of Fragility",
+    "url": "https://coinmarketcap.com/community/articles/6a78e6cf17b438590cb8fd0d/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "XRP ETF가 상승하고 있지만 시장은 취약성을 보이는 것으로 나타나고 있기 때문에 7.5점을 받았다.",
+    "collected_at": "2026-08-09T20:59:51.925763+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "World Liberty $100M Buyer Linked to UK Money Laundering Probe",
+    "content": "World Liberty $100M Buyer Linked to UK Money Laundering Probe",
+    "url": "https://coinmarketcap.com/community/articles/6a78e21d9db90547c68dc202/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토와 관련된 뉴스인 World Liberty의 100만 달러 구매자가 영국의洗錢 수사에 연루되어 있다는 내용으로, 관련 주체가 중견 기업급이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T21:00:27.387194+00:00"
+  },
+  {
+    "source": "coinness",
+    "source_type": "press",
+    "title": "비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",
+    "content": "뉴욕 디지털자산(가상자산) 시장에서 비트코인이 6만5000달러선을 회복했다. 미국 현물 비트코인 상장지수펀드(ETF)에 지난 4월 중순 이후 가장 많은 주간 자금이 유입되면서 기관 수요 회복 기대가 커졌다. 미국 고용지표 부진으로 연방준비제도(Fed)의 추가 긴축 우려가",
+    "url": "https://www.blockmedia.co.kr/archives/1125788",
+    "published_at": "2026-08-09T20:43:28.000Z",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인이 6만5000달러선을 회복하고, ETF 자금 유입으로 기관 수요 회복 기대가 커졌지만, 장기 저항선은 '경계'로 평가되고 있다. 이 기사는 일반적인 시황 코멘트와 ETF 자금 유입에 대한 소식이 포함되어 있지만, 시장 전체에 큰 영향을 미치는 사건은 아니다.",
+    "collected_at": "2026-08-09T21:00:44.405331+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "EIP-8363, 이더리움 합의 보상을 줄여 SharpLink의 전략을 시험대에 올릴 수 있다",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인과 이더리움의 파생상품 시장에서 2억8600만 달러가 청산되었고, 이는 레버리지 포지션을 대거 정리한 것으로 풀이된다. 이 뉴스는 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스이다.",
     "collected_at": "2026-07-30T09:11:36.282280+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "MEXC, LSEG '월드체크' 도입…글로벌 금융기관 수준 AML·CTF 컴플라이언스 체계 구축",
-    "content": "글로벌 가상자산 거래소 MEXC가 런던증권거래소그룹(LSEG)의 리스크 스크리닝 솔루션 월드체크(World-Check)를 플랫폼에 도입하며 글로벌 금융기관 수준의 자금세탁방지(AML) 및 테러자금조달방지(CTF) 컴플라이언스 체계를 구축한다고 밝혔다. 월드체크는 전 세계 주요 금융기관이 리스크 스크리닝에 활용하는 데이터베이스로, 글로벌 규제기관과 제재 대상 감시 목록에 대한 실시간 스크리닝 및 검증 기능을 제공한다. 이번 도입으로 MEXC는 전통 금융권에서 활용되는 컴플라이언스 인프라를 디지털 자산 거래 플랫폼에 적용하게 됐다. 해당 시스템은 정치적 주요인물(PEP) 식별 기능과 범죄 및 제재 관련 언론 보도 모니터링 기능을 제공해...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/382931",
-    "published_at": "Thu, 30 Jul 2026 07:30:01 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 MEXC가 글로벌 금융기관 수준의 AML·CTF 컴플라이언스 체계를 구축하는 것으로 보아, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스입니다.",
-    "collected_at": "2026-07-30T09:12:13.609333+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "토큰포스트, 글로벌 디지털 자산 미디어 트래픽 2위… 아시아 매체 중 최상위",
-    "content": "토큰포스트가 글로벌 디지털 자산 전문 매체 트래픽 순위에서 2위에 올랐다. 웹 트래픽 분석업체 시밀러웹(Similarweb) 데이터를 기반으로 집계된 2026년 6월 글로벌 디지털 자산 미디어 순위에 따르면, 토큰포스트(tokenpost.kr)의 월간 방문자 수는 223만 명으로 나타났다. 1위는 미국의 코인데스크(coindesk.com)로 369만 명을 기록했다. 3위는 비인크립토(172만 명), 4위는 더블록(137만 명), 5위는 일본의 코인포스트(134만 명)가 차지했다. 이어 디크립트(91만 명), 코인텔레그래프(73만 명), 크립토슬레이트(52만 명), 비트코인매거진(43만 명), 블록웍스(16만 명) 순이었다. 이번 집계에서 상위 10개 매체 중 7곳이 미국 기반 매체였다....  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382967",
-    "published_at": "Thu, 30 Jul 2026 07:06:50 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "글로벌 디지털 자산 전문 매체 트래픽 순위에서 2위에 올랐고, 월간 방문자 수도 223만 명으로 나타났습니다.",
-    "collected_at": "2026-07-30T09:12:33.212972+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[저녁 뉴스브리핑] 에니와 토탈에너지스, 키프로스 첫 가스전 개발 승인 外",
-    "content": "에니와 토탈에너지스가 키프로스의 첫 가스전 개발을 승인했다.크로노스 가스전은 2028년부터 이집트를 통해 액화천연가스(LNG) 수출 물량을 공급할 예정이다.이번 프로젝트는 키프로스가 자국 해상 가스 자원을 본격적으로 상업화하는 첫...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/382965",
-    "published_at": "Thu, 30 Jul 2026 07:02:11 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "크립토와 관련이 없는 뉴스이지만, 크립토 시장에 영향을 미칠 수 있는 대형 거래소·기관의 중대 발표와 유사한 파급력을 가진 뉴스이다. 키프로스 첫 가스전 개발 승인이 크립토 시장에 직접적인 영향을 미치지는 않지만, 에너지 시장의 변동이 크립토 가격에 영향을 미칠 수 있으므로, 관련성이 있다.",
-    "collected_at": "2026-07-30T09:12:57.217423+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "이더리움재단, 새 이사로 스마트컨트랙트 보안 전문가 선임… 거버넌스 개편 ‘속도’",
-    "content": "[블록미디어 양원모 기자] 이더리움재단이 스마트컨트랙트 보안 전문가 파스칼 카베르사치오(pc)를 이사회 신임 이사로 선임했다. 최근 조직 개편과 운영 체계 재정비를 추진 중인 재단이 기술 보안과 프라이버시 분야의 전문성을 이사회 차원으로 확대하며 장기 전략 강화에 나섰다는 평가가 나온다. 30일(현지시각) 이더리움재단에 따르면 이번 선임으로 재단 이사회는 비탈릭 부테린 공동창업자, 아야 미야구치 재단 대표, 스위스 법률 자문인 패트릭 스토르헤네거(Patrick [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122402?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 08:43:03 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 재단이 스마트 컨트랙트 보안 전문가를 새 이사로 선임하여 기술 보안과 프라이버시 분야의 전문성을 확대하는 것으로 보아, 시청자에게 유의미한 뉴스이지만 영향 범위가 제한적일 것으로 추정된다.",
-    "collected_at": "2026-07-30T09:14:26.814276+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "259억 달러 규모 시장에 경고 던진 SEC, 리스크 큐레이터는 왜 표적이 되었는가? – 타이거리서치",
-    "content": "2026년 7월 22일, 미국 증권거래위원회(SEC) 헤스터 피어스(Hester Peirce) 위원이 온체인 볼트 및 대출 전략을 지적하는 성명을 발표했습니다. 이에 따른 주체들에게 가해질 영향과 업계의 대응 현황을 다각도로 분석합니다. Key Takeaways SEC에서 온체인 볼트에 기존 증권법 논리가 상품별 사실관계에 따라 적용될 수 있다는 성명을 냈다. 넓게 적용하면 볼트·큐레이터를 넘어 재량 기반 상품 전반, 약 259억 달러 상당의 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1121781?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 08:30:12 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "SEC의 공식 발표와 관련된 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-30T09:14:44.294157+00:00"
   }
 ]
