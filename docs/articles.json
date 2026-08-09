@@ -2,6 +2,54 @@
   {
     "source": "wublockchainenglish",
     "source_type": "telegram",
+    "title": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain",
+    "content": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain\nA minority fork backed by BIP-110 supporters emerged after Bitcoin block height 961,632. The BIP-110-supporting pool Roughnecks had produced only blocks 961,632 and 961,633, while the Bitcoin chain had advanced to block 961,651, putting it 18 blocks ahead. The split coincided with Bitcoin’s mining difficulty adjusting to 127.48 T. Because the BIP-110 chain has far less hash power while operating at the same difficulty, its block production has slowed. BIP-110 supporter Matthew Kratter acknowledged that the minority chain would require a “massive change” to overtake the main chain, while some supporters have begun discussing a switch to a proof-of-work algorithm. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25483",
+    "published_at": "2026-08-09T05:13:47+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 메인 체인과 18 블록 차이로 분기된 BIP-110 소수 분기와 관련된 뉴스, 대형 거래소나 유명 프로젝트와의 파트너십은 아니지만, 크립토 업계 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-09T05:27:56.957485+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "백악관 암호화폐 고문, CLARITY 법안 9월 마감 시한 앞두고 상원 민주당 의원들 맹비난",
+    "content": "백악관 암호화폐 고문, CLARITY 법안 9월 마감 시한 앞두고 상원 민주당 의원들 맹비난",
+    "url": "https://www.cryptopolitan.com/ko/white-house-crypto-adviser-blast-senate-dems/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "백악관 암호화폐 고문과 CLARITY 법안이 관련되어 있으며, 상원 민주당 의원들의 맹비난은 법안의 파급력을 높게 평가하는 근거가 된다.",
+    "collected_at": "2026-08-09T05:30:15.373097+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "아이언우드, 9억 5,500만 달러 규모로 Zcash 최대 프라이버시 풀이 되다",
+    "content": "아이언우드, 9억 5,500만 달러 규모로 Zcash 최대 프라이버시 풀이 되다",
+    "url": "https://ns3.ai/ko/news/ReUEsuBCi5",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 Zcash의 최대 프라이버시 풀을 구입하는 소식으로, 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-09T05:30:46.339335+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "FlashTrade, 운영 중단 및 FAF 보유자 보상을 위한 기술 매각 추진",
+    "content": "FlashTrade, 운영 중단 및 FAF 보유자 보상을 위한 기술 매각 추진",
+    "url": "https://ns3.ai/ko/news/tQmz2fVw1k",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "FlashTrade의 운영 중단과 FAF 보유자 보상을 위한 기술 매각 추진은 크립토 시장에 큰 영향을 줄 수 있는 중요한 뉴스입니다. FlashTrade의 중단과 보상은 크립토 시장의 신뢰성을 위협할 수 있고, 기술 매각은 새로운 사업 모델의 가능성을 열어놓을 수 있습니다.",
+    "collected_at": "2026-08-09T05:31:02.723650+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
     "title": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward",
     "content": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward\nGrayscale Head of Research Zach Pandl said the chances of the CLARITY Act passing this year now appear low due to the Senate calendar and election-year politics. He argued that failure to pass the bill would not immediately affect Bitcoin, major blockchains or the growth of stablecoin payments, while the SEC and other regulators are expected to continue filling regulatory gaps through rulemaking, particularly around tokenized securities. However, without a comprehensive U.S. market structure framework, a greater share of new investment and developer activity could shift overseas. — \nlink",
     "url": "https://t.me/wublockchainenglish/25482",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 채굴업계가 AI와 HPC 데이터센터 사업에 수십억달러를 투입하고 있으며, 이는 비트코인 가격 회복과 함께 채굴업체들의 전략적 선택권을 잃을 수 있다는 경고가 나왔다.",
     "collected_at": "2026-07-29T17:46:52.638871+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Binance launches regulated gold, silver options through ADGM exchange",
-    "content": "New commodity options let traders gain exposure to gold and silver prices through Binance’s Abu Dhabi-regulated exchange.",
-    "url": "https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 17:09:24 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소인 Binance가 금·은 옵션을 출시하는 뉴스이며, 구체적인 금·은 가격과 관련된 뉴스이기도 하다.",
-    "collected_at": "2026-07-29T17:47:08.221040+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
-    "content": "MoonPay’s PayBox vault lets ChatGPT and Claude users authorize crypto purchases, token swaps and crosschain transactions while retaining custody of their assets.",
-    "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 16:20:37 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래를 위한 새로운 보안 장치를 사용할 수 있게 해주는 뉴스, 관련 주체는 유명한 서비스인 ChatGPT와 Claude, 그러나 시장 전체에 큰 영향을 미치지 않는 소식",
-    "collected_at": "2026-07-29T17:47:40.224964+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "What is Zcash (ZEC)? The Privacy Coin Using Zero-Knowledge Proofs",
-    "content": "Zcash is a privacy-focused cryptocurrency that enables users to hide key details of transactions by leveraging zk-SNARKs.",
-    "url": "https://decrypt.co/resources/zcash",
-    "published_at": "Wed, 29 Jul 2026 16:43:52 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 뉴스이며, 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스",
-    "collected_at": "2026-07-29T17:48:10.410462+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "앵커리지 디지털, 연준 결제 계좌 제안 비판",
-    "content": "앵커리지 디지털, 연준 결제 계좌 제안 비판",
-    "url": "https://ns3.ai/ko/news/0Ini3EQR44",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "앵커리지 디지털이 연준의 결제 계좌 제안에 대해 비판하는 뉴스, 관련 주체는 중견 프로젝트로 파급 범위는 크립토 시장 전반",
-    "collected_at": "2026-07-29T17:50:19.268639+00:00"
   }
 ]
