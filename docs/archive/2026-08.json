@@ -1,5 +1,17 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 BIP-110 분기 멈췄다…강제 신호 체인 88블록 뒤처져",
+    "content": "비트코인(BTC)의 ‘BIP-110’ 적용 분기가 주말 사이 사실상 멈춰섰다. 강제 신호를 받아들이는 체인은 961,633블록에서 두 개만 더 쌓인 뒤 정체됐고, 일반 비트코인 체인은 961,721블록까지 진입하며 격차가 88블록으로 벌어졌다. 13일 코인텔레그래프에 따르면 10시 19분(UTC) 기준 BIP-110 모니터에서 마지막 블록은 약 12시간 전에 채굴된 것으로 나타났다. 오션(Ocean) 기록에는 가명 채굴 그룹 ‘러프넥스(Roughnecks)’가 오션의 ‘DATUM’ 채굴 프로토콜로 해당 분기의 첫 두 블록을 생산한 것으로 확인됐다.강제 신호 구간 진입 뒤 채산성·속도 모두 흔들려분기 혼선은 토요일 블록 961,632에서 BIP-110이 ‘의무 신호’ 구간에 들어가면서...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387219",
+    "published_at": "Sun, 09 Aug 2026 11:25:46 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110 분기가 멈추면서 강제 신호 체인이 일반 비트코인 체인보다 88블록 뒤처졌고, 분기 혼선이 발생했다. 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-09T11:29:56.455221+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Highlight Clip Michael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market",
