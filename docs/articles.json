@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward",
+    "content": "Grayscale: CLARITY Act Unlikely to Pass This Year, but Crypto Can Still Move Forward\nGrayscale Head of Research Zach Pandl said the chances of the CLARITY Act passing this year now appear low due to the Senate calendar and election-year politics. He argued that failure to pass the bill would not immediately affect Bitcoin, major blockchains or the growth of stablecoin payments, while the SEC and other regulators are expected to continue filling regulatory gaps through rulemaking, particularly around tokenized securities. However, without a comprehensive U.S. market structure framework, a greater share of new investment and developer activity could shift overseas. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25482",
+    "published_at": "2026-08-09T03:48:54+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CLARITY Act의 통과 가능성이 낮아지면서 미국 시장 구조_framework의 부족으로 해외로 새로운 투자와 개발 활동이 증가할 수 있지만, 비트코인 및 주요 블록체인에 즉각적인 영향은 없을 것이라고 한다.",
+    "collected_at": "2026-08-09T04:13:57.801867+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[오후 뉴스브리핑] 클래리티 법안 9월 15일 토론종결 표결 外",
+    "content": "미 상원, 가상자산 시장구조 법안 클래리티의 토론 종결 표결을 9월 15일로 정했다.\n존 튠 상원 다수당 원내대표가 클로처 모션을 제출하며 법안이 본회의 심의로 넘어갈 길이 열렸다고 더블록이 9일 보도했다. 가결에는 최소 60표가 필요한데, 공화당 53석으로는 정족수를 채울 수 없어 민주당의 지지가 필수적이다.\n채굴자 관련으로 추정되는 주소가 20일간 바이낸스에 비트코인 6,400개를 입금했다.\n이 주소는 9일까지 이틀 사이 2,802개를 입금해 약 1억8,200만 달러(약 2,570억원)를 전달했다고 우블록체인이 9일 전했다. 지난 20일 동안 바이낸스로 보낸 누적 규모는 6,400개를 넘는다.\n비트코인(BTC)의 BIP-110을 지지하는 노드들이...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/387137",
+    "published_at": "Sun, 09 Aug 2026 03:05:14 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미 상원에서 가상자산 시장구조 법안 클래리티의 토론 종결 표결을 9월 15일로 정했고, 민주당의 지지가 필수적이다. 또한, 채굴자 관련으로 추정되는 주소가 바이낸스에 비트코인 6,400개를 입금했다.",
+    "collected_at": "2026-08-09T04:14:07.034070+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "메타마스크, AI 전용 지갑 출시… ‘인간’ 너머 ‘기계 에이전트’ 시대로",
+    "content": "메타마스크, AI 전용 지갑 출시… ‘인간’ 너머 ‘기계 에이전트’ 시대로",
+    "url": "https://cryptonews.com/kr/news/metamask-launches-ai-specific-wallet/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "메타마스크가 AI 전용 지갑을 출시하는 것은 크립토 업계의 큰 뉴스이며, AI가 인간을 넘어 기계 에이전트로 대체하는 시대에 대한 논의도 포함되어 있어, 파급력이 크고 여러 자산·시장 전반에 영향을 줄 가능성이 있지만 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-08-09T04:16:21.326467+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "토큰화 업계, 10조 달러 규모 금 시장 공략에 나서",
+    "content": "토큰화 업계, 10조 달러 규모 금 시장 공략에 나서",
+    "url": "https://ns3.ai/ko/news/ZeZ7RGD5Nx",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트가 금 시장에 진출하는 뉴스, 여러 자산·시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-09T04:17:08.364132+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "XRP 레저 업그레이드에도 규제 불확실성에 XRP 가격 변동",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "앵커리지 디지털이 연준의 결제 계좌 제안에 대해 비판하는 뉴스, 관련 주체는 중견 프로젝트로 파급 범위는 크립토 시장 전반",
     "collected_at": "2026-07-29T17:50:19.268639+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Memories of a Long-Time BitMEX User: Did the March 12 Outage Save Crypto? Why Bybit Took Over",
-    "content": "Memories of a Long-Time BitMEX User: Did the March 12 Outage Save Crypto? Why Bybit Took Over\nBitMEX helped establish perpetual contracts as core crypto market infrastructure through mechanisms such as funding rates, mark prices, insurance funds, liquidation engines, and ADL. The article examines how inverse contracts amplified the March 12, 2020 liquidation cascade and why BitMEX’s outage may have interrupted the cascade and prevented Bitcoin from falling further.\nIt also explains how regulatory pressure, slow product development, continued reliance on BTC-margined contracts, and a poor operational experience pushed users toward Bybit, which gained market share through USDT-margined products, faster iteration, and a broader “super-app” model. Despite its decline and closure, BitMEX remains one of the most important product innovators in crypto derivatives. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25340",
-    "published_at": "2026-07-29T16:00:20+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "BitMEX의 폐쇄와 Bybit의 상승에 대한 이유와 영향이 크립토 시장에 미친 영향에 대한 분석이 자세히 설명되어 있다.",
-    "collected_at": "2026-07-29T16:15:46.960375+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "브레일, 스테이블코인 확장 병목 겨냥한 상호운용 프로토콜 공개",
-    "content": "스테이블코인 인프라 기업 브레일이 블록체인 간 자산 이동 문제를 해결하기 위한 새로운 상호운용성 프로토콜을 공개했다. 빠르게 늘어나는 스테이블코인 생태계의 ‘확장 병목’을 겨냥한 해법이다.브레일은 최근 ‘ION 프로토콜’을 출시하고, 서로 다른 블록체인 간 스테이블코인을 이동할 수 있는 구조를 도입했다. 이 방식은 한 체인에서 토큰을 ‘소각(burn)’하고 다른 체인에서 동일한 수량을 ‘발행(mint)’하는 구조로 작동한다. 기존 브리지처럼 체인마다 유동성 풀을 미리 구축할 필요가 없다는 점이 핵심이다.현재 약 3,000억 달러(약 435조 원) 규모의 스테이블코인 시장은 테더의 유에스디티(USDT)와 서클의 유에스디코인(USDC)이...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/382717",
-    "published_at": "Wed, 29 Jul 2026 15:40:16 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "스테이블코인 인프라 기업 브레일이 블록체인 간 자산 이동 문제를 해결하기 위한 새로운 상호운용성 프로토콜을 공개했다. 이 프로토콜은 스테이블코인 생태계의 확장 병목을 겨냥한 해법으로, 서로 다른 블록체인 간 스테이블코인을 이동할 수 있는 구조를 도입했다. 기존 브리지처럼 체인마다 유동성 풀을 미리 구축할 필요가 없다는 점이 핵심이다.",
-    "collected_at": "2026-07-29T16:15:55.402685+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스테이블코인 350종…브레일, 브리지 병목 겨냥했다",
-    "content": "스테이블코인 시장이 350종을 넘고 약 3000억 달러(약 416조원) 규모로 커지면서 체인 간 유동성이 새 병목으로 부상했다. 기업형 스테이블코인이 늘수록 발행보다 여러 블록체인 사이에서 토큰을 어떻게 옮길지가 더 큰 과제가 되고 있다는 분석이다.\n스테이블코인 인프라 기업 브레일은 크로스체인 상호운용 프로토콜 아이온 프로토콜(ION Protocol)을 공개하고 테스트넷 가동에 들어갔다고 코인데스크는 29일(현지시간) 전했다. 이 프로토콜은 참여 스테이블코인을 한 블록체인에서 소각한 뒤 다른 체인에서 같은 양을 새로 발행하는 구조다.\n기존 브리지 모델은 체인마다 유동성 풀을 미리 채워두거나 랩드 토큰을 활용하는 방식이 많다....  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382713",
-    "published_at": "Wed, 29 Jul 2026 15:35:52 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "스테이블코인 시장이 크게 커지면서 체인 간 유동성 문제가 발생하고, 브레일이 이를 해결하기 위한 프로토콜을 공개하는 등 크립토 업계 전반에 영향을 줄 만한 뉴스",
-    "collected_at": "2026-07-29T16:16:36.374016+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "코인베이스 실적보다 가이던스에 쏠린 눈…규제 변화가 분기점 될까",
-    "content": "코인베이스(COIN)가 2분기 실적 발표를 앞둔 가운데, 시장의 시선은 실적 수치보다 ‘하반기 전망’과 규제 환경 변화에 쏠리고 있다. 거래 둔화가 뚜렷했던 만큼, 향후 성장 동력과 구조 전환 여부가 핵심 변수로 떠오른다.2분기 전반적인 암호화폐 시장은 약세 흐름을 보였다. 비트코인(BTC)은 약 14%, 이더리움(ETH)은 약 25% 하락하며 투자 심리가 위축됐고, 개인 투자자 참여도 역시 제한적이었다. 6월 일부 반등이 있었지만 4~5월 부진을 상쇄하기엔 부족했다는 분석이 우세하다.거래 감소 직격탄…실적 눈높이 하향주요 증권사들은 실적 발표를 앞두고 일제히 전망치를 낮췄다. 바클레이즈는 코인베이스의 2분기 거래량을 약 1520억 달러(약...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382712",
-    "published_at": "Wed, 29 Jul 2026 15:30:37 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "코인베이스의 실적 발표와 규제 환경 변화에 대한 시장의 관심이 쏠려 있으며, 향후 성장 동력과 구조 전환 여부가 핵심 변수로 떠오르고 있다.",
-    "collected_at": "2026-07-29T16:16:54.856952+00:00"
   }
 ]
