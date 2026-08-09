@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Highlight Clip Michael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market",
+    "content": "Highlight Clip Michael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market\nMichael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market\nStrategy founder Michael Saylor said in an August 6 interview with The Diary Of A CEO that the market believed Strategy could not sell Bitcoin because doing so might cause BTC to crash, leaving the company trapped in a \"doom loop\" of repeatedly selling equity to pay dividends. To break that narrative, Strategy sold Bitcoin when BTC was trading at around $59,000 to $60,000, and the price instead moved higher. Saylor said the company's break-even point is about 3.2%, meaning that if Bitcoin appreciates by that amount, Strategy can sell part of its BTC to pay dividends without continuing to sell equity. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25485",
+    "published_at": "2026-08-09T10:13:32+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "마이클 세일러가 비트코인 판매를 통해 시장에 영향을 주지 않는다는 것을 증명하기 위해 비트코인을 판매한 사실이 언급되며, 이에 대한 시장 반응도 언급된다.",
+    "collected_at": "2026-08-09T10:59:33.695777+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "content": "[블록미디어 이정화 기자] 미국 비트코인 채굴 기업 마라톤 디지털 홀딩스(MARA)가 1만8750비트코인을 담보로 6억달러 규모의 신규 대출 자금을 확보했다고 9일 우블록체인이 보도했다. 이번 자금 조달은 에너지 및 인공지능(AI) 인프라 확장을 위한 것으로, 디지털자산 보유량을 활용한 성장 전략으로 풀이된다. 비트코인 담보 대출로 유동성 확보 마라톤 디지털은 지난 8월 4일 코인베이스 크레딧(Coinbase Credit)과 투 프라임 렌딩(Two Prime Lending)으로부터 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125775?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 10:34:41 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 담보 대출로 유동성 확보하는 마라톤 디지털의 에너지 및 AI 인프라 확장 계획이 언급되며, 이는 크립토 업계의 일반적인 뉴스에 해당한다. 다만, 대출 규모가 크고, 에너지 및 AI 인프라 확장에 대한 언급이 있으므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-09T10:59:40.134632+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "content": "[블록미디어 명정선 기자] 한 주간(8월1일~8월8일) 온체인 브릿지 자금은 하이퍼리퀴드(Hyperliquid)와 이더리움으로 집중된 반면 아비트럼(Arbitrum)에서는 대규모 자금 유출이 발생했다. 특히 로빈후드체인(Robinhood Chain)이 주간 순유입 상위권에 처음 이름을 올리며 새로운 유동성 흡수처로 부상한 점이 눈길을 끌었다. 시장이 방향성을 탐색하는 가운데 투자자들은 단순히 시장을 떠나기보다 성장성이 높은 생태계로 자금을 재배치하는 모습이다. 8일(현지시각) 블록미디어가 아르테미스(Artemis)의 최근 1주일 브릿지 데이터를 분석한 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125285?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 10:11:23 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드체인이 첫 '톱10' 진입한 점과 함께 새로운 유동성 흡수처로 부상한 점이 눈길을 끄는 뉴스이다. 그러나 아직 시장 전체를 흔들 정도는 아님.",
+    "collected_at": "2026-08-09T10:59:58.267502+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "content": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "url": "https://www.blockmedia.co.kr/archives/1125775?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 마라가 비트코인 담보로 6억달러를 조달하는 뉴스이며, AI 인프라 확장에 대한 구체적인 내용이 언급되어 있지 않지만, 비트코인 담보로 조달하는 금액이 대형 규모로 언급되어 있어 8점을 부여합니다.",
+    "collected_at": "2026-08-09T11:00:13.979282+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "content": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "url": "https://www.blockmedia.co.kr/archives/1125285?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "로빈후드체인이 톱10에 진입한 것은 크립토 시장에 영향을 줄 만한 뉴스이며, 하이퍼리퀴드가 4억달러를 유입한 것은 관련 주체의 규모가 크고 파급 범위가 크다.",
+    "collected_at": "2026-08-09T11:01:33.567646+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "브라질, 해외 전송·셀프커스터디에 24시간 보류…가상자산 검증 강화",

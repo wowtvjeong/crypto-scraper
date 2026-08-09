@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Highlight Clip Michael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market",
+    "content": "Highlight Clip Michael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market\nMichael Saylor: We Sold Bitcoin to Prove It Wouldn't Crash the Market\nStrategy founder Michael Saylor said in an August 6 interview with The Diary Of A CEO that the market believed Strategy could not sell Bitcoin because doing so might cause BTC to crash, leaving the company trapped in a \"doom loop\" of repeatedly selling equity to pay dividends. To break that narrative, Strategy sold Bitcoin when BTC was trading at around $59,000 to $60,000, and the price instead moved higher. Saylor said the company's break-even point is about 3.2%, meaning that if Bitcoin appreciates by that amount, Strategy can sell part of its BTC to pay dividends without continuing to sell equity. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25485",
+    "published_at": "2026-08-09T10:13:32+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "마이클 세일러가 비트코인 판매를 통해 시장에 영향을 주지 않는다는 것을 증명하기 위해 비트코인을 판매한 사실이 언급되며, 이에 대한 시장 반응도 언급된다.",
+    "collected_at": "2026-08-09T10:59:33.695777+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "content": "[블록미디어 이정화 기자] 미국 비트코인 채굴 기업 마라톤 디지털 홀딩스(MARA)가 1만8750비트코인을 담보로 6억달러 규모의 신규 대출 자금을 확보했다고 9일 우블록체인이 보도했다. 이번 자금 조달은 에너지 및 인공지능(AI) 인프라 확장을 위한 것으로, 디지털자산 보유량을 활용한 성장 전략으로 풀이된다. 비트코인 담보 대출로 유동성 확보 마라톤 디지털은 지난 8월 4일 코인베이스 크레딧(Coinbase Credit)과 투 프라임 렌딩(Two Prime Lending)으로부터 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125775?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 10:34:41 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 담보 대출로 유동성 확보하는 마라톤 디지털의 에너지 및 AI 인프라 확장 계획이 언급되며, 이는 크립토 업계의 일반적인 뉴스에 해당한다. 다만, 대출 규모가 크고, 에너지 및 AI 인프라 확장에 대한 언급이 있으므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-09T10:59:40.134632+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "content": "[블록미디어 명정선 기자] 한 주간(8월1일~8월8일) 온체인 브릿지 자금은 하이퍼리퀴드(Hyperliquid)와 이더리움으로 집중된 반면 아비트럼(Arbitrum)에서는 대규모 자금 유출이 발생했다. 특히 로빈후드체인(Robinhood Chain)이 주간 순유입 상위권에 처음 이름을 올리며 새로운 유동성 흡수처로 부상한 점이 눈길을 끌었다. 시장이 방향성을 탐색하는 가운데 투자자들은 단순히 시장을 떠나기보다 성장성이 높은 생태계로 자금을 재배치하는 모습이다. 8일(현지시각) 블록미디어가 아르테미스(Artemis)의 최근 1주일 브릿지 데이터를 분석한 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1125285?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 09 Aug 2026 10:11:23 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드체인이 첫 '톱10' 진입한 점과 함께 새로운 유동성 흡수처로 부상한 점이 눈길을 끄는 뉴스이다. 그러나 아직 시장 전체를 흔들 정도는 아님.",
+    "collected_at": "2026-08-09T10:59:58.267502+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "content": "마라 “비트코인 담보 6억달러 조달…AI 인프라 확장”",
+    "url": "https://www.blockmedia.co.kr/archives/1125775?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 마라가 비트코인 담보로 6억달러를 조달하는 뉴스이며, AI 인프라 확장에 대한 구체적인 내용이 언급되어 있지 않지만, 비트코인 담보로 조달하는 금액이 대형 규모로 언급되어 있어 8점을 부여합니다.",
+    "collected_at": "2026-08-09T11:00:13.979282+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "content": "[온체인동향] 하이퍼리퀴드로 4억달러 유입…로빈후드체인 첫 ‘톱10’ 진입",
+    "url": "https://www.blockmedia.co.kr/archives/1125285?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "로빈후드체인이 톱10에 진입한 것은 크립토 시장에 영향을 줄 만한 뉴스이며, 하이퍼리퀴드가 4억달러를 유입한 것은 관련 주체의 규모가 크고 파급 범위가 크다.",
+    "collected_at": "2026-08-09T11:01:33.567646+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "브라질, 해외 전송·셀프커스터디에 24시간 보류…가상자산 검증 강화",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "연준의 기준금리 동결에 대한 시장의 반응과 암호화폐 시장이 약세로 돌아선 배경에 대한 분석이 담겨있다. 또한, 연준 내부의 기류 변화가 시장에 미친 영향이 크게 작용한 결과로 해석된다.",
     "collected_at": "2026-07-30T03:55:20.694024+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“매수도 매도도 멈췄다”… 비트코인 시장은 지금 ‘개점 휴업’ 중",
-    "content": "[블록미디어 양원모 기자] 비트코인 시장이 좀처럼 보기 드문 ‘침묵’에 빠졌다. 현물 거래량은 2019년 이후 가장 낮은 수준으로 떨어졌고, 거래소를 오가는 비트코인 물량도 크게 줄었다. 옵션시장이 예상하는 향후 변동성마저 바닥권에 머물면서 시장 전반이 사실상 ‘관망 모드’에 들어갔다는 분석이다. 온체인 분석업체 글래스노드는 29일(현지시각) 공개한 주간 보고서에서 “시장 유동성을 보여주는 주요 지표들이 동시에 극단적인 침체를 나타내고 있다”며 “투자자들이 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122264?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 03:31:33 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 시장의 거래량과 유동성이 크게 줄어들어, 시장 전반적으로 '관망 모드'에 들어간 것으로 분석된다.",
-    "collected_at": "2026-07-30T03:56:15.028709+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "조르디 비서 “비트코인보다 스테이블코인이 금융 판 바꿀 것”",
-    "content": "[블록미디어 이정화 기자] 베테랑 거시경제 투자자인 조르디 비서(Jordi Visser) 비서 랩스 설립자가 인공지능(AI) 투자 시장이 초기 고수익 국면을 지나 선별의 단계에 들어섰다고 진단했다. 비트코인에 대해서는 달러를 대체할 기축통화라기보다 가치 저장 수단으로 자리 잡을 가능성이 크다고 평가했다. 반면 스테이블코인은 국제 결제와 AI 에이전트 거래의 핵심 인프라로 부상할 수 있다고 내다봤다. AI 투자 ‘쉬운 돈’ 시대 종료…인프라와 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122246?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 01:57:38 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "조르디 비서가 스테이블코인이 금융 판을 바꿀 것이라고 예측하는 뉴스, 스테이블코인이 국제 결제와 AI 에이전트 거래의 핵심 인프라로 부상할 가능성이 있다고 내다봄",
-    "collected_at": "2026-07-30T03:57:06.434161+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "하이퍼리퀴드 개발사·기관 잇단 대규모 HYPE 이동…3200만달러 시장 촉각",
-    "content": "[블록미디어 명정선 기자] 하이퍼리퀴드의 자체 토큰 HYPE를 둘러싼 대규모 온체인 이동이 잇따라 확인되면서 시장의 관심이 집중되고 있다. 개발사인 하이퍼랩스가 2300만달러 규모의 HYPE에 대한 언스테이킹 절차를 시작한 데 이어 기관 투자자인 멀티코인 캐피털과 비트와이즈도 약 870만달러 규모의 HYPE를 거래소로 옮긴 것으로 나타났다. 30일 온체인 분석 데이터에 따르면 하이퍼리퀴드 개발사 하이퍼랩스 관련 주소는 약 8시간 전 43만3000 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122254?utm_source=general&utm_medium=rss",
-    "published_at": "Thu, 30 Jul 2026 01:36:22 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대규모 온체인 이동과 기관 투자자 참여로 시장의 관심이 집중되고 있으며, 하이퍼리퀴드 개발사와 기관 투자자 간의 거래가 진행되고 있다.",
-    "collected_at": "2026-07-30T03:57:24.044754+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "로빈후드, 예측시장 매출이 코인 제쳤다",
-    "content": "로빈후드, 예측시장 매출이 코인 제쳤다",
-    "url": "https://www.decenter.kr/article/20073732",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "로빈후드의 예측시장 매출이 코인 매출을 초과하는 것으로 나타났는데, 이는 크립토 시장에 큰 영향을 줄 수 있는 대형 거래소의 중요한 뉴스입니다.",
-    "collected_at": "2026-07-30T03:57:41.708535+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Japanese game developer launches Bitcoin, altcoin fund with SBI",
-    "content": "The Bitcoin and altcoin fund builds on Gumi’s growing crypto business centered around XRP, with the company nearly doubling its crypto holdings over the past year.",
-    "url": "https://cointelegraph.com/news/japanese-game-developer-bitcoin-altcoin-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 30 Jul 2026 03:19:58 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "일본 게임 개발사인 Gumi가 비트코인 및 알트코인 펀드에 투자하며, 그들의 크립토 비즈니스에 대한 성장에 기여한다.",
-    "collected_at": "2026-07-30T03:58:14.684633+00:00"
   }
 ]
