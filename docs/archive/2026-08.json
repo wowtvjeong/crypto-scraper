@@ -1,5 +1,29 @@
 [
   {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+    "content": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+    "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+    "published_at": "Sun, 09 Aug 2026 14:19:35 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T14:24:19.989369+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Empery Digital, 1,635 BTC를 1억 220만 달러에 매각해 무제한 사용 가능 보유량 축소",
+    "content": "Empery Digital, 1,635 BTC를 1억 220만 달러에 매각해 무제한 사용 가능 보유량 축소",
+    "url": "https://ns3.ai/ko/news/254SYYIEq5",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 기사지만, 특정 코인 한정 이슈로 시청자에게 유의미하지만 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-09T14:24:20.418373+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Asia's weekly TOP10 crypto news",
