@@ -1,5 +1,29 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
+    "content": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
+    "url": "https://ns3.ai/ko/news/MSrTplhx0R",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Kraken이 상장 폐지된 21개 토큰의 출금 마감 시한을 설정하는 뉴스, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T21:32:38.707481+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "JP Morgan Mentions XRP In Critical Warning Message",
+    "content": "JP Morgan Mentions XRP In Critical Warning Message",
+    "url": "https://coinmarketcap.com/community/articles/6a78eb80299c4738cd9b6115/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "JP Morgan의 경고 메시지에서 XRP을 언급하는 등 대형 금융 기관의 중견 프로젝트에 대한 관심을 보이는 뉴스",
+    "collected_at": "2026-08-09T21:33:11.188593+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[뉴욕 코인시황] 비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",

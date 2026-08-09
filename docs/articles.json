@@ -1,5 +1,29 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
+    "content": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
+    "url": "https://ns3.ai/ko/news/MSrTplhx0R",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Kraken이 상장 폐지된 21개 토큰의 출금 마감 시한을 설정하는 뉴스, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T21:32:38.707481+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "JP Morgan Mentions XRP In Critical Warning Message",
+    "content": "JP Morgan Mentions XRP In Critical Warning Message",
+    "url": "https://coinmarketcap.com/community/articles/6a78eb80299c4738cd9b6115/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "JP Morgan의 경고 메시지에서 XRP을 언급하는 등 대형 금융 기관의 중견 프로젝트에 대한 관심을 보이는 뉴스",
+    "collected_at": "2026-08-09T21:33:11.188593+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[뉴욕 코인시황] 비트코인 6만5000달러 회복…ETF 자금 유입에 반등, 장기 저항선은 ‘경계’",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "솔라나의 가격 변동과 ETF 수요, 생태계 확장 소식이 시장 참여자들의 시선에 집중되고 있지만, 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-07-30T09:10:21.042159+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "7월 30일 퇴근길 팟캐스트 — 1억4579만 달러 청산, 비트코인·이더리움 중심 레버리지 해소",
-    "content": "지난 24시간 동안 암호화폐 시장에서 약 1억4579만 달러 상당의 포지션이 강제 청산됐다. 단순한 가격 조정보다 레버리지 포지션이 한꺼번에 정리된 사건이라는 점에서 오늘 시장의 핵심 변수로 읽힌다.이번 청산은 이더리움 5592만 달러, 비트코인 5024만 달러에 집중됐다. 시장의 중심 자산에서 청산이 컸다는 것은 개별 알트코인 이슈보다 시장 전반의 위험 선호가 약해졌다는 신호에 가깝다.시장 충격 반응비트코인은 전날보다 0.61% 내린 6만3959달러, 이더리움은 1.01% 하락한 1899달러에 거래됐다. 청산 규모에 비해 가격 하락폭은 제한적이어서 급락보다는 과열 포지션 정리 성격이 더 강하게 해석된다.알트코인은 종목별로 엇갈렸다....  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382978",
-    "published_at": "Thu, 30 Jul 2026 08:11:33 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "레버리지 포지션의 한꺼번에 정리가 시장 전반의 위험 선호가 약해졌다는 신호를 보내고, 비트코인과 이더리움 중심으로 집중된 청산 규모가 시장의 중심 자산에서 청산이 컸다는 점에서 중요하다고 판단",
-    "collected_at": "2026-07-30T09:10:39.642470+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 보합에도 2억8600만달러 청산…롱·숏 쓸렸다",
-    "content": "비트코인(BTC)과 이더리움(ETH)이 24시간 동안 보합권에 머문 사이 암호화폐 파생상품 시장에서 2억8600만 달러(약 4150억원)가 강제청산됐다. 연방준비제도(Fed·연준) 금리 결정 전후 위아래로 흔들린 가격이 레버리지 포지션을 대거 정리한 것으로 풀이된다.\n데이터 분석업체 코인글래스 집계 기준 최근 24시간 청산 대상 트레이더는 8만7294명이었다고 코인데스크는 전했다. 같은 기간 BTC는 6만3900달러(약 9280만원) 부근에서 보합권을 유지했고, ETH는 1900달러(약 276만원)로 소폭 내렸다. 본지 시세브리핑에서도 BTC는 6만4100달러대, ETH는 1900달러 안팎의 혼조세를 보였다.\n청산은 한쪽으로 쏠리지 않았다. 롱 포지션 청산은...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382976",
-    "published_at": "Thu, 30 Jul 2026 07:40:03 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인과 이더리움의 파생상품 시장에서 2억8600만 달러가 청산되었고, 이는 레버리지 포지션을 대거 정리한 것으로 풀이된다. 이 뉴스는 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스이다.",
-    "collected_at": "2026-07-30T09:11:36.282280+00:00"
   }
 ]
