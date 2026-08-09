@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "content": "토큰 주식 시장이 올해 들어 가파르게 커지면서, 블록체인을 기반으로 한 실물연계자산 투자 시장에서 가장 빠른 성장 분야로 떠올랐다.10일 실물연계자산 분석 플랫폼 알더블유에이닷엑스와이제트(RWA.xyz)에 따르면 세계 토큰 주식 시가총액은 8월 4일 기준 25억1천281만달러로 집계됐다. 올해 초 6억7천301만달러와 비교하면 273.37% 늘어난 규모다. 7개월 남짓한 기간에 시장이 사실상 4배 가까이 불어난 셈이다. 여기서 토큰 주식은 상장 주식과 상장지수펀드(ETF)를 블록체인 위에서 토큰 형태로 발행하거나 거래할 수 있도록 만든 상품을 뜻한다. 투자자는 이를 통해 시간 제약을 덜 받고 24시간 거래에 접근할 수 있다는 점에서 관심을...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387263",
+    "published_at": "Sun, 09 Aug 2026 21:37:24 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "토큰 주식 시장의 273% 폭발적 성장과 관련된 뉴스, 시가총액이 4배 가까이 증가한 것을 언급함",
+    "collected_at": "2026-08-09T22:19:10.324028+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "content": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "url": "https://www.tokenpost.kr/news/blockchain/387263",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "토큰 주식 시장의 273% 폭발적 성장은 크립토 시장에 큰 영향을 미칠 수 있는重大 뉴스입니다.",
+    "collected_at": "2026-08-09T22:20:26.979634+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "크라켄 상장폐지 임박…21종 토큰 보유자, 거의 0에 가까운 회수 위험",
+    "content": "크라켄 상장폐지 임박…21종 토큰 보유자, 거의 0에 가까운 회수 위험",
+    "url": "https://kr.beincrypto.com/kraken-delisting-deadline-21-tokens/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크라켄 상장폐지로 인해 21종 토큰 보유자에게 거의 0에 가까운 회수 위험이 발생할 수 있어, 이는 크립토 시장 전반에 영향을 줄 수 있는重大 뉴스이다.",
+    "collected_at": "2026-08-09T22:20:44.525459+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "크라켄, 상장폐지된 21개 토큰 출금 마감 시한을 8월 27일로 설정",
+    "content": "크라켄, 상장폐지된 21개 토큰 출금 마감 시한을 8월 27일로 설정",
+    "url": "https://ns3.ai/ko/news/fBgnIaHlrK",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크라켄이 상장폐지된 21개 토큰의 출금 마감 시한을 8월 27일로 설정하는 공식 발표로, 업계 전반에 주목할 만한 뉴스이다.",
+    "collected_at": "2026-08-09T22:21:09.516809+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소 Luno가 20%의 직원들을 해고하는 소식이며, 이는 자동화 추진과 소매 거래 감소로 인한 파급력이 크다.",
     "collected_at": "2026-07-30T11:33:55.530130+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "South Korea to Enforce Long-Delayed Crypto Tax in 2027, Raising Trading Volume Concerns",
-    "content": "South Korea to Enforce Long-Delayed Crypto Tax in 2027, Raising Trading Volume Concerns\nSouth Korea will begin taxing crypto gains on January 1, 2027, as scheduled, Deputy Prime Minister and Finance Minister Koo Yun-cheol said, ending speculation over another delay. Annual gains exceeding KRW 2.5 million will face a 20% separate income tax, rising to 22% with local taxes. Koo said shortcomings could be addressed after implementation. The tax, originally due in 2022, has been postponed three times and may further pressure trading activity in one of the world’s largest retail crypto markets. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25351",
-    "published_at": "2026-07-30T06:27:11+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
-    "collected_at": "2026-07-30T09:10:11.895215+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Aave to Wind Down Deployments on Scroll, zkSync, Sonic, Metis, Soneium, and Aptos, Affecting $98.1M in Deposits",
-    "content": "Aave to Wind Down Deployments on Scroll, zkSync, Sonic, Metis, Soneium, and Aptos, Affecting $98.1M in Deposits\nAave founder Stani Kulechov said the protocol will deprecate 50 low-adoption asset reserves and wind down deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos. It will also retire 21 matured Pendle principal tokens, with the changes affecting about USD 98.1 million in supplied assets and USD 15.6 million in debt as Aave seeks to reduce economic and technical risks. Aave is DeFi’s largest lending protocol by total value locked, with about USD 14.3 billion across 23 chains. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25352",
-    "published_at": "2026-07-30T07:55:32+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Aave, 크립토 업계의 가장 큰 대출 프로토콜, 6개의 블록체인에서 배포 중단 및 98.1만 달러의 자산에 영향을 미치는 주요 변경 사항을 발표함",
-    "collected_at": "2026-07-30T09:10:12.209253+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "XRP 1.07달러 횡보 지속, SEC와 Fed 변수 속 규제 호재 주목",
-    "content": "XRP 현재 가격 및 시장 동향리플(XRP)이 30일 오전 기준 1.077달러대에 거래되며 횡보 흐름을 이어가고 있다. 홍콩 소매 시장 개방과 유럽 MiCA 승인이라는 규제 호재가 잇따르는 가운데, 미국 연방준비제도(Fed)의 금리 결정과 SEC의 항소 절차가 여전히 불확실성 요인으로 작용하고 있다.코인마켓캡 기준 7월 30일 오전 8시 42분(UTC) 현재 XRP는 전일 대비 0.89% 하락한 1.0771달러에 거래되고 있다. 24시간 거래량은 약 13억 650만 달러를 기록했으며, 시가총액은 673억 5,313만 달러로 집계됐다. 유통 공급량은 625억 3,327만 XRP로, 전체 최대 공급량 1,000억 XRP의 약 62.5%에 해당한다.단기 흐름을 살펴보면 7일 기준 5.11% 하락, 30일...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382987",
-    "published_at": "Thu, 30 Jul 2026 08:44:41 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "XRP의 현재 가격 및 시장 동향에 대한 리포트이며, 규제 호재와 불확실성 요인에 대한 언급이 있지만, 시장 전체에 큰 영향을 주는 사건은 아님",
-    "collected_at": "2026-07-30T09:10:12.702194+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나, 73.59달러에서 방향성 모색 중… ETF 수요와 생태계 확장 소식 주목",
-    "content": "솔라나(SOL)가 73.59달러 수준에서 단기 모멘텀 약화 속 방향성을 찾지 못하고 있다. 7일간 4.86% 하락하며 주요 이동평균선 아래로 내려앉은 가운데, 기관 투자자들의 ETF 수요와 생태계 확장 소식이 맞물리며 시장 참여자들의 시선이 집중되고 있다.100일 이동평균선 이탈, 79~80달러 저항대 주목30일 오전 기준 솔라나는 73.59달러에 거래되며 24시간 전 대비 0.28% 소폭 하락했다. 시가총액은 426억 5,757만 달러로 전체 암호화폐 시장 점유율 1.946%를 기록 중이다. 거래량은 17억 6,689만 달러로 전일 대비 4.65% 감소하며 매수세 둔화를 보이고 있다. 기술적 분석 전문 매체 U.Today와 코인얼럿은 솔라나가 100일 이동평균선인...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382986",
-    "published_at": "Thu, 30 Jul 2026 08:44:10 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "솔라나의 가격 변동과 ETF 수요, 생태계 확장 소식이 시장 참여자들의 시선에 집중되고 있지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-30T09:10:21.042159+00:00"
   }
 ]

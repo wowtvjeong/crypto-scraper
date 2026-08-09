@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "content": "토큰 주식 시장이 올해 들어 가파르게 커지면서, 블록체인을 기반으로 한 실물연계자산 투자 시장에서 가장 빠른 성장 분야로 떠올랐다.10일 실물연계자산 분석 플랫폼 알더블유에이닷엑스와이제트(RWA.xyz)에 따르면 세계 토큰 주식 시가총액은 8월 4일 기준 25억1천281만달러로 집계됐다. 올해 초 6억7천301만달러와 비교하면 273.37% 늘어난 규모다. 7개월 남짓한 기간에 시장이 사실상 4배 가까이 불어난 셈이다. 여기서 토큰 주식은 상장 주식과 상장지수펀드(ETF)를 블록체인 위에서 토큰 형태로 발행하거나 거래할 수 있도록 만든 상품을 뜻한다. 투자자는 이를 통해 시간 제약을 덜 받고 24시간 거래에 접근할 수 있다는 점에서 관심을...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387263",
+    "published_at": "Sun, 09 Aug 2026 21:37:24 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "토큰 주식 시장의 273% 폭발적 성장과 관련된 뉴스, 시가총액이 4배 가까이 증가한 것을 언급함",
+    "collected_at": "2026-08-09T22:19:10.324028+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "content": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
+    "url": "https://www.tokenpost.kr/news/blockchain/387263",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "토큰 주식 시장의 273% 폭발적 성장은 크립토 시장에 큰 영향을 미칠 수 있는重大 뉴스입니다.",
+    "collected_at": "2026-08-09T22:20:26.979634+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "크라켄 상장폐지 임박…21종 토큰 보유자, 거의 0에 가까운 회수 위험",
+    "content": "크라켄 상장폐지 임박…21종 토큰 보유자, 거의 0에 가까운 회수 위험",
+    "url": "https://kr.beincrypto.com/kraken-delisting-deadline-21-tokens/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크라켄 상장폐지로 인해 21종 토큰 보유자에게 거의 0에 가까운 회수 위험이 발생할 수 있어, 이는 크립토 시장 전반에 영향을 줄 수 있는重大 뉴스이다.",
+    "collected_at": "2026-08-09T22:20:44.525459+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "크라켄, 상장폐지된 21개 토큰 출금 마감 시한을 8월 27일로 설정",
+    "content": "크라켄, 상장폐지된 21개 토큰 출금 마감 시한을 8월 27일로 설정",
+    "url": "https://ns3.ai/ko/news/fBgnIaHlrK",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크라켄이 상장폐지된 21개 토큰의 출금 마감 시한을 8월 27일로 설정하는 공식 발표로, 업계 전반에 주목할 만한 뉴스이다.",
+    "collected_at": "2026-08-09T22:21:09.516809+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "Kraken, 상장 폐지된 21개 토큰의 8월 27일 출금 마감 시한 설정",
