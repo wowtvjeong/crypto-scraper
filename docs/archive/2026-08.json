@@ -2,6 +2,30 @@
   {
     "source": "coingecko_news",
     "source_type": "press",
+    "title": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",
+    "content": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",
+    "url": "https://ns3.ai/ko/news/ygfnBWZDE2",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T16:21:44.286495+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "OpenAI, 비트코인 레드팀 멤버의 추가 코드 보안 연구 차단",
+    "content": "OpenAI, 비트코인 레드팀 멤버의 추가 코드 보안 연구 차단",
+    "url": "https://ns3.ai/ko/news/oPe4qXfPPk",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "OpenAI가 비트코인 레드팀 멤버의 추가 코드 보안 연구를 차단하는 것은 크립토 업계의 일반적인 뉴스이지만, 영향 범위가 제한적이기 때문에 7점을 받게 됩니다.",
+    "collected_at": "2026-08-09T16:21:51.735738+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
     "title": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
     "content": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
     "url": "https://ns3.ai/ko/news/jkv6ijQUjH",

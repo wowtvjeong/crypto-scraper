@@ -2,6 +2,30 @@
   {
     "source": "coingecko_news",
     "source_type": "press",
+    "title": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",
+    "content": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",
+    "url": "https://ns3.ai/ko/news/ygfnBWZDE2",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T16:21:44.286495+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "OpenAI, 비트코인 레드팀 멤버의 추가 코드 보안 연구 차단",
+    "content": "OpenAI, 비트코인 레드팀 멤버의 추가 코드 보안 연구 차단",
+    "url": "https://ns3.ai/ko/news/oPe4qXfPPk",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "OpenAI가 비트코인 레드팀 멤버의 추가 코드 보안 연구를 차단하는 것은 크립토 업계의 일반적인 뉴스이지만, 영향 범위가 제한적이기 때문에 7점을 받게 됩니다.",
+    "collected_at": "2026-08-09T16:21:51.735738+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
     "title": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
     "content": "HIP-3가 HYPE 바이백 지원을 약화시키면서 Hyperliquid의 RWA 거래 증가",
     "url": "https://ns3.ai/ko/news/jkv6ijQUjH",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소의 ETF 관련 소식으로 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스",
     "collected_at": "2026-07-30T09:17:45.734456+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
-    "content": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
-    "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
-    "published_at": "Thu, 30 Jul 2026 06:59:10 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 시장 전반에 영향을 주는 대규모 거래량의 급격한 변동이 언급되며, 관련 주체의 규모도 크다.",
-    "collected_at": "2026-07-30T09:18:32.330250+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Bybit Adds Finloop’s FUIDL as Trading Collateral",
-    "content": "Bybit Adds Finloop’s FUIDL as Trading Collateral\nBybit has introduced Finloop’s tokenized U.S. dollar liquidity product FUIDL and will support it as collateral for trading. Available to eligible investors, FUIDL offers hourly subscriptions and redemptions with same-day interest accrual; its underlying money-market fund carries AAAm ratings from S&P, Aaa-mf from Moody’s and AAAmmf from Fitch. The companies will also pilot T+0 settlement for selected assets and plan a broader global rollout during 2026. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25347",
-    "published_at": "2026-07-30T04:06:00+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Bybit이 Finloop의 FUIDL을 거래 보조자산으로 추가하는 뉴스, 관련 주체는 Bybit과 Finloop이며 파급 범위는 크립토 시장 전반에 영향을 주지 않지만 여러 매체가 다룰 만한 뉴스",
-    "collected_at": "2026-07-30T06:18:31.565760+00:00"
   }
 ]
