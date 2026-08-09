@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Grayscale Sells Massive XRP Stake Following Cash-Out Demands",
+    "content": "Grayscale Sells Massive XRP Stake Following Cash-Out Demands",
+    "url": "https://coinmarketcap.com/community/articles/6a78fe4071e34c4f4fb068ab/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자자 Grayscale가 XRP를 매각하는 소식, 이는 크립토 시장에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-09T22:57:20.897854+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",

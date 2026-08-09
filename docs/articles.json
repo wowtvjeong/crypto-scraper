@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Grayscale Sells Massive XRP Stake Following Cash-Out Demands",
+    "content": "Grayscale Sells Massive XRP Stake Following Cash-Out Demands",
+    "url": "https://coinmarketcap.com/community/articles/6a78fe4071e34c4f4fb068ab/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자자 Grayscale가 XRP를 매각하는 소식, 이는 크립토 시장에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-09T22:57:20.897854+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "토큰 주식 시장, 7개월 만에 273% 폭발적 성장",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·기관의 중대 발표",
     "collected_at": "2026-07-30T11:33:39.990892+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
-    "content": "Crypto exchange Luno cuts 20% of staff amid automation push and retail trading slumps",
-    "url": "https://www.coindesk.com/business/2026/07/30/crypto-exchange-luno-cuts-20-of-staff-amid-automation-push-and-retail-trading-slumps",
-    "published_at": "Thu, 30 Jul 2026 09:54:18 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Luno가 20%의 직원들을 해고하는 소식이며, 이는 자동화 추진과 소매 거래 감소로 인한 파급력이 크다.",
-    "collected_at": "2026-07-30T11:33:55.530130+00:00"
   }
 ]
