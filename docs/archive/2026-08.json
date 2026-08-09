@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "금융감독원, 대형마트 상품권 악용 보이스피싱에 소비자경보 발령",
+    "content": "금융감독원이 2026년 8월 9일, 대형마트 무인 키오스크에서 상품권을 대량으로 사들여 범죄 자금을 세탁하는 신종 보이스피싱 수법이 퍼지자 소비자경보 ‘주의’를 발령했다. 기존에는 피해금을 계좌이체나 현금자동입출금기 인출 방식으로 빼내는 사례가 많았지만, 최근에는 상품권을 구매한 뒤 이를 현금화하고 다시 가상자산으로 바꿔 해외로 송금하는 방식이 새 통로로 자리 잡고 있다는 게 금융당국의 판단이다.이번 수법은 대출이 급한 저신용자를 노린다는 점에서 피해 구조가 더 복잡하다. 사기범들은 저축은행 등 금융회사를 사칭해 “상품권을 대신 구매해주면 대출이 실행되도록 해주겠다”는 식으로 접근한 뒤 체크카드와 통장,...  더보기",
+    "url": "https://www.tokenpost.kr/news/society/387167",
+    "published_at": "Sun, 09 Aug 2026 05:47:47 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "금융당국이 신종 보이스피싱 수법을 경고하는 뉴스이며, 가상자산에 대한 해외 송금이 포함되어 있으나, 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-08-09T06:07:12.263360+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+    "content": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 09 Aug 2026 05:46:07 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트가 영향을 받은 사고로 인한 영향 범위가 크고, 아직 확정된 금액과 영향도는 알려지지 않았지만, 파급력이 크다",
+    "collected_at": "2026-08-09T06:07:13.013894+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BTCPay, 자격 증명 탈취 이후 원격 라이트닝 접근 제한",
+    "content": "BTCPay, 자격 증명 탈취 이후 원격 라이트닝 접근 제한",
+    "url": "https://ns3.ai/ko/news/JdvKCkcL1m",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "BTCPay가 자격 증명 탈취로 인해 원격 라이트닝 접근을 제한하는 소식으로, 크립토 업계의 일반적인 뉴스에 해당한다.",
+    "collected_at": "2026-08-09T06:07:17.429737+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명",
+    "content": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명",
+    "url": "https://ns3.ai/ko/news/413coVHqN8",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명이라는 제목과 본문이 일치하는 것을 보아, 크립토와 관련된 뉴스이며, 관련 주체가 대형 거래소·기관보다 더 크지 않지만, 여러 매체가 동시에 다룰 만한 뉴스일 가능성이 있어, 8.5점을 부여한다.",
+    "collected_at": "2026-08-09T06:07:33.914154+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 BIP-110, 4주간의 활성화 카운트다운 시작",
+    "content": "비트코인 BIP-110, 4주간의 활성화 카운트다운 시작",
+    "url": "https://ns3.ai/ko/news/2NuvWZYsJl",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110에 대한 활성화 카운트다운이 시작되었는데, 관련 주체는 비트코인 자체이며 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있어, 다수 매체가 동시에 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T06:08:22.292064+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain",

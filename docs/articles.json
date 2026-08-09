@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "금융감독원, 대형마트 상품권 악용 보이스피싱에 소비자경보 발령",
+    "content": "금융감독원이 2026년 8월 9일, 대형마트 무인 키오스크에서 상품권을 대량으로 사들여 범죄 자금을 세탁하는 신종 보이스피싱 수법이 퍼지자 소비자경보 ‘주의’를 발령했다. 기존에는 피해금을 계좌이체나 현금자동입출금기 인출 방식으로 빼내는 사례가 많았지만, 최근에는 상품권을 구매한 뒤 이를 현금화하고 다시 가상자산으로 바꿔 해외로 송금하는 방식이 새 통로로 자리 잡고 있다는 게 금융당국의 판단이다.이번 수법은 대출이 급한 저신용자를 노린다는 점에서 피해 구조가 더 복잡하다. 사기범들은 저축은행 등 금융회사를 사칭해 “상품권을 대신 구매해주면 대출이 실행되도록 해주겠다”는 식으로 접근한 뒤 체크카드와 통장,...  더보기",
+    "url": "https://www.tokenpost.kr/news/society/387167",
+    "published_at": "Sun, 09 Aug 2026 05:47:47 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "금융당국이 신종 보이스피싱 수법을 경고하는 뉴스이며, 가상자산에 대한 해외 송금이 포함되어 있으나, 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-08-09T06:07:12.263360+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+    "content": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 09 Aug 2026 05:46:07 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트가 영향을 받은 사고로 인한 영향 범위가 크고, 아직 확정된 금액과 영향도는 알려지지 않았지만, 파급력이 크다",
+    "collected_at": "2026-08-09T06:07:13.013894+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BTCPay, 자격 증명 탈취 이후 원격 라이트닝 접근 제한",
+    "content": "BTCPay, 자격 증명 탈취 이후 원격 라이트닝 접근 제한",
+    "url": "https://ns3.ai/ko/news/JdvKCkcL1m",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "BTCPay가 자격 증명 탈취로 인해 원격 라이트닝 접근을 제한하는 소식으로, 크립토 업계의 일반적인 뉴스에 해당한다.",
+    "collected_at": "2026-08-09T06:07:17.429737+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명",
+    "content": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명",
+    "url": "https://ns3.ai/ko/news/413coVHqN8",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "도난 비트코인 강제 이전 모의 혐의로 기소된 남성 3명이라는 제목과 본문이 일치하는 것을 보아, 크립토와 관련된 뉴스이며, 관련 주체가 대형 거래소·기관보다 더 크지 않지만, 여러 매체가 동시에 다룰 만한 뉴스일 가능성이 있어, 8.5점을 부여한다.",
+    "collected_at": "2026-08-09T06:07:33.914154+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 BIP-110, 4주간의 활성화 카운트다운 시작",
+    "content": "비트코인 BIP-110, 4주간의 활성화 카운트다운 시작",
+    "url": "https://ns3.ai/ko/news/2NuvWZYsJl",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110에 대한 활성화 카운트다운이 시작되었는데, 관련 주체는 비트코인 자체이며 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있어, 다수 매체가 동시에 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T06:08:22.292064+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "BIP-110 Minority Fork Falls 18 Blocks Behind Bitcoin Main Chain",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": false,
     "reason": "연준의 기준금리 동결과 소통 방식 변화에 대한 관심이 크며, 이는 크립토 시장에 직접적인 영향을 미치지 않지만, 통화정책 방향성에 대한 불확실성이 커지는 데 영향을 미칠 수 있다.",
     "collected_at": "2026-07-29T18:57:41.105832+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Japan-Listed eole Buys 1,078 HYPE, Becoming First Japanese Listed Company to Purchase the Token",
-    "content": "Japan-Listed eole Buys 1,078 HYPE, Becoming First Japanese Listed Company to Purchase the Token\nJapan-listed eole Inc. (TSE Growth: 2334) purchased 1,078.2547 HYPE on July 28 for approximately JPY 10.08 million ($61,600), at an average price of JPY 9,352.78 ($57.10) per token, becoming the first listed company in Japan to purchase HYPE. The company plans to make additional purchases by the end of August, bringing its total investment to JPY 100 million ($610,500), and will hold HYPE as a strategic digital asset under its “Neo Crypto Bank” initiative to support its on-chain finance and Web3 businesses. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25341",
-    "published_at": "2026-07-29T17:28:08+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "일본 상장 기업이 HYPE를 처음으로 구매한 뉴스, 관련 주체 규모가 크고 파급 범위는 크립토 시장 전반",
-    "collected_at": "2026-07-29T17:45:14.758305+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나 100M CU 블록 업그레이드 완료, $73 지지선 중요성 부각",
-    "content": "솔라나, 100M CU 블록 업그레이드 완료…$73 지지선 '사수' 관건솔라나(SOL)가 대규모 네트워크 용량 업그레이드를 완료했지만, 거시경제 악재와 기술적 저항에 직면하며 $72~$74 구간에서 치열한 공방을 벌이고 있다. 업계 전문가들은 $73.75를 핵심 분기점으로 지목하며, 이 수준의 방어 여부가 향후 $150 상승 또는 $60대 급락을 가를 중대한 변곡점이 될 것으로 전망하고 있다.29일 오후 4시 40분(UTC 기준) 솔라나는 $72.98을 기록하며 24시간 전 대비 1.53% 하락했다. 지난 7일간 낙폭은 7.24%에 달하며, 시가총액은 약 422억 9천만 달러로 암호화폐 시장 점유율 1.94%를 유지하고 있다.미 국채 금리 상승과 달러 강세가 솔라나...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382727",
-    "published_at": "Wed, 29 Jul 2026 16:44:39 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "솔라나가 대규모 네트워크 용량 업그레이드를 완료했지만, 거시경제 악재와 기술적 저항에 직면하며 $72~$74 구간에서 치열한 공방을 벌이고 있다. 업계 전문가들은 $73.75를 핵심 분기점으로 지목하며, 이 수준의 방어 여부가 향후 $150 상승 또는 $60대 급락을 가를 중대한 변곡점이 될 것으로 전망하고 있다.",
-    "collected_at": "2026-07-29T17:45:15.875955+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "모건스탠리 \"뱅커스 아워 끝난다\"…토큰화, 24시간 금융 분기점 될까",
-    "content": "금융 시장이 ‘24시간 체제’로 재편되고 있다. 모건스탠리는 토큰화(Tokenization)가 기존 은행 영업시간 개념을 무너뜨리며 시장 구조 자체를 바꾸고 있다고 진단했다.모건스탠리의 은행·금융 리서치 총괄 베치 그라섹(Betsy Graseck)은 디지털 자산 패널 토론에서 “이 변화는 암호화폐를 넘어 금융 인프라 전체를 재구성하는 흐름”이라며 “‘뱅커스 아워’의 종말이 시작됐다”고 밝혔다.‘24시간 금융’ 현실로… 토큰화가 핵심그라섹은 토큰화가 단순한 기술 혁신이 아니라 ‘항상 작동하는 경제(always-on economy)’로의 전환이라고 강조했다. 기존 금융 시스템의 ‘일괄 처리(batch processing)’ 방식은 점차 사라지고, 실시간 결제와 24시간...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/382723",
-    "published_at": "Wed, 29 Jul 2026 16:20:29 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "모건스탠리가 주장하는 '24시간 금융'과 '항상 작동하는 경제'의 개념은 암호화폐와 토큰화의 중요성을 강조하며, 기존 금융 시스템의 구조를 변화시키는 흐름을 나타낸다.",
-    "collected_at": "2026-07-29T17:46:13.494460+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "미국 디지털자산 사기, 공식 113억달러…실제 800억달러 추산",
-    "content": "[멕시코=심영재 특파원] 지난해 미국에서 발생한 디지털자산(가상자산) 사기 피해 규모가 신고액 기준 113억7000만달러에 달한 것으로 나타났다. 미국소비자연맹은 사기 피해자의 상당수가 수사기관에 신고하지 않는다는 조사 결과를 적용하면 실제 피해액은 807억달러에 이를 수 있다고 추산했다. 29일(현지시각) 디크립트에 따르면 미국소비자연맹은 미국 연방수사국이 집계한 디지털자산 사기 신고액에 미신고 피해를 반영한 결과 실제 피해 규모가 공식 통계보다 약 7배 클 수 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122070?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 17:28:42 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국에서 발생한 디지털자산 사기 피해 규모가 공식 통계보다 실제로 훨씬 더 클 것으로 추산되며, 이는 크립토 시장 전반에 영향을 줄 수 있는重大 뉴스이다.",
-    "collected_at": "2026-07-29T17:46:33.072080+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“1년 뒤 후회할 수도”…비트코인 채굴업계, AI 과잉투자 경고등",
-    "content": "[멕시코=심영재 특파원] 비트코인 채굴업체들이 채굴 수익성 악화를 피해 인공지능(AI)과 고성능컴퓨팅(HPC) 데이터센터 사업에 수십억달러를 투입하고 있다. 전력과 부지, 전력망 연결권을 AI 사업에 활용하면 비트코인 채굴보다 높은 수익을 올릴 수 있지만, AI 설비 과잉투자와 비트코인 가격 회복이 동시에 나타날 경우 장기 계약에 묶인 채굴업체들이 오히려 전략적 선택권을 잃을 수 있다는 경고가 나왔다. 29일(현지시각) 크립토슬레이트에 따르면 상장 비트코인 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122064?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 29 Jul 2026 16:54:43 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 채굴업계가 AI와 HPC 데이터센터 사업에 수십억달러를 투입하고 있으며, 이는 비트코인 가격 회복과 함께 채굴업체들의 전략적 선택권을 잃을 수 있다는 경고가 나왔다.",
-    "collected_at": "2026-07-29T17:46:52.638871+00:00"
   }
 ]
