@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
+    "content": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
+    "url": "https://coinmarketcap.com/community/articles/6a78ae8f6d048536adbad909/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 관련 확정된 사건으로, 규모도 크고, 관련 주체도 국가 수준",
+    "collected_at": "2026-08-09T17:02:51.214513+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",

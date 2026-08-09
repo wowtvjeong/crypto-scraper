@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
+    "content": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
+    "url": "https://coinmarketcap.com/community/articles/6a78ae8f6d048536adbad909/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 관련 확정된 사건으로, 규모도 크고, 관련 주체도 국가 수준",
+    "collected_at": "2026-08-09T17:02:51.214513+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "세일러, ChatGPT가 Strategy의 비트코인 매입을 위해 150억 달러 조달을 지원했다고 밝혀",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "중국 신문사가 이름을 빌려가며 비트코인을 요구하는勒거스 행위에 대해 경고하는 뉴스, 대형 신문사가 관련되어 있어 시장 전반에 영향을 줄 가능성이 높음",
     "collected_at": "2026-07-30T09:17:30.178628+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
-    "content": "US spot Bitcoin ETFs recorded $32.1 million in inflows on Wednesday despite Bitcoin dipping below $64,000, ending a four-session outflow streak.",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 30 Jul 2026 07:05:23 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소의 ETF 관련 소식으로 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스",
-    "collected_at": "2026-07-30T09:17:45.734456+00:00"
   }
 ]
