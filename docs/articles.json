@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 BIP-110 소프트포크, 두 블록 이후 중단",
+    "content": "비트코인 BIP-110 소프트포크, 두 블록 이후 중단",
+    "url": "https://ns3.ai/ko/news/kkFafxkUO4",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110 소프트포크에 대한 소식이 있으나, 두 블록 이후 중단이라는 점에서 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-09T23:55:08.926297+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Robin Brooks, 비트코인은 안전자산이 아니라고 주장",
+    "content": "Robin Brooks, 비트코인은 안전자산이 아니라고 주장",
+    "url": "https://ns3.ai/ko/news/JyjHcqOCLv",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "Robin Brooks의 주장이 비트코인에 대한 시각을 제시하는 일반적인 뉴스",
+    "collected_at": "2026-08-09T23:55:13.333193+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "MARA Pledges 18,750 BTC for $600M Loan to Fund Energy and AI Expansion",
+    "content": "MARA Pledges 18,750 BTC for $600M Loan to Fund Energy and AI Expansion",
+    "url": "https://coinmarketcap.com/community/articles/6a7910fd71e34c4f4fb068ae/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 기업이 크립토 자산을 사용하여 대규모 자금을 조달하는 뉴스",
+    "collected_at": "2026-08-09T23:55:39.974912+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "IREN, 비트코인 채굴서 AI 인프라로 사업 전환…주가 8.7% 급등",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "바이낸스 XRP 파생상품 시장에서 미결제약정이 2년 만에 가장 낮은 수준까지 감소한 것으로 나타났으며, 레버리지 활용한 신규 포지션도 크게 줄어든 것으로 보아 시장이 한층 보수적인 태도로 돌아선 것으로 보인다.",
     "collected_at": "2026-07-30T11:32:16.432822+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Robinhood posts record quarter as crypto revenue slides 38%",
-    "content": "The online brokerage continued expanding its digital asset business with Robinhood Chain, tokenized stocks and decentralized lending even as cryptocurrency transaction revenue declined.",
-    "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 29 Jul 2026 21:53:35 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 수익이 38% 감소했지만, 그럼에도 불구하고 Robinhood는 디지털 자산 사업을 확장하고 있다.",
-    "collected_at": "2026-07-30T11:32:32.980653+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Fake Flare Network Staking Site Drained $8.5M in XRP: Seoul Police",
-    "content": "The ring copied Flare Network and its FXRP token, and planted Wikipedia entries, blog posts and YouTube videos to look legitimate.",
-    "url": "https://decrypt.co/374696/fake-flare-network-staking-site-drained-8-5m-in-xrp-seoul-police",
-    "published_at": "Thu, 30 Jul 2026 09:50:02 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와 관련된 사기 사건이 발생하여, 크립토 시장 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-07-30T11:32:48.569132+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-    "content": "South Korea plans to tax crypto gains over $1,740 as political battle moves to parliament",
-    "url": "https://www.coindesk.com/policy/2026/07/30/south-korea-s-long-delayed-crypto-tax-set-to-start-in-2027",
-    "published_at": "Thu, 30 Jul 2026 11:17:56 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향",
-    "collected_at": "2026-07-30T11:33:18.379907+00:00"
   }
 ]
