@@ -1,5 +1,17 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "IREN, 비트코인 채굴서 AI 인프라로 사업 전환…주가 8.7% 급등",
+    "content": "IREN, 비트코인 채굴서 AI 인프라로 사업 전환…주가 8.7% 급등IREN(나스닥: IREN)이 비트코인 채굴 사업에서 AI 인프라 구축으로 사업 방향을 전환하며 주가가 급등했다. 최근 거래일 기준 IREN 주가는 41.23 달러를 기록하며 전일 대비 8.70% 상승했고, 시간외 거래에서는 41.51 달러까지 올랐다. 이번 주가 상승은 대규모 AI 고객 계약 체결과 클라우드 인프라 기업 인수 완료 등 구체적인 사업 성과에 따른 것으로 분석된다.28억 달러 규모 AI 계약 확보…2026년 매출 목표 40억 달러 상향IREN은 다년간 지속될 AI 고객 계약을 총 28억 달러 규모로 확보했다고 발표했다. 이를 통해 회사는 2026년 매출 목표를 40억 달러 이상으로 상향...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387269",
+    "published_at": "Sun, 09 Aug 2026 23:01:27 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 채굴 사업에서 AI 인프라로 사업 방향을 전환하는 등 크립토 관련 주요 뉴스",
+    "collected_at": "2026-08-09T23:23:44.038913+00:00"
+  },
+  {
     "source": "coinmarketcap_community",
     "source_type": "press",
     "title": "Grayscale Sells Massive XRP Stake Following Cash-Out Demands",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향",
     "collected_at": "2026-07-30T11:33:18.379907+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "BitRiver founder charged in Russia with $12.5 million fraud",
-    "content": "BitRiver founder charged in Russia with $12.5 million fraud",
-    "url": "https://www.coindesk.com/policy/2026/07/30/bitriver-founder-charged-in-russia-with-usd12-5-million-fraud",
-    "published_at": "Thu, 30 Jul 2026 10:02:33 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표",
-    "collected_at": "2026-07-30T11:33:39.990892+00:00"
   }
 ]
