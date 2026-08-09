@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "오픈AI 최대 사전학습 '더그' 추진설…11월 전 공개 가능성 거론",
+    "content": "오픈AI(OpenAI)가 GPT-6와는 별개로 자사 역대 최대 규모의 사전학습(프리트레이닝) 모델을 준비하고 있는 것으로 전해졌다. 코드명은 더그(Doug)다.\n블록비츠(BlockBeats)는 9일 세미애널리시스(SemiAnalysis)가 최근 공개한 분석에서 오픈AI가 그동안 막혀 있던 사전학습 문제를 해결했고, 더그로 불리는 더 큰 규모의 사전학습 모델을 추진하고 있다고 밝혔다고 보도했다. 사전학습은 방대한 데이터로 기반모델의 기본 성능을 끌어올리는 단계로, 여기에 투입하는 연산량이 곧 모델의 규모를 가른다.\n리크 전문 블로거 크리스GPT(ChrisGPT)는 여기에 세부 내용을 덧붙였다. 그는 더그가 GPT-6가 아니라 오픈AI가 지금까지 진행한 것 가운데...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387196",
+    "published_at": "Sun, 09 Aug 2026 08:01:40 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "오픈AI가 자사 역대 최대 규모의 사전학습 모델인 '더그'를 준비하고 있는 것으로 전해졌다. 이는 오픈AI의 기술 발전과 시장 전반에 영향을 줄 수 있는 뉴스이다.",
+    "collected_at": "2026-08-09T08:08:34.905585+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "3000만달러 반도체주 매수…아크인베스트, 아마존·알파벳 줄였다",
+    "content": "아크인베스트가 지난달 28~30일(현지시간) 엔비디아($NVDA)와 TSMC(Taiwan Semiconductor Manufacturing Company·TSM) 주식을 합쳐 약 3000만달러(약 424억원)어치 사들였다. 메타($META)의 2분기 실적이 시장 예상을 밑돌면서 기술주 전반이 흔들리던 시점이었다.\n크립토브리핑(Crypto Briefing)은 아크인베스트가 이 기간 엔비디아 주식 약 7만3000~7만9000주를 사들였고 금액으로는 1400만~1550만달러(약 198억~219억원) 규모라고 전했다. TSMC 매수는 산하 상장지수펀드(ETF) ARKK·ARKQ·ARKW·ARKX 4개 펀드에 나뉘어 이뤄졌으며, 규모는 1400만~2000만달러(약 198억~282억원)로 추산됐다. 이 가운데 수량과 금액이 함께 파악된 거래는 TSMC...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/387188",
+    "published_at": "Sun, 09 Aug 2026 07:31:20 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": false,
+    "reason": "크립토 관련 뉴스가 아님. 그러나 기술주에 대한 뉴스이므로 6점을 받음.",
+    "collected_at": "2026-08-09T08:08:35.203869+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Binance Alpha, 8월 10일 DAppOS 에어드롭 출시",
+    "content": "Binance Alpha, 8월 10일 DAppOS 에어드롭 출시",
+    "url": "https://ns3.ai/ko/news/aJrRrOgghQ",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Binance Alpha와 DAppOS의 에어드롭 출시가 크립토와 관련된 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-09T08:08:35.504977+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "키프로스 규제당국, 2026년 하반기부터 암호자산 수탁업체 점검 계획",
+    "content": "키프로스 규제당국, 2026년 하반기부터 암호자산 수탁업체 점검 계획",
+    "url": "https://ns3.ai/ko/news/OiiJHg5AfB",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "키프로스 규제당국이 암호자산 수탁업체를 점검할 계획이 발표되었습니다. 이는 암호자산 시장에 대한 규제의 강화로 이어질 수 있습니다.",
+    "collected_at": "2026-08-09T08:08:35.806402+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Bifrost 익스플로잇으로 유동성 풀에서 약 72만 달러 유출",
+    "content": "Bifrost 익스플로잇으로 유동성 풀에서 약 72만 달러 유출",
+    "url": "https://ns3.ai/ko/news/sbN2vY9xd1",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 유동성 풀에서 약 72만 달러가 유출되는 사건은 크립토 시장 전반에 영향을 줄 가능성이 있어, 8점보다 파급력이 크다.",
+    "collected_at": "2026-08-09T08:09:12.313336+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "MARA Pledges 18,750 BTC to Secure $600 Million in New Loans for Energy and AI Infrastructure Expansion",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소가 규제 당국에 자격신청을 하면서 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
     "collected_at": "2026-07-29T22:29:04.273599+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Robinhood Posts Best Quarter Ever as Prediction Market and Robinhood Chain Take Off",
-    "content": "Robinhood posted a record $1.31 billion in revenue in Q2. Prediction markets are now doing the work crypto used to for the company.",
-    "url": "https://decrypt.co/374693/robinhood-earnings-best-quarter-ever-crypto",
-    "published_at": "Wed, 29 Jul 2026 22:01:24 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토와 관련된 업계 전반에 영향을 줄 가능성이 있는 뉴스인 Robinhood의 크립토 관련 사업이 성장하고 있지만, 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-07-29T22:29:19.699863+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Just In: Binance US Plans to Apply for CFTC DCM Status to Offer Prediction Markets",
-    "content": "Just In: Binance US Plans to Apply for CFTC DCM Status to Offer Prediction Markets\nCrypto journalist Eleanor Terrett reported that Binance US plans to apply to the CFTC in August for designated contract market status, with the goal of offering prediction markets to customers. The move is part of the exchange’s broader comeback strategy, which centers on lower trading fees and expansion beyond spot trading into products including prediction markets and perpetual contracts. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25343",
-    "published_at": "2026-07-29T20:10:21+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Binance US가 CFTC와의 Designated Contract Market Status를 신청하고, prediction markets를 고객에게 제공할 계획이므로, 업계 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-29T21:25:06.660239+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "국내 가상자산사업자, 부채비율 규제로 생존 시험대 올라",
-    "content": "다음 달부터 가상자산사업자에 적용되는 부채비율 규제가 시행되면서, 국내 신고 사업자 절반 이상이 기준을 맞추지 못해 사업 지속 여부를 걱정해야 하는 처지에 놓였다. 새 규제는 재무 건전성이 지나치게 취약한 사업자의 시장 진입과 존속을 막겠다는 취지지만, 업황 침체가 길어진 상황에서는 중소 사업자들에게 사실상 생존 시험대로 작용하고 있다.30일 전자공시시스템과 중소기업현황정보시스템을 보면, 지난해 말 기준 재무 상태를 확인할 수 있는 가상자산사업자 24곳 가운데 12곳의 부채비율이 200%를 넘었다. 부채비율은 기업 자본 대비 빚이 얼마나 많은지를 보여주는 지표인데, 200% 이하는 자기자본의 두 배 이하 수준으로 빚을...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/382783",
-    "published_at": "Wed, 29 Jul 2026 21:06:43 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "국내 가상자산사업자에 대한 부채비율 규제가 시행되면서, 중소 사업자들이 생존 시험대에 올라가고 있다. 이는 업황 침체가 길어진 상황에서 중소 사업자들에게 사실상 생존 시험대로 작용하고 있다.",
-    "collected_at": "2026-07-29T21:25:07.476401+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "7월 30일 출근길 팟캐스트 — 7억 달러 청산에 롱 베팅 붕괴, 비트코인 점유율 상승",
-    "content": "지난 24시간 암호화폐 시장에서 7억964만 달러 규모의 레버리지 포지션이 강제 청산됐다. 단순한 가격 흔들림이 아니라, 과열됐던 매수 베팅이 한꺼번에 정리된 사건으로 읽힌다.이번 청산의 62.09%는 롱 포지션이었다. 상승을 기대하던 자금이 더 크게 무너졌다는 뜻이라서, 시장 심리가 공격적 국면에서 방어적 국면으로 이동하고 있음을 시사한다.가격 반응도 이 흐름과 맞물렸다. 비트코인은 전일 대비 0.46% 내린 6만3517달러, 이더리움은 1.73% 하락한 1886달러에 거래됐다. 낙폭 자체는 제한적이지만, 대규모 청산 뒤에도 반등 탄력이 강하지 않았다는 점이 더 중요하다.주요 알트코인은 엇갈렸다. 리플은 0.86% 상승했고 트론도 0.35%...  더보기",
-    "url": "https://www.tokenpost.kr/news/insights/382774",
-    "published_at": "Wed, 29 Jul 2026 20:38:45 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대규모 레버리지 포지션 청산과 그에 따른 시장 심리 변화, 주요 암호화폐 가격 반응이 언급되어 크립토 관련 뉴스에 해당한다.",
-    "collected_at": "2026-07-29T21:26:42.722176+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "뉴욕증시, 연준 금리 동결 후 장기 국채 금리 급등으로 일제히 하락",
-    "content": "미국 뉴욕증시는 미 연방준비제도가 기준금리를 동결한 직후 인플레이션 우려가 다시 부각되면서 장기 국채 금리가 급등하자 2026년 7월 29일 큰 폭으로 하락 마감했다.이날 다우존스30 산업평균지수는 전장보다 1,153.18포인트, 2.19% 내린 51,594.14에 거래를 마쳤다. 스탠더드앤드푸어스 500 지수는 112.63포인트, 1.52% 하락한 7,316.15를 기록했고, 기술주 비중이 큰 나스닥 지수도 433.97포인트, 1.74% 밀린 24,442.94에 장을 마감했다. 주요 3대 지수가 일제히 하락한 것은 금리 수준이 예상보다 오래 높게 유지될 수 있다는 경계감이 시장 전반에 퍼졌기 때문이다.시장의 부담을 키운 직접적인 배경은 연준의 금리 동결 자체보다도 그...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/382775",
-    "published_at": "Wed, 29 Jul 2026 20:36:39 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "뉴욕증시의 일제히 하락은 금리 수준의 예상보다 오래 높게 유지될 수 있다는 경계감에 의해 발생한 것으로 보인다. 이는 크립토 시장에 직접적인 영향을 미치지 않지만, 금리 수준의 변동은 크립토 시장의 변동에 영향을 미칠 수 있다.",
-    "collected_at": "2026-07-29T21:27:02.396822+00:00"
   }
 ]
