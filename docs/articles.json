@@ -1,5 +1,17 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",
+    "content": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",
+    "url": "https://ns3.ai/ko/news/n9YoHiawbr",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "브라질이 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류를 적용하는 것은 크립토 시장에 큰 영향을 줄 수 있는 규제 변경이다.",
+    "collected_at": "2026-08-09T17:55:32.105097+00:00"
+  },
+  {
     "source": "coinmarketcap_community",
     "source_type": "press",
     "title": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "코스피가 10% 폭락한 날에 테더와 비트코인 거래가 82% 늘었다는 사실이 시장 전체에 큰 영향을 미친다.",
     "collected_at": "2026-07-30T09:16:58.017923+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
-    "content": "China Business Journal says fraudsters impersonated the publication, demanding Bitcoin to suppress purported investigative reports about targeted companies.",
-    "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Thu, 30 Jul 2026 07:28:57 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "중국 신문사가 이름을 빌려가며 비트코인을 요구하는勒거스 행위에 대해 경고하는 뉴스, 대형 신문사가 관련되어 있어 시장 전반에 영향을 줄 가능성이 높음",
-    "collected_at": "2026-07-30T09:17:30.178628+00:00"
   }
 ]

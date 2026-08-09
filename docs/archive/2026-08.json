@@ -1,5 +1,17 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",
+    "content": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",
+    "url": "https://ns3.ai/ko/news/n9YoHiawbr",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "브라질이 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류를 적용하는 것은 크립토 시장에 큰 영향을 줄 수 있는 규제 변경이다.",
+    "collected_at": "2026-08-09T17:55:32.105097+00:00"
+  },
+  {
     "source": "coinmarketcap_community",
     "source_type": "press",
     "title": "Shenzhen Employee Sentenced for $87K Bitcoin Extortion Scam",
