@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
+    "content": "비트코인 BIP-110 포크, 두 블록 채굴 후 중단",
+    "url": "https://ns3.ai/ko/news/yriq4EaReD",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 BIP-110 포크는 크립토 시장에 영향을 줄 수 있는 중요한 이벤트로, 두 블록 채굴 후 중단되면서 시장이 주목할 만한 뉴스로 평가됩니다.",
+    "collected_at": "2026-08-09T19:53:39.856307+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Luke Dashjr, BIP-110 비트코인 하드포크 목표일로 9월 1일 제시",
+    "content": "Luke Dashjr, BIP-110 비트코인 하드포크 목표일로 9월 1일 제시",
+    "url": "https://ns3.ai/ko/news/SvPBMpkGoj",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "유명 개발자 Luke Dashjr가 비트코인 하드포크 목표일을 9월 1일로 제시하는 뉴스, 관련 주체가 중견 개발자이며 파급 범위가 크립토 시장 전반에 영향을 줄 가능성이 있으나 아직 확정 발표가 아니므로 7.5점",
+    "collected_at": "2026-08-09T19:53:42.428515+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "자금세탁 수사와 연결된 World Liberty의 1억 달러 규모 WLFI 매수자",
+    "content": "자금세탁 수사와 연결된 World Liberty의 1억 달러 규모 WLFI 매수자",
+    "url": "https://ns3.ai/ko/news/0EZWY4vT0a",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "자금세탁 수사와 연결된 World Liberty의 1억 달러 규모 WLFI 매수자라는 제목과 본문이 크립토와 관련된 뉴스를 나타내며, 관련 주체의 규모가 크고 파급 범위가 크며 확정성이 높기 때문에 8점을 받았다.",
+    "collected_at": "2026-08-09T19:54:17.683791+00:00"
+  },
+  {
     "source": "coinmarketcap_community",
     "source_type": "press",
     "title": "Satoshi Nakamoto’s Bitcoin Fortune Loses $67 Billion as BTC Falls 48%",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "디지털자산 업계 전반에 걸쳐 거래소와 블록체인 기업들이 비용 절감과 운영 효율화를 앞세워 조직을 재편하면서 7월에만 최소 12개 기업이 해고 또는 구조조정에 나섰다. ",
     "collected_at": "2026-07-30T09:15:19.459432+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "DSRV, 삼성화재와 디지털자산 전용 보험 체결",
-    "content": "DSRV, 삼성화재와 디지털자산 전용 보험 체결",
-    "url": "https://www.decenter.kr/article/20073964",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "디지털자산 전용 보험 체결은 크립토와 관련된 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-30T09:15:52.782221+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "[단독] 코스피 10% 폭락한 날…테더·비트코인 거래 82% 늘었다",
-    "content": "[단독] 코스피 10% 폭락한 날…테더·비트코인 거래 82% 늘었다",
-    "url": "https://www.decenter.kr/article/20073920",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "코스피 10% 폭락한 날에 테더·비트코인 거래가 82% 늘어난 것은 시장 전체에 큰 영향을 미친 사건으로 간주되며, 관련 주체의 규모가 크고 파급 범위가 넓다.",
-    "collected_at": "2026-07-30T09:16:25.659929+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "SK하닉 1주 하한가 거래 불똥…코인선물 830억 ‘강제 청산’",
-    "content": "SK하닉 1주 하한가 거래 불똥…코인선물 830억 ‘강제 청산’",
-    "url": "https://www.decenter.kr/article/20073867",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소와 관련된 뉴스이며, 구체적인 금액이 언급되어 있으며, 시장 전체에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-30T09:16:42.505127+00:00"
   }
 ]
