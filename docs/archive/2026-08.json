@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Satoshi Nakamoto’s Bitcoin Fortune Loses $67 Billion as BTC Falls 48%",
+    "content": "Satoshi Nakamoto’s Bitcoin Fortune Loses $67 Billion as BTC Falls 48%",
+    "url": "https://coinmarketcap.com/community/articles/6a78c3a9dd977174fc61262d/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 하락으로 사토시 나카모토의 비트코인 자산 가치가 67억 달러 감소하는重大 뉴스",
+    "collected_at": "2026-08-09T19:10:35.806717+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",

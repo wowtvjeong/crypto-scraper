@@ -1,5 +1,17 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Satoshi Nakamoto’s Bitcoin Fortune Loses $67 Billion as BTC Falls 48%",
+    "content": "Satoshi Nakamoto’s Bitcoin Fortune Loses $67 Billion as BTC Falls 48%",
+    "url": "https://coinmarketcap.com/community/articles/6a78c3a9dd977174fc61262d/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 하락으로 사토시 나카모토의 비트코인 자산 가치가 67억 달러 감소하는重大 뉴스",
+    "collected_at": "2026-08-09T19:10:35.806717+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "브라질, 대규모 암호화폐 자기수탁 지갑 이체에 24시간 보류 적용",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소와 관련된 뉴스이며, 구체적인 금액이 언급되어 있으며, 시장 전체에 영향을 줄 가능성이 있다.",
     "collected_at": "2026-07-30T09:16:42.505127+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "[단독] 코스피 10% 폭락한 날…테더·비트코인 거래 82% 늘었다",
-    "content": "[단독] 코스피 10% 폭락한 날…테더·비트코인 거래 82% 늘었다",
-    "url": "https://www.decenter.kr/article/20073920",
-    "published_at": null,
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "코스피가 10% 폭락한 날에 테더와 비트코인 거래가 82% 늘었다는 사실이 시장 전체에 큰 영향을 미친다.",
-    "collected_at": "2026-07-30T09:16:58.017923+00:00"
   }
 ]
