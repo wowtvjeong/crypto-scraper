@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
+    "content": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
+    "url": "https://ns3.ai/ko/news/KSSZxLCIQQ",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T14:59:02.453598+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "블랙록 IBIT가 주도한 현물 비트코인 ETF, 주간 8억 5,300만 달러 순유입 기록",
+    "content": "블랙록 IBIT가 주도한 현물 비트코인 ETF, 주간 8억 5,300만 달러 순유입 기록",
+    "url": "https://ns3.ai/ko/news/JIX1yiVNX9",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와 관련된 뉴스, 구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T14:59:11.393738+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파",
+    "content": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파",
+    "url": "https://ns3.ai/ko/news/OS80oUruZ6",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파라는 제목과 본문이 일치하여, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스임",
+    "collected_at": "2026-08-09T14:59:28.966538+00:00"
+  },
+  {
     "source": "coindesk",
     "source_type": "press",
     "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",

@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
+    "content": "미국 상장 현물 비트코인 ETF, 8억5,300만 달러 유입…4월 이후 주간 기준 최고",
+    "url": "https://ns3.ai/ko/news/KSSZxLCIQQ",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T14:59:02.453598+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "블랙록 IBIT가 주도한 현물 비트코인 ETF, 주간 8억 5,300만 달러 순유입 기록",
+    "content": "블랙록 IBIT가 주도한 현물 비트코인 ETF, 주간 8억 5,300만 달러 순유입 기록",
+    "url": "https://ns3.ai/ko/news/JIX1yiVNX9",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와 관련된 뉴스, 구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-09T14:59:11.393738+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파",
+    "content": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파",
+    "url": "https://ns3.ai/ko/news/OS80oUruZ6",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "2026년 암호화폐 프로젝트 폐쇄 100건 돌파라는 제목과 본문이 일치하여, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스임",
+    "collected_at": "2026-08-09T14:59:28.966538+00:00"
+  },
+  {
     "source": "coindesk",
     "source_type": "press",
     "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "AI bubble burst 가능성에 대한 예측과 그 원인에 대한 설명이 포함되어 있으며, 이는 크립토 시장에 영향을 줄 수 있는 전반적인 뉴스입니다.",
     "collected_at": "2026-07-30T06:18:32.090448+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "SEC Ready to Set Crypto Rules if Congress Stalls on CLARITY Act",
-    "content": "SEC Ready to Set Crypto Rules if Congress Stalls on CLARITY Act\nU.S. SEC Chair Paul Atkins said the agency is prepared to move ahead with crypto market rules within its authority if Congress fails to pass the CLARITY Act, although legislation would provide a more durable framework less vulnerable to changes between administrations. The bill advanced through the Senate Banking Committee by a 15-9 vote on May 14 but has not received a full Senate vote. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25349",
-    "published_at": "2026-07-30T04:37:07+00:00",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "규제 당국의 공식 발표 예정에 따라 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-30T06:18:32.834839+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Bitcoin ETFs Draw $32 Million as BlackRock Leads Inflows",
-    "content": "Bitcoin ETFs Draw $32 Million as BlackRock Leads Inflows\nU.S. spot Bitcoin ETFs recorded net inflows of USD 32.11 million on July 29, according to SoSoValue, with BlackRock’s IBIT attracting USD 89.83 million as outflows from other funds offset part of the gain. Among spot Ethereum ETFs, Morgan Stanley’s newly launched Ethereum Trust (MSSE) posted the largest inflow at USD 14.30 million. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25350",
-    "published_at": "2026-07-30T05:34:22+00:00",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 BlackRock의 ETF가 32만 달러를 유입하고, 유명 프로젝트 Ethereum Trust의 새로운 ETF가 14만 달러를 유입하는 등, 업계 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-30T06:18:41.206388+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스테이블코인 규칙 선시행론…기본법 입법 병목 푸나",
-    "content": "스테이블코인 발행 규정을 디지털자산기본법 완성 전 단계적으로 시행하자는 정책 제안이 나왔다. 발행 주체를 둘러싼 이견으로 입법 논의가 길어지면서 인가 기준과 사업 준비 절차가 불확실해졌다는 지적이다.\n해시드오픈리서치와 솔라나정책연구소는 29일 공동 정책 보고서에서 △스테이블코인 발행사 규제 유연성 확대 △인가 관련 잠정 가이던스 제시 △디지털자산기본법 완성 전 스테이블코인 규제의 단계적 도입을 권고했다고 코인텔레그래프는 전했다. 보고서는 지난 6월 23일 국회의원과 법률 전문가, 업계 관계자가 참석한 심포지엄 논의를 정리한 결과물이다.\n국내에서는 스테이블코인·거래소 진입 요건 등을 묶는 디지털자산기본법...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/382950",
-    "published_at": "Thu, 30 Jul 2026 05:57:37 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "스테이블코인 발행 규정과 디지털자산기본법 완성 전 단계적 시행에 대한 정책 제안이 나왔으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-07-30T06:19:38.889908+00:00"
   }
 ]
