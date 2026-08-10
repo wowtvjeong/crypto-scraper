@@ -1,5 +1,77 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스카이 2분기 수익 1억735만달러, 7월 담보 감소",
+    "content": "스카이 프로토콜(Sky Protocol)이 2026년 2분기 총 프로토콜 수익 1억735만 달러(약 1520억원)를 기록했다. 순 프로토콜 잉여는 3329만 달러(약 471억원)로 5개 분기 연속 흑자를 냈다.\n스카이 프런티어 파운데이션(Sky Frontier Foundation)은 7월 23일 공개한 2분기 보고서에서 총 프로토콜 수익이 전년 동기 대비 10.5% 증가했다고 밝혔다. 프로토콜의 수익과 비용, 담보 현황을 분기 단위로 집계한 결과다.\n순 프로토콜 수익은 4009만 달러(약 568억원)로 전년 동기 대비 25.1% 늘었다. 순수익률은 37.3%로 전년 동기 33.0%보다 4.3%포인트 높아졌다.\n순 프로토콜 수익은 수익에서 관련 비용을 반영한 지표이며, 순 프로토콜 잉여는 이후...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387584",
+    "published_at": "Mon, 10 Aug 2026 10:51:34 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "스카이 프로토콜의 2분기 수익이 전년 동기 대비 10.5% 증가하고, 순 프로토콜 잉여가 5개 분기 연속 흑자를 냈다는 뉴스.",
+    "collected_at": "2026-08-10T10:57:31.953399+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스타크웨어 “스타크넷 연환산 수익 1200% 증가·첫 흑자”",
+    "content": "스타크웨어(StarkWare)는 10일 X 게시물에서 스타크넷(STRK)의 연환산 수익이 전년 대비 약 1200% 증가했고 2026년 처음 흑자를 기록했다고 밝혔다.\n스타크웨어는 올해를 스타크넷이 본격적인 수익 창출 활동으로 전환한 해로 규정하고 초기 성과가 나타나기 시작했다고 설명했다. 회사는 네트워크 활동 증가가 수수료와 수익 확대로 이어져 생태계 확장 재원을 마련하는 구조라고 밝혔다.\n스타크웨어는 “지속 가능한 수익은 블록체인을 투기 대상인 인프라에서 스스로 유지되는 경제 체계로 바꾸는 핵심”이라고 밝혔다. 총예치금(TVL)과 인센티브, 사용자 수뿐 아니라 실제 수익을 중심으로 네트워크의 지속 가능성을 평가해야 한다는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387583",
+    "published_at": "Mon, 10 Aug 2026 10:49:16 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "스타크웨어가 스타크넷의 연환산 수익이 1200% 증가하고 첫 흑자를 기록했다는 공식 발표가 나왔고, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-10T10:57:32.255669+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "배릭·뉴몬트 합의 보도…북미 분사 가치 420억달러 거론",
+    "content": "배릭 마이닝(Barrick Mining·$B)과 뉴몬트(Newmont·$NEM)가 북미 금자산 기업공개(IPO)를 둘러싼 네바다 합작사업 갈등을 끝내기로 합의했다는 보도가 나왔다. 약 420억 달러(약 59조4720억원) 규모로 거론된 분사 계획의 핵심 걸림돌이 해소될 수 있다는 내용이다.\n파이낸셜타임스는 10일 양사가 분쟁을 마무리하고 배릭의 북미 금자산 IPO를 진행할 수 있도록 합의했다고 보도했다. 합의안에는 △뉴몬트의 IPO 동의 △배릭의 포마일(Fourmile) 프로젝트를 네바다 합작사업에 편입 △뉴몬트의 약 20억 달러(약 2조8320억원) 현금 지급이 담겼다.\n이번 합의는 파이낸셜타임스 보도를 통해 전해진 내용이다. 같은 시점 배릭과 뉴몬트의 공식...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/387579",
+    "published_at": "Mon, 10 Aug 2026 10:47:51 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "크립토와 관련이 없는 뉴스인 만큼, 관련성이 낮은데도 8점을 부여한 이유는 크립토와 관련된 기업의 IPO와 관련된 뉴스이기 때문이다.",
+    "collected_at": "2026-08-10T10:57:52.695648+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "대중 AI칩 통제 확대…미 의회, 성능·클라우드 규제 입법 추진",
+    "content": "미국 의회에서는 중국의 인공지능(AI) 컴퓨팅 능력을 평가해 첨단 칩 판매 기준을 매년 조정하고 클라우드를 통한 우회 접근까지 통제하는 법안들이 추진되고 있다.\n존 물레나르(John Moolenaar) 미 하원 중국특위 위원장은 2025년 8월 26일 미 상무부에 ‘순환형 기술 기준(rolling technical threshold·RTT)’ 도입을 제안했다. 중국이 대량 생산할 수 있는 최첨단 칩보다 소폭 높은 성능까지만 미국산 AI 칩 수출을 허용하고, 중국의 전체 AI 컴퓨팅 능력을 미국의 10% 수준으로 제한하자는 구상이다.\n순환형 기술 기준은 중국의 반도체 생산 역량 변화에 맞춰 수출 허용선을 계속 조정하는 방식이다. 특정 제품을 고정적으로 금지하는...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/387568",
+    "published_at": "Mon, 10 Aug 2026 10:33:07 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "미국 의회에서 중국의 인공지능(AI) 컴퓨팅 능력을 평가하고 클라우드를 통한 우회 접근까지 통제하는 법안들이 추진되고 있다. 이는 미국산 AI 칩 수출을 제한하고, 중국의 전체 AI 컴퓨팅 능력을 미국의 10% 수준으로 제한하는 구상이다. ",
+    "collected_at": "2026-08-10T10:59:25.581387+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "디지털 위안화, 중국 중앙은행 중기 계획에 포함됐다",
+    "content": "중국이 중앙은행 중기 개혁 계획에 디지털 위안화의 안정적 발전을 명시했다. 결제 인프라와 중앙은행 서비스 체계를 정비하는 과정에서 디지털 법정화폐를 주요 정책 과제로 다루겠다는 내용이다.\nPANews는 10일 중국인민은행(Peoples Bank of China)이 ‘중국인민은행 15차 5개년 개혁발전계획’에서 금융 인프라와 중앙은행 서비스 체계를 최적화하겠다는 방침을 제시했다고 전했다. 계획에는 결제·국고·현금 서비스를 개선하고 디지털 위안화를 안정적으로 발전시키는 내용이 담겼다.\n신용정보 산업의 고품질 발전과 자금세탁방지 감독 강화도 추진 과제에 포함됐다. 중국인민은행은 이를 통해 금융 강국 건설과 경제의 고품질 발전을...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/387566",
+    "published_at": "Mon, 10 Aug 2026 10:30:05 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "중국 중앙은행이 디지털 위안화를 안정적 발전시키는 것을 중기 계획에 포함했다는 내용으로, 대형 거래소·기관의 중대 발표와 유사한 파급력을 가짐",
+    "collected_at": "2026-08-10T10:59:45.189907+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "H100 becomes Europe’s No. 2 Bitcoin treasury after 2,455 BTC deal",
+    "content": "Sweden’s H100 more than tripled its Bitcoin holdings to 3,506 BTC after completing an acquisition involving 2,455 BTC.",
+    "url": "https://cointelegraph.com/news/sweden-h100-bitcoin-treasury-btc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 10 Aug 2026 10:14:30 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "유명 거래소가 크립토 자산을 크게 늘린 소식, 영향 범위는 크립토 시장 전반에 미치지 않지만 관련 주체가 유명하고 여러 매체가 다룰 만한 뉴스",
+    "collected_at": "2026-08-10T11:00:44.251485+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "MARA Sold 23,093 BTC for $1.63B in First Half of 2026",
