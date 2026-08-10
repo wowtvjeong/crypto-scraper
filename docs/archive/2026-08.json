@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "SharpLink Reports $394M Q2 Loss as ETH Staking Revenue Reaches $11.2M",
+    "content": "SharpLink Reports $394M Q2 Loss as ETH Staking Revenue Reaches $11.2M\nSharpLink, the second-largest publicly traded Ethereum treasury company, reported Q2 revenue of $11.5 million, including $11.2 million from ETH staking, and a net loss of $394.3 million. The loss included $321 million in unrealized crypto losses and $76.1 million in impairments on LsETH and weETH. SharpLink held 886,881 ETH as of June 30, rising to about 888,938 ETH by August 3. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25500",
+    "published_at": "2026-08-10T12:35:17+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 회사 SharpLink의 실적 발표와 ETH 스테이킹 관련 소식이 나왔지만, 시장 전체에 큰 영향을 주지 않는 일반적인 뉴스",
+    "collected_at": "2026-08-10T12:43:38.019796+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "CFTC 수치는 순숏…CME 헤지펀드 강세론과 엇갈려",
+    "content": "비트코인(BTC) 선물시장에서 헤지펀드가 강세로 전환했다는 분석과 달리 미국 상품선물거래위원회(CFTC) 공개 수치는 레버리지드 펀드의 순숏을 가리켰다. 현물 수요와 오픈이자까지 엇갈리면서 기관 자금의 방향을 단정하기 어려운 상황이다.\n8월 4일 CFTC 보고서에 따르면 시카고상품거래소(CME) 비트코인 선물의 레버리지드 펀드는 롱 4243계약과 숏 1만1483계약을 보유했다. 숏이 롱보다 7240계약 많아 공개 수치상 순숏 상태다.\n주기영(Ki Young Ju) 크립토퀀트(CryptoQuant) 대표는 10일 X에서 “CME의 헤지펀드가 비트코인 선물 순매수로 돌아섰다”고 말했다. 비인크립토(BeInCrypto)는 이 게시물을 토대로 헤지펀드에서 드문 강세...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/387656",
+    "published_at": "Mon, 10 Aug 2026 12:28:00 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CME 헤지펀드의 강세와 CFTC 수치의 엇갈림으로 인해 기관 자금의 방향을 단정하기 어려운 상황이 발생했다.",
+    "collected_at": "2026-08-10T12:45:27.441645+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "콜드카드 1억3000만달러 도난 보도, 수탁 논쟁 재점화",
