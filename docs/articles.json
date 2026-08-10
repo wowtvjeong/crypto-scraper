@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "이더리움 로드맵 재편, 양자 안전 우선순위 높였다",
+    "content": "비탈릭 부테린(Vitalik Buterin) 이더리움 공동창업자가 이더리움(ETH) 장기 로드맵의 우선순위를 재편했다. 2026년판 ‘스트로맵(Strawmap)’은 양자 안전의 비중을 높이고 강한 프라이버시와 AI 보조 형식 검증을 핵심 과제로 제시했다.\n부테린은 8월 10일 X에 2023년 로드맵 도표와 현재 스트로맵을 겹쳐 놓은 비교 자료를 공개했다. 두 로드맵의 큰 틀은 겹치지만 일부 과제의 순서와 비중이 달라졌다고 설명했다.\n가장 뚜렷한 변화는 양자 안전의 우선순위가 높아진 점이다. 반면 검증 가능 지연 함수(VDF)와 일부 이더리움가상머신(EVM) 개선은 뒤로 밀렸으며, 상태 만료는 새 상태 유형으로 대체되는 흐름을 보였다.\n이번 조정은...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387813",
+    "published_at": "Mon, 10 Aug 2026 16:20:04 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 공동창업자가 이더리움 장기 로드맵의 우선순위를 재편하고 양자 안전의 비중을 높였다는 뉴스",
+    "collected_at": "2026-08-10T16:23:03.985680+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "5000만달러, 갤럭시가 주택가격 토큰에 약정",
+    "content": "갤럭시(Galaxy)가 미국 주택가격 지수를 참조하는 이더리움 기반 디지털 자산 USHP에 5000만 달러(약 764억원)를 약정했다. 국채와 금에 집중된 실물자산 토큰화 시장을 주택가격 지수로 넓히려는 시도다.\n갤럭시는 10일 공개한 글에서 USHP 리미티드(USHP Limited)의 출시 전 기관 라운드에 참여한다고 밝혔다. 실제 집행액은 향후 달라질 수 있다. USHP는 이더리움(ETH)에서 발행될 예정이며 적격 참여자만 접근할 수 있고, 미국 내 투자자와 미국인은 대상에서 제외된다.\n갤럭시는 USHP를 미국 주택가격 지수를 참조하는 첫 디지털 자산으로 소개했다. 발행 주체인 USHP 리미티드는 영국령 버진아일랜드 법인이자 USHP 재단(USHP...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/387808",
+    "published_at": "Mon, 10 Aug 2026 16:14:37 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 이더리움 기반 디지털 자산에 5000만 달러를 약정하고, 미국 주택가격 지수를 참조하는 첫 디지털 자산을 출시하는 뉴스",
+    "collected_at": "2026-08-10T16:23:33.178135+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "2024년 2월 장애 뒤 30개월 무중단 이어간 솔라나",
+    "content": "솔라나(SOL) 메인넷 베타가 2024년 2월 6일 장애 이후 30개월간 무중단 흐름을 이어갔다. 과거 반복된 장애로 훼손됐던 네트워크 신뢰도를 회복하는 지표로 평가된다.\n10일 솔라나 상태 페이지에 따르면, 메인넷 베타 클러스터의 최근 90일 가동률은 100.0%로 나타났다. 이날 보고된 장애는 없었으며 2026년 5월과 6월, 7월의 월간 가동률도 모두 100%를 기록했다.\n가동률은 네트워크가 정상적으로 작동한 시간의 비율이다. 블록체인을 결제나 토큰화 자산 등 상시 운영 서비스에 활용하려는 개발자와 기관이 인프라의 안정성을 판단하는 기초 지표로 쓰인다.\n다만 ‘30개월 무중단’은 2024년 2월 장애 이후의 경과 기간을 뜻한다. 솔라나...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/387802",
+    "published_at": "Mon, 10 Aug 2026 16:05:14 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "솔라나 메인넷 베타가 30개월간 무중단 흐름을 이어간 것은 네트워크 신뢰도를 회복하는 중요한 지표로 평가되며, 가동률 100%를 기록한 것은 네트워크의 안정성을 강조한다.",
+    "collected_at": "2026-08-10T16:24:26.787984+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitcoin price slip wipes weekend gains as oil surge hits 5% on Hormuz disappointment",
+    "content": "Bitcoin wobbled with US stocks as Iran deflated hopes on the reopening of the Strait of Hormuz oil route, while analysis praised “exceptionally strong” institutional BTC inflows.",
+    "url": "https://cointelegraph.com/markets/bitcoin-wipes-weekend-gains-as-oil-nears-5-surge-on-hormuz-disappointment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Mon, 10 Aug 2026 16:14:58 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 전반에 영향을 줄 수 있는 뉴스인 비트코인 가격 변동과, 유의미한 규모의 기관 투자가 들어오는 소식이 동시에 언급되지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-10T16:25:56.926787+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Keel Shuts U.S. Bitcoin Mining Operations as It Pivots to AI Data Centers",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "IRS가 암호화폐 보유자에게 가짜 우편 서한 경고를 보내는 것은 크립토 시장에 영향을 줄 수 있는重大한 뉴스이다.",
     "collected_at": "2026-07-30T22:59:15.213585+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Strategy Reports Q2 Results: Holds 843,775 BTC, Records $8.22 Billion Loss Due to Fair Value Changes",
-    "content": "Strategy Reports Q2 Results: Holds 843,775 BTC, Records $8.22 Billion Loss Due to Fair Value Changes\nStrategy (Nasdaq: MSTR), formerly MicroStrategy, reported a net loss of $8.22 billion for the second quarter of 2026, compared with net income of $10.02 billion a year earlier, driven by fair value changes in its bitcoin holdings. As of July 26, the company held approximately 843,775 BTC, up 25% year to date, and raised about $17.06 billion through its at-the-market (ATM) offering programs.\nStrategy said it increased its USD Reserve to $3.75 billion, covering more than 2.1 years of preferred stock dividend and debt interest obligations. Its convertible debt balance declined to $6.71 billion at the end of the quarter, from $8.21 billion previously. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25358",
-    "published_at": "2026-07-30T20:30:50+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 MicroStrategy의 비트코인 보유량과 손실에 대한 보고가 업계 전반에 주목할 만한 뉴스임",
-    "collected_at": "2026-07-30T21:39:08.128029+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Coinbase Q2 Revenue Falls 14% as Prediction Markets Revenue Jumps 106%",
-    "content": "Coinbase Q2 Revenue Falls 14% as Prediction Markets Revenue Jumps 106%\nCoinbase reported Q2 2026 total revenue of $1.22 billion, down 19% year over year and 14% quarter over quarter, while transaction revenue fell 21% to $599 million. The company recorded a net loss of $359 million and adjusted EBITDA of $208 million. Crypto spot trading volume declined 24% to $146.4 billion, but Coinbase’s share of total crypto trading volume rose from 9.1% to a record 10.3%.\nSubscription and services revenue fell 5% to $555 million, representing 48% of net revenue, while revenue outside BTC spot trading accounted for 88%. Prediction markets revenue increased 106% quarter over quarter and exceeded $100 million on an annualized basis. Average USDC held in Coinbase products reached $20 billion. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25359",
-    "published_at": "2026-07-30T21:26:41+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소 Coinbase의 Q2 영업 결과가 발표되었으며, 거래량과 수익이 감소했지만 예측 시장의 수익이 크게 증가했다.",
-    "collected_at": "2026-07-30T21:39:08.437421+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스트레티지, 비트코인 평가손에 11조7000억원 순손실…전략 변화 주목된다",
-    "content": "스트레티지(Strategy)가 비트코인(BTC) 가격 하락 여파로 2분기 ‘대규모 손실’을 기록했다. 보유 자산 평가손이 실적을 사실상 좌우하며 시장의 우려도 커지는 모습이다.비트코인 평가손 11조원대…실적 직격탄31일 공개된 실적에 따르면 스트레티지(Strategy)는 2분기 약 82억달러(약 11조7000억원) 규모의 순손실을 기록했다. 손실 대부분은 공정가치 회계 기준에 따른 비트코인(BTC) 평가손 83억2000만달러에서 발생했다.회사는 7월 26일 기준 84만3775개의 비트코인을 보유하고 있으며, 이는 연초 대비 약 25% 늘어난 규모다. 현재 시가 기준 보유 자산 가치는 약 548억달러로, 취득 원가 637억달러를 밑돌고 있다.복잡해진 자본 구조…투자자...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383071",
-    "published_at": "Thu, 30 Jul 2026 20:39:09 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 투자자인 스트레티지가 비트코인 가격 하락으로 인한 11조7000억원 순손실을 기록했으며, 이는 시장의 우려를 커지게 한다. 또한, 스트레티지는 비트코인을 84만3775개 보유하고 있으며, 이는 연초 대비 25% 증가한 규모다.",
-    "collected_at": "2026-07-30T21:40:29.181410+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "코인베이스 실적 예상 밑돌아…시간외 5% 하락, 수익구조 전환 분기점 될까",
-    "content": "코인베이스(COIN)가 2분기 실적 부진을 공개하자 시간외 거래에서 주가가 약 5% 하락했다. ‘비트코인(BTC)’과 ‘이더리움(ETH)’ 가격 약세가 거래 수익을 끌어내리며 실적 압박으로 이어진 모습이다.코인베이스는 2분기 매출 12억2000만달러(약 1조7380억원)를 기록해 시장 예상치인 12억9000만달러를 밑돌았다. 핵심 수익원인 거래 수익은 5억9900만달러로, 예상치 6억2800만달러에 못 미쳤다. 구독 및 서비스 매출 역시 5억5500만달러로 집계돼 기대치(5억9900만달러)를 하회했다.암호화폐 약세 직격탄…거래 수익 감소이번 실적 부진은 2분기 전반에 걸친 ‘암호화폐 시장 약세’ 영향이 컸다. 비트코인은 해당 기간 약 14%, 이더리움은 약 25%...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383069",
-    "published_at": "Thu, 30 Jul 2026 20:29:52 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "코인베이스의 실적 부진과 암호화폐 시장 약세가 거래 수익을 끌어내린 영향이 크고, 구체적인 금액이 언급되어 있다.",
-    "collected_at": "2026-07-30T21:40:48.784699+00:00"
   }
 ]
