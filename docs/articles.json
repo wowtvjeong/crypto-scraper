@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "라이엇플랫폼스, AMD와 25MW AI 데이터센터 임대",
+    "content": "라이엇플랫폼스(Riot Platforms·$RIOT)가 AMD($AMD)에 25메가와트(MW) 규모의 데이터센터 용량을 공급하는 10년 임대계약을 체결했다. 비트코인(BTC) 채굴에 활용해 온 전력과 부지를 인공지능(AI)·고성능컴퓨팅(HPC) 인프라로 확장하는 사업 전환이다.\n라이엇플랫폼스는 1월 16일 공식 발표에서 텍사스주 록데일 데이터센터의 핵심 IT 부하 25MW를 AMD에 공급한다고 밝혔다. 기본 계약기간은 10년이며 계약가치는 약 3억1100만 달러(약 4407억원)다.\nAMD에는 5년 연장 옵션 3개가 부여됐다. 옵션이 모두 행사되면 계약가치는 약 10억 달러(약 1조4170억원)로 늘어날 수 있다.\n계약에는 추가 75MW 확장 옵션과 100MW 우선거절권도 포함됐다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388748",
+    "published_at": "Tue, 11 Aug 2026 22:25:18 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 채굴에 활용해 온 전력과 부지를 인공지능(AI)·고성능컴퓨팅(HPC) 인프라로 확장하는 사업 전환이라는데, AMD와 25MW AI 데이터센터 임대 계약을 체결했다는 점에서 관련성이 있지만, 아직 시장 전체에 영향을 줄 가능성이 보이지 않아 7.5점을 주었습니다.",
+    "collected_at": "2026-08-11T22:31:25.110491+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "美 CFTC, 칼시 뉴욕 영업 지속 명령… 예측시장 놓고 연방·州 규제 충돌",
+    "content": "[블록미디어 명정선 기자]  미국 상품선물거래위원회(CFTC)가 예측시장 플랫폼 칼시(Kalshi)에 뉴욕주에서 서비스를 계속 제공하라고 명령했다. 뉴욕주가 스포츠 관련 예측시장을 사실상 도박으로 규정하고 칼시를 상대로 소송을 제기한 가운데 연방 금융당국이 직접 개입하면서 예측시장의 규제 권한을 둘러싼 연방정부와 주정부 간 갈등이 커지고 있다. 코인데스크 등 주요 외신에 따르면 CFTC는 11일(현지시각) 긴급 권한을 발동해 칼시가 뉴욕주에서 서비스를 계속 운영하도록 명령했다고 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1126612?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 11 Aug 2026 22:11:39 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "CFTC가 칼시에 뉴욕주에서 서비스를 계속 제공하라고 명령하는 등 연방·주 정부 간 규제 권한에 대한 갈등이 커지고 있는 뉴스",
+    "collected_at": "2026-08-11T22:32:38.488070+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "크립토 관련 프로젝트 Yield Guild가 AI 데이터로 서비스를 이동시키는 뉴스, 관련 주체는 중견 크립토 프로젝트로 파급 범위는 크립토 시장 전반",
     "collected_at": "2026-07-31T21:37:43.017278+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "콜드카드 절도범, 7천만 달러 넘는 비트코인 유출에 블록체인 서비스 제공업체 이용",
-    "content": "콜드카드 절도범, 7천만 달러 넘는 비트코인 유출에 블록체인 서비스 제공업체 이용",
-    "url": "https://ns3.ai/ko/news/0OzRwcUlBC",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 블록체인 서비스 제공업체가 절도범의 비트코인 유출에 이용된다는 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-07-31T21:37:58.493550+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "The Solana launchpad war seems over, and the scoreboard is brutal",
-    "content": "The Solana launchpad war seems over, and the scoreboard is brutal",
-    "url": "https://ko.bsc.news/news/pumpfun-vs-bonk-launchpad-revenue-gap",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Solana launchpad war의 결과가 공개되어, 크립토 시장에 큰 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-07-31T21:38:40.967066+00:00"
   }
 ]
