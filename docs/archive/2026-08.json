@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto",
+    "content": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto\nAccording to CryptoQuant data, USDT’s 60-day rolling supply change has declined by about $4 billion, including an $870 million drop over the past 11 days alone. Analyst Stacy Muur said some investors appear to be exiting crypto altogether by converting stablecoins back into fiat, while changing stablecoin yields may also be contributing to the decline. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25510",
+    "published_at": "2026-08-11T09:38:34+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "USDT의 60일간 공급량이 4억달러 감소하고, 일부 투자자가 스테이블코인에서 fiat으로 환원하는 것으로 보인다.",
+    "collected_at": "2026-08-11T10:24:02.549292+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "1432~1816 BTC, 콜드카드 피해 집계 왜 엇갈렸나",
+    "content": "콜드카드(Coldcard) 해킹 피해가 조사 기준에 따라 1432 비트코인(BTC)에서 1816 BTC까지 다르게 집계됐다. 피해자가 직접 신고한 손실만 인정할지, 온체인 거래 패턴으로 연결된 자금까지 포함할지가 추정치의 차이를 만들었다.\n코인텔레그래프는 11일 크립토퀀트(CryptoQuant)가 확인 손실을 1432 BTC로 집계한 반면 갤럭시 리서치(Galaxy Research)와 TRM Labs는 더 큰 피해 규모를 제시했다고 전했다. 중앙화 거래소 침해와 달리 개인 지갑 사고는 전체 피해 계정 명단이 없어 신고와 온체인 분석을 결합해야 한다.\n갤럭시 리서치는 고신뢰 최저치를 1730 BTC로 제시했다. 앞서 거론된 1816 BTC는 확정 손실이 아니라 공격과 연관됐을...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388402",
+    "published_at": "Tue, 11 Aug 2026 10:22:53 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "콜드카드 해킹 피해가 조사 기준에 따라 다르게 집계되는 사안으로, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-11T10:24:03.055062+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "저커버그 AI 분산론, 모델 보안 사고로 시험대",
+    "content": "메타(Meta·$META)가 인공지능(AI) 권력 집중을 주요 위험으로 지목하고 개방형 모델 확대를 해법으로 제시했다. 같은 시기 메타 AI 모델이 보안 테스트 도중 제3자 서비스의 취약점을 건드린 사실이 알려지면서 개방 전략과 안전성 관리의 균형이 시험대에 올랐다.\n마크 저커버그(Mark Zuckerberg) 메타 최고경영자(CEO)는 10일 공개한 ‘미래는 모두를 위한 것’에서 초지능을 둘러싼 핵심 문제는 “누가 접근할 수 있느냐”라고 말했다. AI 역량이 소수 기업이나 정부에 집중되면 권력의 불균형이 심해질 수 있다는 주장이다.\n저커버그는 개인과 개발자에게 AI를 폭넓게 배포하는 방식이 안전의 기반이 될 수 있다고 강조했다. 고도화된 AI를...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388397",
+    "published_at": "Tue, 11 Aug 2026 10:17:32 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "메타 최고경영자 마크 저커버그가 인공지능(AI) 권력 집중을 주요 위험으로 지목하고 개방형 모델 확대를 해법으로 제시했다. 또한 AI 역량이 소수 기업이나 정부에 집중되면 권력의 불균형이 심해질 수 있다는 주장을 하였다.",
+    "collected_at": "2026-08-11T10:24:39.621444+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "두바이 수탁업 원칙적 승인…최종 인가 남았다",
+    "content": "Cregis Custody FZE가 두바이 가상자산규제청(Virtual Assets Regulatory Authority·VARA)의 원칙적 승인(In-Principle Approval·IPA)을 받았다. 정식 디지털자산 수탁 서비스를 시작하려면 남은 규제 요건을 이행하고 최종 승인을 받아야 한다.\nTechFlow는 11일 오전 11시 12분(한국시간) Cregis Custody FZE가 IPA를 확보했다고 전했다. 이번 승인은 가상자산사업자(VASP) 라이선스 신청 과정의 중간 단계다.\nIPA는 최종 영업 허가가 아니다. VARA 공개 등록부는 IPA 상태의 신청자가 정식 VASP 라이선스를 받기 전까지 가상자산 관련 영업을 시작하거나 고객에게 서비스를 제공할 수 없다고 명시하고 있다.\nCregis Custody FZE는 Cregis...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/388396",
+    "published_at": "Tue, 11 Aug 2026 10:17:12 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "두바이 가상자산규제청의 원칙적 승인은 가상자산 사업자 라이선스 신청의 중간 단계이지만, 아직까지는 정식 영업 허가가 아니다.",
+    "collected_at": "2026-08-11T10:24:57.373359+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "코인베이스 토큰화 주식, 미국 밖 적격 지역에만 제공",
+    "content": "코인베이스($COIN)가 기초 주식으로 1대1 뒷받침되는 토큰화 주식을 미국 외 적격 관할권에만 제공한다. 미국 이용자는 초기 제공 대상에서 제외된다.\n코인베이스는 11일 오전 11시 8분 한국시간 기준 공식 소셜 채널에서 제공 지역을 이같이 밝혔다. 회사는 앞서 6월 16일 공개한 제품 업데이트에서도 비미국 고객을 대상으로 토큰화 주식을 도입하겠다고 설명했다.\n회사는 토큰화 주식이 기초 주식으로 1대1 뒷받침되며 배당 지급과 주주권을 포함한다고 밝혔다. 이용자는 이를 온체인에서 거래·보유·상환하고 담보로 활용하거나 다른 사람에게 전송할 수 있다는 설명이다.\n토큰화 주식은 실제 주식이나 ETF에 연계된 권리를 블록체인상...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388395",
+    "published_at": "Tue, 11 Aug 2026 10:16:46 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "코인베이스가 미국 외 적격 관할권에만 토큰화 주식을 제공하는 뉴스, 대형 거래소의 중대 발표",
+    "collected_at": "2026-08-11T10:25:13.813366+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트겟, 기관용 CFD 유동성 솔루션 출시",
+    "content": "비트겟(Bitget)이 대형·고빈도 주문을 처리하는 기관용 차액결제거래(CFD) 유동성 솔루션을 출시했다. 외부 유동성 풀을 활용하는 100% 직통처리(STP)와 다단계 시장 깊이 집계를 앞세웠다.\n비트겟은 퀀트팀과 자기매매 기관, 펀드, 브로커, 고액 전문 거래자를 대상으로 기관급 CFD 유동성 솔루션을 정식 출시했다고 오데일리가 11일 보도했다. 고빈도 퀀트 거래와 현물·선물 차익거래, 자동매매 프로그램(EA) 운용 환경을 지원한다.\n이번 솔루션은 대량 주문을 빠르게 처리하면서 가격 미끄러짐과 시장 충격을 줄이는 데 초점을 맞췄다. 전문 거래기관의 체결 효율과 유동성, 낮은 지연 시간에 대한 요구가 커진 데 대응한 조치다.\nCFD는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388392",
+    "published_at": "Tue, 11 Aug 2026 10:14:43 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트겟이 대형·고빈도 주문을 처리하는 기관용 CFD 유동성 솔루션을 출시했으며, 전문 거래기관의 체결 효율과 유동성, 낮은 지연 시간에 대한 요구를 충족하는 데 초점을 맞췄다.",
+    "collected_at": "2026-08-11T10:25:48.080737+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "코인베이스 영국 파생상품 확대, 개인투자자는 제외",
