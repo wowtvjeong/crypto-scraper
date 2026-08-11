@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "8억5350만달러 유입에도 비트코인 상승률 미 증시 하회",
+    "content": "미국 현물 비트코인(BTC) 상장지수펀드(ETF)에 지난주 8억5350만 달러(약 1조2094억원)가 순유입됐다. 다만 비트코인 상승률은 같은 기간 미국 주식시장에 미치지 못했다.\n우블록체인은 11일 윈터뮤트의 최신 시장 주간 보고서를 인용해 미국 현물 비트코인 ETF의 지난주 순유입액이 8억5350만 달러였다고 보도했다. 이번 순유입액은 4월 중순 이후 가장 큰 주간 규모다.\n같은 기간 미국 현물 이더리움(ETH) ETF에는 2억4490만 달러(약 3470억원)가 들어왔다. 두 상품의 합산 순유입액은 10억9840만 달러(약 1조5564억원)다.\n미국 현물 비트코인 ETF의 주간 자금 유입이 확대됐지만, 가격 반응은 미국 주식보다 약했다. 윈터뮤트는 이를...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/388421",
+    "published_at": "Tue, 11 Aug 2026 11:00:10 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 ETF에 8억5350만 달러가 순유입되고, 미국 주식시장보다 가격 반응이 약한 뉴스",
+    "collected_at": "2026-08-11T11:11:26.021451+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "클래리티 법안, 상원 본회의 60표 확보가 관건",
+    "content": "미국 디지털자산 시장구조 법안인 클래리티 법안(CLARITY Act)이 하원과 상원 은행위원회를 통과했지만 본회의 표결에 필요한 60표 확보와 수정안 합의를 남겨두고 있다.\n미 의회 법안 정보시스템에 따르면 H.R.3633 ‘2025년 디지털자산 시장 명확성법(Digital Asset Market Clarity Act of 2025)’은 지난해 7월 17일 하원에서 294대 134로 가결됐다. 법안은 같은 해 9월 18일 상원 은행·주택·도시문제위원회로 회부됐다.\n상원 은행위원회는 올해 5월 14일 법안을 15대 9로 가결했다. 위원회 공화당은 디지털자산 규제의 명확성과 소비자 보호를 강화하고 불법자금 차단 수단을 보완하는 법안이라고 평가했다.\n클래리티 법안은 미국...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/388415",
+    "published_at": "Tue, 11 Aug 2026 10:53:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국 의회에서 디지털자산 시장구조 법안인 클래리티 법안이 상원 은행위원회를 통과했지만 본회의 표결에 필요한 60표 확보를 남겨두고 있다. 이는 미국 디지털자산 시장에 큰 영향을 줄 수 있는 법안이기 때문에 높은 점수를 받는다.",
+    "collected_at": "2026-08-11T11:12:34.616900+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "USDT Supply Shrinks by $4B Over 60 Days as Investors May Be Exiting Crypto",
