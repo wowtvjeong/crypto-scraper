@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "13% 배당 스트라이브, 현금 보유액은 18개월치",
+    "content": "스트라이브(Strive)가 변동금리 영구 우선주 SATA의 연 13% 배당률을 유지하고 있다. 현금 보유액은 단순 계산상 약 18개월치 배당에 해당하지만 자금조달 여건이 나빠지면 비트코인(BTC)을 매도할 가능성도 공시상 위험 요인으로 남아 있다.\n7월 6일 미국 증권거래위원회(SEC) 공시에 따르면, 스트라이브는 7월 2일 기준 현금 및 현금성 자산 1억5340만달러(약 2173억원)와 비트코인 1만9882개를 보유했다. SATA 782만9502주의 명목금액은 7억8295만달러(약 1조1098억원), 연간화 지급 의무는 1억178만4000달러(약 1442억원)로 제시됐다.\n현금 보유액을 연간화 지급 의무로 나누면 약 18개월 동안 SATA 배당을 감당할 수 있다는 계산이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388567",
+    "published_at": "Tue, 11 Aug 2026 14:45:44 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 보유액과 관련된 소식이 있으나, 크립토 시장 전체에 영향을 주는 사건은 아님",
+    "collected_at": "2026-08-11T14:50:31.749619+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "5860억원 손실 트웬티원캐피털, 금융서비스 전환 추진",
+    "content": "테더가 지원하는 비트코인 재무기업 트웬티원캐피털(Twenty One Capital·$XXI)이 2026년 2분기 4억1350만 달러(약 5860억원)의 순손실을 기록했다. 손실 대부분은 비트코인(BTC) 보유가치 하락에서 발생했다.\n트웬티원캐피털은 11일 공개한 2분기 실적에서 전체 손실 가운데 약 4억150만 달러(약 5689억원)가 비트코인 자산의 장부가치 하락에서 나왔다고 밝혔다. 이 같은 내용은 더블록이 전했다. 비트코인을 핵심 자산으로 보유하는 구조여서 가격 변동이 분기 실적에 직접 반영됐다.\n비트코인 재무기업은 가격 상승기에는 보유자산 가치가 늘지만 하락기에는 평가손실이 손익에 반영될 수 있다. 앞서 스트라이브도 보유자산의 공정가치...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388565",
+    "published_at": "Tue, 11 Aug 2026 14:35:53 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-11T14:50:49.199562+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "SEC, CAT 직접 운영 검토…전환 2027년 말까지 이어질 수도",
+    "content": "미국 증권거래위원회(SEC)가 증권시장 감시 시스템인 통합감사추적시스템(CAT)의 자금 조달과 운영 책임을 직접 맡는 방안을 검토한다. 현행 규칙 613을 폐지하면서 기존 보고 인프라는 유지하는 방안도 검토 대상에 올랐다.\n폴 앳킨스(Paul S. Atkins) SEC 위원장은 10일 로버트 월리(Robert Walley) CAT NMS 플랜 운영위원회 의장에게 보낸 서한에서 CAT의 비용과 지배구조, 자금 조달 문제를 해결하려면 추가 개편이 필요하다고 밝혔다.\n앳킨스 위원장은 SEC 직원들에게 CAT 자금 조달 방안을 검토하라고 지시했다. 의회 배정예산과 증권거래법상 섹션 31 거래 수수료를 활용할 수 있는지가 검토 대상이다.\nSEC가 CAT 운영 책임을 맡는 데...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/388563",
+    "published_at": "Tue, 11 Aug 2026 14:33:42 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": false,
+    "reason": "미국 증권거래위원회(SEC)의 CAT 운영 책임을 직접 맡는 방안을 검토하는 뉴스, 이는 증권시장에 큰 영향을 줄 수 있는 정책 변화",
+    "collected_at": "2026-08-11T14:51:25.161711+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "ENS 다오, 운영 재단 설립안 통과·온체인 실행",
+    "content": "이더리움네임서비스(ENS) 다오가 운영 재단 설립안을 승인하고 온체인 실행까지 마쳤다. 법인격을 갖춘 조직이 법률·정책과 표준화 업무를 맡도록 거버넌스 체계를 개편한 것이다.\n오데일리는 11일 오후 3시 29분 한국시간 ENS 다오가 ‘ENS 다오의 새로운 시대(Next Era of ENS DAO)’ 제안을 통과시켜 ENS 재단(ENS Foundation)을 공식 설립했다고 전했다. 이번 결정으로 ENS 생태계는 다오와 재단이 역할을 나눠 운영하는 단계에 들어섰다.\nENS 재단은 상근 실행책임자와 전문 인력을 두고 5명으로 구성된 이사회를 운영한다. 다오만으로 처리하기 어려웠던 기관 협력과 고용, 법률 업무를 담당하는 상설 조직이다.\n재단의 주요 업무는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388562",
+    "published_at": "Tue, 11 Aug 2026 14:32:44 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "ENS 재단 설립과 온체인 실행은 ENS 생태계의 변화와 ENS의 규모와 영향력에 대한 중요한 뉴스",
+    "collected_at": "2026-08-11T14:51:42.661394+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "NYTIMES: Former UAE Head of Notorious Crypto MM Web3Port Identified as Figure Behind Aqua 1, Which Invested $100M in WLF",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": false,
     "reason": "메타와 관련된 뉴스이며, 메타 인도 대표가 형사 입건되었지만, 크립토와 직접적인 관련은 없지만, 크립토와 관련된 플랫폼의 운영과 관련된 뉴스이므로, 7.5점을 부여한다.",
     "collected_at": "2026-07-31T15:39:36.566832+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“3주 만에 최대 유입”…비트코인 ETF, 4주 연속 순유입 청신호",
-    "content": "[멕시코=심영재 특파원] 미국 현물 비트코인(BTC) 상장지수펀드(ETF)가 3주여 만에 가장 큰 규모의 자금 유입을 기록하며 주간 기준 순유입으로 돌아섰다. 블랙록의 아이셰어즈 비트코인 트러스트(IBIT)가 하루 유입액의 약 80%를 차지하며 자금 회복을 주도했다. 코인텔레그래프는 31(현지시각)일 미국 현물 비트코인 ETF가 지난 30일 기준 2억3310만달러의 순유입을 기록했다고 보도했다. 이는 최근 3주여 동안 가장 큰 하루 순유입 규모다. 소소밸류(SoSoValue) 집계에 따르면 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122989?utm_source=general&utm_medium=rss",
-    "published_at": "Fri, 31 Jul 2026 14:27:45 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "비트코인 ETF가 3주여 만에 최대 규모의 자금 유입을 기록하며 주간 기준 순유입으로 돌아섰고, 블랙록의 아이셰어즈 비트코인 트러스트가 하루 유입액의 약 80%를 차지했다.",
-    "collected_at": "2026-07-31T15:39:55.025228+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[속보] 비트코인 6만2000달러대 하락",
-    "content": "[멕시코=심영재 특파원]",
-    "url": "https://www.blockmedia.co.kr/archives/1122987?utm_source=general&utm_medium=rss",
-    "published_at": "Fri, 31 Jul 2026 14:22:21 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인이 6만2000달러대에 하락하는 속보 뉴스이며, 관련 주체의 규모가 크고 파급 범위가 크며 확정성이 높습니다.",
-    "collected_at": "2026-07-31T15:40:10.530732+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "홍콩서 ‘커피 투자’ 코인 사기 의혹⋯피해액 1840억원",
-    "content": "[멕시코=심영재 특파원] 베트남에 기반을 둔 것으로 알려진 투자 프로젝트 ‘펀커피’가 홍콩에서 대규모 폰지 사기 의혹에 휩싸였다. 홍콩 증권선물위원회(SFC)는 투자 원금 전액을 잃을 수 있다며 공개 경고를 발령했고, 경찰은 사건을 상업범죄수사국(CCB)에 넘겨 본격적인 수사에 착수했다. 크립토폴리탄은 31일(현지시각) 펀커피가 홍콩 투자자들을 대상으로 연 최대 222%의 수익률을 약속하며 디지털자산(가상자산) 투자금을 모집한 뒤 출금을 중단해 대규모 피해가 발생했다고 보도했다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122974?utm_source=general&utm_medium=rss",
-    "published_at": "Fri, 31 Jul 2026 14:12:45 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대규모 폰지 사기 의혹으로 크립토폴리탄에 의해 보고된 대형 거래소·유명 프로젝트와 관련된 뉴스, 그러나 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-07-31T15:40:28.072600+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "AI 시대 달러 지배력, 스테이블코인이 강화한다",
-    "content": "[멕시코=심영재 특파원] 인공지능(AI) 산업의 주도권 경쟁이 결국 통화 패권 경쟁으로 이어질 수 있다는 분석이 나왔다. 아세안+3 거시경제조사기구(AMRO)는 AI 인프라와 결제가 미국 달러 중심으로 구축될 경우 달러 연동 스테이블코인이 AI 경제의 핵심 결제 수단으로 자리 잡으며 달러의 글로벌 지배력이 한층 강화될 수 있다고 전망했다. AI 경제가 새로운 달러 수요 만든다 아세안+3 거시경제조사기구(AMRO)의 청쉬 푸(Chengxu Fu)와 샤궈 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122963?utm_source=general&utm_medium=rss",
-    "published_at": "Fri, 31 Jul 2026 13:38:31 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "AI 경제가 새로운 달러 수요를 만들고, 달러 연동 스테이블코인이 AI 경제의 핵심 결제 수단으로 자리 잡을 것으로 전망되었다.",
-    "collected_at": "2026-07-31T15:40:45.515955+00:00"
   }
 ]
