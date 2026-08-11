@@ -2,6 +2,30 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "170개 파생계약 연 코인베이스, 영국 개인은 제외",
+    "content": "코인베이스($COIN)가 영국 전문 고객을 대상으로 선물·무기한 계약·옵션 170개 이상을 단계적으로 출시한다. 영국 개인투자자는 이번 파생상품 서비스 대상에서 제외된다.\n코인베이스는 11일 암호화폐와 원자재, 주식, 외환을 기초자산으로 하는 계약을 순차적으로 제공한다고 밝혔다. 거래는 24시간 가능하며 최대 레버리지는 50배다.\n이번 출시는 코인베이스가 7월 7일 영국에서 미피드(MiFID) 투자서비스 인가를 확보한 지 한 달여 만에 나왔다. 당시 회사는 해당 인가를 통해 파생상품과 주식 거래 서비스를 제공할 수 있다고 설명했다.\n인가 확보와 상품 출시는 서로 다른 단계다. 7월 발표가 영국에서 투자서비스를 제공할 규제 기반을...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/388768",
+    "published_at": "Tue, 11 Aug 2026 23:09:48 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "코인베이스가 영국에서 파생계약을 출시하고, 영국 개인투자자는 대상에서 제외된다는 뉴스. 관련 주체는 코인베이스, 영향 범위는 영국 파생상품 시장, 확정성은 이미 출시가 시작된 상태.",
+    "collected_at": "2026-08-11T23:31:13.185433+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트겟, 기관용 CFD 확대…밀리초 미만 주문 매칭",
+    "content": "비트겟(Bitget)이 퀀트팀과 자기매매 기관, 펀드, 브로커, 고액 전문 거래자를 대상으로 기관용 차액결제거래(CFD) 유동성 솔루션을 출시했다. 대량·고빈도 주문을 처리하는 속도와 외부 유동성 연결을 강화한 것이 핵심이다.\n비트겟은 12일 공식 발표에서 새 솔루션에 △100% 직통처리(STP) △다단계 유동성 △밀리초 미만 주문 매칭 △금융정보교환 프로토콜 응용프로그램 인터페이스(FIX API)를 적용했다고 밝혔다. 고객 주문을 플랫폼 내부에서 상대하지 않고 외부 유동성 풀로 직접 전달하는 구조다.\n유동성은 글로벌 1급 은행과 비은행 시장조성자가 제시하는 여러 단계의 호가를 모아 제공한다. 대형 주문을 복수의 가격대와 유동성...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388761",
+    "published_at": "Tue, 11 Aug 2026 22:51:29 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트겟이 기관용 CFD 유동성 솔루션을 출시하여 대량·고빈도 주문을 처리하는 속도와 외부 유동성 연결을 강화했다.",
+    "collected_at": "2026-08-11T23:31:49.231087+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "라이엇플랫폼스, AMD와 25MW AI 데이터센터 임대",
     "content": "라이엇플랫폼스(Riot Platforms·$RIOT)가 AMD($AMD)에 25메가와트(MW) 규모의 데이터센터 용량을 공급하는 10년 임대계약을 체결했다. 비트코인(BTC) 채굴에 활용해 온 전력과 부지를 인공지능(AI)·고성능컴퓨팅(HPC) 인프라로 확장하는 사업 전환이다.\n라이엇플랫폼스는 1월 16일 공식 발표에서 텍사스주 록데일 데이터센터의 핵심 IT 부하 25MW를 AMD에 공급한다고 밝혔다. 기본 계약기간은 10년이며 계약가치는 약 3억1100만 달러(약 4407억원)다.\nAMD에는 5년 연장 옵션 3개가 부여됐다. 옵션이 모두 행사되면 계약가치는 약 10억 달러(약 1조4170억원)로 늘어날 수 있다.\n계약에는 추가 75MW 확장 옵션과 100MW 우선거절권도 포함됐다....  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/388748",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·기관의 중대 발표와 유사한 뉴스, 큰 폭의 가격 변동과 관련이 있어",
     "collected_at": "2026-07-31T21:37:10.263235+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Coldcard 공격자, 익스플로잇 첫 10분 만에 3천만 달러 탈취",
-    "content": "Coldcard 공격자, 익스플로잇 첫 10분 만에 3천만 달러 탈취",
-    "url": "https://ns3.ai/ko/news/3bUJ2fSIZA",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 크립토 해킹 사건",
-    "collected_at": "2026-07-31T21:37:27.604178+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "YGG Play 서비스 종료, Yield Guild는 AI 데이터로 이동",
-    "content": "YGG Play 서비스 종료, Yield Guild는 AI 데이터로 이동",
-    "url": "https://ns3.ai/ko/news/twUHj8kJxV",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 프로젝트 Yield Guild가 AI 데이터로 서비스를 이동시키는 뉴스, 관련 주체는 중견 크립토 프로젝트로 파급 범위는 크립토 시장 전반",
-    "collected_at": "2026-07-31T21:37:43.017278+00:00"
   }
 ]
