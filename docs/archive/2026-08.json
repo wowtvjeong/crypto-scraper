@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday",
+    "content": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday\nThe SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering regime for certain investment contracts involving crypto assets and could unveil an “innovation exemption” for tokenized securities as soon as the same day. The exemption could pave the way for 24/7 blockchain-based trading of tokenized stocks, while allowing public companies to object to third parties tokenizing their shares and introducing tighter anti-money-laundering safeguards, potentially including a requirement that trading platforms be US entities. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25519",
+    "published_at": "2026-08-11T20:39:48+00:00",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 토큰화된 주식 거래 면제를 금요일에 발표할 가능성이 있어, 이는 블록체인 기반 24/7 거래를 허용하고 공 司에 토큰화된 주식에 반대할 수 있는 권한을 부여하며, 더 강화된 반도체 세탁 방지 조치를 도입할 수 있다.",
+    "collected_at": "2026-08-11T21:35:06.381699+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 SEC, 토큰화 주식 ‘혁신 면제’ 공개…24시간 거래 길 열린다",
+    "content": "[블록미디어 이정화 기자] 미국 클래리티 법안 처리가 지연되는 가운데, 증권거래위원회(SEC)가 가상자산 산업에 활력을 불어넣을 대규모 규제안을 잇달아 선보일 전망이다. 11일(현지시각) 블룸버그 등 주요외신에 따르면 SEC는 오는 금요일 14일 공개 회의를 열고 “가상자산이 포함된 특정 투자 계약을 위한 맞춤형 발행 제도”를 논의한다고 발표했다. 이와 함께 블록체인상에서 디지털 버전의 증권을 거래할 수 있도록 허용하는 이른바 ‘혁신 면제(Innovation [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1126600?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 11 Aug 2026 21:32:40 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 SEC가 가상자산 산업에 대규모 규제안을 발표할 전망이며, 블록체인상에서 디지털 버전의 증권을 거래할 수 있도록 허용하는 '혁신 면제'를 논의한다는 점에서 크립토와 관련된 중요한 뉴스이다.",
+    "collected_at": "2026-08-11T21:36:24.145859+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "라이엇, 비트코인 팔아 12조 규모 ‘AI 데이터센터’ 짓는다… 임대수익은 2027년부터",
+    "content": "[블록미디어 명정선 기자] 비트코인 채굴업체 라이엇 플랫폼스가 인공지능(AI) 데이터센터 사업 확대를 위해 보유 중인 비트코인을 핵심 자금원으로 활용한다. 20년에 걸쳐 약 91억달러의 매출을 기대하는 대규모 계약을 확보했지만 실제 임대료 수입이 발생하기까지 1년 이상 남은 만큼 비트코인 매각을 통해 초기 건설비를 충당한다는 계획이다. 11일(현지시각) 크립토슬레이트와 라이엇의 공시에 따르면 라이엇은 이름이 공개되지 않은 프런티어 AI 연구소와 191메가와트(MW) [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1126598?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 11 Aug 2026 20:41:28 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인을 핵심 자금원으로 활용하는 대규모 계약 확보와 AI 데이터센터 사업 확대",
+    "collected_at": "2026-08-11T21:37:19.081107+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "SEC to address crypto regulations in absence of CLARITY passage",
+    "content": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
+    "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 11 Aug 2026 20:59:07 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "크립토 규제에 대한 미국 증권감독청의 공식 발표 예정",
+    "collected_at": "2026-08-11T21:37:35.742503+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
+    "content": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
+    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 11 Aug 2026 20:55:58 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 은행이 크립토와 관련된 프로젝트에 참여하는 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-11T21:37:45.267619+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "수이, 양자내성 계정 2027년 1분기 메인넷 목표",

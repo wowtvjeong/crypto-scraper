@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday",
+    "content": "SEC Could Unveil Tokenized Stock Trading Exemption as Soon as Friday\nThe SEC plans to advance two major crypto regulatory initiatives in the coming days, Bloomberg reported. The agency will hold an open meeting Friday to consider a tailored offering regime for certain investment contracts involving crypto assets and could unveil an “innovation exemption” for tokenized securities as soon as the same day. The exemption could pave the way for 24/7 blockchain-based trading of tokenized stocks, while allowing public companies to object to third parties tokenizing their shares and introducing tighter anti-money-laundering safeguards, potentially including a requirement that trading platforms be US entities. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25519",
+    "published_at": "2026-08-11T20:39:48+00:00",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 토큰화된 주식 거래 면제를 금요일에 발표할 가능성이 있어, 이는 블록체인 기반 24/7 거래를 허용하고 공 司에 토큰화된 주식에 반대할 수 있는 권한을 부여하며, 더 강화된 반도체 세탁 방지 조치를 도입할 수 있다.",
+    "collected_at": "2026-08-11T21:35:06.381699+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "미 SEC, 토큰화 주식 ‘혁신 면제’ 공개…24시간 거래 길 열린다",
+    "content": "[블록미디어 이정화 기자] 미국 클래리티 법안 처리가 지연되는 가운데, 증권거래위원회(SEC)가 가상자산 산업에 활력을 불어넣을 대규모 규제안을 잇달아 선보일 전망이다. 11일(현지시각) 블룸버그 등 주요외신에 따르면 SEC는 오는 금요일 14일 공개 회의를 열고 “가상자산이 포함된 특정 투자 계약을 위한 맞춤형 발행 제도”를 논의한다고 발표했다. 이와 함께 블록체인상에서 디지털 버전의 증권을 거래할 수 있도록 허용하는 이른바 ‘혁신 면제(Innovation [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1126600?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 11 Aug 2026 21:32:40 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "미국 SEC가 가상자산 산업에 대규모 규제안을 발표할 전망이며, 블록체인상에서 디지털 버전의 증권을 거래할 수 있도록 허용하는 '혁신 면제'를 논의한다는 점에서 크립토와 관련된 중요한 뉴스이다.",
+    "collected_at": "2026-08-11T21:36:24.145859+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "라이엇, 비트코인 팔아 12조 규모 ‘AI 데이터센터’ 짓는다… 임대수익은 2027년부터",
+    "content": "[블록미디어 명정선 기자] 비트코인 채굴업체 라이엇 플랫폼스가 인공지능(AI) 데이터센터 사업 확대를 위해 보유 중인 비트코인을 핵심 자금원으로 활용한다. 20년에 걸쳐 약 91억달러의 매출을 기대하는 대규모 계약을 확보했지만 실제 임대료 수입이 발생하기까지 1년 이상 남은 만큼 비트코인 매각을 통해 초기 건설비를 충당한다는 계획이다. 11일(현지시각) 크립토슬레이트와 라이엇의 공시에 따르면 라이엇은 이름이 공개되지 않은 프런티어 AI 연구소와 191메가와트(MW) [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1126598?utm_source=general&utm_medium=rss",
+    "published_at": "Tue, 11 Aug 2026 20:41:28 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인을 핵심 자금원으로 활용하는 대규모 계약 확보와 AI 데이터센터 사업 확대",
+    "collected_at": "2026-08-11T21:37:19.081107+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "SEC to address crypto regulations in absence of CLARITY passage",
+    "content": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
+    "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 11 Aug 2026 20:59:07 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "크립토 규제에 대한 미국 증권감독청의 공식 발표 예정",
+    "collected_at": "2026-08-11T21:37:35.742503+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
+    "content": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
+    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Tue, 11 Aug 2026 20:55:58 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 은행이 크립토와 관련된 프로젝트에 참여하는 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-11T21:37:45.267619+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "수이, 양자내성 계정 2027년 1분기 메인넷 목표",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Solana launchpad war의 결과가 공개되어, 크립토 시장에 큰 영향을 줄 가능성이 있는 뉴스",
     "collected_at": "2026-07-31T21:38:40.967066+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "호르무즈 해협 긴장, 국제 유가 급등세... 공급 불안 장기화 우려",
-    "content": "중동의 핵심 원유 수송로인 호르무즈 해협에서 긴장이 다시 높아지면서 31일 국제 유가가 일제히 올랐다. 이란이 해협을 통과하려던 유조선 2척을 공격했다고 주장하면서, 원유 공급 차질 우려가 시장 전반으로 빠르게 번진 결과다.이날 런던 ICE선물거래소에서 9월 인도분 브렌트유 선물 종가는 배럴당 90.12달러로 전장보다 1.2% 상승했다. 뉴욕상업거래소에서 9월 인도분 서부텍사스산원유 선물도 배럴당 84.67달러로 1.3% 올랐다. 국제 유가가 민감하게 반응한 것은 호르무즈 해협이 전 세계 원유 해상 운송의 요충지이기 때문이다. 이곳에서 군사적 충돌이나 항로 통제가 발생하면, 실제 공급량이 당장 줄지 않더라도 시장은 먼저 위험...  더보기",
-    "url": "https://www.tokenpost.kr/news/international/383456",
-    "published_at": "Fri, 31 Jul 2026 19:56:42 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "호르무즈 해협 긴장과 국제 유가의 급등은 원유 공급 불안과 관련된重大 뉴스이며, 이는 크립토 시장에 직접적인 영향을 미치지 않지만, 금융 시장 전반에 큰 파급력을 미칠 수 있다.",
-    "collected_at": "2026-07-31T20:14:24.301417+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[모닝 뉴스브리핑] 에니와 토탈에너지스, 키프로스 첫 가스전 개발 승인 外",
-    "content": "에니와 토탈에너지스가 키프로스의 첫 가스전 개발을 승인했다.크로노스 가스전은 2028년부터 이집트를 통해 액화천연가스(LNG) 수출 물량을 공급할 예정이다.이번 프로젝트는 키프로스가 자국 해상 가스 자원을 본격적으로 상업화하는 첫...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/383455",
-    "published_at": "Fri, 31 Jul 2026 19:50:17 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "크립토와 관련이 없는 일반 뉴스, 그러나 크립토 업계에 큰 영향을 줄 수 있는 가스 전 개발 승인이 크립토 시장 전반에 영향을 줄 수 있기 때문에 8.5점을 부여한다.",
-    "collected_at": "2026-07-31T20:14:37.823486+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Lummis accuses Democrats of tanking the CLARITY Act to protect midterm messaging",
-    "content": "Lummis accuses Democrats of tanking the CLARITY Act to protect midterm messaging",
-    "url": "https://ko.bsc.news/news/lummis-clarity-act-democrats-midterm-messaging",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "CLARITY Act는 크립토와 관련된 법안으로, 민주당이 중간선거 메시지를 보호하기 위해 이를 무산시키는 것이라고 루미스 의원이 주장하는 뉴스",
-    "collected_at": "2026-07-31T20:17:21.164768+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "코인베이스 정책 책임자, 민주당 일부 반대에도 CLARITY 법안 통과 전망",
-    "content": "코인베이스 정책 책임자, 민주당 일부 반대에도 CLARITY 법안 통과 전망",
-    "url": "https://ns3.ai/ko/news/eg7IciPLjA",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "CLARITY 법안이 코인베이스와 관련된 정책에 영향을 줄 가능성이 있어, 또한 여러 매체가 동시에 다룰 만한 뉴스이지만 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-07-31T20:18:08.538143+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "무기한 선물, 크립토 파생시장 중심으로…펀딩비 리스크는 더 커졌다",
-    "content": "비트코인(BTC)과 이더리움(ETH)을 넘어, 암호화폐 파생상품 시장의 중심이 ‘무기한 선물(perps)’로 빠르게 이동하고 있다. 높은 유동성과 낮은 비용, 강력한 레버리지 구조가 결합되면서 개인과 기관 모두의 핵심 거래 도구로 자리 잡았다는 분석이다.코인데스크가 트레이더들을 인터뷰한 결과, 무기한 선물은 만기일이 없다는 특징 덕분에 지속적인 포지션 유지가 가능하며, 특히 알트코인 시장에서는 사실상 유일한 파생상품 수단으로 활용되고 있는 것으로 나타났다. 만기형 선물은 유동성이 부족해 실질적으로 거래가 어렵고, 현물은 장기 보유 목적이 아닌 이상 활용도가 떨어진다는 평가다.“선택이 아닌 필수”…무기한 선물 시장...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383445",
-    "published_at": "Fri, 31 Jul 2026 18:00:53 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 파생시장의 중심이 무기한 선물로 이동하고 있으며, 개인과 기관 모두가 핵심 거래 도구로 사용하고 있는 것으로 나타났다. ",
-    "collected_at": "2026-07-31T18:49:55.400410+00:00"
   }
 ]
