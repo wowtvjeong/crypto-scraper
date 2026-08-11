@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "5000억달러 조달 목표, 엔비디아 AI 인프라 자산화",
+    "content": "엔비디아($NVDA)가 금융기관 6곳과 5000억 달러(약 708조5000억원) 이상의 제3자 자본 동원을 목표로 인공지능(AI) 컴퓨팅 인프라를 금융 가능한 자산으로 만드는 구상을 추진한다. GPU 판매를 넘어 데이터센터와 네트워크, 소프트웨어 전체를 수익 창출형 인프라로 묶겠다는 전략이다.\n엔비디아가 8월 10일 공개한 AI 인프라 금융 플랫폼에는 아폴로(Apollo), 블랙록, 블랙스톤(Blackstone), 브룩필드(Brookfield), 골드만삭스(Goldman Sachs), KKR이 참여한다. 조달 대상은 프런티어 AI 연구소와 기업, AI 클라우드 사업자다.\n젠슨 황(Jensen Huang) 엔비디아 창업자 겸 최고경영자는 비즈니스인사이더가 11일 공개한 기사에서 AI 컴퓨트를...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388668",
+    "published_at": "Tue, 11 Aug 2026 17:47:25 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "엔비디아가 AI 인프라를 금융 가능한 자산으로 만드는 구상을 추진하고, 6개의 금융 기관과 5000억 달러 이상의 제3자 자본 동원을 목표로 하는데, 이는 업계 전반에 주목할 만한 뉴스입니다.",
+    "collected_at": "2026-08-11T17:48:48.638232+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "알파 컴퓨트, 779억원 들여 200MW 데이터센터 추진",
+    "content": "알파 컴퓨트(Alpha Compute Corp.·$ALP)가 미국 펜실베이니아에서 토지와 가스권을 포함한 5,500만달러(약 779억원) 규모 계약을 맺고 200MW 데이터센터 캠퍼스 조성을 추진한다.\n크립토브리핑은 알파 컴퓨트가 11일 해당 계약을 체결했다고 보도했다. 다만 같은 거래는 미국 증권거래위원회(SEC) 공시나 회사 공식 발표에서 확인되지 않았다.\n이번 거래는 데이터센터 부지와 함께 가스 개발 권리를 확보한다는 점이 특징이다. 대규모 데이터센터는 서버와 그래픽처리장치(GPU)뿐 아니라 안정적인 전력 공급 설비가 필요해 부지 선정 단계부터 에너지 조달 구조가 사업성을 좌우한다.\n알파 컴퓨트는 디지털자산 중심 사업에서 AI 연산 인프라...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388663",
+    "published_at": "Tue, 11 Aug 2026 17:39:30 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와 관련된 뉴스, 구체적 금액이 동반된 계약 소식, 데이터센터 부지와 함께 가스 개발 권리를 확보하는 특징이 있다.",
+    "collected_at": "2026-08-11T17:49:33.695689+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "피겨 2분기 대출 거래량 전년 대비 132% 증가…연체율 0.80% 제시",
+    "content": "피겨테크놀로지솔루션스(Figure Technology Solutions·$FIGR)가 약 46억 달러(약 6조5182억원) 규모 유동화 자산의 가중평균 연체율로 0.80%를 제시했다. 대출 거래량이 빠르게 늘어난 가운데 자산 건전성을 보여주는 수치를 내놓은 것이다.\n디파이언트(The Defiant)는 피겨가 블록체인 활용을 둘러싼 반박 과정에서 이 같은 수치를 공개했다고 전했다. 다만 0.80%는 피겨의 4월과 6월 운영공시에는 포함되지 않은 별도 대출 성과 지표다.\n피겨는 주택담보신용대출(HELOC)의 발행과 유통, 기록을 결합한 블록체인 기반 자본시장을 표방하는 핀테크 기업이다. HELOC는 주택 순자산을 담보로 설정한 한도 안에서 자금을 빌리는 대출...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388661",
+    "published_at": "Tue, 11 Aug 2026 17:33:28 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "피겨테크놀로지솔루션스(Figure Technology Solutions)가 블록체인 기반 자본시장을 표방하는 핀테크 기업으로, 블록체인 활용을 둘러싼 반박 과정에서 자산 건전성을 보여주는 수치를 내놓았다.",
+    "collected_at": "2026-08-11T17:49:53.284238+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "2분기 암호화폐 매출 29% 감소, 이토로 파생거래 102억원 손실",
+    "content": "이토로($ETOR)의 2026년 2분기 암호화폐 매출이 전년 동기 대비 29% 감소했다. 암호화폐 파생상품 거래손익도 720만 달러(약 102억원) 손실로 돌아섰다.\n이토로는 11일 2분기 실적 발표에서 암호화폐 매출이 13억4600만 달러(약 1조9073억원)로 집계됐다고 밝혔다. 지난해 같은 기간의 19억1500만 달러(약 2조7136억원)보다 5억6900만 달러(약 8063억원) 줄었다.\n암호화폐 파생상품 거래손익은 지난해 2분기 3770만 달러(약 534억원) 이익에서 올해 2분기 720만 달러 손실로 전환했다. 전년 동기와 비교한 손익 격차는 4490만 달러(약 636억원)다.\n파생상품 거래손익은 고객의 파생상품 거래 과정에서 플랫폼에 발생한 이익과 손실을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388658",
+    "published_at": "Tue, 11 Aug 2026 17:24:01 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 이토로의 실적 발표로 인한 암호화폐 매출 및 파생상품 거래손익의 감소로 인한 파급력",
+    "collected_at": "2026-08-11T17:50:30.389163+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "2분기 매출 25억6000만달러 전망, 코어위브 두 배 성장",
+    "content": "코어위브(CoreWeave·CRWV)의 2026년 2분기 매출이 25억5,000만~25억6,000만 달러(약 3조6,100억~3조6,300억원)로 전년 동기의 두 배 수준에 이를 것으로 예상됐다.\n크립토브리핑(Crypto Briefing)은 11일 기사에서 코어위브의 2분기 예상 매출을 이같이 제시했다. 회사가 앞서 제시한 매출 가이던스는 24억5,000만~26억 달러(약 3조4,700억~3조6,800억원)였다.\n예상치 하단은 가이던스 중간값을 웃돌고 상단은 가이던스 최고치에 4,000만 달러 못 미친다. 예상대로라면 코어위브의 매출은 기존 전망 범위 안에서도 상단에 가까운 수준을 기록하게 된다.\n회사는 미국 동부시간 11일 오후 5시, 한국시간 12일 오전 6시에 실적 컨퍼런스콜을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388654",
+    "published_at": "Tue, 11 Aug 2026 17:20:36 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "코어위브의 2분기 매출이 전년 동기의 두 배 수준에 이를 것으로 예상되는 뉴스, 관련 주체는 중견 기업, 파급 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-11T17:51:23.976630+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Russia Proposes $3,645 Annual Crypto Purchase Cap for Retail Investors, Limited to BTC, ETH and USDT",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Tether의 USDT 공급량이 증가하고, US Treasury 보유량이 수익을 높이는 등 크립토 시장 전반에 영향을 주는 뉴스",
     "collected_at": "2026-07-31T17:23:11.867016+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bybit adds tokenized Nvidia, Apple, Tesla stocks as loan collateral",
-    "content": "Eligible retail and institutional users can use tokenized shares of Nvidia, Apple, Tesla and three other US companies across Bybit’s trading and lending products.",
-    "url": "https://cointelegraph.com/news/bybit-tokenized-stocks-collateral-margin-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Fri, 31 Jul 2026 16:23:21 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Bybit이 tokenized 주식(인텔리전트 보안 토큰)을 대출 보증물로 추가한 뉴스, 관련 주체가 크고 여러 매체가 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-07-31T17:23:49.596350+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Dubai Exchange Shelbit Moved at Least $4B Through Iran-Linked Network",
-    "content": "Dubai Exchange Shelbit Moved at Least $4B Through Iran-Linked Network\nA Reuters investigation found that unlicensed Dubai-based crypto exchange Shelbit processed at least $4 billion since May 2024 through a network linked to Iranian online gambling, the country’s central bank and sanctioned entities, including wallets associated by Israel with the IRGC. Dubai regulator VARA fined Shelbit on July 24 for continuing unlicensed activities after a January 2025 cease-and-desist order and said the case involved potential AML and terrorism-financing violations. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25372",
-    "published_at": "2026-07-31T13:28:46+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Shelbit의 불법 활동과 관련된 4억 달러의 거래가 발견되었으며, 이 거래는 이란과 관련된 온라인 게임 및 금융 네트워크를 통해 이루어졌습니다. 이 사건은 AML 및 테러 자금 조달 위반의 가능성을 포함하고 있으며, 이란의 중앙 은행 및 금융 제재 대상 엔티티와 관련이 있습니다.",
-    "collected_at": "2026-07-31T15:34:49.302279+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Sandmark: Pump fun Reportedly Laid Off Staff Ahead of PUMP Token Vesting",
-    "content": "Sandmark: Pump fun Reportedly Laid Off Staff Ahead of PUMP Token Vesting\nAccording to a report by Sandmark, Pump fun laid off employees in early April, two months before their PUMP token vesting date. At least one former employee forfeited a token allocation worth more than $1 million. Pump fun co-founder Noah Tweedale told staff during an internal meeting that the company had “expanded too quickly.” Former employees claimed that the platform conducted another round of layoffs in mid-July, bringing the total number of job cuts over two months to more than 40. Sandmark could not independently verify the figure, and Pump fun’s co-founders did not respond to requests for comment. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25373",
-    "published_at": "2026-07-31T14:17:26+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Pump fun이 PUMP 토큰 분배 전 직원 해고, 1억 달러 이상 토큰 할당 포기한 사례가 발생한 것으로 보인다.",
-    "collected_at": "2026-07-31T15:34:50.621434+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Tether Reports $1.5B Q2 Operating Profit as Gold Holdings Exceed 146 Tons",
-    "content": "Tether Reports $1.5B Q2 Operating Profit as Gold Holdings Exceed 146 Tons\nTether reported approximately $1.5 billion in net operating profit for the second quarter, driven mainly by U.S. Treasury and repo income. As of June 30, the company held $187.75 billion in assets against $183.64 billion in liabilities, leaving a $4.11 billion reserve buffer. Tether also reduced secured lending by $2.38 billion and added 14 tons of physical gold, bringing total gold holdings to more than 146 tons. USDT issuance stood at about $184.6 billion. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25374",
-    "published_at": "2026-07-31T15:14:39+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 스테이블코인 Tether의 금 보유량이 146톤을 넘어섰고, 2분기 운영 이익이 15억 달러에 달했다는 뉴스",
-    "collected_at": "2026-07-31T15:34:50.970947+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 부진, 기관 옵션 매도·AI 자금 쏠림·규제 지연이 배경",
-    "content": "최근 비트코인(BTC) 가격이 기관 채택 확대에도 불구하고 부진한 흐름을 이어가는 배경에 대해, 옵션 시장 구조와 인공지능(AI)으로의 자금 이동, 그리고 미국 규제 지연이 핵심 요인으로 지목됐다.STS 디지털 최고경영자 막심 세일러(Maxime Seiler)는 기관 투자자들의 옵션 매도 증가와 자금 흐름 변화가 현재 디지털 자산 시장을 압박하고 있다고 설명했다. 실제로 비트코인(BTC)은 올해 들어 25% 이상 하락하며, 블록체인 기술의 확산 속도와 대비되는 가격 흐름을 보이고 있다.기관 채택 확대에도 토큰 가격은 ‘따로 움직임’세일러는 지난 몇 년간 전통 금융권의 블록체인 도입이 빠르게 진행됐지만, 그 가치가 암호화폐 자체로 충분히...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383408",
-    "published_at": "Fri, 31 Jul 2026 15:09:33 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격 부진에 대한 이유를 설명하고, 기관 투자자들의 옵션 매도 증가와 자금 흐름 변화가 시장에 미치는 영향을 분석하고 있다.",
-    "collected_at": "2026-07-31T15:35:15.868498+00:00"
   }
 ]
