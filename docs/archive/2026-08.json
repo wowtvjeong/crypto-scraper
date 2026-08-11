@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement",
+    "content": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement\nAster announced that Aster Open Standards (AOS) Phase 2, or AOS-2, is now live, extending its open listing framework from spot markets to perpetual futures. Eligible applicants must stake 1 million ASTER for four years with no early exit before proceeding to an onchain validator vote. If approved, Aster will configure the market’s risk parameters and target a T+1 listing; if rejected, the stake will be fully returned. Aster said the application and voting rules will be publicly governed, with AOS-3 to follow. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25516",
+    "published_at": "2026-08-11T15:22:03+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 프로젝트인 Aster가 새로운 listing framework인 AOS-2를 출시하고, 1M ASTER를 4년간 스테이킹해야 하는 조건으로 perpetual futures 시장에 진출하는 뉴스",
+    "collected_at": "2026-08-11T15:50:11.686826+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "6억3300만달러 환매에도 스파크 유동성 유지 분석",
+    "content": "스파크(Spark)의 테더(USDT) 저축 금고 spUSDT가 6억3300만 달러(약 8970억원) 규모의 환매 압력에도 수익률과 유동성을 유지했다는 분석이 나왔다. 대규모 인출을 처리하는 유동성 구조가 실제 스트레스 구간에서 작동했다는 평가다.\n크립토브리핑(Crypto Briefing)은 11일 분석가 WalleDAO의 온체인 관찰 결과를 토대로 spUSDT가 대규모 환매 구간을 통과했다고 전했다. 다만 6억3300만 달러는 스파크가 공식 발표한 수치가 아니라 분석가가 온체인 자금 흐름을 해석해 산출한 규모다.\nspUSDT는 스파크 세이빙스 V2(Spark Savings V2)에 테더를 예치하면 받는 수익형 금고 토큰이다. 예치 자산은 유에스디에스(USDS)로 뒷받침되며...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388594",
+    "published_at": "Tue, 11 Aug 2026 15:35:48 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "스파크의 유동성 구조가 실제 스트레스 구간에서 작동했다는 분석이 나왔고, 대규모 인출을 처리했다는 점이 시청자에게 유의미한 뉴스이다. 그러나 아직 시장 전체를 흔들 정도는 아님.",
+    "collected_at": "2026-08-11T15:52:02.701195+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "13% 배당 스트라이브, 현금 보유액은 18개월치",
