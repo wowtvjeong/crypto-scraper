@@ -2,6 +2,42 @@
   {
     "source": "wublockchainenglish",
     "source_type": "telegram",
+    "title": "Russia Proposes $3,645 Annual Crypto Purchase Cap for Retail Investors, Limited to BTC, ETH and USDT",
+    "content": "Russia Proposes $3,645 Annual Crypto Purchase Cap for Retail Investors, Limited to BTC, ETH and USDT\nThe Bank of Russia has proposed rules that would cap crypto purchases by non-qualified investors at 300,000 rubles, or about $3,645, per year through each broker, crypto exchange operator or asset manager. Eligible assets would currently be limited to BTC, ETH and USDT, based on criteria including market capitalization, average daily trading volume and at least five years of overseas price history. Qualified investors would face no purchase limit for crypto traded on exchanges or OTC markets. All investors would be required to pass a risk assessment before trading, with public consultation on the draft open until August 24. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25517",
+    "published_at": "2026-08-11T16:06:20+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "러시아의 은행이 제안한 규칙이 크립토 구매를 제한하고, 특정 코인에 한정하는 뉴스",
+    "collected_at": "2026-08-11T16:46:08.391799+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "16척 매각계약 해지한 다이애나, 젠코 인수 제안 유지",
+    "content": "다이애나쉬핑(Diana Shipping·$DSX)과 스타벌크캐리어스(Star Bulk Carriers·$SBLK)가 젠코쉬핑앤드트레이딩(Genco Shipping  Trading·$GNK) 선박 16척의 매매계약을 상호 해지했다. 다이애나는 젠코 잔여 지분 인수 제안은 유지한다고 밝혔다.\n다이애나와 스타벌크는 10일(현지시간) 스타벌크의 요청에 따라 계약을 끝냈다고 발표했다. 이 계약은 다이애나가 젠코 인수를 완료하면 스타벌크가 젠코 선박 16척을 사들이는 조건부 거래였다.\n계약 금액은 4억7050만 달러(약 6667억원)다. 다이애나가 지난 3월 6일 젠코 잔여 지분 인수안을 상향하면서 스타벌크와 함께 체결했다.\n미국 증권거래위원회(SEC)에 제출된 계약서에 따르면, 선박...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388635",
+    "published_at": "Tue, 11 Aug 2026 16:34:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "크립토와 관련이 없는 일반적인 뉴스, 다만 관련 주체가 크고 파급 범위가 제한적이므로 7.5점",
+    "collected_at": "2026-08-11T16:46:36.419977+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "28억달러 훔친 북한, 범죄망 통해 세탁 경로 넓혔다",
+    "content": "북한이 2024년 1월부터 2025년 9월까지 암호화폐 약 28억달러(약 3조9676억원)를 탈취한 것으로 집계됐다. 탈취 자금을 자체 세탁망에만 의존하지 않고 기존 범죄 조직과 해외 결제망을 통해 현금화하는 구조도 드러났다.\n다자제재감시팀(Multilateral Sanctions Monitoring Team·MSMT)은 2025년 10월 22일 공개한 보고서에서 북한의 암호화폐 절도와 자금세탁, 해외 정보기술(IT) 노동자 활동을 분석했다. 보고서는 2024년 1월부터 2025년 9월까지 확인된 사례를 주로 다뤘다.\nMSMT는 유엔 안전보장이사회 대북제재위원회 전문가패널의 임기가 2024년 4월 종료된 뒤 같은 해 10월 출범했다. 한국과 미국, 일본, 영국 등 11개국이 북한의 제재...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388629",
+    "published_at": "Tue, 11 Aug 2026 16:24:02 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "북한이 암호화폐 약 28억달러를 탈취하고, 탈취 자금을 자체 세탁망에 의존하지 않고 기존 범죄 조직과 해외 결제망을 통해 현금화하는 구조가 드러났습니다. 이는 크립토 시장 전반에 큰 영향을 줄 수 있는重大한 뉴스입니다.",
+    "collected_at": "2026-08-11T16:48:06.797051+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
     "title": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement",
     "content": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement\nAster announced that Aster Open Standards (AOS) Phase 2, or AOS-2, is now live, extending its open listing framework from spot markets to perpetual futures. Eligible applicants must stake 1 million ASTER for four years with no early exit before proceeding to an onchain validator vote. If approved, Aster will configure the market’s risk parameters and target a T+1 listing; if rejected, the stake will be fully returned. Aster said the application and voting rules will be publicly governed, with AOS-3 to follow. — \nlink",
     "url": "https://t.me/wublockchainenglish/25516",

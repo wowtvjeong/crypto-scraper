@@ -2,6 +2,42 @@
   {
     "source": "wublockchainenglish",
     "source_type": "telegram",
+    "title": "Russia Proposes $3,645 Annual Crypto Purchase Cap for Retail Investors, Limited to BTC, ETH and USDT",
+    "content": "Russia Proposes $3,645 Annual Crypto Purchase Cap for Retail Investors, Limited to BTC, ETH and USDT\nThe Bank of Russia has proposed rules that would cap crypto purchases by non-qualified investors at 300,000 rubles, or about $3,645, per year through each broker, crypto exchange operator or asset manager. Eligible assets would currently be limited to BTC, ETH and USDT, based on criteria including market capitalization, average daily trading volume and at least five years of overseas price history. Qualified investors would face no purchase limit for crypto traded on exchanges or OTC markets. All investors would be required to pass a risk assessment before trading, with public consultation on the draft open until August 24. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25517",
+    "published_at": "2026-08-11T16:06:20+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "러시아의 은행이 제안한 규칙이 크립토 구매를 제한하고, 특정 코인에 한정하는 뉴스",
+    "collected_at": "2026-08-11T16:46:08.391799+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "16척 매각계약 해지한 다이애나, 젠코 인수 제안 유지",
+    "content": "다이애나쉬핑(Diana Shipping·$DSX)과 스타벌크캐리어스(Star Bulk Carriers·$SBLK)가 젠코쉬핑앤드트레이딩(Genco Shipping  Trading·$GNK) 선박 16척의 매매계약을 상호 해지했다. 다이애나는 젠코 잔여 지분 인수 제안은 유지한다고 밝혔다.\n다이애나와 스타벌크는 10일(현지시간) 스타벌크의 요청에 따라 계약을 끝냈다고 발표했다. 이 계약은 다이애나가 젠코 인수를 완료하면 스타벌크가 젠코 선박 16척을 사들이는 조건부 거래였다.\n계약 금액은 4억7050만 달러(약 6667억원)다. 다이애나가 지난 3월 6일 젠코 잔여 지분 인수안을 상향하면서 스타벌크와 함께 체결했다.\n미국 증권거래위원회(SEC)에 제출된 계약서에 따르면, 선박...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/388635",
+    "published_at": "Tue, 11 Aug 2026 16:34:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "크립토와 관련이 없는 일반적인 뉴스, 다만 관련 주체가 크고 파급 범위가 제한적이므로 7.5점",
+    "collected_at": "2026-08-11T16:46:36.419977+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "28억달러 훔친 북한, 범죄망 통해 세탁 경로 넓혔다",
+    "content": "북한이 2024년 1월부터 2025년 9월까지 암호화폐 약 28억달러(약 3조9676억원)를 탈취한 것으로 집계됐다. 탈취 자금을 자체 세탁망에만 의존하지 않고 기존 범죄 조직과 해외 결제망을 통해 현금화하는 구조도 드러났다.\n다자제재감시팀(Multilateral Sanctions Monitoring Team·MSMT)은 2025년 10월 22일 공개한 보고서에서 북한의 암호화폐 절도와 자금세탁, 해외 정보기술(IT) 노동자 활동을 분석했다. 보고서는 2024년 1월부터 2025년 9월까지 확인된 사례를 주로 다뤘다.\nMSMT는 유엔 안전보장이사회 대북제재위원회 전문가패널의 임기가 2024년 4월 종료된 뒤 같은 해 10월 출범했다. 한국과 미국, 일본, 영국 등 11개국이 북한의 제재...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/388629",
+    "published_at": "Tue, 11 Aug 2026 16:24:02 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "북한이 암호화폐 약 28억달러를 탈취하고, 탈취 자금을 자체 세탁망에 의존하지 않고 기존 범죄 조직과 해외 결제망을 통해 현금화하는 구조가 드러났습니다. 이는 크립토 시장 전반에 큰 영향을 줄 수 있는重大한 뉴스입니다.",
+    "collected_at": "2026-08-11T16:48:06.797051+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
     "title": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement",
     "content": "Aster Launches AOS-2 Perpetual Listing Framework With 1M ASTER Staking Requirement\nAster announced that Aster Open Standards (AOS) Phase 2, or AOS-2, is now live, extending its open listing framework from spot markets to perpetual futures. Eligible applicants must stake 1 million ASTER for four years with no early exit before proceeding to an onchain validator vote. If approved, Aster will configure the market’s risk parameters and target a T+1 listing; if rejected, the stake will be fully returned. Aster said the application and voting rules will be publicly governed, with AOS-3 to follow. — \nlink",
     "url": "https://t.me/wublockchainenglish/25516",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 가격 부진에 대한 이유를 설명하고, 기관 투자자들의 옵션 매도 증가와 자금 흐름 변화가 시장에 미치는 영향을 분석하고 있다.",
     "collected_at": "2026-07-31T15:35:15.868498+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[자정 뉴스브리핑] 에니와 토탈에너지스가 키프로스의 첫 가스전 개발을 승인했다. 外",
-    "content": "에니와 토탈에너지스가 키프로스의 첫 가스전 개발을 승인했다.크로노스 가스전은 2028년부터 이집트를 통해 액화천연가스(LNG) 수출 물량을 공급할 예정이다.이번 프로젝트는 키프로스가 자국 해상 가스 자원을 본격적으로 상업화하는 첫...  더보기",
-    "url": "https://www.tokenpost.kr/news/briefing/383401",
-    "published_at": "Fri, 31 Jul 2026 14:30:15 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "크립토와 관련이 없는 뉴스이지만, 크립토 시장에 영향을 줄 수 있는 대형 거래소·기관의 중대 발표와 유사한 파급력을 가진 뉴스이다.",
-    "collected_at": "2026-07-31T15:36:34.261039+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "롯데카드, 297만건 정보유출로 첫 업무정지 처분… 금융권 보안 강화 촉구",
-    "content": "금융위원회가 고객정보 297만건이 유출된 롯데카드에 1.5개월 업무정지와 과징금 50억원을 확정하면서, 금융권 정보보안 사고에 대한 제재 수위가 한층 높아졌다는 평가가 나온다. 해킹으로 인한 정보유출 사건에 업무정지 처분이 내려진 것은 이번이 처음으로, 단순한 금전 제재를 넘어 실제 영업활동을 제한하는 방식으로 책임을 묻겠다는 뜻이 분명해졌기 때문이다.금융위원회는 2026년 7월 31일 열린 14차 회의에서 롯데카드의 신용정보법 위반에 대해 이 같은 제재를 의결했다고 밝혔다. 업무정지 기간은 8월 1일부터 9월 15일까지다. 다만 이번 결정은 앞서 금융감독원이 지난 4월 말 제시했던 영업정지 4.5개월안보다는 3개월 줄어든...  더보기",
-    "url": "https://www.tokenpost.kr/news/economy/383394",
-    "published_at": "Fri, 31 Jul 2026 14:16:40 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": false,
-    "reason": "금융위원회가 고객정보 유출로 인한 롯데카드에 업무정지 처분을 내렸고, 금융권 정보보안 사고에 대한 제재 수위가 높아졌다는 뉴스",
-    "collected_at": "2026-07-31T15:37:11.616679+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "서클, 뉴욕 신탁 인가 확보…USDC 제도권 편입 빨라지나",
-    "content": "미국 스테이블코인 시장의 핵심 기업인 서클(Circle)이 뉴욕 금융당국의 신탁 인가를 확보하며 규제 기반을 한층 강화했다. USDC의 제도권 편입 속도가 빨라질지 주목된다.서클(Circle Internet Group, $CRCL)은 30일(현지시간) 뉴욕주 금융서비스국(NYDFS)으로부터 ‘리미티드 퍼퍼스 트러스트 차터(제한적 신탁 인가)’를 획득했다고 밝혔다. 이는 뉴욕 은행법에 따라 수탁, 자산보관, 자산관리 서비스를 합법적으로 제공할 수 있는 주(州) 단위 은행 인가다.서클 공동창업자 겸 CEO인 제레미 알레어(Jeremy Allaire)는 “뉴욕 신탁 인가는 오랜 목표였으며, 규제 명확성이 기업 성장에 중요한 기반이 된다”고 설명했다.현재 서클의 핵심...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383392",
-    "published_at": "Fri, 31 Jul 2026 14:09:06 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향, 큰 폭의 가격 변동이 예상되는 뉴스",
-    "collected_at": "2026-07-31T15:37:29.108975+00:00"
   }
 ]
