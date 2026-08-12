@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Hyperliquid to Add HIP-1 scaleWei Function, Potentially Supporting Corporate Actions for Tokenized Stocks",
+    "content": "Hyperliquid to Add HIP-1 scaleWei Function, Potentially Supporting Corporate Actions for Tokenized Stocks\nHyperliquid founder Jeff said HIP-1 will add a deployer-controlled scaleWei function that can atomically distribute tokens in proportion to users’ holdings of a reference token and support token redenominations. When the distributed token is also the reference token, balances can be adjusted in either direction, with open orders canceled and replaced at the new scale.\nBased on its design, the function could potentially be used for corporate actions involving tokenized stocks, including stock splits, reverse splits, proportional dividend distributions and spin-off distributions. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25535",
+    "published_at": "2026-08-12T17:25:01+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Hyperliquid의 HIP-1 기능이 토큰화된 주식의 기업 행동을 지원할 수 있게 될 것이라는 뉴스",
+    "collected_at": "2026-08-12T18:13:49.193259+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitwise cuts 14% of staff while still expecting growth",
+    "content": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+    "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 18:01:15 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 업체의 인원 감축 소식, 그러나 시청자에게 영향 범위가 제한적",
+    "collected_at": "2026-08-12T18:14:24.888493+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+    "content": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+    "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+    "published_at": "Wed, 12 Aug 2026 17:21:03 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "대형 금융 기관인 Goldman Sachs가 비트코인 관련 ETF에 2.25억 달러를 투자하는 큰 규모의 거래로, 시장 전체에 큰 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-12T18:14:56.144659+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CFTC, 뉴욕의 집행 조치 속에서 칼시의 운영 지속 지시",
+    "content": "CFTC, 뉴욕의 집행 조치 속에서 칼시의 운영 지속 지시",
+    "url": "https://ns3.ai/ko/news/RxVvctOgOf",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "CFTC와 뉴욕의 집행 조치가 관련된 칼시의 운영 지속 지시로, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-12T18:15:27.981004+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "윙클보스 형제가 지원한 사이퍼펑크, 3,780만 달러 손실 후 항암제 사업 전환 계획",
+    "content": "윙클보스 형제가 지원한 사이퍼펑크, 3,780만 달러 손실 후 항암제 사업 전환 계획",
+    "url": "https://ns3.ai/ko/news/J4da9o2MTX",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "윙클보스 형제가 지원한 사이퍼펑크가 3,780만 달러 손실 후 항암제 사업 전환 계획을 발표한 것으로 보아, 크립토 시장에 큰 영향을 줄 수 있는 뉴스입니다. 윙클보스 형제의 지원과 사이퍼펑크의 사업 전환은 크립토 업계의 주요 이슈로 여겨질 수 있습니다.",
+    "collected_at": "2026-08-12T18:15:43.588693+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "골드만삭스, 네오스 인수로 ETF 운용자산 1300억달러 돌파",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "BNB Chain이 직원과 법적 분쟁을 벌이는 중인 뉴스, 관련 주체가 대형 프로젝트로 파급 범위도 크다",
     "collected_at": "2026-08-01T12:31:51.738317+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "부탄, 비트코인 국가자산 운용 첫 위임…3iQ와 금융허브 실험 본격화",
-    "content": "비트코인(BTC) 매장국으로 알려진 부탄이 자국 보유 자산 운용을 ‘기관화’하며 새로운 단계에 진입했다. 남부 특별행정구 겔레푸 마음챙김 도시(GMC)는 캐나다 운용사 3iQ를 첫 공식 운용 파트너로 지정했다.7월 30일 발표에 따르면 GMC는 자국 비트코인(BTC) 준비금 일부에 대해 3iQ에 재량 운용 권한을 부여했다. 이는 2025년 12월, 최대 1만 비트코인을 GMC 개발에 배정하겠다는 계획을 실제 운용 체계로 전환한 첫 사례다. 다만 구체적인 운용 물량, 수탁 구조, 전략, 수수료 등 핵심 조건은 공개되지 않았다. 국가 연계 자산 위임치고는 이례적인 ‘비공개’ 수준이다.단순 운용 넘어선 ‘디지털 금융 거점’ 구축3iQ의 역할은 자산 운용에...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383636",
-    "published_at": "Sat, 01 Aug 2026 11:59:49 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "부탄이 비트코인을 국가자산으로 운용하며, 캐나다의 3iQ와 금융 허브를 구축하는 첫 번째 사례로, 이는 크립토 시장에 큰 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-01T12:31:52.004520+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[VC동향] 빅 딜 대신 초기 투자… ‘차세대 블록체인’ 프로젝트 관심 확대",
-    "content": "[블록미디어 양원모 기자] 7월 마지막 주 벤처캐피털(VC) 시장은 대규모 투자 유치 소식보다 ‘어디에 자금이 향했는가’가 더 눈에 띄었다. 인공지능(AI)과 탈중앙화금융(DeFi·디파이), 인프라 프로젝트에 투자자들의 관심이 집중됐고, 대체불가능토큰(NFT)과 최대추출가치(MEV), 로보틱스까지 차세대 블록체인 인프라를 겨냥한 초기 투자도 이어졌다. 1일 블록미디어가 소소밸류 데이터를 집계·분석한 결과, 지난 일주일(7월26일~8월1일) 동안 총 9개 프로젝트가 투자 유치 또는 기업 이벤트를 공개했다. 대부분 시드와 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1122813?utm_source=general&utm_medium=rss",
-    "published_at": "Sat, 01 Aug 2026 11:10:09 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "블록체인과 관련된 프로젝트에 대한 초기 투자와 관심 확대에 대한 뉴스",
-    "collected_at": "2026-08-01T12:31:52.384187+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Sygnum, Bancastato 뱅킹 앱에 BTC·ETH·LTC·SOL 거래 추가",
-    "content": "Sygnum, Bancastato 뱅킹 앱에 BTC·ETH·LTC·SOL 거래 추가",
-    "url": "https://ns3.ai/ko/news/slKt5tOaRo",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "대형 뱅킹 앱이 크립토 거래를 추가하는 뉴스, 여러 매체가 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-01T12:32:10.965555+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "BNB Chain, 무단 밈코인 발행에 법적 대응 추진",
-    "content": "BNB Chain, 무단 밈코인 발행에 법적 대응 추진",
-    "url": "https://ns3.ai/ko/news/azyjaG1GCd",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 BNB Chain이 무단 밈코인 발행에 법적 대응을 추진하는 뉴스, 이는 크립토 시장 전반에 영향을 줄 수 있는 중요한 사건",
-    "collected_at": "2026-08-01T12:32:46.088106+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "검증되지 않은 컨트랙트 익스플로잇으로 16.6 WETH 탈취",
-    "content": "검증되지 않은 컨트랙트 익스플로잇으로 16.6 WETH 탈취",
-    "url": "https://ns3.ai/ko/news/lKcghIzhLi",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "해킹으로 인한 자산 탈취, WETH의 큰 금액이 탈취되었고, 이는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스",
-    "collected_at": "2026-08-01T12:33:04.512572+00:00"
   }
 ]

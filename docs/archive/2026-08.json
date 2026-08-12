@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Hyperliquid to Add HIP-1 scaleWei Function, Potentially Supporting Corporate Actions for Tokenized Stocks",
+    "content": "Hyperliquid to Add HIP-1 scaleWei Function, Potentially Supporting Corporate Actions for Tokenized Stocks\nHyperliquid founder Jeff said HIP-1 will add a deployer-controlled scaleWei function that can atomically distribute tokens in proportion to users’ holdings of a reference token and support token redenominations. When the distributed token is also the reference token, balances can be adjusted in either direction, with open orders canceled and replaced at the new scale.\nBased on its design, the function could potentially be used for corporate actions involving tokenized stocks, including stock splits, reverse splits, proportional dividend distributions and spin-off distributions. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25535",
+    "published_at": "2026-08-12T17:25:01+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Hyperliquid의 HIP-1 기능이 토큰화된 주식의 기업 행동을 지원할 수 있게 될 것이라는 뉴스",
+    "collected_at": "2026-08-12T18:13:49.193259+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bitwise cuts 14% of staff while still expecting growth",
+    "content": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
+    "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 18:01:15 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 업체의 인원 감축 소식, 그러나 시청자에게 영향 범위가 제한적",
+    "collected_at": "2026-08-12T18:14:24.888493+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+    "content": "Goldman Sachs leaps into bitcoin income ETFs with $2.25 billion NEOS buyout",
+    "url": "https://www.coindesk.com/business/2026/08/12/goldman-sachs-leaps-into-bitcoin-income-etfs-with-usd2-25-billion-neos-buyout",
+    "published_at": "Wed, 12 Aug 2026 17:21:03 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "대형 금융 기관인 Goldman Sachs가 비트코인 관련 ETF에 2.25억 달러를 투자하는 큰 규모의 거래로, 시장 전체에 큰 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-12T18:14:56.144659+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CFTC, 뉴욕의 집행 조치 속에서 칼시의 운영 지속 지시",
+    "content": "CFTC, 뉴욕의 집행 조치 속에서 칼시의 운영 지속 지시",
+    "url": "https://ns3.ai/ko/news/RxVvctOgOf",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "CFTC와 뉴욕의 집행 조치가 관련된 칼시의 운영 지속 지시로, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-12T18:15:27.981004+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "윙클보스 형제가 지원한 사이퍼펑크, 3,780만 달러 손실 후 항암제 사업 전환 계획",
+    "content": "윙클보스 형제가 지원한 사이퍼펑크, 3,780만 달러 손실 후 항암제 사업 전환 계획",
+    "url": "https://ns3.ai/ko/news/J4da9o2MTX",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "윙클보스 형제가 지원한 사이퍼펑크가 3,780만 달러 손실 후 항암제 사업 전환 계획을 발표한 것으로 보아, 크립토 시장에 큰 영향을 줄 수 있는 뉴스입니다. 윙클보스 형제의 지원과 사이퍼펑크의 사업 전환은 크립토 업계의 주요 이슈로 여겨질 수 있습니다.",
+    "collected_at": "2026-08-12T18:15:43.588693+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "골드만삭스, 네오스 인수로 ETF 운용자산 1300억달러 돌파",
