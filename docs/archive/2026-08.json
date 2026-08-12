@@ -1,5 +1,65 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Highlight ClipGrant Cardone: Bitcoin Is Real Estate You Can Take Anywhere",
+    "content": "Highlight ClipGrant Cardone: Bitcoin Is Real Estate You Can Take Anywhere\nGrant Cardone: Bitcoin Is Real Estate You Can Take Anywhere\nGrant Cardone, CEO of U.S. real estate investment firm Cardone Capital, said in an August 8 DraperTV interview that he has invested in real estate for 40 years and believes there is \"never a bad time to buy real estate\" if you hold long enough, avoid excessive leverage, and maintain cash flow. He compared Bitcoin to \"real estate without the gutters\" - no HVAC, roof or siding to maintain, no termites or tenants, and no evictions or property taxes. Cardone said that while publicly known as a real estate investor, he has privately supported Bitcoin for 13 years and views it as \"portable digital property.\" — \nlink",
+    "url": "https://t.me/wublockchainenglish/25526",
+    "published_at": "2026-08-12T09:28:00+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "유명 인사 Grant Cardone이 비트코인을 '포트폴리오에 포함할 수 있는 가치 있는 자산'으로 평가하고, 13년간 비공개적으로 지원해왔다고 언급했다.",
+    "collected_at": "2026-08-12T09:36:53.991309+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Coinbase Launches New Deribit Matching Engine Capable of Processing Over 100k Orders per Second",
+    "content": "Coinbase Launches New Deribit Matching Engine Capable of Processing Over 100k Orders per Second\nCoinbase has launched a new high-performance matching engine on Deribit, capable of processing more than 100k orders per second with sub-millisecond matching latency. The upgrade brings Deribit onto the same core execution infrastructure as Coinbase International Exchange. The engine will also introduce brief delays for aggressive orders on selected instruments, allowing liquidity providers more time to adjust quotes during fast-moving markets. Coinbase plans to migrate all of its perpetual futures to the engine later this year. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25527",
+    "published_at": "2026-08-12T09:29:22+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Coinbase이 Deribit에 새로운 매칭 엔진을 출시하여 100k 명의 주문 처리 가능, 시세 변동시 리퀴디티 제공자에게 시간을 주는 기능도 추가",
+    "collected_at": "2026-08-12T09:36:54.431424+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트와이즈 CIO \"비트코인, 악재에 흔들리지 않아...크립토 겨울 바닥 근접 신호\"",
+    "content": "비트코인이 부정적 뉴스에도 크게 흔들리지 않는 최근 흐름이 크립토 약세장 바닥에 가까워졌다는 신호일 수 있다는 진단이 나왔다. 매트 호건 비트와이즈 최고투자책임자(CIO)는 8월 11일(현지시간) 블룸버그 인터뷰에서 최근 비트코인이 나쁜 뉴스에는 크게 반응하지 않고 좋은 뉴스에는 강하게 반응하는 흐름을 보이고 있다며 이를 시장의 성숙 신호로 평가했다. 호건 CIO는 약세장 바닥에서는 자산이 나쁜 뉴스에 반응하지 않기 시작한다며 이러한 흐름이 이번 크립토 겨울의 바닥에 가까워졌다는 신호일 수 있다고 말했다. 그는 연말 강한 시장 흐름이 나타날 가능성도 있다며 다음 시장 동력으로는 대형 자산관리 플랫폼의 참여를 꼽았다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/389204",
+    "published_at": "Wed, 12 Aug 2026 09:36:08 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인에 대한 매트 호건 CIO의 분석과 예측이 시장에 큰 영향을 줄 가능성이 있어, 7점보다 관련 주체가 더 크고 여러 매체가 동시에 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-12T09:36:54.794710+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "하이퍼리퀴드 OI 나흘 새 7.2% 늘어 113억달러",
+    "content": "미국 7월 소비자물가지수(CPI) 발표를 앞두고 하이퍼리퀴드(HYPE) 시장의 미결제약정(OI)이 나흘 동안 7억6500만 달러(약 1조809억원) 늘었다. 같은 기간 증가율은 7.2%로 집계됐다.\n트레이딩비츠(TradingBeats)는 12일 집계에서 하이퍼리퀴드 시장의 총 OI가 월요일 약 105억6000만 달러(약 14조9213억원)에서 113억2500만 달러(약 16조2억원)로 증가했다고 밝혔다. 암호화폐 시장에서 약 5억8300만 달러(약 8238억원), HIP-3 시장에서 약 1억8300만 달러(약 2586억원)가 각각 늘었다.\nOI는 계약이 체결된 뒤 아직 청산되거나 종료되지 않은 파생상품 포지션의 규모다. OI 증가는 시장 참여자들이 새 포지션을 쌓았다는 의미지만, 롱과 숏을...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/389203",
+    "published_at": "Wed, 12 Aug 2026 09:23:25 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "하이퍼리퀴드 시장의 미결제약정(OI)이 7.2% 증가하여 시장 참여자들이 새 포지션을 쌓은 것으로 보인다. 그러나 OI 증가는 시장 전체에 직접적인 영향을 주는 것은 아니므로 7.5점으로 평가한다.",
+    "collected_at": "2026-08-12T09:39:25.319281+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "담보 128개로 늘린 비트겟, 주식 토큰 대출 확대",
+    "content": "비트겟(Bitget)이 담보 대출 상품에서 주식 토큰(rToken) 25개를 추가해 지원 대상을 128개로 늘렸다. 미국 주식과 상장지수펀드(ETF)에 연계된 토큰을 매도하지 않고 다른 가상자산을 빌릴 수 있는 범위가 확대됐다.\n오데일리는 12일 오전 9시 32분(한국시간) 비트겟이 rIVV와 rKLAC, rSMCI 등을 담보 자산으로 추가했다고 전했다. 새로 포함된 자산은 기술·소비·금융 등 여러 업종의 미국 주식과 ETF에 연계돼 있다.\n이용자는 해당 토큰을 담보로 테더(USDT)와 유에스디코인(USDC) 등 주요 스테이블코인을 비롯해 100종 이상의 가상자산을 빌릴 수 있다. 담보 비율과 차입 조건은 자산별로 다르며 비트겟 플랫폼에 설정된 담보 기준이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/389201",
+    "published_at": "Wed, 12 Aug 2026 09:22:58 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트겟이 주식 토큰 대출을 확대하고, 담보 비율과 차입 조건이 자산별로 다르다는 점에서 시청자에게 유의미한 뉴스이지만, 영향 범위가 아직 제한적이다.",
+    "collected_at": "2026-08-12T09:39:44.933813+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "이더리움 현물 ETF 2거래일째 순유출세...하루 176만 달러 이탈",
