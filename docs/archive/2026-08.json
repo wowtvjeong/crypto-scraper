@@ -1,5 +1,17 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Highlight Clip Bitcoin Core Developer: What truly made Bitcoin successful wasn't the white paper",
+    "content": "Highlight Clip Bitcoin Core Developer: What truly made Bitcoin successful wasn't the white paper\nBitcoin Core Developer: What truly made Bitcoin successful wasn't the white paper\nSummary: On July 28, 2026, Bitcoin core developer Jeff Garzik stated on the Bitcoin Treasuries podcast that Bitcoin's initial ascent did not stem from its white paper, but rather benefited from the widespread exposure brought by a Slashdot post in July 2010.\nWithout practical implementation, Bitcoin might have simply become just another ecash or Hashcash-style white paper. What truly made the decisive difference was the operating and testable source code released into the real world. People first confirmed that Bitcoin worked through actual use, and only then did they read the white paper and consider it a work of genius. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25520",
+    "published_at": "2026-08-12T00:04:22+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 개발자 제프 가르직이 슬래시독 포스트에 의한 노출이 비트코인의 성공을 결정짓는 요인으로 작용했다고 언급했다.",
+    "collected_at": "2026-08-12T00:07:06.664078+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "170개 파생계약 연 코인베이스, 영국 개인은 제외",
