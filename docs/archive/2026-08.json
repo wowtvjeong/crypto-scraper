@@ -1,5 +1,41 @@
 [
   {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "NYC council announces probe into ‘predatory marketing practices’ on prediction markets",
+    "content": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 20:22:46 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "NYC council의 규제 당국이 prediction market 서비스 제공사에 대한 조사로 크립토와 관련된 뉴스",
+    "collected_at": "2026-08-12T20:32:16.713802+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC 직원, 프랭클린 펀드의 온체인 머니마켓펀드 사용에 집행 권고를 하지 않겠다는 입장 밝혀",
+    "content": "SEC 직원, 프랭클린 펀드의 온체인 머니마켓펀드 사용에 집행 권고를 하지 않겠다는 입장 밝혀",
+    "url": "https://ns3.ai/ko/news/Zt15JBpaqR",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "SEC 직원이 프랭클린 펀드의 온체인 머니마켓펀드 사용에 집행 권고를 하지 않겠다는 입장을 밝혔다는 뉴스는 대형 거래소·유명 프로젝트와는 다르지만, 구체적 금액이 동반되지 않아 9점은 아님",
+    "collected_at": "2026-08-12T20:32:55.089687+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC 무조치 의견서, 등록 펀드의 프랭클린 템플턴 FOBXX 사용 허용",
+    "content": "SEC 무조치 의견서, 등록 펀드의 프랭클린 템플턴 FOBXX 사용 허용",
+    "url": "https://ns3.ai/ko/news/iJ9VthbOci",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "등록 펀드의 프랭클린 템플턴 FOBXX 사용 허용은 크립토 시장에 영향을 줄 가능성이 있는 뉴스이며, SEC의 공식 발표로 확정성이 높습니다.",
+    "collected_at": "2026-08-12T20:34:16.435334+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "윈터뮤트, 10억달러 투자…내년 비암호화 매출 50% 목표",
