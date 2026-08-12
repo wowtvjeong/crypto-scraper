@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인스위스, 미카 승인으로 유럽 기관시장 확대",
+    "content": "비트코인스위스(Bitcoin Suisse)가 미카(MiCAR) 기준 암호자산서비스제공자(CASP) 승인을 바탕으로 유럽 기관 고객 시장을 확대한다. 수탁과 교환, 주문 집행 등 허가 범위가 명확한 서비스를 고액자산가와 기업, 기관투자자에게 제공하는 전략이다.\n리히텐슈타인 금융시장청(FMA)은 비트코인스위스 유럽 법인 Bitcoin Suisse (Europe) AG를 6월 22일부터 CASP로 승인하고 이튿날 공지했다. 비트코인스위스는 2013년 설립된 스위스 기반 암호자산 금융서비스 업체이며, 유럽 법인은 2018년 설립됐다.\n승인 범위에는 △고객 암호자산 수탁·관리 △현금과 암호자산 간 교환 △암호자산 간 교환 △고객 주문 집행 △주문 접수·전달 △암호자산 전송...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/389424",
+    "published_at": "Wed, 12 Aug 2026 13:45:40 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "유럽 기관 고객 시장을 확대하는 비트코인스위스의 승인으로 유럽 기관시장 확대라는 큰 파급력을 가짐",
+    "collected_at": "2026-08-12T14:15:03.446597+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "슬로베니아 첫 미카 EMT 등록…명단 43건",
+    "content": "슬로베니아 전자화폐기관 디나로(DINARO)가 자국 기업 중 처음으로 유럽연합(EU) 암호자산시장규제 미카(MiCA)의 전자화폐토큰(EMT) 발행사 명단에 올랐다. 이번 추가로 EMT 등록부는 43건으로 늘었다.\n12일 유럽증권시장감독청(ESMA)에 따르면 디나로는 이날 공개된 미카 임시 등록부에 EMT 발행사로 추가됐다. 슬로베니아 소재 발행사가 이 명단에 포함된 것은 처음이다.\n같은 날 자산준거토큰(ART) 등록부는 비어 있었고 미준수 사업자 명단은 167곳을 유지했다. 앞서 스트라이프 산하 브리지가 룩셈부르크 승인을 받아 등록되면서 EMT 등록부는 42건으로 늘어난 바 있다.\n디나로는 슬로베니아 중앙은행의 감독을 받는 전자화폐기관이다....  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/389421",
+    "published_at": "Wed, 12 Aug 2026 13:43:31 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "유럽연합(EU) 암호자산시장규제 미카(MiCA)의 전자화폐토큰(EMT) 발행사 명단에 추가된 슬로베니아 전자화폐기관 디나로가 처음으로 등록되면서 EMT 등록부가 43건으로 늘었다.",
+    "collected_at": "2026-08-12T14:15:40.593640+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "오라클 CDS 219bp, 6년 만에 최고 수준",
+    "content": "오라클(Oracle·$ORCL)의 5년 만기 신용부도스와프(CDS) 스프레드가 7월 말 219bp까지 올라 최소 6년 만의 최고 수준을 기록했다. 인공지능(AI) 데이터센터 투자 경쟁이 현금흐름과 차입 비용을 압박하면서 신용시장도 관련 기업의 위험을 다시 평가하고 있다.\n마켓워치는 오라클의 5년 만기 CDS 스프레드가 7월 말 219bp에 도달했다고 전했다. 앞서 본지가 보도한 미국 대형 기술기업의 AI 투자와 신용위험 확대 당시 오라클의 CDS 스프레드는 215bp로 집계됐다.\nCDS는 채권 발행자가 빚을 갚지 못할 위험에 대비하는 파생상품이다. 스프레드가 오르면 같은 채무를 보장받기 위해 내야 하는 비용이 커졌다는 뜻이지만, 그 자체로 채무불이행이...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/389407",
+    "published_at": "Wed, 12 Aug 2026 13:34:43 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "오라클의 신용부도스와프(CDS) 스프레드가 6년 만에 최고 수준을 기록했다는 뉴스, 관련 주체는 대형 기술기업으로 파급 범위는 신용시장에 영향을 줄 수 있다.",
+    "collected_at": "2026-08-12T14:17:40.741407+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "BAXUS, 솔라나 모바일에 희귀 주류 가격 앱 입점",
+    "content": "BAXUS가 솔라나 모바일(Solana Mobile) 앱스토어에 입점해 Seeker 이용자의 희귀 주류 가격과 위치 데이터를 모은다. 기존 희귀 주류 거래·가격 앱의 유통 채널을 솔라나(SOL) 모바일 생태계로 넓힌 사례다.\n솔라나 모바일은 7월 14일 공개한 글에서 BAXUS가 솔라나 디앱스토어에서 이용 가능하다고 밝혔다. 다만 정확한 최초 입점일은 공개하지 않았다.\nSeeker 이용자는 매장에서 희귀 위스키와 와인을 찾아 병을 스캔하고 가격과 위치를 등록할 수 있다. 활동에 참여하면 포인트와 경품을 받는 구조로, 솔라나 모바일은 이를 이용자가 함께 만드는 위스키 지도에 가까운 서비스로 소개했다.\nBAXUS는 희귀 주류와 와인의 거래·보관 서비스를...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/389406",
+    "published_at": "Wed, 12 Aug 2026 13:32:51 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련은 있으나 시청자에게 부수적인 소식으로, 솔라나 모바일의 입점과 관련된 뉴스이며, 크립토 업계의 일반적인 뉴스에 해당한다",
+    "collected_at": "2026-08-12T14:17:58.142746+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Solana Saw 28.83% of Staked SOL Go Offline, Nearing Finality Halt Threshold",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·유명 프로젝트와 관련된 큰 폭의 가격 변동과 관련된 뉴스",
     "collected_at": "2026-08-01T09:50:53.305614+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "content": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-    "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-    "published_at": "Sat, 01 Aug 2026 09:01:08 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "Binance의 창립자 CZ가 70만 달러 규모의 Coldcard 해킹 사건 이후 지갑 다각화에 대한 호소로, 대형 거래소의 중견 프로젝트와 관련된 뉴스이며, 구체적 금액이 동반된 정책/자금 관련 소식으로 파급력이 크다.",
-    "collected_at": "2026-08-01T09:51:08.925295+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "콜드카드 취약점에 비트코인 1000개 넘게 유출…CZ \"지갑 분산이 대안\"",
-    "content": "콜드카드 취약점에 비트코인 1000개 넘게 유출…CZ \"지갑 분산이 대안\"",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383583",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 CZ의 지갑 분산을 대안으로 제시하는 등, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-08-01T09:52:19.504349+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Coldcard 취약점으로 7,000만 달러 유출, CZ는 지갑 분산 촉구",
-    "content": "Coldcard 취약점으로 7,000만 달러 유출, CZ는 지갑 분산 촉구",
-    "url": "https://ns3.ai/ko/news/2LRuvWo2Op",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 CZ의 지갑 분산 촉구와 함께 7,000만 달러의 유출이 발생한 Coldcard 취약점에 대한 뉴스",
-    "collected_at": "2026-08-01T09:52:41.681973+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "CZ, 3,800만 달러 비트코인 도난 이후 하드웨어 지갑에도 취약점 있을 수 있다고 밝혀",
-    "content": "CZ, 3,800만 달러 비트코인 도난 이후 하드웨어 지갑에도 취약점 있을 수 있다고 밝혀",
-    "url": "https://ns3.ai/ko/news/zih3IU1EiC",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 CZ가 하드웨어 지갑에 취약점이 있을 수 있다고 밝혀, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-01T09:53:00.114560+00:00"
   }
 ]
