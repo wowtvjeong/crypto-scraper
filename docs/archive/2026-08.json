@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "골드만삭스, 네오스 인수로 ETF 운용자산 1300억달러 돌파",
+    "content": "[멕시코=심영재 특파원] 골드만삭스가 최대 23억달러에 네오스(NEOS) 인베스트먼츠를 인수하며 액티브 상장지수펀드(ETF) 사업 확대에 나선다. 네오스는 옵션 기반 인컴 ETF 19종을 운용하고 있으며 운용자산은 약 300억달러다. 코인게이프는 12일(현지시각) 골드만삭스가 현금과 주식을 결합한 거래를 통해 네오스를 최대 22억5000만달러에 인수하기로 합의했다고 보도했다. 거래가 마무리되면 골드만삭스의 글로벌 ETF 운용자산은 1300억달러를 넘어설 전망이다. 네오스 운용자산 약 300억달러 코인게이프에 따르면 골드만삭스는 네오스를 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127097?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 12 Aug 2026 16:58:25 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 골드만삭스가 네오스 인수를 통해 ETF 운용자산이 1300억달러를 넘어설 것으로 전망되며, 네오스의 운용자산도 약 300억달러로 크립토 시장에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-12T17:26:04.382912+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "FlightAware drops Kalshi lawsuit one day after filing",
+    "content": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
+    "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 16:58:52 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Kalshi와 관련된 뉴스이며, FlightAware가 Kalshi와의 법적 분쟁을 중단했지만, Kalshi의 이벤트 계약이 변경된 점이 언급되어 있다. 다만, 시장 전체에 직접적인 영향을 주는 뉴스라기보다는 Kalshi와 FlightAware 간의 법적 분쟁에 대한 뉴스이다.",
+    "collected_at": "2026-08-12T17:26:20.105623+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+    "content": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+    "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 16:50:25 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 금융 기관의 stablecoin 및 디지털 통화와의 상호 운용성 테스트, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-12T17:26:35.707075+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+    "content": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
+    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+    "published_at": "Wed, 12 Aug 2026 17:13:43 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Fidelity의 이더리움 ETF에 대한 투자와 수익 분배에 대한 공식 발표",
+    "collected_at": "2026-08-12T17:26:52.508677+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+    "content": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+    "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+    "published_at": "Wed, 12 Aug 2026 16:34:24 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 중견 기업인 Wintermute가 AI 기술에 10억 달러를 투자하는 계획을 발표했지만, 이 투자는 크립토 업계를 넘어 일반적인 기술 분야로 확장될 예정이다.",
+    "collected_at": "2026-08-12T17:27:07.013766+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "피델리티, FETH ETF에 이더리움 스테이킹 추가 신청",
+    "content": "피델리티, FETH ETF에 이더리움 스테이킹 추가 신청",
+    "url": "https://ns3.ai/ko/news/2jMeQ0lgyw",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 회사 피델리티가 이더리움 스테이킹을 추가로 신청하는 것은 크립토 시장에 큰 영향을 줄 수 있는 뉴스이며, FETH ETF의 발행과 관련된 중요한 소식이다.",
+    "collected_at": "2026-08-12T17:27:23.640411+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "한국거래소, 36개 저가주 일제히 관리종목 지정...상장폐지 경고",

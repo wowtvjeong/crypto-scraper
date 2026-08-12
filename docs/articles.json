@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "골드만삭스, 네오스 인수로 ETF 운용자산 1300억달러 돌파",
+    "content": "[멕시코=심영재 특파원] 골드만삭스가 최대 23억달러에 네오스(NEOS) 인베스트먼츠를 인수하며 액티브 상장지수펀드(ETF) 사업 확대에 나선다. 네오스는 옵션 기반 인컴 ETF 19종을 운용하고 있으며 운용자산은 약 300억달러다. 코인게이프는 12일(현지시각) 골드만삭스가 현금과 주식을 결합한 거래를 통해 네오스를 최대 22억5000만달러에 인수하기로 합의했다고 보도했다. 거래가 마무리되면 골드만삭스의 글로벌 ETF 운용자산은 1300억달러를 넘어설 전망이다. 네오스 운용자산 약 300억달러 코인게이프에 따르면 골드만삭스는 네오스를 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127097?utm_source=general&utm_medium=rss",
+    "published_at": "Wed, 12 Aug 2026 16:58:25 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소인 골드만삭스가 네오스 인수를 통해 ETF 운용자산이 1300억달러를 넘어설 것으로 전망되며, 네오스의 운용자산도 약 300억달러로 크립토 시장에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-12T17:26:04.382912+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "FlightAware drops Kalshi lawsuit one day after filing",
+    "content": "Following the initial lawsuit, at least one of Kalshi’s event contracts was changed to list “Primary Source Agency” as the entity behind verifying flight cancellation data.",
+    "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 16:58:52 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Kalshi와 관련된 뉴스이며, FlightAware가 Kalshi와의 법적 분쟁을 중단했지만, Kalshi의 이벤트 계약이 변경된 점이 언급되어 있다. 다만, 시장 전체에 직접적인 영향을 주는 뉴스라기보다는 Kalshi와 FlightAware 간의 법적 분쟁에 대한 뉴스이다.",
+    "collected_at": "2026-08-12T17:26:20.105623+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Bank of England tests stablecoin, digital pound interoperability in cross-border payments",
+    "content": "The Digital Pound Lab is testing a cross-border trade finance flow combining stablecoin payments with simulated digital pound settlement.",
+    "url": "https://cointelegraph.com/news/bank-of-england-tests-stablecoin-digital-pound-interoperability-in-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Wed, 12 Aug 2026 16:50:25 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 금융 기관의 stablecoin 및 디지털 통화와의 상호 운용성 테스트, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-12T17:26:35.707075+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Fidelity Files to Let Its Ethereum ETF Stake and Pay Investors",
+    "content": "The Boston asset manager's FETH would stake up to 100% of its ETH and distribute the rewards to holders as quarterly cash, pending SEC approval.",
+    "url": "https://decrypt.co/375457/fidelity-files-ethereum-etf-stake-pay-investors",
+    "published_at": "Wed, 12 Aug 2026 17:13:43 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Fidelity의 이더리움 ETF에 대한 투자와 수익 분배에 대한 공식 발표",
+    "collected_at": "2026-08-12T17:26:52.508677+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+    "content": "Wintermute plans $1 billion AI push beyond crypto: Bloomberg",
+    "url": "https://www.coindesk.com/business/2026/08/12/wintermute-plans-usd1-billion-ai-push-beyond-crypto-bloomberg",
+    "published_at": "Wed, 12 Aug 2026 16:34:24 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "크립토 업계의 중견 기업인 Wintermute가 AI 기술에 10억 달러를 투자하는 계획을 발표했지만, 이 투자는 크립토 업계를 넘어 일반적인 기술 분야로 확장될 예정이다.",
+    "collected_at": "2026-08-12T17:27:07.013766+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "피델리티, FETH ETF에 이더리움 스테이킹 추가 신청",
+    "content": "피델리티, FETH ETF에 이더리움 스테이킹 추가 신청",
+    "url": "https://ns3.ai/ko/news/2jMeQ0lgyw",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 회사 피델리티가 이더리움 스테이킹을 추가로 신청하는 것은 크립토 시장에 큰 영향을 줄 수 있는 뉴스이며, FETH ETF의 발행과 관련된 중요한 소식이다.",
+    "collected_at": "2026-08-12T17:27:23.640411+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "한국거래소, 36개 저가주 일제히 관리종목 지정...상장폐지 경고",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "해킹으로 인한 자산 탈취, WETH의 큰 금액이 탈취되었고, 이는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스",
     "collected_at": "2026-08-01T12:33:04.512572+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "바이낸스 스테이블코인 유출, 올해 70억 달러 기록",
-    "content": "바이낸스 스테이블코인 유출, 올해 70억 달러 기록",
-    "url": "https://ns3.ai/ko/news/Z0CWheiXFS",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소인 바이낸스와 관련된 스테이블코인 유출에 대한 뉴스, 올해 기록한 금액이 70억 달러로 크고, 여러 자산·시장 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-08-01T12:33:20.555279+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "아서 헤이즈, SYN 616만 개 매도; 바이낸스, TST 사건 해명",
-    "content": "아서 헤이즈, SYN 616만 개 매도; 바이낸스, TST 사건 해명",
-    "url": "https://ns3.ai/ko/news/j59fXHXkd1",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "바이낸스와 TST 사건에 대한 해명이 포함되어 있으며, 아서 헤이즈의 SYN 매도는 크립토 시장에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-01T12:34:37.772688+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "자오, 7,000만 달러 Coldcard 해킹 이후 지갑 분산 촉구",
-    "content": "자오, 7,000만 달러 Coldcard 해킹 이후 지갑 분산 촉구",
-    "url": "https://ns3.ai/ko/news/J85fUL6vST",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소나 기관의 중대 발표와 유사한 뉴스인 Coldcard 해킹 이후의 지갑 분산 촉구는 크립토 업계 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-08-01T12:35:10.765941+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "암호화폐 시장, 24시간 동안 레버리지 포지션 1억 9425만 달러 청산",
-    "content": "지난 24시간 동안 암호화폐 시장에서 약 1억 9425만 달러 상당의 레버리지 포지션이 청산된 것으로 나타났다. 집계된 티커별 데이터에 따르면 롱 포지션 청산액은 약 1억 4337만 달러로 전체의 73.8%를 차지했고, 숏 포지션 청산액은 약 5088만 달러로 26.2%를 기록했다. 주요 자산 전반이 약세를 보인 가운데 비트코인(BTC)과 이더리움(ETH)을 중심으로 하락 구간에서 롱 포지션 정리가 집중된 모습이다.4시간 거래소 별 청산 데이터 / 코인글래스지난 4시간 기준 거래소별 청산 규모는 총 715만 달러 수준으로 집계됐다. 가장 많은 포지션 청산이 발생한 거래소는 바이낸스로 총 419만 달러, 전체의 58.61%를 차지했다. 이 가운데 롱 포지션은...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383625",
-    "published_at": "Sat, 01 Aug 2026 11:01:51 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "암호화폐 시장에서 레버리지 포지션 1억 9425만 달러 청산, 주요 자산 전반이 약세를 보인 가운데 비트코인과 이더리움 중심으로 하락 구간에서 롱 포지션 정리가 집중되었다.",
-    "collected_at": "2026-08-01T11:10:24.856964+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "감사 완료도 못 막았다…상반기 암호화폐 해킹 94%는 범위 밖서 발생",
-    "content": "암호화폐 시장에서 2026년 상반기 동안 약 9억4,000만 달러(약 1조3,600억 원)가 해킹으로 사라졌지만, ‘보안 감사’는 이를 막지 못한 것으로 나타났다. 형식적인 감사가 실제 위협을 가리지 못했다는 지적이다.감사 통과해도 94%는 ‘사각지대’에서 발생보안 리서치 업체 ack3에 따르면 1월부터 6월까지 총 135건의 공격이 확인됐으며, 피해 규모는 9억3,986만 달러(약 1조3,590억 원)에 달했다. 건당 평균 피해액은 약 696만 달러다.가장 충격적인 통계는 감사받은 프로젝트에서도 피해의 94.4%가 ‘감사 범위 밖’에서 발생했다는 점이다. 스마트컨트랙트 코드는 점검됐지만, 실제 공격은 검증되지 않은 인프라나 키 관리 구조를 통해...  더보기",
-    "url": "https://www.tokenpost.kr/news/tech/383600",
-    "published_at": "Sat, 01 Aug 2026 09:59:36 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "암호화폐 시장에서 94%의 해킹이 감사 범위 밖에서 발생한 것으로 나타났다. 이는 암호화폐 보안에 대한 큰 문제를 드러내고 있으며, 시장 전체에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-01T11:10:25.484897+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Russia expands crypto mining ban to Moscow through 2032",
-    "content": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
-    "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Sat, 01 Aug 2026 10:23:41 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "러시아가 모스크바까지 포함한 지역에 암호화폐 채굴 금지령을 2032년까지 확대하는重大한 뉴스",
-    "collected_at": "2026-08-01T11:11:02.030129+00:00"
   }
 ]
