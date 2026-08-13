@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "UK FCA and HTX in Settlement Talks Over Alleged Illegal Crypto Promotions",
+    "content": "UK FCA and HTX in Settlement Talks Over Alleged Illegal Crypto Promotions\nAccording to CNA, the UK Financial Conduct Authority (FCA) and crypto exchange HTX are in settlement talks over allegations that the platform illegally promoted crypto services to UK consumers, court filings show. The FCA sued HTX in October 2025, alleging violations of the UK’s crypto financial promotion rules introduced in 2023, marking the regulator’s first lawsuit against a crypto firm over marketing to UK consumers. London’s High Court has paused the proceedings to give the two sides until late August to resolve the dispute. Both the FCA and HTX declined to comment on the status of the talks. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25542",
+    "published_at": "2026-08-13T11:50:18+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 관련된 뉴스, UK의 주요 규제 당국(FCA)과 중견 거래소(HTX) 간의 합의 논의",
+    "collected_at": "2026-08-13T12:44:10.846509+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Coinbase Subsidiary Deribit Secures Broker-Dealer Licence from Dubai's VARA",
+    "content": "Coinbase Subsidiary Deribit Secures Broker-Dealer Licence from Dubai's VARA\nDeribit, a Coinbase company, has been granted a Broker-Dealer Licence by Dubai's Virtual Assets Regulatory Authority (VARA). The licence enables a major upgrade to Deribit's spot trading product, allowing spot buy, sell, and trade orders placed on Deribit to be routed directly to Coinbase Exchange for execution, providing clients with significantly deeper liquidity and access to hundreds of new assets. Additionally, assets acquired through the upgraded spot platform can be used as collateral for derivatives trading on Deribit following regulatory approval. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25544",
+    "published_at": "2026-08-13T12:43:21+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Coinbase의 자회사 Deribit가 Dubai의 규제 당국에서 Broker-Dealer Licence를 획득하여, Deribit의 스폿 트레이딩 제품을 업그레이드하고, 클라이언트에게 더 깊은 리퀴디티와 새로운 자산에 대한 액세스를 제공하는 뉴스",
+    "collected_at": "2026-08-13T12:44:11.954764+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "레야, 테이커 수수료 3bp로 낮추고 메이커 면제",
+    "content": "레야(Reya)가 무기한 선물 거래 수수료를 낮추며 탈중앙화 파생상품 거래소 시장에서 유동성 확보에 나섰다. 테이커 수수료는 3bp로 낮추고 메이커 수수료는 폐지했다.\n크립토브리핑은 13일 레야가 수수료 모델을 개편해 테이커 수수료를 3bp로 낮추고 메이커 수수료를 없앴다고 보도했다. 1bp는 0.01%포인트로, 3bp는 거래 금액의 0.03%에 해당한다.\n보도는 레야가 메이커에게 리베이트를 지급해 호가 공급 참여자를 늘리는 구조라고 전했다. 거래 수수료 인하만이 아니라 주문장 유동성을 키우기 위한 설계 변경에 가깝다는 해석이 나온다.\n레야는 아비트럼 오빗(Arbitrum Orbit) 기반의 고속 무기한 선물 탈중앙화거래소(DEX)로 출발했다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390209",
+    "published_at": "Thu, 13 Aug 2026 12:36:39 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 거래소 레야가 수수료 모델을 개편하여 테이커 수수료를 3bp로 낮추고 메이커 수수료를 폐지하는 등 유동성 확보에 나선 것으로 보도되며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-13T12:44:17.525126+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미 10개 주, 모기지 에스크로 이자 규칙 제소",
+    "content": "미국 10개 주 법무장관이 주택담보대출 모기지 에스크로 계좌 이자 지급 의무를 둘러싼 미국 통화감독청(OCC) 규칙 무효화 소송을 냈다. 연방 규제가 주 소비자 보호법을 어디까지 밀어낼 수 있는지가 핵심 쟁점이다.\n소송은 한국시간 12일 오리건 연방법원에 제기됐다. CNBC는 이번 소송에서 OCC와 조너선 굴드(Jonathan Gould) 통화감독관이 피고로 적시됐다고 전했다.\nOCC는 5월 15일 ‘Real Estate Lending Escrow Accounts’와 ‘Preemption Determination: State Interest-on-Escrow Laws’ 두 최종 규칙을 발표했다. 두 규칙은 6월 18일 발효됐다.\nOCC는 이 규칙에서 전국은행과 연방저축협회가 모기지 에스크로 계좌의 조건, 이자 지급...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/390205",
+    "published_at": "Thu, 13 Aug 2026 12:33:51 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "미국 10개 주 법무장관이 주택담보대출 모기지 에스크로 계좌 이자 지급 의무를 둘러싼 미국 통화감독청(OCC) 규칙 무효화 소송을 냈다. 이는 대형 거래소·기관의 중대 발표와 유사한 뉴스이므로 8점을 부여한다.",
+    "collected_at": "2026-08-13T12:45:29.776079+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스트라타, 엔오팔 선후순위 토큰 도입했다",
+    "content": "스트라타 마켓츠(Strata Markets)가 브라질 카드 매출채권 기반 토큰화 볼트 엔오팔(nOPAL)에 선순위와 후순위 트랜치 구조를 붙였다. 하나의 실물자산(RWA) 기반 현금흐름을 위험 부담 순서에 따라 나누는 방식이다.\n스트라타 마켓츠가 엔오팔에 선순위 엔오팔(srnOPAL)과 후순위 엔오팔(jrnOPAL)을 도입했다고 크립토브리핑은 13일 전했다. 선순위 토큰은 현금흐름을 먼저 받고, 후순위 토큰은 손실을 먼저 흡수하는 구조다.\n이번 사안의 핵심은 새 자산 출시보다 리스크 분리다. 스트라타 마켓츠는 공식 사이트에서 리스크 트랜칭을 한 풀의 자산이나 현금흐름을 선순위와 후순위로 나눠 서로 다른 위험·수익 구조를 제공하는 방식으로...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390200",
+    "published_at": "Thu, 13 Aug 2026 12:27:56 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "스트라타 마켓츠가 엔오팔에 선순위와 후순위 토큰을 도입하여 리스크 분리를 위한 새로운 구조를 제공하는 뉴스",
+    "collected_at": "2026-08-13T12:46:24.435110+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "32억달러 스텔라 실물자산, 기관 인프라 넓힌다",
+    "content": "스텔라루멘(XLM) 기반 스텔라가 결제·송금 네트워크에서 기관용 실물자산(RWA) 토큰화 인프라로 영역을 넓히고 있다. 8월 13일 기준 스텔라의 분산형 실물자산 가치는 32억 달러(약 4조5344억원)로 집계됐다.\n스텔라 개발재단(Stellar Development Foundation·SDF)은 5월 6일 프로토콜 26 ‘야드스틱’을 메인넷에 적용했다고 밝혔다. 이번 업데이트에는 레저 키를 동결할 수 있는 CAP-77과 256비트 정수 연산을 점검 방식으로 처리하는 CAP-82가 포함됐다.\n프로토콜 26은 기관 자산을 온체인으로 옮길 때 필요한 사고 대응과 대형 수치 처리 기능을 네트워크 수준에서 보강한 업데이트다. 결제망으로 출발한 스텔라가 규제 대응이 필요한 자산...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390199",
+    "published_at": "Thu, 13 Aug 2026 12:27:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "스텔라 루멘 기반의 스텔라 네트워크가 기관용 실물자산 토큰화 인프라로 영역을 넓히고, 분산형 실물자산 가치가 32억 달러에 달한다는 뉴스",
+    "collected_at": "2026-08-13T12:46:42.972760+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "출력 단가 4.5배로 오른 딥시크 V4-프로",
