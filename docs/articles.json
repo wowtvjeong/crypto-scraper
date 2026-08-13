@@ -1,5 +1,65 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "테더, USDT 준비금에 대한 KPMG 감사 완료",
+    "content": "테더, USDT 준비금에 대한 KPMG 감사 완료",
+    "url": "https://ns3.ai/ko/news/8f1gKkem17",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "테더와 KPMG 간의 감사 완료는 테더의 신뢰성을 높여주고, USDT 준비금에 대한 문제가 해결되었다는 보장을 제공한다. 그러나 영향 범위는 제한적이므로 7점을 부여한다.",
+    "collected_at": "2026-08-13T20:30:29.529645+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "DeFi Development, 2분기에 2,700만 달러 손실 기록하고 SOL 재무 프로그램 중단",
+    "content": "DeFi Development, 2분기에 2,700만 달러 손실 기록하고 SOL 재무 프로그램 중단",
+    "url": "https://ns3.ai/ko/news/RMUrl2azI9",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "DeFi Development이 2분기에 2,700만 달러 손실을 기록하고 SOL 재무 프로그램을 중단했다는 뉴스는 유의미한 뉴스지만, 영향 범위가 아직 제한적이다. SOL은 소규모 프로젝트에 속하고, DeFi Development의 손실은 시장 전체에 큰 영향을 주지 않는다. 그러나 이 뉴스는 DeFi Development의 재무 상태와 SOL의 개발에 대한 영향을 보여주기 때문에 7.5점을 부여한다.",
+    "collected_at": "2026-08-13T20:30:46.490114+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CZ는 트레저(Trezor) 데이터 유출 사건을 소프트웨어 기반 자체 보관 지갑의 필요성을 뒷받침하는 근거로 제시했습니다.",
+    "content": "CZ는 트레저(Trezor) 데이터 유출 사건을 소프트웨어 기반 자체 보관 지갑의 필요성을 뒷받침하는 근거로 제시했습니다.",
+    "url": "https://ko.bsc.news/news/cz-trezor-breach-software-wallet-argument",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "트레저 데이터 유출 사건이 소프트웨어 기반 자체 보관 지갑의 필요성을 뒷받침하는 근거로 제시되었다는 점에서 크립토와 관련된 뉴스이며, 관련 주체가 중견 기업인 CZ이며, 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있으나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-13T20:31:38.865729+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "ShipMonk 침해 사고로 Trezor 고객 거의 1만4,000명 정보 노출",
+    "content": "ShipMonk 침해 사고로 Trezor 고객 거의 1만4,000명 정보 노출",
+    "url": "https://ns3.ai/ko/news/4R6UR4gyqw",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 크립토 관련 뉴스, 그러나 아직 '즉시 속보'급 확정 사건은 아님",
+    "collected_at": "2026-08-13T20:31:56.062281+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "GameSquare, 현금이 약속어음 지급액을 밑돌며 783만 달러의 암호화폐 손실 보고",
+    "content": "GameSquare, 현금이 약속어음 지급액을 밑돌며 783만 달러의 암호화폐 손실 보고",
+    "url": "https://ns3.ai/ko/news/s5RjIrpYmH",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 크립토 손실 보고",
+    "collected_at": "2026-08-13T20:32:27.065258+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Second-Largest Ethereum Treasury Firm SharpLink to Stake $200M in ETH Through Lido, With Anchorage Digital as Custodian",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": false,
     "reason": "주식시장 급변동에 대한 국정조사를 촉구하는 뉴스, 관련 주체는 정점식 원내대표이며 파급 범위는 주식시장 전반",
     "collected_at": "2026-08-02T14:24:52.007012+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "정확도 89%, 비트코인 불법거래 잡는 AI…재현율은 64%뿐",
-    "content": "중국인민공안대학(中国人民公安大学) 연구팀이 비트코인(BTC) 등 가상자산의 불법 거래를 탐지하는 인공지능(AI) 모델을 개발했다. 공개 데이터셋을 활용한 검증에서 전체 정확도는 89.4%로 나타났다.\n사우스차이나모닝포스트(South China Morning Post)는 이 연구 결과를 보도했다. 연구팀은 올해 5월 학술지 《정보학잡지》(情报学杂志)에 관련 논문을 게재했다.\n모델은 세 가지 요소로 이뤄졌다. △동적 그래프 신경망(DGNN)은 가상자산 거래망을 계속 변하는 네트워크로 보고 거래 구조와 자금 흐름, 시간에 따른 변화를 분석한다 △메모리 모듈은 새로 들어온 거래를 과거의 유사한 불법 거래 패턴과 대조한다 △대규모언어모델(LLM)은 앞선...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/383892",
-    "published_at": "Sun, 02 Aug 2026 12:35:22 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 불법거래 잡는 AI 모델 개발, 정확도 89%로 나타났다.",
-    "collected_at": "2026-08-02T14:24:59.528000+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "160만 달러 순식간 탈취…콜드카드 지갑 해킹 사례",
-    "content": "160만 달러 순식간 탈취…콜드카드 지갑 해킹 사례",
-    "url": "https://kr.beincrypto.com/coldcard-wallet-hack-canadian-bitcoin-user-story/",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 크립토 관련 해킹 사례",
-    "collected_at": "2026-08-02T14:26:51.821802+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "크립토 거래소, 주식·지수까지 품었다…‘역방향 브리지’ 확산",
-    "content": "크립토 거래소, 주식·지수까지 품었다…‘역방향 브리지’ 확산",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383898",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소가 주식과 지수를 포함하는 '역방향 브리지'를 확산하고 있어, 업계 전반에 큰 영향을 줄 가능성이 있습니다.",
-    "collected_at": "2026-08-02T14:27:07.193112+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "한국, 스테이블코인 해외 거래소 송금 역대 최대",
-    "content": "한국, 스테이블코인 해외 거래소 송금 역대 최대",
-    "url": "https://kr.beincrypto.com/south-korea-stablecoin-outflows-18-months/",
-    "published_at": null,
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "스테이블코인 해외 거래소 송금 역대 최대라는 기록적인 뉴스, 그러나 영향 범위가 제한적",
-    "collected_at": "2026-08-02T14:27:55.476847+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "암호화폐 거래소, 거래량 1.32조 달러 도달 속 월가 퍼프 확대",
-    "content": "암호화폐 거래소, 거래량 1.32조 달러 도달 속 월가 퍼프 확대",
-    "url": "https://ns3.ai/ko/news/cbqfLtH3Fd",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소의 거래량이 1.32조 달러를 기록하여 월가 퍼프 확대에 기여함, 이는 크립토 시장 전반에 영향을 줄 수 있는 뉴스임",
-    "collected_at": "2026-08-02T14:28:10.976943+00:00"
   }
 ]
