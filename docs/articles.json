@@ -1,5 +1,65 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "메타플래닛, 비트코인 기반 자금조달 확대…130만달러 규모 ‘비트본드’ 첫 발행",
+    "content": "[블록미디어 명정선 기자] 일본 비트코인 재무전략 기업 메타플래닛이 엔화 표시 채권시장으로 자금조달 수단을 확대한다. 비트코인 보유 확대 과정에서 주식과 주식연계증권을 활용해온 데 이어 이번에는 고정금리를 제공하는 사모채 프로그램 ‘비트본드(BitBonds)’를 선보였다. 메타플래닛은 약 2억엔(130만달러) 규모의 첫 비트본드 발행을 완료했다고 13일 밝혔다. 이번 채권은 4개 시리즈로 나눠 사모 방식으로 발행됐다. 연 4~4.3% 금리…만기는 약 3년 비트본드는 무담보 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127635?utm_source=general&utm_medium=rss",
+    "published_at": "Thu, 13 Aug 2026 21:21:48 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-13T21:22:32.221911+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "City of Baltimore goes after prediction markets for sports betting",
+    "content": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
+    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 13 Aug 2026 21:08:23 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 관련된 뉴스, 또한 크립토 관련 규제 동향",
+    "collected_at": "2026-08-13T21:23:04.764520+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+    "content": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
+    "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 13 Aug 2026 20:43:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Tether의 첫 번째 완전한 재무 감사 결과가 나왔고, KPMG의 청렴한 의견을 받았다. 감사 결과에 따르면 Tether의 예비금이 부채보다 68억 달러가 더 많다.",
+    "collected_at": "2026-08-13T21:23:23.041225+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+    "content": "6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+    "published_at": "Thu, 13 Aug 2026 21:16:05 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Solana의 인프라가 다음 크립토 파급을 지지할 수 있을 것이라는 6th Man Ventures 공동 창립자 Mike Dudas의 발언",
+    "collected_at": "2026-08-13T21:23:36.504559+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노르웨이 국부펀드, 8,190만 달러 규모 BitMine 지분 공개",
+    "content": "노르웨이 국부펀드, 8,190만 달러 규모 BitMine 지분 공개",
+    "url": "https://ns3.ai/ko/news/vnWlYy4zWW",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "노르웨이 국부펀드가 BitMine에 8,190만 달러 규모의 지분을 공개하는 뉴스는, 유명한 펀드가 크립토 프로젝트에 투자하는 소식으로, 여러 매체가 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-13T21:24:26.541793+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "테더, USDT 준비금에 대한 KPMG 감사 완료",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "다양한 지역의 크립토 뉴스들이 포함되어 있으나, 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-02T14:23:08.820452+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "한국거래소 ETF 심사 지연, 자산운용사 신규 출시 일정 차질 우려",
-    "content": "한국거래소의 ETF 상장 심사 지연 가능성이 커지면서 자산운용업계의 일반 상장지수펀드 신규 출시 일정에도 차질 우려가 번지고 있다.2일 자산운용업계에 따르면 한국거래소는 지난달 말 주요 자산운용사들을 상대로 상장 예정 ETF 수요를 파악하는 과정에서, 8월부터 예비심사를 청구하는 상품은 평소보다 심사 일정이 늦어질 수 있다는 취지로 안내한 것으로 전해졌다. 형식상 신규 신청을 막은 것은 아니지만, 업계에서는 기존 심사 물량이 우선 처리되는 만큼 사실상 새 상품 접수 속도가 떨어질 수 있다는 신호로 받아들이고 있다. ETF는 보통 거래소 심사 이후 금융감독원의 증권신고서 검토, 효력 발생, 상장일 확정과 최초 설정 절차를...  더보기",
-    "url": "https://www.tokenpost.kr/news/economy/383910",
-    "published_at": "Sun, 02 Aug 2026 13:58:01 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": false,
-    "reason": "한국거래소의 ETF 상장 심사 지연으로 인해 자산운용업계의 신규 출시 일정에 차질이 발생할 수 있기 때문에, 업계 전반에 영향을 미치는 뉴스이다.",
-    "collected_at": "2026-08-02T14:23:09.559964+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "중국, AI로 비트코인(BTC) 자금세탁 90% 정확도 추적 시스템 개발",
-    "content": "중국인민공안대학 연구팀이 비트코인 자금세탁 같은 가상화폐 불법거래를 약 90% 정확도로 가려낼 수 있는 인공지능 시스템을 내놓으면서, 가상자산을 활용한 금융범죄 추적 기술 경쟁이 한층 빨라지는 모습이다.홍콩 사우스차이나모닝포스트가 2일 보도한 내용에 따르면, 이번 연구는 중국 당국이 가상화폐 관련 범죄 단속을 강화하는 흐름 속에서 나왔다. 중국 최고인민검찰원은 올해 3월, 2025년 한 해 동안 가상화폐와 지하 은행을 이용한 자금세탁 혐의로 3천259명을 기소했다고 밝힌 바 있다. 가상화폐 거래는 블록체인에 공개적으로 기록되지만, 지갑 주소만으로는 실제 개인이나 기관의 신원을 곧바로 확인하기 어렵다. 여기에 불법...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383909",
-    "published_at": "Sun, 02 Aug 2026 13:48:09 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "중국 당국이 가상화폐 관련 범죄 단속을 강화하는 흐름 속에서 나온 연구, 90% 정확도의 인공지능 시스템 개발, 가상자산을 활용한 금융범죄 추적 기술 경쟁이 빨라지는 등 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-08-02T14:23:25.530035+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "에이다 고래 5일간 2억4000만개 매집, 가격 22% 상승",
-    "content": "100만~10억 에이다(ADA)를 보유한 대형 지갑군이 최근 5일 동안 2억4000만개가 넘는 물량을 사들인 것으로 나타났다. 같은 기간 에이다 가격은 22% 올랐다.\n\n크립토브리핑(Crypto Briefing)은 2일 해당 지갑군의 5일간 매집 물량이 현재가 기준 약 1억7500만 달러(약 2400억원)에 이른다고 보도했다. 에이다는 0.19달러 부근에서 거래되고 있으며 최근 하루 상승폭은 8~9%로 나타났다.\n\n이번 매집은 일회성 이벤트로 보기 어렵다는 게 크립토브리핑의 해석이다. 이 매체에 따르면 2026년 들어 6개월가량 고래·샤크 지갑군은 약 8억2000만개의 에이다를 추가로 확보했으며, 이번 5일간 매집도 이 흐름과 궤를 같이한다. 본지는 앞서 [50일...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/383904",
-    "published_at": "Sun, 02 Aug 2026 13:21:37 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "대형 지갑군이 2억4000만개 에이다를 사들인 것으로 나타났으며, 에이다 가격은 22% 올랐다. 그러나 이 매집은 일회성 이벤트로 보기 어렵다는 해석이 있다.",
-    "collected_at": "2026-08-02T14:23:45.471940+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "크립토 거래소, 주식·지수까지 품었다…‘역방향 브리지’ 확산",
-    "content": "월가가 암호화폐를 받아들인 지 2년 만에, 이번엔 크립토 거래소가 주식과 지수까지 끌어들이며 시장 구조가 뒤바뀌고 있다. 이른바 ‘역방향 브리지’ 흐름이 빠르게 확대되는 모습이다.코인게코에 따르면 2026년 1월부터 5월까지 전통 자산을 추종하는 ‘무기한 선물(PERP)’ 거래 규모는 1조3200억 달러(약 1907조 원)에 달했다. 이는 2025년 전체 거래량 1042억 달러를 크게 웃도는 수치다. 월별 거래량 역시 2025년 1월 2억3000만 달러에서 2026년 5월 3471억 달러로 급증했다.크립토에서 월가로…‘역방향 브리지’ 가속불과 1년 전까지만 해도 암호화폐 거래가 전부였던 거래소들이 이제는 주식 기반 파생상품 비중을 빠르게 늘리고 있다....  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/383898",
-    "published_at": "Sun, 02 Aug 2026 13:10:14 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소가 주식과 지수까지 끌어들이며 시장 구조가 뒤바뀌고 있는 '역방향 브리지' 흐름이 빠르게 확대되는 모습이다.",
-    "collected_at": "2026-08-02T14:24:05.151746+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "정점식 의원, 주식시장 급변동 조사를 촉구하다",
-    "content": "국민의힘 정점식 원내대표가 2일 최근 코스피·코스닥 시장의 급격한 변동과 관련해 더불어민주당을 상대로 국정조사를 제안하며, 주가 급등락의 배경과 정부 대응의 적절성을 국회가 따져봐야 한다고 주장했다.정 원내대표는 이날 페이스북을 통해 현재 국내 주식시장이 정상적인 흐름에서 벗어나 있다고 진단했다. 그는 단기간에 코스피가 큰 폭으로 떨어졌다가 다시 하루 만에 급반등한 상황을 거론하며, 이런 움직임은 일반적인 시장 조정보다 훨씬 이례적이라는 점을 강조했다. 특히 서킷 브레이커와 사이드카처럼 시장 급변 시 발동되는 비상장치가 잇따라 언급될 정도로 변동성이 커진 점을 들어, 단순한 투자심리 변화만으로 보기...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/383893",
-    "published_at": "Sun, 02 Aug 2026 12:38:05 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "주식시장 급변동에 대한 국정조사를 촉구하는 뉴스, 관련 주체는 정점식 원내대표이며 파급 범위는 주식시장 전반",
-    "collected_at": "2026-08-02T14:24:52.007012+00:00"
   }
 ]

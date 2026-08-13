@@ -1,5 +1,65 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "메타플래닛, 비트코인 기반 자금조달 확대…130만달러 규모 ‘비트본드’ 첫 발행",
+    "content": "[블록미디어 명정선 기자] 일본 비트코인 재무전략 기업 메타플래닛이 엔화 표시 채권시장으로 자금조달 수단을 확대한다. 비트코인 보유 확대 과정에서 주식과 주식연계증권을 활용해온 데 이어 이번에는 고정금리를 제공하는 사모채 프로그램 ‘비트본드(BitBonds)’를 선보였다. 메타플래닛은 약 2억엔(130만달러) 규모의 첫 비트본드 발행을 완료했다고 13일 밝혔다. 이번 채권은 4개 시리즈로 나눠 사모 방식으로 발행됐다. 연 4~4.3% 금리…만기는 약 3년 비트본드는 무담보 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127635?utm_source=general&utm_medium=rss",
+    "published_at": "Thu, 13 Aug 2026 21:21:48 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-13T21:22:32.221911+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "City of Baltimore goes after prediction markets for sports betting",
+    "content": "The city’s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi.",
+    "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 13 Aug 2026 21:08:23 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 관련된 뉴스, 또한 크립토 관련 규제 동향",
+    "collected_at": "2026-08-13T21:23:04.764520+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Tether completes first full financial audit, receives clean KPMG opinion",
+    "content": "KPMG’s audit covered Tether’s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
+    "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Thu, 13 Aug 2026 20:43:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Tether의 첫 번째 완전한 재무 감사 결과가 나왔고, KPMG의 청렴한 의견을 받았다. 감사 결과에 따르면 Tether의 예비금이 부채보다 68억 달러가 더 많다.",
+    "collected_at": "2026-08-13T21:23:23.041225+00:00"
+  },
+  {
+    "source": "decrypt",
+    "source_type": "press",
+    "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
+    "content": "6th Man Ventures co-founder Mike Dudas says Solana’s infrastructure could carry crypto’s next wave.",
+    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
+    "published_at": "Thu, 13 Aug 2026 21:16:05 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Solana의 인프라가 다음 크립토 파급을 지지할 수 있을 것이라는 6th Man Ventures 공동 창립자 Mike Dudas의 발언",
+    "collected_at": "2026-08-13T21:23:36.504559+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노르웨이 국부펀드, 8,190만 달러 규모 BitMine 지분 공개",
+    "content": "노르웨이 국부펀드, 8,190만 달러 규모 BitMine 지분 공개",
+    "url": "https://ns3.ai/ko/news/vnWlYy4zWW",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "노르웨이 국부펀드가 BitMine에 8,190만 달러 규모의 지분을 공개하는 뉴스는, 유명한 펀드가 크립토 프로젝트에 투자하는 소식으로, 여러 매체가 다룰 만한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-13T21:24:26.541793+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "테더, USDT 준비금에 대한 KPMG 감사 완료",
