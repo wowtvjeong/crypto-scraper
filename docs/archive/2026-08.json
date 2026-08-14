@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "World Liberty Trust Wins Preliminary OCC Approval for National Trust Bank Charter",
+    "content": "World Liberty Trust Wins Preliminary OCC Approval for National Trust Bank Charter\nThe U.S. Office of the Comptroller of the Currency (OCC) has granted preliminary conditional approval for World Liberty Trust Co. to become a national trust bank. The company plans to take over from BitGo as the exclusive issuer and custodian of World Liberty Financial’s USD1 stablecoin for institutional clients nationwide, while also providing digital asset custody services to institutional clients. World Liberty Trust does not intend to become a federally insured depository institution or a “bank” under the Bank Holding Company Act, and it does not plan to seek access to a Federal Reserve master account. Final approval remains subject to preopening requirements. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25576",
+    "published_at": "2026-08-14T21:45:59+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유의미한 규제 동향이 동반된 뉴스",
+    "collected_at": "2026-08-14T21:46:33.180476+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "Z세대 ETF 거래 25%, 바이낸스서 저빈도 투자",
+    "content": "Z세대 투자자가 바이낸스의 주식 연계 상품에서 ETF 비중을 늘리는 한편 거래 빈도와 레버리지 사용은 기성 세대보다 낮춘 것으로 나타났다.\n바이낸스 리서치는 8월 초 기준 Z세대의 주식 활동 거래량 가운데 ETF가 25%를 차지했다고 밝혔고, 코인텔레그래프는 이를 전했다. 7월 Z세대의 ETF 순유입 비중은 21.9%로 6월 18.5%에서 높아졌다. 같은 기간 개별 주식 비중은 77%에서 74.2%로 낮아졌다.\n이번 분석은 직접 주식, 토큰화 주식, 전통금융 무기한선물 활동을 세대별로 비교한 것이다. Z세대는 세 상품군 모두에서 다른 근로 연령대보다 적게 거래했다. 전통금융 무기한선물 월평균 거래 횟수는 Z세대가 13회, 밀레니얼 세대가 17회,...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391224",
+    "published_at": "Fri, 14 Aug 2026 21:38:15 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "바이낸스에서 Z세대의 ETF 비중이 25%로 높아졌고, 거래 빈도와 레버리지 사용이 기성 세대보다 낮아졌다는 뉴스",
+    "collected_at": "2026-08-14T21:46:34.304314+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "아일랜드, 개인지갑 이전 AML 기준 강화 추진",
+    "content": "아일랜드가 가상자산을 통한 자금세탁과 테러자금 조달을 막기 위해 개인지갑 이전과 해외 가상자산 업체 거래에 대한 확인 기준을 강화한다. 규제의 초점은 거래 차단보다 자금 출처와 거래 상대방 확인 절차를 촘촘히 하는 데 맞춰졌다.\n아일랜드 정부는 14일 한국시간 첫 국가 자금세탁방지·테러자금조달방지·확산금융방지 전략을 공개했다. 전략에는 가상자산 서비스 제공업체에 새 자금세탁방지 의무를 부과하고, 개인 가상자산 지갑 관련 이전 거래에 강화된 확인 절차를 적용하며, 해외 가상자산 업체와 거래할 때 실사를 엄격히 하는 내용이 담겼다.\n정부는 “최종 요소들은 가상자산 서비스 제공업체에 새로운 자금세탁방지 의무를...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391222",
+    "published_at": "Fri, 14 Aug 2026 21:24:00 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "아일랜드 정부가 가상자산 관련 규제를 강화하고, 자금 출처와 거래 상대방 확인 절차를 촘촘히 하는 데 초점을 맞추고 있다.",
+    "collected_at": "2026-08-14T21:47:10.054966+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "시타델, 스페이스X 등 신상장 기술주 지분 보도",
