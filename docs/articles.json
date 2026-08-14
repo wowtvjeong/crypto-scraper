@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "South Korea’s Largest Crypto Exchange Upbit Sees Q2 Operating Profit Fall 73% QoQ",
+    "content": "South Korea’s Largest Crypto Exchange Upbit Sees Q2 Operating Profit Fall 73% QoQ\nUpbit operator Dunamu reported Q2 revenue of KRW 173.5 billion ($123 million) and operating profit of KRW 23.5 billion ($16.7 million), down 26.1% and 73.3% quarter over quarter, respectively. Net profit was KRW 39.0 billion ($27.6 million), down 60.0% year over year. For the first half, operating profit fell 79.7% year over year to KRW 111.5 billion ($79 million). Dunamu attributed the decline to weaker liquidity and cooling investor sentiment across the global crypto market. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25574",
+    "published_at": "2026-08-14T15:19:46+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 거래소 업비트의 운영 이익이 73% 감소하는 뉴스, 그러나 영향 범위는 크립토 시장 전반에 미치는 영향이 크지 않아",
+    "collected_at": "2026-08-14T16:11:57.291369+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Israel’s Largest Bank Leumi to Offer Bitcoin, Ether and Solana Trading in 2027",
+    "content": "Israel’s Largest Bank Leumi to Offer Bitcoin, Ether and Solana Trading in 2027\nBank Leumi, Israel’s largest bank, will become the country’s first bank to offer digital asset trading, allowing Leumi and PEPPER customers to buy, hold and sell Bitcoin, Ether and Solana directly through its Leumi Trade app starting in early 2027. The service will use GalaxyOne Institutional for trading and Galaxy’s custody infrastructure for safekeeping. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25575",
+    "published_at": "2026-08-14T16:01:58+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 은행이 크립토 거래를 제공하는 뉴스, 영향 범위가 크고 확정적임",
+    "collected_at": "2026-08-14T16:11:57.623338+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "콜드카드 결함, BTC ETF 자금은 순유출 전환",
+    "content": "비트코인(BTC) 자기보관을 둘러싼 보안 논쟁이 콜드카드(Coldcard) 시드 생성 결함을 계기로 다시 커졌다. 같은 기간 미국 현물 비트코인 ETF 자금은 8월 초 순유입 뒤 다시 순유출로 돌아서며 직접 보관과 상장상품 노출이 함께 비교 대상에 올랐다.\n코인카이트(Coinkite)는 7월 30일 보안 공지에서 콜드카드 일부 버전으로 생성된 시드가 영향을 받을 수 있다고 밝혔다. 대상은 Mk2·Mk3의 4.0.1~4.1.9 펌웨어와 Mk4·Mk5·Q의 고정 펌웨어 이전 버전이며, 기존 시드는 펌웨어 업데이트만으로 복구되지 않는다고 설명했다.\n이번 사안의 핵심은 개인키가 온라인에서 직접 유출된 사고라기보다 시드 생성 과정의 무작위성이 약해진 문제다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391102",
+    "published_at": "Fri, 14 Aug 2026 15:42:52 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "콜드카드 결함과 비트코인 ETF 자금의 순유출로 인한 보안 논쟁이 커졌고, 개인키 유출의 위험이 증가하는 문제가 제기되었다.",
+    "collected_at": "2026-08-14T16:13:55.415926+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "애플, 외부결제 수수료 15% 법원에 제안",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "코인베이스 프리미엄이 77일 연속 부정적이면서도 US 비트코인 ETF 유동성이 긍정적이 된다는 점에서 일반적인 시황 코멘트와는 조금 다른 뉴스이지만, 여전히 소규모 프로젝트 소식보다는 크립토 업계의 일반적인 뉴스에 가깝다.",
     "collected_at": "2026-08-03T08:32:27.993509+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-    "content": "Trump Media’s bitcoin stash may be down to loan collateral after $165 million BTC move",
-    "url": "https://www.coindesk.com/markets/2026/08/03/trump-media-s-bitcoin-stash-may-be-down-to-loan-collateral-after-usd165-million-btc-move",
-    "published_at": "Mon, 03 Aug 2026 05:52:29 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소나 유명 프로젝트와 관련된 뉴스이며, 구체적인 금액이 언급되어 있으나 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-03T08:33:07.891174+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "8월 3일 퇴근길 팟캐스트 — 미·이란 긴장에 3억5000만달러 청산, 비트코인·이더리움 흔들렸다",
-    "content": "8월 3일 퇴근길 팟캐스트 — 미·이란 긴장에 3억5000만달러 청산, 비트코인·이더리움 흔들렸다",
-    "url": "https://www.tokenpost.kr/news/insights/384204",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미·이란 긴장에 3억5000만달러 청산, 비트코인·이더리움 흔들렸다라는 뉴스는 대형 거래소와 주요 자산에 영향을 줄 가능성이 있는 뉴스이므로 8.5점을 부여한다.",
-    "collected_at": "2026-08-03T08:33:40.209666+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Coldcard Suspected of Facing a Fourth Organized Attack Wave, Involving ~388.9 BTC",
-    "content": "Coldcard Suspected of Facing a Fourth Organized Attack Wave, Involving ~388.9 BTC\nAlex Thorn, Head of Research at Galaxy Research, said a fourth organized attack wave may be targeting Coldcard users. Between blocks 960,778 and 960,792, 218 transactions involving 462 victim addresses and 216 fresh destinations moved ~388.9 BTC. Activity was ~45 times higher than the pre-incident baseline, with some funds already swept to second-hop addresses. Similar transactions remain pending in the mempool, and confirmed transactions signal RBF opt-in. Users should move funds off Coldcard devices immediately and use higher fees; RBF may offer a way out for eligible transactions. Previously, Galaxy Research identified three suspected attack waves targeting Coldcard-generated addresses, affecting 4,585 addresses and draining 1,367.05 BTC worth approximately $88.6 million.\nColdcard said it halted shipments and destroyed all remaining COLDCARD devices with the vulnerable firmware. Satscard, Opendime, and Tapsigner are unaffected. The patched firmware protects newly generated seeds, but users must create a new seed and move funds from any seed generated on the vulnerable firmware. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25394",
-    "published_at": "2026-08-03T02:11:46+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 뉴스인 Coldcard 사용자들이 또다시 공격의 표적이 될 수 있다는 연구소의 발표",
-    "collected_at": "2026-08-03T04:56:43.699043+00:00"
   }
 ]
