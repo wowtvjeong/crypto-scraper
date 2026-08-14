@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "아마존 15.95%, 아팔루사 13F 최대 비중 보도",
+    "content": "아팔루사가 2026년 2분기 13F에서 AI 메모리주 비중을 낮추고 아마존($AMZN) 등 대형 기술주 비중을 늘렸다는 보도가 나왔다. 상반기 메모리 반도체 투자 성과가 커진 뒤 포트폴리오 일부를 재배분한 흐름으로 풀이된다.\n크립토브리핑은 14일 아팔루사 매니지먼트(Appaloosa Management)의 2026년 2분기 13F에서 포트폴리오 규모가 74억7000만 달러(약 10조5925억원), 보유 종목 수가 27개로 제시됐다고 전했다. 보도상 상위 보유 비중은 아마존 15.95%, 마이크론($MU) 15.06%, TSMC($TSM) 10.55%, 알파벳($GOOG) 8.75%, 우버($UBER) 7.43%다.\n다만 미 증권거래위원회(SEC) 공개 자료에서 직접 확인되는 아팔루사의 최신 13F는 2026년 3월...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391228",
+    "published_at": "Fri, 14 Aug 2026 22:00:36 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": false,
+    "reason": "아팔루사가 대형 기술주 비중을 늘렸다는 보도가 나왔지만, 크립토 관련 뉴스는 아니다.",
+    "collected_at": "2026-08-14T22:12:19.974555+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "엑스에이오 다오, XRP레저 거버넌스 개편 추진",
+    "content": "엑스에이오 다오(XAO DAO)가 리플(XRP) 레저 생태계의 의사결정 참여를 넓히기 위해 거버넌스 개편을 추진한다. 개편안에는 위임투표, 정족수 조정, 커뮤니티 소액 보조금이 포함됐다.\n파비오 마르젤라(Fabio Marzella) 엑스에이오 다오 공동창업자는 향후 2~3개월 동안 관련 개편안을 추진하겠다고 밝혔다고 크립토포테이토는 전했다. 최종 작동 방식과 시행 일정은 아직 공개되지 않았다.\n첫 변화는 지갑 위임이다. 구성원이 개별 제안에 직접 투표할 시간이나 전문성이 부족할 경우 자신의 투표권을 다른 참여자에게 맡길 수 있게 하는 방식이다.\nDAO 투표에서는 실제 참여자가 적을수록 소수 활동 지갑이 의사결정을 좌우할 수 있다....  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391227",
+    "published_at": "Fri, 14 Aug 2026 21:48:08 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "리플(XRP) 레저 생태계의 거버넌스 개편 추진, 위임투표, 정족수 조정, 커뮤니티 소액 보조금 포함",
+    "collected_at": "2026-08-14T22:12:20.217094+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "백악관, 코인베이스·NYSE 한자리에… 클래리티법 분수령 맞나",
+    "content": "[멕시코=심영재 특파원] 미국 백악관이 디지털자산(가상자산)과 예측시장 주요 기업 관계자들을 한자리에 모은다. 코인베이스와 리플, 크라켄, 제미니뿐 아니라 뉴욕증권거래소(NYSE)와 나스닥 관계자까지 초청 대상에 포함된 것으로 전해졌다. 디지털자산 시장구조 법안인 클래리티법(CLARITY Act)이 중요한 국면을 맞은 가운데 도널드 트럼프 미국 대통령과 미국 증권거래위원회(SEC)·상품선물거래위원회(CFTC) 수장도 참석할 가능성이 있다. 폴리티코가 지난 13일(현지시각) 보도한 내용에 따르면 백악관은 오는 19일 디지털자산과 예측시장 관계자들이 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128069?utm_source=general&utm_medium=rss",
+    "published_at": "Fri, 14 Aug 2026 22:00:33 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "백악관에서 디지털자산과 예측시장 관계자들을 한자리에 모으고, 클래리티법이 중요한 국면을 맞은 가운데 도널드 트럼프 미국 대통령과 미국 증권거래위원회(SEC)·상품선물거래위원회(CFTC) 수장이 참석할 가능성이 있다.",
+    "collected_at": "2026-08-14T22:12:27.634830+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "World Liberty Trust Wins Preliminary OCC Approval for National Trust Bank Charter",
