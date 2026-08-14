@@ -1,5 +1,29 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "테더, KPMG가 USDT에 적정의견을 제시하며 첫 완전 감사 완료",
+    "content": "테더, KPMG가 USDT에 적정의견을 제시하며 첫 완전 감사 완료",
+    "url": "https://ns3.ai/ko/news/TDgz5MVFjL",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 테더와 유명 회계firm KPMG가 USDT에 대한 첫 완전 감사 완료를 발표함으로써, 업계 전반에 큰 영향을 줄 수 있는 뉴스가 발표되었습니다.",
+    "collected_at": "2026-08-14T00:06:36.046675+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "블록체인협회, 연준에 맞선 커스토디아의 대법원 상고를 지지",
+    "content": "블록체인협회, 연준에 맞선 커스토디아의 대법원 상고를 지지",
+    "url": "https://ns3.ai/ko/news/G9ANeqVGol",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "블록체인협회와 연준의 대립을 주제로 한 커스토디아의 대법원 상고에 대한 지지는, 크립토 업계의 주요 주체 간의 대립을 반영하는 중요한 뉴스이므로 8.5점을 받는다.",
+    "collected_at": "2026-08-14T00:06:53.909153+00:00"
+  },
+  {
     "source": "decrypt",
     "source_type": "press",
     "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
