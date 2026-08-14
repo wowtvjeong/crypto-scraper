@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "리플 거래 86% 늘고 바이낸스 입금 96% 줄었다",
+    "content": "리플(XRP) 네트워크 거래가 한 주 만에 86% 늘어난 반면 바이낸스 입금 주소와 유입 물량은 큰 폭으로 줄었다. 가격이 1달러 부근에 머무는 가운데 온체인 활동 증가와 거래소 매도 압력 완화 가능성이 함께 제기됐다.\n자이크립토(ZyCrypto)는 크립토퀀트(CryptoQuant) 분석가 크립토온체인(CryptoOnchain)을 인용해 리플이 8월 5일 280만건 넘는 거래를 처리했다고 보도했다. 이는 전주보다 86%, 30일 평균보다 81% 이상 높은 수준이다.\n거래 증가는 하루에 그치지 않았다. 이후에도 거래 건수는 130만~280만건 범위에서 높은 수준을 유지했고, 7일 평균은 6개월 평균인 183만건을 웃돌았다.\n활성 주소도 같은 방향으로 움직였다. 리플 활성...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391189",
+    "published_at": "Fri, 14 Aug 2026 19:56:14 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "리플 거래량이 86% 증가하고, 바이낸스 입금이 96% 줄었다는 사실이 주목할 만한 뉴스이다. 그러나 아직 시장 전체에 큰 영향을 미치지는 않는다.",
+    "collected_at": "2026-08-14T20:01:25.685104+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "AI 추론 토큰값 6개월 고정 계약 나왔다",
+    "content": "Compute Exchange가 기업용 AI 추론 사용량 단가를 최대 6개월 동안 고정하는 토큰 포워드 상품을 내놨다. 여기서 토큰은 암호화폐가 아니라 AI 모델을 사용할 때 발생하는 입력·캐시·출력 사용 단위다.\nCompute Exchange는 공식 상품 페이지에서 기업이 오픈웨이트 모델의 추론 토큰을 미리 확보하고 약정 기간 동안 사용할 수 있다고 밝혔다. 구매자는 모델, 토큰 물량, 최대 6개월의 기간, 배치 처리 가능 여부를 정하고 매칭된 제공자와 단가, 정산, 롤오버 조건을 직접 협의한다.\n이번 상품은 현물 암호자산 거래와 성격이 다르다. Compute Exchange는 표준화 토큰 단위인 STU(Standardized Token Units)를 써 입력 토큰, 캐시 입력,...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391185",
+    "published_at": "Fri, 14 Aug 2026 19:47:26 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "AI 모델 사용량 단가가 암호화폐와 구분되는 새로운 토큰 포워드 상품이 출시되었습니다. Compute Exchange가 기업용 AI 추론 사용량 단가를 최대 6개월 동안 고정하는 토큰 포워드 상품을 내놓았습니다. 이 상품은 현물 암호자산 거래와 성격이 다르며, 표준화 토큰 단위인 STU(Standardized Token Units)를 사용합니다.",
+    "collected_at": "2026-08-14T20:01:52.650008+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "서스퀘하나, 스트레티지 128만주 보유 신고",
+    "content": "서스퀘하나 인터내셔널 그룹(Susquehanna International Group, SIG)이 2026년 1분기 말 스트레티지($MSTR) 주식 128만2636주를 보유한 것으로 집계됐다. 13F 기준 평가액은 1억6007만2972달러(약 2270억원)로 확인됐다.\n미 증권거래위원회(SEC) 13F-HR 공시에 따르면, SIG는 2026년 3월 31일 기준 보유 현황을 5월 15일 제출했다. 외부 13F 집계도 같은 공시를 토대로 SIG의 스트레티지 보유 주식 수를 128만2636주로 표시했다.\n크립토브리핑(Crypto Briefing)은 SIG의 스트레티지 지분 가치가 2억3200만달러(약 3290억원)라고 보도했다. 다만 13F 공시와 외부 집계에서 확인되는 분기 말 기준 평가는 1억6007만2972달러다.\n두 수치의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391184",
+    "published_at": "Fri, 14 Aug 2026 19:41:40 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 기관인 서스퀘하나 인터내셔널 그룹이 스트레티지 주식 128만2636주를 보유한 것으로 집계되며, 평가액은 1억6007만2972달러로 확인된다.",
+    "collected_at": "2026-08-14T20:02:13.116136+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "웰스파고, 스트레티지 주식 72만6000주 보유",
     "content": "웰스파고(Wells Fargo·$WFC)가 2026년 1분기 말 기준 스트레티지(Strategy·$MSTR) 보유 주식을 약 72만6000주로 늘렸다. 비트코인(BTC) 현물 자체가 아니라 비트코인을 대규모로 보유한 상장사 주식을 통해 노출을 키운 흐름이다.\n웰스파고는 2026년 5월 11일 미국 증권거래위원회(SEC)에 제출한 13F-HR에서 3월 31일 기준 보유 내역을 공개했다. 코인텔레그래프와 crypto.news는 이 공시를 토대로 웰스파고의 스트레티지 보유가 직전 분기 약 32만2700주에서 약 72만6000주로 늘었다고 전했다.\n증가율은 약 125%로 집계됐다. 보유 노출액 증가분은 약 4160만 달러(약 590억원)로 정리됐다.\n일부 보도에서 제시된 150%와 1억8500만 달러(약...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391179",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소의 IPO 계획이 언급되어 시장 전반에 영향을 줄 가능성이 있어",
     "collected_at": "2026-08-03T12:03:35.125049+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Coldcard Losses Near $114M as Small Bitcoin Transfers Spike",
-    "content": "Transfers of less than 1 BTC hit levels last seen days after the FTX collapse, while Galaxy Research flagged a likely fourth wave of thefts.",
-    "url": "https://decrypt.co/374820/coldcard-losses-near-114m-as-small-bitcoin-transfers-spike",
-    "published_at": "Mon, 03 Aug 2026 10:15:37 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "FTX 사고 이후로 가장 최근에 기록된 작은 비트코인 이체가.spike하고, Galaxy Research가 또다른 해킹 사고가 발생할 가능성이 있다고 경고했다는 뉴스.",
-    "collected_at": "2026-08-03T12:03:50.825070+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Bithumb now targets 2028 IPO after major internal restructuring",
-    "content": "Bithumb now targets 2028 IPO after major internal restructuring",
-    "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
-    "published_at": "Mon, 03 Aug 2026 10:41:08 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소의 내부 구조조정과 IPO 계획이 발표되었습니다.",
-    "collected_at": "2026-08-03T12:04:30.579413+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Tokens Worth Over $1.282B Face Major Unlocks Over the Next Month",
-    "content": "Tokens Worth Over $1.282B Face Major Unlocks Over the Next Month\nAccording to Tokenomist, one-time unlocks exceeding $10 million include HYPE, YZY, PROVE, KAITO, H, ENA, ZRO, CONX, and AVAX. Linear unlocks exceeding $10 million per month include RAIN, SOL, CC, TRUMP, DOGE, WLD, ASTER, ZEC, MORPHO, TAO, AVAX, and PUMP. Total unlock value is expected to exceed $1.282 billion. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25399",
-    "published_at": "2026-08-03T05:38:45+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 시장 전반에 영향을 줄 수 있는 대규모 토큰 언락이 예정되어 있으며, 총 언락 가치가 1.282억 달러를 넘어설 것으로 예상된다.",
-    "collected_at": "2026-08-03T08:23:01.931491+00:00"
   }
 ]
