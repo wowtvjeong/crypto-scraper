@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Ethereum L1 to Drop Poseidon for SHA or BLAKE as Quantum-Safe Roadmap Advances",
+    "content": "Ethereum L1 to Drop Poseidon for SHA or BLAKE as Quantum-Safe Roadmap Advances\nEthereum Foundation researcher Justin Drake said Ethereum’s L1 cryptography roadmap will move from Poseidon to traditional hash functions such as SHA or BLAKE. Poseidon is designed for efficient use in SNARK-based zero-knowledge proofs, but advances in binary-field SNARKs now allow traditional hashes to be proven efficiently, reducing the need for specialized SNARK-friendly hashes.The shift aligns with Vitalik Buterin’s emphasis on quantum security and privacy. Drake said the plan points to a production-grade leanVM in 2027, followed by deployments across Ethereum’s consensus, data and execution layers in 2028. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25568",
+    "published_at": "2026-08-14T09:51:42+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Ethereum의 L1 암호화 로드맵이 전통적인 해시 함수인 SHA 또는 BLAKE로 전환하는 계획이 발표되었습니다. 이는 양자 안전성과隐私에 대한 비탈릭 부테린의 강조와 일치하며, 2027년 leanVM의 생산급 버전과 2028년 Ethereum의 합의, 데이터 및 실행 계층에 대한 배포를 예상합니다.",
+    "collected_at": "2026-08-14T10:48:44.100541+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Largest Crypto Card Provider RedotPay Delays IPO After Binance Lawsuit",
+    "content": "Largest Crypto Card Provider RedotPay Delays IPO After Binance Lawsuit\nAccording to Bloomberg, stablecoin payments firm RedotPay has delayed its planned U.S. IPO from this year to potentially 2027 or later as it seeks regulatory approvals and deals with legal issues. The company had previously been targeting a valuation of more than $4 billion and seeking to raise over $1 billion in the offering. The delay comes after Binance-linked entities sued RedotPay’s founders for nearly $473 million, alleging the company improperly diverted more than 470,000 Binance Card users to its own card product. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25569",
+    "published_at": "2026-08-14T10:40:55+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Binance와의 법적 분쟁으로 인해 IPO가 연기되는 큰 규모의 크립토 관련 뉴스",
+    "collected_at": "2026-08-14T10:48:44.516493+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "퀀티넘·콴타, 양자 하드웨어 제조망 협력",
+    "content": "퀀티넘(Quantinuum)과 콴타컴퓨터(Quanta Computer)가 양자컴퓨팅 하드웨어 제조 기반을 넓히기 위한 개발 계약을 맺은 것으로 전해졌다. 양자컴퓨터 경쟁이 성능 발표를 넘어 제조 체계와 공급망 구축으로 확장되는 흐름이다.\n크립토브리핑은 양사가 13일 하드웨어 인프라, 시스템 엔지니어링, 제조 역량을 함께 키우는 계약을 맺었다고 보도했다. 이번 계약은 양자컴퓨팅 하드웨어를 대규모로 만들 수 있는 기반을 마련하는 데 초점이 맞춰졌다.\n이번 협력은 완전히 새로 시작된 관계라기보다 기존 투자 관계의 연장선에 가깝다. 콴타컴퓨터는 2025년 8월 12일 공시에서 퀀티넘 시리즈B 우선주 186만7840주를 5000만 달러(약 709억원)에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390917",
+    "published_at": "Fri, 14 Aug 2026 10:19:35 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "양자컴퓨팅 하드웨어 제조 기반을 넓히기 위한 개발 계약을 맺은 것으로 전해졌다. 크립토브리핑은 양사가 13일 하드웨어 인프라, 시스템 엔지니어링, 제조 역량을 함께 키우는 계약을 맺었다고 보도했다. 이번 계약은 양자컴퓨팅 하드웨어를 대규모로 만들 수 있는 기반을 마련하는 데 초점이 맞춰졌다.",
+    "collected_at": "2026-08-14T10:49:59.985630+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트겟, 주말 거래 알토큰 93개로 늘렸다",
+    "content": "비트겟(Bitget)이 소니(SONY), 핀둬둬(PDD), 에어비앤비(ABNB) 등 14개 주식 현물 알토큰(rToken)에 주말 거래를 추가했다. 미국 증시가 닫힌 시간에도 거래할 수 있는 주식 연계 토큰은 93개로 늘었다.\n포어사이트뉴스(Foresight News)는 14일 오후 7시 7분(한국시간) 비트겟이 rPDD, rABNB, rSONY 등을 포함한 14개 알토큰의 주말 거래를 지원한다고 전했다. 비트겟은 미국 주식 휴장 기간 가격을 금요일 종가, 마켓메이커 호가, 시장 기대를 종합해 산출한다고 설명했다.\n해당 기능은 지정가 주문과 익절·손절 설정을 지원한다. 이상 변동을 줄이기 위해 주말 지정가 주문에는 약 ±20% 보호 제한이 적용된다.\n알토큰은 주식 종목코드 앞에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390911",
+    "published_at": "Fri, 14 Aug 2026 10:12:27 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트겟이 주말 거래를 추가한 14개 주식 현물 알토큰이 93개로 늘어났으며, 지정가 주문과 익절·손절 설정을 지원하는 기능이 추가되었다.",
+    "collected_at": "2026-08-14T10:51:33.148941+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "14.4조 AI 팩토리, 네이버 재평가 시험대",

@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Ethereum L1 to Drop Poseidon for SHA or BLAKE as Quantum-Safe Roadmap Advances",
+    "content": "Ethereum L1 to Drop Poseidon for SHA or BLAKE as Quantum-Safe Roadmap Advances\nEthereum Foundation researcher Justin Drake said Ethereum’s L1 cryptography roadmap will move from Poseidon to traditional hash functions such as SHA or BLAKE. Poseidon is designed for efficient use in SNARK-based zero-knowledge proofs, but advances in binary-field SNARKs now allow traditional hashes to be proven efficiently, reducing the need for specialized SNARK-friendly hashes.The shift aligns with Vitalik Buterin’s emphasis on quantum security and privacy. Drake said the plan points to a production-grade leanVM in 2027, followed by deployments across Ethereum’s consensus, data and execution layers in 2028. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25568",
+    "published_at": "2026-08-14T09:51:42+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Ethereum의 L1 암호화 로드맵이 전통적인 해시 함수인 SHA 또는 BLAKE로 전환하는 계획이 발표되었습니다. 이는 양자 안전성과隐私에 대한 비탈릭 부테린의 강조와 일치하며, 2027년 leanVM의 생산급 버전과 2028년 Ethereum의 합의, 데이터 및 실행 계층에 대한 배포를 예상합니다.",
+    "collected_at": "2026-08-14T10:48:44.100541+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Largest Crypto Card Provider RedotPay Delays IPO After Binance Lawsuit",
+    "content": "Largest Crypto Card Provider RedotPay Delays IPO After Binance Lawsuit\nAccording to Bloomberg, stablecoin payments firm RedotPay has delayed its planned U.S. IPO from this year to potentially 2027 or later as it seeks regulatory approvals and deals with legal issues. The company had previously been targeting a valuation of more than $4 billion and seeking to raise over $1 billion in the offering. The delay comes after Binance-linked entities sued RedotPay’s founders for nearly $473 million, alleging the company improperly diverted more than 470,000 Binance Card users to its own card product. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25569",
+    "published_at": "2026-08-14T10:40:55+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Binance와의 법적 분쟁으로 인해 IPO가 연기되는 큰 규모의 크립토 관련 뉴스",
+    "collected_at": "2026-08-14T10:48:44.516493+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "퀀티넘·콴타, 양자 하드웨어 제조망 협력",
+    "content": "퀀티넘(Quantinuum)과 콴타컴퓨터(Quanta Computer)가 양자컴퓨팅 하드웨어 제조 기반을 넓히기 위한 개발 계약을 맺은 것으로 전해졌다. 양자컴퓨터 경쟁이 성능 발표를 넘어 제조 체계와 공급망 구축으로 확장되는 흐름이다.\n크립토브리핑은 양사가 13일 하드웨어 인프라, 시스템 엔지니어링, 제조 역량을 함께 키우는 계약을 맺었다고 보도했다. 이번 계약은 양자컴퓨팅 하드웨어를 대규모로 만들 수 있는 기반을 마련하는 데 초점이 맞춰졌다.\n이번 협력은 완전히 새로 시작된 관계라기보다 기존 투자 관계의 연장선에 가깝다. 콴타컴퓨터는 2025년 8월 12일 공시에서 퀀티넘 시리즈B 우선주 186만7840주를 5000만 달러(약 709억원)에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390917",
+    "published_at": "Fri, 14 Aug 2026 10:19:35 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "양자컴퓨팅 하드웨어 제조 기반을 넓히기 위한 개발 계약을 맺은 것으로 전해졌다. 크립토브리핑은 양사가 13일 하드웨어 인프라, 시스템 엔지니어링, 제조 역량을 함께 키우는 계약을 맺었다고 보도했다. 이번 계약은 양자컴퓨팅 하드웨어를 대규모로 만들 수 있는 기반을 마련하는 데 초점이 맞춰졌다.",
+    "collected_at": "2026-08-14T10:49:59.985630+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트겟, 주말 거래 알토큰 93개로 늘렸다",
+    "content": "비트겟(Bitget)이 소니(SONY), 핀둬둬(PDD), 에어비앤비(ABNB) 등 14개 주식 현물 알토큰(rToken)에 주말 거래를 추가했다. 미국 증시가 닫힌 시간에도 거래할 수 있는 주식 연계 토큰은 93개로 늘었다.\n포어사이트뉴스(Foresight News)는 14일 오후 7시 7분(한국시간) 비트겟이 rPDD, rABNB, rSONY 등을 포함한 14개 알토큰의 주말 거래를 지원한다고 전했다. 비트겟은 미국 주식 휴장 기간 가격을 금요일 종가, 마켓메이커 호가, 시장 기대를 종합해 산출한다고 설명했다.\n해당 기능은 지정가 주문과 익절·손절 설정을 지원한다. 이상 변동을 줄이기 위해 주말 지정가 주문에는 약 ±20% 보호 제한이 적용된다.\n알토큰은 주식 종목코드 앞에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390911",
+    "published_at": "Fri, 14 Aug 2026 10:12:27 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트겟이 주말 거래를 추가한 14개 주식 현물 알토큰이 93개로 늘어났으며, 지정가 주문과 익절·손절 설정을 지원하는 기능이 추가되었다.",
+    "collected_at": "2026-08-14T10:51:33.148941+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "14.4조 AI 팩토리, 네이버 재평가 시험대",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "암호화폐 시장의 주도 축이 재편되고 있다는 진단과, 이더리움 현물 ETF 유입 확대, 알트코인 순환매 강화, 비트코인 파생상품 규제 변수 부각이 동시에 전개되는 뉴스",
     "collected_at": "2026-08-03T01:05:51.222335+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미무라 日 재무관, 트럼프 '엔화 도움' 발언에 침묵했다",
-    "content": "미무라 아쓰시(Atsushi Mimura) 일본 재무성 국제담당 재무관이 도널드 트럼프 미국 대통령의 엔화 관련 발언에 답을 내놓지 않았다.\n크립토브리핑은 트럼프 대통령이 일본이 엔화 대응 과정에서 미국의 약간의 도움(a little bit of help)을 원했다고 언급했으나 미무라 재무관이 이에 응답하지 않았다고 2일(현지시간) 전했다. 해당 발언이 정확히 언제, 어떤 자리에서 나왔는지는 이 보도에 나타나지 않았다.\n미무라 재무관은 대신 일본은 뉴욕 연방준비은행의 레이트 체크(rate check)를 포함해 미국으로부터 광범위한 지원(extensive support)을 받고 있다며 이 지원은 심리적 조치를 넘어선다(beyond psychological measures)고 말했다....  더보기",
-    "url": "https://www.tokenpost.kr/news/market/384032",
-    "published_at": "Mon, 03 Aug 2026 00:38:08 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "트럼프 대통령의 엔화 관련 발언과 일본 재무성의 반응이 크립토 시장에 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-08-03T01:06:09.777653+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "HYPE 8107만달러 담보로…USDC 2057만개 빌렸다",
-    "content": "한 지갑이 하이퍼리퀴드(HYPE) 생태계 대출 프로토콜 Hyperlend에 유동성 스테이킹 토큰을 담보로 넣고 유에스디코인(USDC) 2,057만개를 빌린 사실이 온체인 데이터에서 포착됐다.\n온체인 데이터 분석업체 Onchain Lens는 3일 이 지갑이 Hyperlend에 wstHYPE 87만3,160개(약 4,737만달러, 약 658억원)와 kHYPE 62만7,810개(약 3,371만달러, 약 469억원)를 예치했다고 밝혔다. 두 토큰을 합친 담보 가치는 8,107만달러(약 1,127억원)에 달했다. 이를 바탕으로 지갑은 USDC 2,057만개를 차입했다. USDC는 달러 가치에 연동되는 스테이블코인으로, 차입액은 약 2,057만달러(약 286억원)에 해당한다.\n차입 시점 이 지갑의 건강계수(Health...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384031",
-    "published_at": "Mon, 03 Aug 2026 00:32:34 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유동성 스테이킹 토큰을 담보로 넣고 유에스디코인(USDC) 2,057만개를 빌린 사실이 온체인 데이터에서 포착된 것으로, 하이퍼리퀴드(HYPE) 생태계 대출 프로토콜 Hyperlend와 관련된 뉴스",
-    "collected_at": "2026-08-03T01:06:29.389372+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "WLFI 1130억원 이체…ALT5 Sigma 손실 1조2000억 육박",
-    "content": "ALT5 Sigma가 보유 중이던 월드리버티파이낸셜(WLFI) 18억1500만개(약 9977만 달러, 약 1130억원)를 새 주소로 옮겼다. 이체 시점 기준 ALT5 Sigma가 월드리버티파이낸셜 보유분에서 안고 있는 미실현 손실은 8억5324만 달러(약 1조1900억원)에 달하는 것으로 나타났다.\n온체인 분석 계정 Onchain Lens는 2일(현지시간) 이번 이체 내역을 포착해 공개했다. 새 주소는 거래소 지갑이 아닌 외부 주소로 확인됐다. AMBCrypto는 이 점에 주목해 매도보다는 내부 자산 재편일 가능성을 제기했다. 실제로 이체 이후에도 ALT5 Sigma 지갑에는 월드리버티파이낸셜 50억9000만개(약 2억8350만 달러)가 남아 있고, 두 지갑이 보유한 월드리버티파이낸셜...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/384023",
-    "published_at": "Mon, 03 Aug 2026 00:18:54 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소나 기관의 자산 재편이나 이체로 인한 큰 파급력이 있는 뉴스",
-    "collected_at": "2026-08-03T01:07:41.309182+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 3만2000개 손실 매도…장기서 단기로 물량 이동",
-    "content": "비트코인(BTC) 단기 보유자들이 지난 1일 3만2000개 이상을 손실 상태로 거래소에 넘긴 것으로 나타났다.\n다크포스트(Darkfost) 크립토퀀트(CryptoQuant) 온체인 분석가는 자신의 엑스(X) 계정에 이 같은 내용을 공개하며 이번 이체 규모를 두고 최근 30일 사이 단기 보유자의 손실 매도 가운데 가장 큰 축에 속하는 사례라고 말했다. 단기간에 몰린 손실 매도 물량으로는 이례적인 규모라는 설명이다.\n단기 보유자(Short-Term Holder)는 온체인 분석에서 통상 코인을 취득한 지 얼마 되지 않은 지갑을 가리키는 개념으로 쓰인다. 이들이 손실을 감수하고 물량을 거래소로 옮겼다는 것은, 최근 진입한 투자자들이 시세 하락 구간을 버티지...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/384022",
-    "published_at": "Mon, 03 Aug 2026 00:18:22 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 단기 보유자들의 손실 매도 물량이 거래소에 몰린 것으로 나타났으며, 이는 최근 30일 사이 단기 보유자의 손실 매도 가운데 가장 큰 축에 속하는 사례로 설명된다.",
-    "collected_at": "2026-08-03T01:08:00.768430+00:00"
   }
 ]
