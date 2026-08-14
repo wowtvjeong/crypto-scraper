@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "디지털 루피 유통액 24.08% 줄어도 복지 실험 확대",
+    "content": "인도중앙은행(Reserve Bank of India·RBI)이 디지털 루피(e₹) 파일럿을 복지 지급과 국경 간 결제 실험으로 넓히고 있다. 민간 암호자산 거래 확대가 아니라 중앙은행 디지털화폐(CBDC)를 정부 보조금 집행과 결제 인프라에 붙이는 시험에 가깝다.\n로이터(Reuters)는 RBI가 2025-26 연차보고서에서 디지털 루피를 직접혜택이전(DBT) 제도와 국내 소매 결제, 국경 간 거래 실험으로 확대하겠다는 계획을 밝혔다고 보도했다. 구자라트, 푸두체리, 찬디가르 등에서는 복지 연계 CBDC 파일럿이 진행된 것으로 전해졌다.\n인도 정부는 2026년 2월 푸두체리에서 프라단 만트리 가리브 칼리안 안나 요자나(PMGKAY) 연계 CBDC 기반 식량보조금 파일럿을...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/390953",
+    "published_at": "Fri, 14 Aug 2026 11:33:28 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "인도중앙은행이 디지털 루피를 복지 지급과 국경 간 결제 실험으로 넓히는 계획이 발표되었으며, 이는 중앙은행 디지털화폐(CBDC)의 확대에 대한 중요한 뉴스입니다.",
+    "collected_at": "2026-08-14T11:36:45.987718+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "3896만달러 비트코인 ETF, 아마존 지분 웃돌았다",
+    "content": "에델만 파이낸셜 엔진스의 자문 법인이 1분기 말 기준 비트코인(BTC) 현물 ETF 3895만7504달러(약 552억원)를 보유한 것으로 나타났다. 같은 공시에서 아마존($AMZN) 보유액은 2491만5731달러(약 353억원)로, 비트코인 ETF 노출이 아마존 지분보다 컸다.\n미 증권거래위원회(SEC) 13F 공시에 따르면, 파이낸셜 엔진스 어드바이저스(Financial Engines Advisors L.L.C.)는 3월 31일 기준 아이셰어즈 비트코인 트러스트 ETF 3755만9364달러(약 533억원), 그레이스케일 비트코인 트러스트 ETF 139만8140달러(약 20억원)를 보유했다.\n두 상품을 합친 금액은 3895만7504달러(약 552억원)다. 아마존 보유액 2491만5731달러와 비교하면 비트코인 ETF...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390950",
+    "published_at": "Fri, 14 Aug 2026 11:21:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 ETF의 규모가 아마존 지분보다 크게 보유된 것으로 나타났으며, SEC 13F 공시를 통해 확인할 수 있다.",
+    "collected_at": "2026-08-14T11:36:55.775211+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "구글 2029년 양자내성 전환, 지갑 보안도 영향권",
+    "content": "구글 클라우드(Google Cloud)가 포스트양자 암호화 전환 일정을 제품 문서에 반영하면서 클라우드 보안과 크립토 지갑 인프라의 교체 시계도 빨라지고 있다. 핵심은 당장 양자 해킹이 현실화됐다는 뜻이 아니라, 지금 저장된 암호화 데이터가 훗날 해독될 수 있는 위험을 줄이는 데 있다.\n구글(Google)은 3월 25일 공식 블로그에서 포스트양자 암호화(PQC) 전환 목표 시점을 2029년으로 제시했다. 양자 하드웨어 발전, 오류 정정 기술, 양자 소인수분해 자원 추정 변화가 일정을 앞당긴 배경으로 제시됐다.\n구글 클라우드는 로드밸런서 문서에서 TLS에 쓰이는 비대칭 암호가 연구 진전 속도에 따라 2029년쯤 깨질 수 있다고 설명했다. 이에...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390948",
+    "published_at": "Fri, 14 Aug 2026 11:21:14 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "구글 클라우드가 포스트양자 암호화 전환을 목표로 2029년까지의 일정과 관련된 뉴스, 그리고 클라우드 보안과 크립토 지갑 인프라의 교체 시계도 빨라지는 영향",
+    "collected_at": "2026-08-14T11:37:33.769282+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "4억4430만달러 폴라리스 인수 마친 코어사이언티픽",
+    "content": "코어사이언티픽($CORZ)이 폴라리스디에스(Polaris DS LLC) 인수를 마치고 오클라호마주 머스코기 데이터센터 확장에 필요한 전력 자산을 추가로 확보했다. 현금 대가는 약 4억4430만 달러(약 6300억원)다.\n우블록체인(Wu Blockchain)은 코어사이언티픽이 미 증권거래위원회(SEC)에 제출한 8-K 문서를 근거로 회사가 8월 13일 폴라리스디에스 인수를 완료했다고 전했다. 추가 40메가와트(MW) 전력 가용 조건이 충족되면 최대 4000만 달러(약 567억원)를 더 지급할 수 있다.\n인수 완료 뒤 폴라리스디에스는 코어사이언티픽의 완전 자회사가 됐다. 폴라리스디에스는 코어사이언티픽의 머스코기 데이터센터와 맞닿은 부지와 최대 약 440MW 규모의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/390947",
+    "published_at": "Fri, 14 Aug 2026 11:18:34 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중견 파트너십과 데이터센터 확장에 필요한 전력 자산을 추가로 확보하는 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-14T11:37:51.393214+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Ethereum L1 to Drop Poseidon for SHA or BLAKE as Quantum-Safe Roadmap Advances",
