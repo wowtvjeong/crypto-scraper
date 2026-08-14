@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "애플, 외부결제 수수료 15% 법원에 제안",
+    "content": "애플($AAPL)이 미국 앱스토어 외부 결제 링크를 통한 구매에도 최대 15% 수수료를 부과하겠다는 안을 법원에 제출했다. 현재 미국에서 애플은 외부 결제 링크 구매에 수수료를 걷지 못하고 있다.\n더버지(The Verge)는 애플이 13일(현지시간) 에픽게임즈(Epic Games)와의 장기 소송 절차에서 이 같은 수수료안을 냈다고 보도했다. 제안 구조는 △표준 앱 15% △비디오 파트너 프로그램·뉴스 파트너 프로그램·미니 앱 파트너 프로그램 및 구독 갱신 10% △스몰 비즈니스 프로그램 5%다.\n이번 제안은 앱 밖 웹 결제로 이동한 구매에도 앱스토어 플랫폼 사용 대가를 인정받겠다는 취지다. 애플은 개발자에게 제공한 도구와 기술, 서비스에 대해...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391090",
+    "published_at": "Fri, 14 Aug 2026 15:12:24 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "애플이 미국 앱스토어 외부 결제 링크 구매에 최대 15% 수수료를 부과하겠다는 안을 법원에 제출한 뉴스, 이는 크립토와 직접 관련이 없지만 크립토와 관련된 앱스토어의 정책 변화에 대한 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-08-14T15:12:37.950750+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "이더리움 댓글 삭제 논란, 보상 소각안 절차로 번졌다",
+    "content": "이더리움(ETH) 커뮤니티의 EIP-8363 논쟁이 검증자 보상 소각안의 찬반을 넘어 공개 토론 절차와 거버넌스 신뢰 문제로 번졌다. 쟁점은 제안의 기술적 타당성뿐 아니라, 비판성 댓글을 어디까지 토론으로 볼지와 스팸성 게시물을 어떻게 정리할지로 옮겨갔다.\nAMB크립토는 EIP-8363 논의 과정에서 핵심 개발자가 댓글 약 50개를 삭제했고, 이를 두고 검열 논란과 AI slop 정리 주장이 충돌했다고 보도했다. 다만 공개적으로 확인 가능한 공식 자료만으로는 EIP-8363 번호와 댓글 삭제 규모, 3% 지지율이 독립적으로 재확인되지 않았다.\nEIP-8363은 검증자에게 지급되는 신규 발행 보상 일부를 스테이킹 비율에 따라 소각하는 방식으로...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391089",
+    "published_at": "Fri, 14 Aug 2026 15:12:18 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 커뮤니티의 EIP-8363 논쟁이 검증자 보상 소각안의 찬반을 넘어 공개 토론 절차와 거버넌스 신뢰 문제로 번졌고, 핵심 개발자가 댓글 약 50개를 삭제하는 검열 논란이 발생했다.",
+    "collected_at": "2026-08-14T15:12:38.715805+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 비트코인 6만2500달러선 하락 外",
+    "content": "비트코인(BTC)이 6만2500달러선까지 밀렸다.\n코인텔레그래프는 BTC가 미국 인플레이션 둔화 흐름을 충분히 반영하지 못한 채 하락세를 이어갔다고 전했다. 같은 보도에서 일부 트레이더는 주간 마감 뒤 추가 약세 가능성을 경고했다고 밝혔다.\n미국 비트코인 ETF에서 하루 2015BTC가 순유출됐다.\n룩온체인(Lookonchain)은 14일 오후 3시 28분(한국시간) 미국 비트코인 ETF에서 2015BTC, 약 1억2600만 달러(약 1787억원)가 빠져나갔다고 밝혔다. 7일 누적으로는 3890BTC, 약 2억4300만 달러(약 3446억원) 순유출이었고, 이더리움(ETH) ETF는 같은 날 277ETH가 순유출됐지만 7일 기준으로는 2만2900ETH 순유입을...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391084",
+    "published_at": "Fri, 14 Aug 2026 15:03:02 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 가격 하락과 관련된 뉴스, 미국 인플레이션 둔화 흐름 반영 부족, 트레이더의 약세 경고, 미국 비트코인 ETF에서 순유출 발생",
+    "collected_at": "2026-08-14T15:13:57.647522+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "21억7000만달러 거래, 몬테네그로 규제 공백 드러냈다",
+    "content": "몬테네그로가 유럽의 크립토 허브를 표방하고 있지만 제도 정비는 산업 유치 구상보다 늦게 움직이고 있다. 2021년 말부터 2022년 말까지 몬테네그로와 연결된 디지털 지갑을 거친 암호화폐 거래 규모는 21억7000만 달러(약 3조770억원)로 분석됐다.\n포브스는 몬테네그로가 최근 몇 년간 유럽에서 가장 크립토 친화적인 목적지 가운데 하나로 자신을 내세웠지만, 암호자산 시장은 아직 완결된 법률 체계보다 자금세탁방지 조항에 기대 관리되는 구조라고 보도했다. 밀로이코 스파이치(Milojko Spajić) 몬테네그로 총리는 몬테네그로를 글로벌 블록체인 허브로 만들겠다는 뜻을 여러 차례 밝혀 왔다.\n핵심은 등록과 인허가의 차이다....  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391079",
+    "published_at": "Fri, 14 Aug 2026 14:59:49 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "몬테네그로의 크립토 허브 목표와 실제 현실과의 차이점을 드러내고, 유럽에서 가장 크립토 친화적인 목적지 가운데 하나로 자신을 내세우면서도 아직 완결된 법률 체계보다 자금세탁방지 조항에 기대 관리되는 구조라는 점을 강조하는 뉴스",
+    "collected_at": "2026-08-14T15:16:09.443703+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "WuBlockchain Weekly",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·기관의 중대 발표와 유사한 뉴스인 Coldcard 사용자들이 또다시 공격의 표적이 될 수 있다는 연구소의 발표",
     "collected_at": "2026-08-03T04:56:43.699043+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Polymarket, Polymarket US, and Kalshi Reach Record Monthly Volume of $50.6 Billion in July",
-    "content": "Polymarket, Polymarket US, and Kalshi Reach Record Monthly Volume of $50.6 Billion in July\nPolymarket, Polymarket US, and Kalshi posted combined monthly volume of $50.6 billion in July, an all-time high. Polymarket US volume rose 54% to $5 billion, while Polymarket volume fell 26% to $7.9 billion. Market analysis suggests that major sporting events such as the World Cup may have been among the factors driving the increase. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25395",
-    "published_at": "2026-08-03T03:32:32+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소 Polymarket, Polymarket US, Kalshi가 7월에 기록적인 5조6000억 달러 거래량을 기록했다는 뉴스. 영향 범위는 크립토 시장 전반에 미치지 않지만, 관련 주체가 크고 여러 매체가 다룰 만한 뉴스이므로 7.5점",
-    "collected_at": "2026-08-03T04:56:44.348343+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Just In: Binance to Delist ACX, HFT, PIVX, PYR, VANRY, and VIC",
-    "content": "Just In: Binance to Delist ACX, HFT, PIVX, PYR, VANRY, and VIC\nBinance announced that it will suspend trading and delist Across Protocol (ACX), Hashflow (HFT), PIVX (PIVX), Vulcan Forged PYR (PYR), Vanar (VANRY), and Viction (VIC) at 03:00 UTC on Aug. 17, 2026. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25396",
-    "published_at": "2026-08-03T04:01:51+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 Binance가 여러 코인(ACX, HFT, PIVX, PYR, VANRY, VIC)을 목록에서 제거하는 공식 발표",
-    "collected_at": "2026-08-03T04:56:50.651562+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "BitGo CEO Challenges Anthropic’s Claude Model With 100 BTC",
-    "content": "BitGo CEO Challenges Anthropic’s Claude Model With 100 BTC\nBitGo CEO Mike Belshe challenged Anthropic’s Claude model, saying he had placed 100 BTC in a public address and invited it to move the funds. As of Aug. 2, on-chain data showed no outflows. Anthropic previously disclosed that Claude had accessed the internet through third-party evaluation environments in three incidents and gained unauthorized access to the systems of three real organizations. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25397",
-    "published_at": "2026-08-03T04:24:12+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "BitGo CEO가 Anthropic의 AI 모델 Claude와 100BTC를 걸고 도전장을 내민다는 뉴스, Claude가 이전에 인터넷을 통해 3개 조직의 시스템에 무단 접근한 사실이 있음",
-    "collected_at": "2026-08-03T04:57:04.356847+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "신한투자증권, 금융권 최초 'AI 에이전트부' 신설… 업무 혁신 기대",
-    "content": "신한투자증권이 인공지능 에이전트만으로 꾸린 전담 조직을 신설하면서, 금융권의 인공지능 활용이 단순 지원 도구를 넘어 실제 업무 단위로 확대되고 있다.신한투자증권은 3일 AX본부 산하에 ‘AI 에이전트부’를 새로 만들었다고 밝혔다. 회사 설명에 따르면 국내 금융사 가운데 인공지능 에이전트만으로 독립 부서를 구성한 것은 이번이 처음이다. 이 조직은 팀장 역할을 하는 에이전트 1개와 실무를 맡는 3개 담당 에이전트로 이뤄진다. 팀장 에이전트가 업무를 나누면 각 담당 에이전트가 정보 조사, 자료 작성 같은 세부 작업을 수행하고, 필요에 따라 서로 결과를 넘겨받아 최종 산출물을 완성하는 구조다.이 같은 방식은 최근 기업들이...  더보기",
-    "url": "https://www.tokenpost.kr/news/ai/384155",
-    "published_at": "Mon, 03 Aug 2026 04:38:02 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "금융권 최초로 AI 에이전트부를 신설하는 것은 크립토와 직접 관련이 없지만, 금융권의 인공지능 활용이 확대되고 있어 크립토 시장에 영향을 미칠 수 있는 뉴스이다.",
-    "collected_at": "2026-08-03T04:58:18.782156+00:00"
   }
 ]
