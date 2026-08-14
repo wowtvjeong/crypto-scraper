@@ -2,6 +2,42 @@
   {
     "source": "wublockchainenglish",
     "source_type": "telegram",
+    "title": "Nasdaq-Listed FG Nexus Sold All Its Digital Assets by June 30, Ending Its Ethereum Treasury Strategy Less Than a Year Af",
+    "content": "Nasdaq-Listed FG Nexus Sold All Its Digital Assets by June 30, Ending Its Ethereum Treasury Strategy Less Than a Year After Launch; ETH Holdings Had Peaked Above 50,000\nNasdaq-listed FG Nexus sold all its digital assets by June 30 and held no cryptocurrency at quarter-end, ending its Ethereum treasury strategy less than a year after launch. Its ETH holdings had peaked above 50,000.\nThe company received $60.956 million in cash proceeds from ETH sales during the first half, with another $14.983 million receivable collected in July. Its discontinued digital-asset operations recorded an overall loss of $45.207 million, including a $41.167 million loss on ETH digital assets, while generating only $144,000 in staking revenue.\nFG Nexus plans to reallocate its capital to real estate, including land-lease manufactured housing properties. The potential transaction remains under preliminary review, and no definitive agreement has been reached. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25562",
+    "published_at": "2026-08-14T05:16:12+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 유명 프로젝트의 ETH 자산을 모두 매각하고, 그에 따른 재정적 영향이 크게 나타난 뉴스",
+    "collected_at": "2026-08-14T06:51:06.149150+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Crypto Exchange Gemini Posts $107.7M Q2 Net Loss, Its Fourth Consecutive Quarterly Loss",
+    "content": "Crypto Exchange Gemini Posts $107.7M Q2 Net Loss, Its Fourth Consecutive Quarterly Loss\nAccording to Bloomberg, crypto exchange Gemini reported a second-quarter net loss of $107.7 million, marking its fourth consecutive quarterly loss, while revenue rose 37% year over year to $45.5 million. Assets on the platform fell 54% to $8.4 billion, which the company attributed to lower crypto prices and institutional custody outflows.\nGemini is expanding into prediction markets and stock trading to diversify revenue, with prediction markets generating $500,000 in Q2. Its operating loss narrowed 18% from the previous quarter, while total operating expenses fell to $122.4 million. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25563",
+    "published_at": "2026-08-14T05:42:09+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Gemini의 중대 발표와 함께, 자금 관련 소식이 동반되어 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-14T06:51:06.679383+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "JPMorgan Ended Its Banking Relationship With Polymarket Last Year Over Regulatory Concerns",
+    "content": "JPMorgan Ended Its Banking Relationship With Polymarket Last Year Over Regulatory Concerns\nAccording to the Financial Times, JPMorgan ended its banking relationship with prediction market Polymarket in October 2025 over regulatory concerns and told the company to find a new banking partner. Polymarket has since moved to another bank.\nThe two companies continue to maintain other business ties. JPMorgan invited Polymarket CEO Shayne Coplan to a private banking client conference in February and is seeking a potential underwriting role if Polymarket pursues an IPO. Polymarket said it maintains a close, active relationship with JPMorgan across multiple entities, operational integrations and customer fund flows.\nPolymarket is also seeking to raise more than $1 billion at a $20 billion valuation, more than double its roughly $8 billion valuation in 2025. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25564",
+    "published_at": "2026-08-14T06:15:14+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "JPMorgan과 Polymarket의 은행 관계가 끊어졌고, 이는 규제 문제로 인한 것으로 보이며, Polymarket은 새로운 은행 파트너를 찾으라고 당부받았다. Polymarket은 현재 다른 은행으로 옮겼으며, 두 회사는 다른 비즈니스 관계를 유지하고 있다.",
+    "collected_at": "2026-08-14T06:51:07.259756+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
     "title": "SEC’s Tokenization “Innovation Exemption” Plan Further Delayed",
     "content": "SEC’s Tokenization “Innovation Exemption” Plan Further Delayed\nAccording to crypto reporter Eleanor Terrett, the SEC’s tokenization “innovation exemption” has been delayed again, with details unlikely to be released soon. Sources said the delay may be linked to ongoing negotiations over the tokenization provisions in Section 10505 of the Clarity Act. Moving ahead with the exemption could disrupt compromises being negotiated among stakeholders, and the plan may remain on hold until the bill’s path becomes clearer.\nSeparately, the SEC postponed a public meeting scheduled for Friday on proposed rules and exemptions for crypto-asset financing transactions under “Regulation Crypto Assets,” citing a last-minute scheduling conflict. An SEC spokesperson said the agency would continue pursuing regulatory clarity for the crypto industry. — \nlink",
     "url": "https://t.me/wublockchainenglish/25559",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "크립토 업계를 향해 클래리티법 통과 여부에 지나치게 매달리지 말라고 한 전 CFTC 위원장의 발언",
     "collected_at": "2026-08-02T21:15:32.181339+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“레이어 110개 살아남을 수 없다”…코인베이스, ‘통합 플랫폼’ 전략 시동",
-    "content": "[블록미디어 명정선 기자] 스트라이프와 로빈후드, 서클 등 글로벌 금융·핀테크 기업들이 잇달아 자체 블록체인을 출시하고 있지만 결국 시장은 소수의 네트워크 중심으로 재편될 것이라는 전망이 나왔다. 브라이언 암스트롱 코인베이스 최고경영자(CEO)는 이러한 통합 과정에서 코인베이스가 기업 블록체인의 공통 인프라 역할을 맡을 수 있다고 밝혔다. 기업 블록체인 경쟁 본격화…”결국 살아남는 체인은 소수” 최근 월가와 핀테크 기업들은 스테이블코인 결제와 토큰증권 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123310?utm_source=general&utm_medium=rss",
-    "published_at": "Sun, 02 Aug 2026 20:57:09 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "코인베이스 CEO가 기업 블록체인의 공통 인프라 역할을 맡을 수 있다고 밝혔고, 시장은 소수의 네트워크 중심으로 재편될 것이라는 전망이 나왔다.",
-    "collected_at": "2026-08-02T21:16:00.964630+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "“레이어 110개 살아남을 수 없다”…코인베이스, ‘통합 플랫폼’ 전략 시동",
-    "content": "“레이어 110개 살아남을 수 없다”…코인베이스, ‘통합 플랫폼’ 전략 시동",
-    "url": "https://www.blockmedia.co.kr/archives/1123310?utm_source=coingecko&utm_medium=rss",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "코인베이스의 통합 플랫폼 전략이 코인베이스의 생존을 위해 필수적이라는 선언으로, 이는 코인베이스의 파급력과 시장의 관심을 높일 수 있는 뉴스입니다.",
-    "collected_at": "2026-08-02T21:16:36.935614+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Coldcard 취약점으로 1,300 BTC 손실 발생, Coinkite는 소송 리스크 직면",
-    "content": "Coldcard 취약점으로 1,300 BTC 손실 발생, Coinkite는 소송 리스크 직면",
-    "url": "https://ns3.ai/ko/news/1BUQQ6FLOu",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 소식이 나왔으며, 크립토 시장 전반에 영향을 줄 가능성이 있어",
-    "collected_at": "2026-08-02T21:17:27.965116+00:00"
   }
 ]
