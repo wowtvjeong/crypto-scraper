@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 190억달러 강제청산 外",
+    "content": "24시간 동안 190억달러가 넘는 암호화폐 레버리지 포지션이 강제청산됐다.\n오데일리는 24시간 동안 190억달러(약 26조9000억원)가 넘는 암호화폐 레버리지 포지션이 강제청산됐다고 보도했다. 단일 거래일 기준 암호화폐 시장 기록으로 전해졌다. 강제청산은 증거금이 유지 기준을 밑돌 때 거래소가 포지션을 자동으로 정리하는 절차다.\n하이퍼리퀴드가 무기한선물 미결제약정 점유율 10%를 회복했다.\n블록비츠(BlockBeats)는 15일 하이프플로스(Hypeflows) 데이터를 인용해 하이퍼리퀴드(HYPE)가 글로벌 무기한선물 시장에서 미결제약정 기준 점유율 10%를 기록했다고 전했다. 이는 7월 말 최고치 10.4%에 다시 가까워진 수치다. 집계에는...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391459",
+    "published_at": "Sat, 15 Aug 2026 15:05:33 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소에서 190억달러 이상의 암호화폐 레버리지 포지션이 강제청산된 사실과, 하이퍼리퀴드가 무기한선물 미결제약정 점유율 10%를 회복한 사실이 언급되어, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스입니다.",
+    "collected_at": "2026-08-15T15:10:18.356287+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "7400만달러 비상장주 판매에 SEC가 TSG 제소",
+    "content": "미 증권거래위원회(SEC)가 7400만 달러(약 1047억원) 규모 비상장주 펀드 판매를 둘러싸고 앤드루 스파벤타(Andrew Spaventa) TSG 설립자와 관련 법인들을 상대로 민사소송을 냈다. 스페이스X(SpaceX), 앤두릴(Anduril), 앤트로픽(Anthropic), 퍼플렉시티(Perplexity) 등 비상장 기업 지분을 내세운 판매 과정에서 미공개 수수료와 이해상충이 있었다는 혐의다.\nSEC가 뉴욕남부연방법원에 낸 소장은 미국 현지 날짜로 14일 접수됐다. 한국시간으로는 15일 확인된 사건이다. 피고에는 스파벤타와 더 스파벤타 그룹, TSG 캐피털 어드바이저스, TSG 알파 파트너스가 포함됐다.\nSEC는 스파벤타 측이 2020년 12월부터 2025년 6월까지 11개...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391458",
+    "published_at": "Sat, 15 Aug 2026 14:57:09 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": false,
+    "reason": "미 증권거래위원회(SEC)가 7400만 달러 규모 비상장주 펀드 판매를 둘러싸고 민사소송을 냈다는 뉴스",
+    "collected_at": "2026-08-15T15:10:19.637845+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Justin Sun Responds After Binance Announces Restrictions on Transactions Involving HTX",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "이탈리아 최대 은행의 비트코인 ETF 비중 대폭 축소와 스테이킹 이더리움 ETF 3배 확대는 크립토 시장에 큰 영향을 줄 가능성이 있는 뉴스입니다.",
     "collected_at": "2026-08-03T22:53:51.707500+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "블록체인협회, 금융범죄 우려 속 CLARITY Act 옹호",
-    "content": "블록체인협회, 금융범죄 우려 속 CLARITY Act 옹호",
-    "url": "https://ns3.ai/ko/news/ibQR054Tag",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "블록체인협회가 CLARITY Act를 옹호하는 뉴스라서, 업계 전반에 주목할 만한 뉴스입니다.",
-    "collected_at": "2026-08-03T22:54:08.120550+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "비트코인 양자 위협, 50만 물리 큐비트 추정이 던진 과제",
-    "content": "비트코인 양자 위협, 50만 물리 큐비트 추정이 던진 과제",
-    "url": "https://www.tokenpost.kr/news/blockchain/384585",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "양자 위협과 관련된 뉴스이며, 50만 물리 큐비트 추정은 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이지만, 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-08-03T22:54:55.428000+00:00"
   }
 ]
