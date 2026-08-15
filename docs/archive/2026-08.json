@@ -1,5 +1,17 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "WLFI 3900만개 거래소 이동, 하루 순유입 134만달러",
+    "content": "월드리버티파이낸셜(WLFI) 재무 지갑에서 거래소 연계 주소로 3900만 개 물량이 이동한 뒤 WLFI의 24시간 현물 순유입이 134만 달러(약 19억원)로 집계됐다. 이체 규모는 219만 달러(약 31억원)로, 시장은 실제 처분 여부보다 거래소로 들어간 물량을 소화할 현물 수요가 있는지를 함께 살피고 있다.\n온체인 렌즈(Onchain Lens)는 월드리버티파이낸셜 재무 지갑이 WLFI 3900만 개를 바이비트 연계 충전 주소로 보냈다고 밝혔다. 본지는 앞서 같은 물량이 바이비트 연계 주소로 이동한 사실을 전했다.\n거래소 충전 주소 입금은 통상 매도 준비 가능성과 함께 해석된다. 다만 거래소 주소로 옮겨졌다는 사실만으로 실제 매도, 유동성 공급, 내부...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391487",
+    "published_at": "Sat, 15 Aug 2026 17:06:48 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "월드리버티파이낸셜 재무 지갑에서 거래소 연계 주소로 3900만 개 물량이 이동한 뒤 134만 달러의 현물 순유입이 발생했다는 뉴스. 이체 규모는 219만 달러로, 시장은 실제 처분 여부보다 거래소로 들어간 물량을 소화할 현물 수요가 있는지를 함께 살피고 있다.",
+    "collected_at": "2026-08-15T17:11:47.790150+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Tokenized Anthropic Rises to $1,800 Range, Implying $1.6T–$1.84T Valuation",
