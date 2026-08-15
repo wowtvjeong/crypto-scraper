@@ -2,6 +2,30 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "앤트로픽 선물 1842달러, 암시 평가 2606조원",
+    "content": "앤트로픽(Anthropic)을 기초자산으로 한 바이낸스(Binance) 프리IPO 무기한선물 가격이 최근 1600~1842달러 구간에서 거래됐다. 바이낸스가 제시한 추정 주식 수 10억주를 단순 적용하면 암시 평가액은 1조6000억~1조8420억 달러(약 2264조~2606조원)다.\n우블록체인(Wu Blockchain)은 바이낸스 프리마켓 무기한선물에 상장된 앤트로픽 토큰화 기초자산(ANTHROPICUSDT)의 거래가 최근 활발했고 가격이 해당 범위에서 움직였다고 전했다. 이 수치는 실제 기업가치가 아니라 파생상품 시장 가격과 바이낸스의 추정 주식 수를 곱해 산출한 값이다.\n바이낸스는 ANTHROPICUSDT USDⓈ-M 프리IPO 무기한선물을 6월 2일 오후 1시30분 한국시간부터...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391473",
+    "published_at": "Sat, 15 Aug 2026 15:37:28 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "앤트로픽의 암시 평가액이 2606조원으로 추정되는 뉴스, 바이낸스 프리IPO 무기한선물 가격이 1600~1842달러로 거래된 뉴스",
+    "collected_at": "2026-08-15T15:41:53.073858+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "체인링크 ETF 순자산 392억원으로 증가",
+    "content": "비트와이즈(Bitwise) 체인링크 ETF(CLNK)의 순자산이 8월 13일 기준 2769만1016달러(약 392억원)로 집계됐다. 보유 체인링크(LINK)는 309만2195.83개로 집계됐다.\n\nU.Today는 헌터 호슬리(Hunter Horsley) 비트와이즈 최고경영자(CEO)가 최근 체인링크 ETF에 대한 기관 관심이 커졌고 지난 한 주 동안 약 150만달러(약 21억원)가 유입됐다고 밝혔다고 전했다. 이 수치는 공개 인덱스만으로 독립 재계산되지는 않아 비트와이즈 측 발언으로 보는 것이 적절하다.\n\n비트와이즈 체인링크 ETF 공식 페이지에 따르면, 8월 13일 기준 순자산은 2769만1016달러, 스폰서 수수료는 0.34%다. 8월 12일 기준 순자산가치(NAV)는 16.02달러, 시장가격은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391466",
+    "published_at": "Sat, 15 Aug 2026 15:18:45 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "체인링크 ETF의 순자산이 증가하고, 기관의 관심이 커졌다는 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T15:42:19.518507+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "[자정 뉴스브리핑] 190억달러 강제청산 外",
     "content": "24시간 동안 190억달러가 넘는 암호화폐 레버리지 포지션이 강제청산됐다.\n오데일리는 24시간 동안 190억달러(약 26조9000억원)가 넘는 암호화폐 레버리지 포지션이 강제청산됐다고 보도했다. 단일 거래일 기준 암호화폐 시장 기록으로 전해졌다. 강제청산은 증거금이 유지 기준을 밑돌 때 거래소가 포지션을 자동으로 정리하는 절차다.\n하이퍼리퀴드가 무기한선물 미결제약정 점유율 10%를 회복했다.\n블록비츠(BlockBeats)는 15일 하이프플로스(Hypeflows) 데이터를 인용해 하이퍼리퀴드(HYPE)가 글로벌 무기한선물 시장에서 미결제약정 기준 점유율 10%를 기록했다고 전했다. 이는 7월 말 최고치 10.4%에 다시 가까워진 수치다. 집계에는...  더보기",
     "url": "https://www.tokenpost.kr/news/briefing/391459",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "크립토와 관련된 뉴스인만큼 7.5점을 주지만, 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-03T22:53:20.867841+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-    "content": "U.S. FBI intelligence agent arrested in connection with theft of $1 million in crypto",
-    "url": "https://www.coindesk.com/policy/2026/08/03/u-s-fbi-intelligence-agent-arrested-in-connection-with-theft-of-usd1-million-in-crypto",
-    "published_at": "Mon, 03 Aug 2026 22:17:59 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "FBI의 암호화폐 관련 사건으로, 1백만 달러의 암호화폐가 훔쳐진 것으로 밝혀졌다.",
-    "collected_at": "2026-08-03T22:53:36.226035+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "이탈리아 최대 은행, 비트코인 ETF 비중 대폭 축소…스테이킹 이더리움 ETF는 3배 확대",
-    "content": "이탈리아 최대 은행, 비트코인 ETF 비중 대폭 축소…스테이킹 이더리움 ETF는 3배 확대",
-    "url": "https://www.blockmedia.co.kr/archives/1123767?utm_source=coingecko&utm_medium=rss",
-    "published_at": null,
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "이탈리아 최대 은행의 비트코인 ETF 비중 대폭 축소와 스테이킹 이더리움 ETF 3배 확대는 크립토 시장에 큰 영향을 줄 가능성이 있는 뉴스입니다.",
-    "collected_at": "2026-08-03T22:53:51.707500+00:00"
   }
 ]
