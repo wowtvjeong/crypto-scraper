@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 채굴 2007만개 넘어, 남은 공급 4.4%",
+    "content": "비트코인(BTC) 채굴량이 2026년 8월 기준 2007만 개를 넘었고, 남은 공급량은 약 4.4%로 제시됐다.\n블록비츠(BlockBeats)는 15일 창펑 자오(CZ) 바이낸스 창업자가 소셜미디어에서 2026년 8월 기준 비트코인은 2007만 개 이상 채굴됐고 약 4.4%의 공급량만 채굴을 기다리고 있다고 밝혔다고 전했다. 그는 기존 비트코인 중 10~20%는 분실됐거나 묶였거나 회수할 수 없을 것으로 추정한다며 비트코인은 디플레이션 자산이라고 말했다.\n비트코인은 총 발행량이 2100만 개로 제한된 구조다. 채굴 보상은 일정 주기마다 줄어드는 반감기 설계를 따른다. 이 때문에 신규 공급 속도가 시간이 갈수록 낮아지는 자산으로 분류된다.\n창펑 자오의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391391",
+    "published_at": "Sat, 15 Aug 2026 08:42:12 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 채굴량이 2007만 개를 넘었고, 남은 공급량은 약 4.4%로 제시된 뉴스이며, 관련 주체는 바이낸스 창업자로 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-15T08:52:09.663034+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "11억달러 ETF 순유입, 비트코인·이더리움 자금 돌아왔다",
+    "content": "비트코인(BTC)과 이더리움(ETH) ETF에 지난주 합산 11억 달러(약 1조5565억원)가 순유입됐다. 2026년 들어 상당 기간 이어진 순유출 흐름이 멈추고 기관 자금이 다시 가상자산 ETF로 들어온 것이다.\n블록비츠는 15일 비트코인과 이더리움 ETF의 지난주 순유입 규모가 11억 달러를 기록했다고 전했다. 이 가운데 블랙록(BlackRock)의 비트코인 ETF인 아이셰어스 비트코인 트러스트(IBIT)가 비트코인 ETF 유입액의 약 80%를 차지했다.\n이번 자금 유입은 ETF 시장의 수급 변화로 해석된다. 비트코인과 이더리움 ETF는 앞서 지속적인 자금 유출 압력을 받아왔지만 지난주에는 두 자산의 ETF가 함께 순유입을 기록했다. 미국 현물 ETF는 가상자산을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391390",
+    "published_at": "Sat, 15 Aug 2026 08:26:56 +0000",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "ETF 순유입으로 인한 기관 자금의 가상자산 ETF로의 재입장, 블랙록의 비트코인 ETF가 주요 역할을 한 것으로 보인다.",
+    "collected_at": "2026-08-15T08:52:09.997511+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "테더 CEO “KPMG 감사에도 비판? 솔직히 신경 안 써”",
+    "content": "[블록미디어 이정화 기자] 스테이블코인 테더(Tether)가 회계법인 KPMG로부터 첫 완전 감사 보고서에 대한 ‘무수정 의견(unqualified opinion)’을 받았다. 이는 독립 감사인이 발행할 수 있는 가장 긍정적인 형태의 감사 의견이다. 하지만 파올로 아르도이노(Paolo Ardoino) 테더 최고경영자(CEO)는 감사 이후에도 이어지는 비판에 대해 “솔직히 신경 쓰지 않는다”며 일축했다. KPMG 첫 완전 감사…68억달러 초과 준비금 확인 테더는 2025년 12월 31일 기준 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128107?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 15 Aug 2026 08:25:15 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "테더 CEO가 KPMG 감사 보고서에 대한 긍정적인 의견을 받은 것과 관련된 뉴스이며, 테더의 CEO가 비판에 대해 일축하는 발언이 포함되어 있어 시청자에게 유의미한 뉴스임",
+    "collected_at": "2026-08-15T08:52:29.081441+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Galaxy lowers CLARITY Act odds to 10%",
+    "content": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
+    "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 15 Aug 2026 08:40:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Galaxy가 CLARITY Act에 대한 확률을 10%로 낮추는 이유는 ethic, stablecoin yield, developer protection, narrow Senate window 등 여러 이유로 인해 발생한 것으로 보인다. 이는 크립토 업계의 일반적인 뉴스에 해당하는 8점의 파급력을 보인다.",
+    "collected_at": "2026-08-15T08:52:46.577127+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "Bitget, 3배 레버리지의 Stock+ 미국 주식 마진 거래 출시",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "미국이 이란 항만을 봉쇄하고, 디지털 자산 결제에 대한 제재 문제가 함께 불거졌기 때문에, 크립토와 관련된 뉴스에 높은 점수를 매긴다. 또한, 이 뉴스는 크립토 시장 전반에 영향을 줄 가능성이 있어, 8.5점을 부여한다.",
     "collected_at": "2026-08-03T18:47:53.168116+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "세일러 “스트래티지는 내 지갑 아니다…내 BTC는 단 1도 안 팔아”",
-    "content": "[멕시코=심영재 특파원] 마이클 세일러 스트래티지 회장이 개인적으로 보유한 비트코인을 단 한 번도 매도한 적이 없다고 밝혔다. 최근 스트래티지가 자본 관리 차원에서 비트코인을 매도할 수 있다고 공시한 이후 개인 보유 자산과 회사 자산을 혼동하는 시각을 차단하려는 발언으로 해석된다. 세일러는 3일(현지시각) X(옛 트위터)에 “내가 ‘비트코인을 절대 팔지 말라(Never Sell Your Bitcoin)’고 말할 때는 한 명의 개인 보유지가 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123696?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 17:23:38 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "마이클 세일러 스트래티지 회장이 개인적으로 보유한 비트코인을 단 한 번도 매도한 적이 없다고 밝혔다.",
-    "collected_at": "2026-08-03T18:49:13.547369+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "BlackRock Launches Two Tokenized Money Market Products for Stablecoin Reserves",
-    "content": "BlackRock Launches Two Tokenized Money Market Products for Stablecoin Reserves\nBlackRock launched OnChain Shares of the BlackRock Select Treasury Based Liquidity Fund on Ethereum and the BlackRock Daily Reinvestment Stablecoin Reserve Vehicle, which supports multiple blockchains and daily dividend reinvestment. Both products are structured to hold assets intended to qualify as reserves for permitted U.S. payment stablecoin issuers under the GENIUS Act. BlackRock also manages about $60 billion in reserves for Circle. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25408",
-    "published_at": "2026-08-03T15:18:52+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 투자펀드 BlackRock이 스테이블코인 리저브를 위한 토큰화된 자산 관리 제품 2개를 출시하였으며, GENIUS Act에 따른 미국 결제 스테이블코인 발행자에게 적격한 리저브를 유지하기 위한 자산을 보유한 제품이다.",
-    "collected_at": "2026-08-03T16:44:48.243632+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "슈퍼베가, 스타크넷서 옵션 거래 퍼블릭 베타 시작",
-    "content": "SuperVega가 스타크넷(STRK) 기반 목표가형 옵션 거래 서비스를 퍼블릭 베타로 공개했다. 우선 비트코인(BTC)·이더리움(ETH)·스타크넷 콜옵션을 지원한다.\n크립토브리핑(Crypto Briefing)은 SuperVega가 3일 스타크넷에서 퍼블릭 베타를 시작했다고 전했다. 공식 웹사이트에는 ‘Welcome to Alpha!’라는 문구와 함께 비트코인, 이더리움, 스타크넷, GOLD, OIL, SP, HYPE, ZEC 등 가격 자산 목록이 표시돼 있다.\n거래 방식은 전통적인 옵션 체인보다 단순한 목표가 기반 구조에 가깝다. 스타크넷 한국 공식 커뮤니티 채널은 SuperVega가 소셜 로그인을 지원하고 비트코인·이더리움·스타크넷 콜옵션 거래를 우선 제공한다고 소개했다. 풋옵션과...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384498",
-    "published_at": "Mon, 03 Aug 2026 16:42:54 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 서비스의 새로운 기능과 거래 옵션에 대한 공개, 그러나 시장 전체에 큰 영향을 주지 않는 소식",
-    "collected_at": "2026-08-03T16:44:49.176296+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "3억6500만달러 이더리움 ETF 유입…하이퍼리퀴드는 유출",
-    "content": "이더리움(ETH) ETF가 7월 3억6500만 달러(약 5327억원) 순유입을 기록했다. 하이퍼리퀴드(HYPE) 관련 상품은 같은 기간 1516만 달러(약 221억원) 순유출로 돌아섰다.\n블록비츠(BlockBeats)가 4일 공개한 집계에서 이더리움 ETF 순유입액은 암호화폐 ETF 가운데 가장 컸다. 비트코인(BTC) ETF는 1억7243만 달러(약 2516억원), 리플(XRP) ETF는 2729만 달러(약 398억원), 솔라나(SOL) ETF는 1462만 달러(약 213억원) 순유입을 기록했다.\n체인링크(LINK) ETF에는 454만 달러(약 66억원), 헤데라(HBAR) ETF에는 300만 달러(약 44억원), 라이트코인(LTC) ETF에는 3만400달러(약 4400만원)가 순유입됐다. 월간 유입액 기준으로는 이더리움이...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/384495",
-    "published_at": "Mon, 03 Aug 2026 16:38:12 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 ETF가 3억6500만달러 순유입을 기록하고, 하이퍼리퀴드 ETF가 순유출을 기록하는 등 크립토 시장에 큰 영향을 미치는 뉴스",
-    "collected_at": "2026-08-03T16:45:34.198903+00:00"
   }
 ]
