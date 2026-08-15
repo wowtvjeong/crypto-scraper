@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Breaking: ABFinance, a US-compliant cryptocurrency trading platform founded by former Bybit co-CEO Helen Liu, has announ",
+    "content": "Breaking: ABFinance, a US-compliant cryptocurrency trading platform founded by former Bybit co-CEO Helen Liu, has announced the suspension of operations today. \nIn March 2026, former Bybit Co-CEO Helen Liu announced on X the creation of a new U.S.-based platform, ABFinance, which holds compliant U.S. licenses from the outset. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25577",
+    "published_at": "2026-08-15T00:10:29+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소의 중대 발표, 유의미한 규제 동향",
+    "collected_at": "2026-08-15T00:37:38.941484+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "로빈후드 \"자체 토큰 없는 체인이 강점\"",
+    "content": "로빈후드($HOOD)가 자체 블록체인 전략에서 별도 코인을 발행하지 않는 구조를 강점으로 제시했다. 거래 플랫폼이 체인을 만들되 자체 토큰을 두지 않아 사업 우선순위가 토큰 가격에 흔들릴 가능성을 줄인다는 설명이다.\n요한 커브랫(Johann Kerbrat) 로빈후드 가상자산·인터내셔널 총괄은 threadguy 팟캐스트 인터뷰에서 다른 블록체인과 비교할 때 우리의 중요한 차이는 체인만 발행했고 코인은 발행하지 않았다는 점이라고 말했다고 오데일리는 15일 오전 1시 31분 전했다. 오데일리 보도 시각은 한국시간으로 환산했다.\n커브랫 총괄은 블록체인은 순수한 기술이며 모든 신규 사업을 떠받치는 인프라라고 설명했다. 그는 토큰 가격...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391272",
+    "published_at": "Sat, 15 Aug 2026 00:37:17 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드가 자체 블록체인 전략에서 별도 코인을 발행하지 않는 구조를 강점으로 제시했다는 뉴스, 관련 주체는 중견 기업, 파급 범위는 크립토 시장 전반",
+    "collected_at": "2026-08-15T00:37:39.392512+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "홍콩 스테이블코인 첫 인가, 유럽연합 미카 재검토",
+    "content": "홍콩의 규제 스테이블코인이 첫 발행자 인가와 온체인 테스트를 거치며 실제 유통 준비 단계에 들어갔다. 다만 홍콩달러 기반 스테이블코인 HKDAP의 공개 출시는 아직 공식 일정으로 확정되지 않았다.\n홍콩금융관리국(HKMA)은 4월 10일 앵커포인트 파이낸셜(Anchorpoint Financial Limited)과 홍콩상하이은행(The Hongkong and Shanghai Banking Corporation Limited)에 스테이블코인 발행자 라이선스를 부여했다. 홍콩 정부는 두 발행자가 준비 작업을 마친 뒤 몇 달 안에 사업을 시작할 계획이라고 밝혔다.\n홍콩의 스테이블코인 조례는 2025년 8월 시행됐다. 이후 2026년 4월 첫 라이선스가 나오면서 제도와 허가, 수탁·상환 규칙은...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391270",
+    "published_at": "Sat, 15 Aug 2026 00:34:55 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "홍콩 금융관리국이 스테이블코인 발행자 라이선스를 부여하고, 홍콩 정부가 사업을 시작할 계획을 발표했다는 뉴스. 이는 크립토 업계 전반에 영향을 줄 가능성이 있는 뉴스이지만, 아직 '즉시 속보'급 확정 사건은 아님.",
+    "collected_at": "2026-08-15T00:37:57.240897+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "엔화 순숏 13.8만서 6.36만계약 축소 보도",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·유명 프로젝트와의 파트너십, 구체적 금액이 동반된 정책/자금 관련 소식",
     "collected_at": "2026-08-03T11:53:40.932458+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "South Africa Proposes Reporting Rules for Cross-Border Crypto Transfers",
-    "content": "South Africa Proposes Reporting Rules for Cross-Border Crypto Transfers\nSouth Africa’s National Treasury and Reserve Bank released draft rules that, for the first time, set out when crypto transfers are treated as cross-border transactions. Transfers from local providers to offshore platforms or non-custodial wallets would require authorised processing and reporting, while individuals would remain subject to existing foreign-exchange allowances. Public comments close September 30. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25404",
-    "published_at": "2026-08-03T11:21:49+00:00",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표, 유의미한 규제 동향",
-    "collected_at": "2026-08-03T11:53:54.470882+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "BingX Appoints Kevin Lee as Chief Strategy Officer",
-    "content": "BingX Appoints Kevin Lee as Chief Strategy Officer\nBingX appointed Kevin Lee as chief strategy officer to lead its long-term platform, business and ecosystem strategy as the exchange expands toward multi-asset trading. Lee has more than 20 years of experience across institutional finance, electronic markets, fintech and digital assets, including previous roles at JPMorgan Chase, Macquarie Group and BNP Paribas.\nSponsored by BingX — \nlink",
-    "url": "https://t.me/wublockchainenglish/25405",
-    "published_at": "2026-08-03T11:29:03+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소 BingX가 새로운 전략책임자로 Kevin Lee를 임명했으며, 이 임명은 거래소가 다자산 거래로 확장하는 데 있어 중요한 역할을 할 것으로 보인다.",
-    "collected_at": "2026-08-03T11:54:12.220775+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "로빈후드 스톡 토큰 차단, 제3자 지갑 앞에서 흔들리나",
-    "content": "로빈후드($HOOD) 스톡 토큰의 미국 이용자 제한이 개방형 블록체인과 제3자 지갑에서도 실효성을 유지할 수 있는지를 놓고 논란이 제기됐다. 앱이나 웹 화면에서 접근을 막더라도 외부 지갑과 탈중앙화 애플리케이션(디앱)이 체인에 직접 연결될 수 있다는 지적이다.\n비트코인닷컴은 3일 민치 박(MinChi Park) 코인펠로(Coinfello) 공동창업자가 로빈후드 체인의 프런트엔드 지리적 차단 방식을 문제 삼았다고 전했다. 박 공동창업자는 “프런트엔드 지리적 차단은 발행자를 보호하지만 이용자 보호 효과는 훨씬 작다”며 “제3자 지갑을 여는 순간 제한이 사라진다면 그것은 컴플라이언스 장치가 아니라 책임 차단 장치”라고 말했다. 앱에서...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/384324",
-    "published_at": "Mon, 03 Aug 2026 11:39:11 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "로빈후드 스톡 토큰의 미국 이용자 제한이 제3자 지갑에서도 실효성을 유지할 수 있는지 논란이 제기되며, 이에 대한 비판과 의견이 나와있다.",
-    "collected_at": "2026-08-03T11:55:09.433902+00:00"
   }
 ]
