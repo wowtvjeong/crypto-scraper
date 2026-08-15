@@ -1,5 +1,29 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "세일러 “돈은 경제적 에너지”…비트코인이 저장 효율 최강",
+    "content": "[멕시코=심영재 특파원] 마이클 세일러 스트래티지 회장이 돈을 인간의 노동 가치를 시간과 공간을 넘어 보존하는 ‘경제적 에너지’로 정의하며 비트코인이 이를 저장하는 가장 효율적인 기술이라고 주장했다. 금은 이동과 보관 비용에서, 법정화폐는 정부와 중앙은행의 통제라는 측면에서 가치 보존에 한계가 있다는 논리다. “좋은 돈은 경제적 에너지 보존해야” 크립토폴리탄에 따르면 세일러 회장은 15일(현지시각) X(옛 트위터)에 로버트 브리드러브와 함께 작성한 ‘돈이란 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128231?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 15 Aug 2026 21:58:17 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "비트코인이 저장 효율 최강이라는 주장을 통해 크립토와 관련된 뉴스를 전달하고 있으며, 관련 주체의 규모도 크고 파급 범위도 크다. 다만, 아직 확정 발표는 아니고 추측적인 내용이 일부 포함되어 있기 때문에 9점을 넘기지 않았다.",
+    "collected_at": "2026-08-15T22:10:41.315012+00:00"
+  },
+  {
+    "source": "coinness",
+    "source_type": "press",
+    "title": "세일러 “돈은 경제적 에너지”…비트코인이 저장 효율 최강",
+    "content": "마이클 세일러 스트래티지 회장이 돈을 인간의 노동 가치를 시간과 공간을 넘어 보존하는 ‘경제적 에너지’로 정의하며 비트코인이 이를 저장하는 가장 효율적인 기술이라고 주장했다. 금은 이동과 보관 비용에서, 법정화폐는 정부와 중앙은행의 통제라는 측면에서 가치 보존에 한계가 있다는",
+    "url": "https://www.blockmedia.co.kr/archives/1128231",
+    "published_at": "2026-08-15T21:58:17.000Z",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "비트코인의 효율성과 가치 보존에 대한 마이클 세일러의 주장을 다루고 있으며, 금과 법정화폐의 한계를 비교하고 있다.",
+    "collected_at": "2026-08-15T22:12:02.306022+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "타임폴리오 ETF 19일 상폐, 상관계수 규제 논란",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 기관(Bhutan의 GMC)이 비트코인 자산을 사용하는 소식으로, 관련 주체의 규모가 크고 파급 범위가 특정 섹터 전체에 영향을 줄 가능성이 있다.",
     "collected_at": "2026-08-04T08:26:41.047972+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-    "content": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-    "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-    "published_at": "Tue, 04 Aug 2026 06:12:20 +0000",
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 뉴스지만, 특정 코인(XRP) 한정 이슈로 영향 범위가 제한적이므로 7점",
-    "collected_at": "2026-08-04T08:27:12.962019+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-    "content": "A new Solana proposal aims to ramp up daily SOL Burns from $47,000 to $650,000",
-    "url": "https://www.coindesk.com/tech/2026/08/04/a-new-solana-proposal-would-take-daily-sol-burns-from-usd47-000-to-usd650-000",
-    "published_at": "Tue, 04 Aug 2026 05:39:18 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Solana의 새로운 제안이 47,000달러에서 650,000달러로 매일 SOL 소각량을 증가시키는 것을 목표로 함",
-    "collected_at": "2026-08-04T08:27:28.339726+00:00"
   }
 ]
