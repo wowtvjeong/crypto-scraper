@@ -1,5 +1,41 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "YZi 랩스 “디지털자산·AI 혁신 이끌 창업팀에 최대 250만달러 투자”",
+    "content": "[블록미디어 이정화 기자] 글로벌 웹3 및 인공지능(AI) 전문 투자사 YZi 랩스(YZi Labs 옛 바이낸스 랩스)가 유망 초기 스타트업을 발굴하고 육성하는 ‘EASY 레지던시’ 5기 가속 프로그램을 시작한다. 이번 프로그램은 디지털자산과 AI 기술 융합 분야의 혁신을 주도할 창업팀을 대상으로 하며, 선정된 프로젝트는 최대 50만달러의 초기 투자와 토큰 애그리게이션 플랫폼으로부터 최대 200만달러의 추가 투자를 유치할 수 있다. YZi [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128105?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 15 Aug 2026 09:31:30 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "디지털자산과 AI 기술 융합 분야의 혁신을 주도할 창업팀을 대상으로 하는 가속 프로그램이 시작되며, 선정된 프로젝트는 최대 50만달러의 초기 투자와 추가 투자를 유치할 수 있다.",
+    "collected_at": "2026-08-15T09:46:46.626082+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노보그라츠, 비트코인 강세 근거로 미국 재정적자 언급",
+    "content": "노보그라츠, 비트코인 강세 근거로 미국 재정적자 언급",
+    "url": "https://ns3.ai/ko/news/jTePgwtVMp",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 강세를 근거로 미국 재정적자를 언급하는 뉴스라서 관련성이 있지만, 영향 범위가 제한적이고 확정성도 낮은 편이다.",
+    "collected_at": "2026-08-15T09:47:18.710036+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "홍콩 SFC, HashKey를 사칭한 가짜 웹사이트 65곳 적발",
+    "content": "홍콩 SFC, HashKey를 사칭한 가짜 웹사이트 65곳 적발",
+    "url": "https://ns3.ai/ko/news/zimh3uoY1T",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "홍콩의 금융감독청(SFC)이 HashKey라는 유명한 거래소를 사칭한 가짜 웹사이트 65곳을 적발한 뉴스. HashKey는 크립토 거래소이므로, 이 뉴스는 크립토 업계에 큰 영향을 줄 수 있는 뉴스.",
+    "collected_at": "2026-08-15T09:47:34.169659+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "12억4000만달러 하이퍼리퀴드 매출, 네이티브 무기한선물 90.7%",

@@ -1,5 +1,41 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "YZi 랩스 “디지털자산·AI 혁신 이끌 창업팀에 최대 250만달러 투자”",
+    "content": "[블록미디어 이정화 기자] 글로벌 웹3 및 인공지능(AI) 전문 투자사 YZi 랩스(YZi Labs 옛 바이낸스 랩스)가 유망 초기 스타트업을 발굴하고 육성하는 ‘EASY 레지던시’ 5기 가속 프로그램을 시작한다. 이번 프로그램은 디지털자산과 AI 기술 융합 분야의 혁신을 주도할 창업팀을 대상으로 하며, 선정된 프로젝트는 최대 50만달러의 초기 투자와 토큰 애그리게이션 플랫폼으로부터 최대 200만달러의 추가 투자를 유치할 수 있다. YZi [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128105?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 15 Aug 2026 09:31:30 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "디지털자산과 AI 기술 융합 분야의 혁신을 주도할 창업팀을 대상으로 하는 가속 프로그램이 시작되며, 선정된 프로젝트는 최대 50만달러의 초기 투자와 추가 투자를 유치할 수 있다.",
+    "collected_at": "2026-08-15T09:46:46.626082+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "노보그라츠, 비트코인 강세 근거로 미국 재정적자 언급",
+    "content": "노보그라츠, 비트코인 강세 근거로 미국 재정적자 언급",
+    "url": "https://ns3.ai/ko/news/jTePgwtVMp",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 강세를 근거로 미국 재정적자를 언급하는 뉴스라서 관련성이 있지만, 영향 범위가 제한적이고 확정성도 낮은 편이다.",
+    "collected_at": "2026-08-15T09:47:18.710036+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "홍콩 SFC, HashKey를 사칭한 가짜 웹사이트 65곳 적발",
+    "content": "홍콩 SFC, HashKey를 사칭한 가짜 웹사이트 65곳 적발",
+    "url": "https://ns3.ai/ko/news/zimh3uoY1T",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "홍콩의 금융감독청(SFC)이 HashKey라는 유명한 거래소를 사칭한 가짜 웹사이트 65곳을 적발한 뉴스. HashKey는 크립토 거래소이므로, 이 뉴스는 크립토 업계에 큰 영향을 줄 수 있는 뉴스.",
+    "collected_at": "2026-08-15T09:47:34.169659+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "12억4000만달러 하이퍼리퀴드 매출, 네이티브 무기한선물 90.7%",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "코인베이스와 서클의 USDC 상업 파트너십이 자동 갱신될 것이라는 발표, 그러나 세부 지급 조건은 공개되지 않았다.",
     "collected_at": "2026-08-03T18:45:46.362481+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "악성 스마트계약 4224개, 지갑 미리보기 역이용했다",
-    "content": "악성 스마트계약이 지갑의 거래 미리보기 기능을 역이용한 사례가 대규모로 확인됐다. 연구진은 2024년 8월부터 2025년 6월까지 4개 블록체인에서 피싱 계약 4224개와 피해 주소 5742개를 찾아냈다.\n샤오찬 왕(Xiaocan Wang) 등 연구진 6명은 7월 30일 공개한 arXiv 논문 ‘Blockchain Transaction Simulation Phishing’에서 바이트코드 기반 탐지 시스템 ‘심가드(SIMGUARD)’를 적용한 결과라고 밝혔다. 분석 대상은 이더리움(ETH), BNB스마트체인(BSC), 아발란체(AVAX), 폴리곤(POL)이다.\n피해 거래는 6223건, 추정 손실액은 348만 달러(약 51억원)로 집계됐다. 연구진은 일부 공격자의 테스트 활동이 피해 거래로 분류됐을 가능성이 있다며...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/384517",
-    "published_at": "Mon, 03 Aug 2026 17:43:09 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대규모 악성 스마트 계약이 지갑의 거래 미리보기 기능을 역이용한 사례가 확인되며, 피해 거래는 6223건, 추정 손실액은 348만 달러로 집계되었습니다.",
-    "collected_at": "2026-08-03T18:46:21.400384+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "안크르가 XRP레저 퍼블릭 노드 접근을 지원한다",
-    "content": "안크르(Ankr)가 XRP레저(XRP Ledger)용 퍼블릭 원격 프로시저 호출(RPC)을 지원한다. 개발자는 별도 노드를 직접 운영하지 않고도 XRP레저의 원장 데이터를 읽거나 거래를 제출할 수 있다.\n안크르 공식 문서는 XRP레저 RPC API를 지원 체인 목록에 올렸다. XRP 메인넷 엔드포인트에서 계정 정보와 원장 데이터 조회, 거래 제출, 서버 상태와 수수료 확인, 프로토콜 수정안 조회 기능을 제공한다.\n퍼블릭 RPC는 지갑과 탐색기, 탈중앙화 애플리케이션, 결제 서비스가 블록체인 노드와 통신하는 기본 통로다. 자체 노드를 구축하고 관리하지 않아도 개발과 테스트를 시작할 수 있어 초기 비용을 낮출 수 있다.\n운영 서비스에 적용할 때는...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/384516",
-    "published_at": "Mon, 03 Aug 2026 17:42:36 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "안크르가 XRP레저 퍼블릭 노드 접근을 지원하는 뉴스이며, 개발자에게 유용한 기능을 제공하지만 아직 시장 전체에 큰 영향을 미치지는 않는다.",
-    "collected_at": "2026-08-03T18:46:38.924724+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "체인지나우·코인래빗, 프라이버시 도구 보호 기능 강조",
-    "content": "가상자산 프라이버시 도구를 범죄 회피 수단이 아닌 개인과 기업의 보호 장치로 봐야 한다는 업계 주장이 나왔다. 공개 블록체인의 투명성이 지갑 잔액과 거래 관계를 과도하게 노출할 수 있다는 문제 제기다.\n체인지나우(ChangeNOW)와 코인래빗(CoinRabbit)은 ‘디지털 시대의 금융 프라이버시(Financial Privacy in the Digital Age)’ 보고서에서 프라이버시 도구를 “필수 보호 기능”으로 규정했다고 디크립트(Decrypt)는 3일 전했다. 보고서는 프라이버시와 규제 준수가 반드시 제로섬 관계는 아니며, 수사와 제재 집행의 핵심 지점은 프라이버시 인프라보다 법정화폐 출금 구간이라고 주장했다.\n공개 블록체인에서는 지갑 주소와 잔액,...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/384515",
-    "published_at": "Mon, 03 Aug 2026 17:39:41 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "크립토 업계의 일반적인 뉴스인 동시에, 업계 전반이 주목할 만한 뉴스인 프라이버시 도구의 중요성을 강조하는 보고서가 나왔다는 점에서",
-    "collected_at": "2026-08-03T18:46:58.474187+00:00"
   }
 ]
