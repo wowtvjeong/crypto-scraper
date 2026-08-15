@@ -1,5 +1,29 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Bitget, 3배 레버리지의 Stock+ 미국 주식 마진 거래 출시",
+    "content": "Bitget, 3배 레버리지의 Stock+ 미국 주식 마진 거래 출시",
+    "url": "https://ns3.ai/ko/news/tzTJ5iFjgq",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Bitget은 크립토 거래소이지만, 미국 주식 마진 거래를 출시하는 뉴스라서 7.5점을 받았다. 관련 주체는 대형 거래소로 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있지만, 확정성은 아직 미정이다.",
+    "collected_at": "2026-08-15T08:16:03.015994+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Swissquote 고객 자산 1,184억 달러로 증가했지만 암호화폐 수익은 66.2% 감소",
+    "content": "Swissquote 고객 자산 1,184억 달러로 증가했지만 암호화폐 수익은 66.2% 감소",
+    "url": "https://ns3.ai/ko/news/rF5uvfl9e4",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소의 고객 자산 증가와 암호화폐 수익 감소에 대한 뉴스, 그러나 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T08:16:04.353782+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "6100만달러로 낮아진 리플 고래 유입, 2021년 이후 최저",
