@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "홍콩 투자사기 35.8억홍콩달러, 미 규제 논의 재개",
+    "content": "가상자산 시장의 이번 주 쟁점은 가격보다 제도와 범죄, 거래대금 흐름에 맞춰졌다. 미국에서는 예측시장과 토큰화 증권을 둘러싼 규제 논의가 넓어졌고, 프랑스와 홍콩에서는 데이터 유출과 투자사기 피해가 공식 수치로 드러났다.\n우블록체인은 주간 큐레이션에서 백악관 암호화폐·예측시장 회동, 프랑스 공공 데이터 침해, 홍콩 사기 피해, 한국 거래소 거래대금 둔화를 주요 이슈로 묶었다. 다만 백악관 회동 일정과 참석자, 프랑스 피해자 67만8000명, 홍콩 상반기 가상자산 사기 16억5000만 홍콩달러, 한국 5대 거래소 주간 거래대금 7조6000억원은 공개 자료에서 같은 기준으로 확인되지 않았다.\n미국 쪽에서는 제도 논의의 윤곽이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391448",
+    "published_at": "Sat, 15 Aug 2026 14:12:11 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미국에서 가상자산 시장과 관련된 규제 논의가 재개되었고, 프랑스와 홍콩에서는 가상자산과 관련된 사기 피해가 공식 수치로 드러났다. 또한, 가상자산 시장의 가격보다 제도와 범죄, 거래대금 흐름에 대한 논의가 더 중요해졌다.",
+    "collected_at": "2026-08-15T14:12:37.645390+00:00"
+  },
+  {
+    "source": "coindesk",
+    "source_type": "press",
+    "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+    "content": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
+    "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
+    "published_at": "Sat, 15 Aug 2026 14:00:00 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대규모 자금 지원이 크립토의 자유로운 시대에 영향을 미친다는 내용의 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 높고, 확정된 사실로 보임",
+    "collected_at": "2026-08-15T14:12:41.169289+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "규제 대상 크립토 스타트업, 상반기 투자금 112억 달러 유치",
+    "content": "규제 대상 크립토 스타트업, 상반기 투자금 112억 달러 유치",
+    "url": "https://ns3.ai/ko/news/njE8do1SJA",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "규제 대상 크립토 스타트업이 상반기 투자금 112억 달러를 유치한 것으로 알려졌습니다. 이는 크립토 시장 전반에 영향을 줄 만한 뉴스입니다.",
+    "collected_at": "2026-08-15T14:12:53.691474+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "18억달러 마스터카드 인수, 상원 법안 심사와 맞물렸다",
     "content": "마스터카드(Mastercard·$MA)의 최대 18억 달러(약 2조5470억원) 규모 BVNK 인수와 미국 디지털자산 시장 명확성 법안 논의가 스테이블코인 결제 인프라의 주요 흐름으로 맞물리고 있다.\n마스터카드는 3월 17일 투자자 공지에서 스테이블코인 인프라 기업 BVNK를 최대 18억 달러에 인수하는 최종 계약을 체결했다고 밝혔다. 인수 금액에는 조건부 지급액 3억 달러(약 4245억원)가 포함됐다. 거래는 규제 심사와 통상적인 종결 조건을 거쳐 연말 전 마무리될 예정이다.\n마스터카드는 BVNK 인수로 온체인 결제와 기존 법정화폐 결제망을 연결하겠다는 구상을 제시했다. BVNK는 주요 블록체인 네트워크에서 송금과 수취 기능을 제공하고 130개...  더보기",
     "url": "https://www.tokenpost.kr/news/policy/391442",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "대형 거래소·기관의 중대 발표와 유사한 유명 프로젝트·규제 당국의 주요 인물의 이직 소식",
     "collected_at": "2026-08-03T21:37:34.612439+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "Former FBI Agent Charged With Stealing Nearly $1 Million in Crypto and Using ChatGPT for Investment Advice",
-    "content": "Prosecutors say the former counterintelligence supervisor stole cryptocurrency from wallets tied to FBI investigations before asking ChatGPT how to invest the money and relocate to Europe.",
-    "url": "https://decrypt.co/374871/former-fbi-agent-charged-stealing-crypto-using-chatgpt-advice",
-    "published_at": "Mon, 03 Aug 2026 21:17:06 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유의미한 규제 동향이 동반된 뉴스",
-    "collected_at": "2026-08-03T21:37:52.365139+00:00"
-  },
-  {
-    "source": "decrypt",
-    "source_type": "press",
-    "title": "What Is an Air-Gapped Bitcoin Wallet? Why the Coldcard Exploit Changes the Conversation About Offline Security",
-    "content": "Air-gapped wallets keep private keys completely offline, reducing exposure to hackers—but they're not immune from threats.",
-    "url": "https://decrypt.co/374868/what-is-air-gapped-bitcoin-wallet-coldcard-exploit-security",
-    "published_at": "Mon, 03 Aug 2026 20:39:33 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 주제인 오프라인 보안에 대한 새로운 정보가 나왔고, 시청자에게 유의미한 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-03T21:38:08.123857+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "[뉴욕 코인시황/마감] 미·이란 협상에 BTC 6.4만달러 회복…스트래티지 매각·규제 지연에 주춤",
-    "content": "[뉴욕 코인시황/마감] 미·이란 협상에 BTC 6.4만달러 회복…스트래티지 매각·규제 지연에 주춤",
-    "url": "https://www.blockmedia.co.kr/archives/1123743?utm_source=coingecko&utm_medium=rss",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 가격이 회복하는 뉴스, 그러나 시장 전체에 영향을 주는 큰 사건은 아니지만 관련 주체가 크고 여러 매체가 다룰 만한 뉴스",
-    "collected_at": "2026-08-03T21:38:26.538991+00:00"
   }
 ]
