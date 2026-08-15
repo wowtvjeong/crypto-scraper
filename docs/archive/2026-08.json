@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Cboe Seeks SEC Approval for First US 3x Bitcoin and Ether ETFs",
+    "content": "Cboe Seeks SEC Approval for First US 3x Bitcoin and Ether ETFs\nAccording to The Block, the SEC published a notice on August 14 stating that Cboe BZX Exchange had filed a proposed rule change to list and trade Volatility Shares' 3x Bitcoin ETF and 3x Ether ETF, which could become the first triple-leveraged Bitcoin and Ether ETFs in the United States.\nThe two funds would primarily use CME Bitcoin and Ether futures to seek three times the daily performance of their respective underlying assets. Because Cboe's generic listing standards prohibit leveraged products, the proposed listings require separate SEC approval. The same filing also covers 3x leveraged ETFs tied to gold, silver, crude oil, and natural gas. The application was filed on August 10 and has not yet been approved. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25580",
+    "published_at": "2026-08-15T05:18:46+00:00",
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "규제당국의 공식 결정, 대형 거래소의 중대 발표, 주요 자산에 대한 3배 가중 ETF의 첫 미국 출시",
+    "collected_at": "2026-08-15T05:47:49.576234+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "버크셔, 2분기 알파벳 4810만주 늘렸다",
+    "content": "버크셔 해서웨이(Berkshire Hathaway·BRK.A·BRK.B)가 2026년 2분기 알파벳(Alphabet·GOOGL·GOOG) 보유를 약 4810만주 늘리며 상장주식 포트폴리오를 다시 조정했다. 확대분 가치는 170억 달러(약 24조550억원)를 넘었다.\n미 증권거래위원회(SEC) 13F 공시에 따르면 버크셔는 6월 30일 기준 알파벳 A주와 C주 보유를 함께 늘렸다. 알파벳은 애플(Apple·AAPL), 아메리칸익스프레스(American Express·AXP), 코카콜라(Coca-Cola·KO)에 이어 버크셔의 주요 보유 종목으로 올라섰다.\n이번 공시는 워런 버핏(Warren Buffett)이 물러난 뒤 두 번째 분기에 나온 대형 보유주식 조정이라는 점에서 시장의 관심을 받았다. 버크셔의 2분기 상장주식 보유...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391353",
+    "published_at": "Sat, 15 Aug 2026 05:17:16 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": false,
+    "reason": "대형 기업인 버크셔 해서웨이의 주식 보유 조정과 주요 보유 종목으로 올라선 알파벳의 영향이 크며, 워런 버핏이 물러난 뒤 두 번째 분기에 나온 대형 보유주식 조정이라는 점에서 시장의 관심을 받았다.",
+    "collected_at": "2026-08-15T05:48:17.057552+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "비트코인 현물 ETF 3거래일째 순유출세...하루 5763만 달러 이탈",
