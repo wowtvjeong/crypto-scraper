@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Galaxy Research: Odds of CLARITY Act Passage This Year Decline",
+    "content": "Galaxy Research: Odds of CLARITY Act Passage This Year Decline\nGalaxy Research stated that the likelihood of the U.S. crypto market structure bill, the CLARITY Act, passing in 2026 is declining. Uncertainty surrounding the legislation has prompted the SEC and CFTC to accelerate administrative measures, including rulemaking, interpretive guidance, and regulatory exemptions, to provide clearer rules for digital asset issuance, trading, and market oversight. Galaxy noted that these measures could temporarily fill regulatory gaps while legislation remains stalled, but they lack the legal durability of formal legislation and could be revised or reversed by a future administration. As a result, they cannot replace a long-term regulatory framework established by Congress. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25579",
+    "published_at": "2026-08-15T04:22:00+00:00",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "CLARITY Act가 미국 크립토 시장 구조 법안으로 언급되고, SEC와 CFTC가 규제를 명확히 하기 위해 행정적 조치를 취하고 있기 때문에, 크립토 관련 뉴스에 큰 영향을 줄 수 있는 중요한 뉴스입니다.",
+    "collected_at": "2026-08-15T04:34:38.817603+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "알트코인 ETF 찬바람…그레이스케일, ADA·DOT·HBAR 철회",
+    "content": "[블록미디어 이정화 기자] 디지털자산 시장의 침체가 상장지수펀드(ETF) 시장으로 번지고 있다. 그레이스케일은 카르다노(ADA), 폴카닷(DOT), 헤데라(HBAR) 관련 ETF 계획을 철회했다. 다른 운용사들도 디지털자산 펀드를 잇달아 정리하고 있다. 상대적으로 규모가 작은 알트코인 ETF는 운용 비용을 감당할 만큼 자금을 끌어모으기 어려워졌다는 분석이 나온다. 알트코인 급락…ETF 계획도 철회 블룸버그는 14일(현지시각) 그레이스케일이 최근 카르다노(ADA), 폴카닷(DOT), 헤데라(HBAR)와 연계된 ETF 계획을 철회했다고 보도했다. [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128093?utm_source=general&utm_medium=rss",
+    "published_at": "Sat, 15 Aug 2026 04:17:47 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "알트코인 ETF의 철회는 디지털 자산 시장의 침체와 관련된 큰 뉴스이며, 그레이스케일의 철회는 알트코인 ETF의 규모가 작은 것과 관련된 분석이 나온다.",
+    "collected_at": "2026-08-15T04:35:30.976396+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "17만달러 돌려받은 애리조나 암호화폐 ATM 피해자",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": false,
     "reason": "연준 금리 인상 예상 시점이 앞당겨질 가능성이 높아졌다는 뉴스, 이는 크립토 시장에 직접적인 영향을 미치지 않지만 금리 인상이 크립토 가격에 영향을 줄 수 있기 때문에 관련성이 있다.",
     "collected_at": "2026-08-03T14:17:41.593552+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "260레인 CXL 스위치, 마벨 AI 메모리 병목 겨냥",
-    "content": "마벨 테크놀로지(Marvell Technology·$MRVL)가 260레인 CXL 스위치를 앞세워 AI 인프라의 메모리·스토리지 병목 해소 전략을 공개한다. 대규모언어모델(LLM)의 문맥 처리량이 늘면서 데이터센터의 부담이 연산 성능에서 메모리 용량과 대역폭, 데이터 이동 구조로 확산된 데 대응하려는 구상이다.\n마벨은 한국시간 5~7일 미국 캘리포니아주 산타클라라에서 열리는 퓨처 오브 메모리 앤드 스토리지 2026(Future of Memory and Storage 2026)에서 AI 인프라용 메모리·스토리지 관련 발표와 패널을 진행한다. 일정에는 ‘확장 가능한 AI 인프라를 위한 데이터 스토리지 혁신’과 ‘메모리 중심 시대: CXL과 확장 가능한 AI 인프라의 미래’, ‘범용...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384396",
-    "published_at": "Mon, 03 Aug 2026 13:58:00 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": false,
-    "reason": "크립토와 직접 관련이 없지만, AI 인프라와 메모리·스토리지 병목 해소 전략에 대한 발표로, 크립토 업계에 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-08-03T14:17:58.984553+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "바이비트, 전 VARA 법무책임자 피터 루 선임",
-    "content": "바이비트(Bybit)가 피터 루(Peter Loo)를 최고법무·컴플라이언스책임자로 선임했다. 글로벌 라이선스 확보와 규제 대응을 담당하는 법무·준법 조직을 강화하는 인사다.\n3일 공개된 발표 자료에는 루가 바이비트의 글로벌 법무와 규제·컴플라이언스 전략을 총괄한다는 내용이 담겼다고 PANews는 전했다. 루는 25년 넘게 여러 관할권에서 금융·디지털자산 법무 업무를 맡았으며, 두바이 가상자산규제청(Virtual Assets Regulatory Authority·VARA)에서 총괄 법률고문과 산업개발 책임자로 일했다.\n루는 VARA에서 가상자산 라이선스와 시장 행위·집행 체계 마련에 관여했다. 바클레이스 캐피털(Barclays Capital), MF 글로벌(MF Global),...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384391",
-    "published_at": "Mon, 03 Aug 2026 13:53:50 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "바이비트가 글로벌 라이선스 확보와 규제 대응을 담당하는 법무·준법 조직을 강화하기 위해 피터 루 선임, 루는 25년 넘게 금융·디지털자산 법무 업무를 맡았으며, 두바이 가상자산규제청에서 총괄 법률고문과 산업개발 책임자로 일했다.",
-    "collected_at": "2026-08-03T14:18:53.751498+00:00"
   }
 ]
