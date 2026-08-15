@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Cosmos Ecosystem’s Second-Largest Wallet Cosmostation to Shut Down",
+    "content": "Cosmos Ecosystem’s Second-Largest Wallet Cosmostation to Shut Down\nCosmos ecosystem wallet Cosmostation announced it will discontinue its wallet services. Starting September 1, Cosmostation Wallet will retain only seed phrase and private key export functions, while all other features will be gradually discontinued across its iOS, Android, and Chrome extension versions, with the app itself eventually shutting down. Cosmostation has operated since 2018 and ranks second in the Cosmos ecosystem by market share. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25582",
+    "published_at": "2026-08-15T11:21:11+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "Cosmos 생태계 2위 지갑 Cosmostation이 서비스를 중단하는 것으로 발표되었습니다. 이는 크립토 시장에 영향을 미칠 수 있는 중견 기업의 파트너십과 유사한 뉴스입니다.",
+    "collected_at": "2026-08-15T11:40:52.590633+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "블록, 비트코인 결제·보관·채굴 기능 넓혔다",
+    "content": "블록(Block, $XYZ)이 비트코인(BTC) 제품군을 결제, 자기 보관, 채굴 관리 영역으로 넓히고 있다. 캐시앱, 스퀘어, 비트키, 프로토를 한 축으로 묶어 비트코인을 보유 자산을 넘어 일상 결제와 인프라 제품 안으로 넣는 흐름이다.\n블록은 공식 비트코인 페이지에서 캐시앱의 비트코인 매수·매도·송금, 스퀘어의 비트코인 결제, 비트키의 자기 보관 지갑, 프로토의 채굴 제품·서비스를 비트코인 생태계로 제시했다. 이 페이지에는 캐시앱에서 2018년 이후 2400만 명 이상이 비트코인을 매수했고, 캐시앱 비트코인 결제 4건 중 1건이 라이트닝 네트워크를 통해 이뤄진다는 설명도 담겼다.\n최근 확인된 기능은 △캐시앱의 ACH 기반 비트코인 구매...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391419",
+    "published_at": "Sat, 15 Aug 2026 11:22:24 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 결제·보관·채굴 기능을 넓히는 블록의 노력과 관련된 뉴스, 여러 매체가 동시에 다룰 만한 뉴스지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T11:40:53.022350+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "코스모스테이션, 코스모스 지갑 서비스 종료",
+    "content": "코스모스테이션, 코스모스 지갑 서비스 종료",
+    "url": "https://ns3.ai/ko/news/vcESkUL6XD",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "코스모스테이션과 코스모스 지갑 서비스 종료라는 뉴스가 크립토 업계에 영향을 줄 수 있는 소식이지만, 영향 범위가 제한적이고, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T11:41:33.940312+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "카르다노, 9월 12일 전 다익스트라 헌법 정비 추진",
