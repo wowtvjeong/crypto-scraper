@@ -2,6 +2,66 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "30억달러 핵심광물 투자에 ETF 재조명",
+    "content": "미국 정부가 핵심 광물·배터리 프로젝트에 30억 달러(약 4조2450억원) 규모 투자를 발표하면서 관련 ETF 상품이 다시 시장의 관심권에 들어왔다.\n아시아경제는 박우열 신한투자증권 연구원이 도널드 트럼프 미국 행정부의 핵심 광물·배터리 프로젝트 투자와 관련 ETF 상품을 소개했다고 보도했다. 원화 환산은 15일 한국시간 기준 환율 1달러 1415원을 적용했다.\n이번 사안의 핵심은 중국 의존도가 높은 핵심 광물 공급망을 미국과 동맹국 중심으로 다시 짜려는 움직임이다. 희토류와 전략 금속은 전기차뿐 아니라 방산, 항공우주, 첨단 제조 분야에 쓰인다.\n배터리는 전기차와 에너지저장장치뿐 아니라 AI 데이터센터, 드론, 휴머노이드 등...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391373",
+    "published_at": "Sat, 15 Aug 2026 06:53:50 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": false,
+    "reason": "미국 정부가 핵심 광물·배터리 프로젝트에 30억 달러 규모 투자를 발표하면서 관련 ETF 상품이 다시 시장의 관심권에 들어왔다. 이는 중국 의존도가 높은 핵심 광물 공급망을 미국과 동맹국 중심으로 다시 짜려는 움직임으로, 전기차, 방산, 항공우주, 첨단 제조 분야에 쓰이는 희토류와 전략 금속에 대한 투자이다.",
+    "collected_at": "2026-08-15T07:04:43.217781+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "Z세대 ETF 비중 25%, 레버리지 사용 낮았다",
+    "content": "Z세대 투자자가 바이낸스의 주식 연계 상품에서 ETF 비중을 늘리는 한편 거래 빈도와 레버리지 사용은 다른 세대보다 낮춘 것으로 나타났다. 젊은 투자자가 단기 고위험 거래에 치우친다는 통념과 다른 흐름이다.\n블록비츠는 바이낸스 연구 데이터를 토대로 8월 초 Z세대 사용자의 주식 거래량에서 ETF 비중이 25%까지 올랐다고 15일 전했다. 7월 Z세대 주식 순유입에서 ETF가 차지한 비중은 21.9%로, 6월 18.5%보다 높아졌다.\n같은 기간 개별 주식 투자 비중은 77%에서 74.2%로 낮아졌다. 단일 종목보다 여러 자산을 묶은 상품으로 자금 배분이 옮겨간 셈이다.\n이번 분석 대상은 직접 주식, 토큰화 주식, 전통 금융 무기한선물 거래다....  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391371",
+    "published_at": "Sat, 15 Aug 2026 06:36:05 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Z세대 투자자가 바이낸스의 주식 연계 상품에서 ETF 비중을 늘리고, 거래 빈도와 레버리지 사용이 다른 세대보다 낮은 것으로 나타났다. 그러나 이 뉴스는 크립토 시장 전체에 직접적인 영향을 주는 사건은 아니므로 6점을 넘기지 않았다.",
+    "collected_at": "2026-08-15T07:04:51.167295+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "비트코인 현물 ETF, 5,763만 달러 순유출…이더리움 ETF는 자금 흐름 제로",
+    "content": "비트코인 현물 ETF, 5,763만 달러 순유출…이더리움 ETF는 자금 흐름 제로",
+    "url": "https://ns3.ai/ko/news/kaNowwKCZz",
+    "published_at": null,
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "비트코인 현물 ETF의 순유출과 이더리움 ETF의 자금 흐름 제로가 나타나며, 이는 크립토 시장에 큰 영향을 줄 수 있는 중요한 뉴스입니다.",
+    "collected_at": "2026-08-15T07:05:13.458739+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Kalshi가 스포츠 계약을 삭제하는 가운데 CFTC, 언급 시장 검토",
+    "content": "Kalshi가 스포츠 계약을 삭제하는 가운데 CFTC, 언급 시장 검토",
+    "url": "https://ns3.ai/ko/news/wGge3e1c4c",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Kalshi라는 크립토 관련 거래소가 스포츠 계약을 삭제하는 사건과 CFTC의 언급 시장 검토가 관련되어 있어 시청자에게 유의미한 뉴스지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T07:05:45.751858+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Edelman Financial Engines Discloses ~$34M in Spot Bitcoin ETFs; Tudor Investment Boosts IBIT Holdings",
+    "content": "Edelman Financial Engines Discloses ~$34M in Spot Bitcoin ETFs; Tudor Investment Boosts IBIT Holdings",
+    "url": "https://coinmarketcap.com/community/articles/6a800d45b8147e19a2397f47/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 회사인 Edelman Financial Engines와 Tudor Investment이 크립토와 관련된 자산을 공개했지만, 아직 시장 전체에 큰 영향을 미치지 않는 소식",
+    "collected_at": "2026-08-15T07:05:52.258675+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "아부다비 국부자금, 비트코인 ETF 2294만주 유지",
     "content": "아부다비 국부펀드 계열 자금이 2분기에도 블랙록의 현물 비트코인(BTC) 상장지수펀드(ETF) 보유 주식 2294만주를 유지한 것으로 나타났다. 평가액은 비트코인 가격 하락 영향으로 1억1800만 달러(약 1670억원) 줄었다.\n기준 시점은 6월 30일이다. 무바달라 인베스트먼트 컴퍼니(Mubadala Investment Company)와 아부다비 투자위원회(ADIC)가 블랙록 아이셰어즈 비트코인 트러스트 ETF(IBIT)를 합산 2294만주 보유했다고 크립토슬레이트(CryptoSlate)는 보도했다.\n두 기관의 합산 평가액은 약 7억6400만 달러(약 1조811억원)로 집계됐다. 기관별로는 무바달라가 약 4억9010만 달러(약 6935억원), 아부다비 투자위원회가 약 2억7360만 달러(약...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391368",
@@ -17938,65 +17998,5 @@
     "is_crypto_related": true,
     "reason": "크립토 기반 예측시장 폴리마켓 거래가 호르무즈 해협 통행 정상화 여부에 따라 변동할 수 있기 때문에, 크립토와 관련된 뉴스에 높은 점수를 매긴다. 그러나 아직까지는 시장 전체에 직접적인 영향을 주는 '사건'은 아니기 때문에 8.5점을 부여한다.",
     "collected_at": "2026-08-03T16:48:28.328751+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "8억8170만달러 JTRSY, 온체인 담보로 활용 넓혔다",
-    "content": "센트리퓨지(Centrifuge) 기반 토큰화 미국 국채 펀드 ‘야누스 헨더슨 재무부 펀드(JTRSY)’의 총자산가치가 8억8170만4861달러(약 1조2900억원)를 기록했다. 미국 단기 국채를 담은 펀드가 온체인 담보와 기관 자금 관리 수단으로 활용 범위를 넓히고 있다.\n3일 RWA.xyz에 따르면, JTRSY의 순자산가치(NAV)는 1.11달러, 7일 연환산수익률(APY)은 4.40%, 보유자 수는 30명으로 집계됐다. 센트리퓨지는 플랫폼, 애너모이(Anemoy)는 운용사, 야누스 헨더슨(Janus Henderson)은 하위 자문사로 표시됐다.\nJTRSY는 미국 단기 국채를 온체인 토큰으로 구현한 규제형 펀드다. 애너모이는 이 상품을 6개월 미만 미국 국채 수익률에 접근하는 온체인...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/384480",
-    "published_at": "Mon, 03 Aug 2026 16:06:42 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 뉴스인 센트리퓨지 기반 토큰화 미국 국채 펀드가 온체인 담보로 활용 범위를 넓혔다는 점이 시청자에게 유의미하지만 영향 범위가 제한적인 뉴스이다.",
-    "collected_at": "2026-08-03T16:49:05.734215+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "블랙록, 토큰화 MMF 2종 추가 출시…RWA 공략 박차",
-    "content": "[멕시코=심영재 특파원] 블랙록이 기존 토큰화 펀드 BUIDL에 이어 새로운 토큰화 MMF 2종을 선보였다. 스테이블코인 시장 확대와 실물연계자산(RWA) 토큰화 성장세에 대응해 블록체인 기반 현금성 자산 공급을 늘리려는 행보다. 블랙록은 3일(현지시각) 기존 머니마켓펀드를 블록체인에서 거래할 수 있도록 만든 ‘블랙록 셀렉트 트레저리 베이스드 리퀴디티 펀드(BSTBL)’와 새로운 준비금 운용 상품인 ‘블랙록 데일리 리인베스트먼트 스테이블코인 리저브 비히클(BRSRV)’을 공개했다고 코인데스크가 전했다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123688?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 16:31:46 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "블랙록이 새로운 토큰화 MMF 2종을 선보이며 스테이블코인 시장 확대와 실물연계자산(RWA) 토큰화 성장세에 대응하는 행보를 보이고 있어, 대형 거래소·유명 프로젝트와 유사한 규모의 기업이 새로운 제품을 출시하는 뉴스에 해당한다.",
-    "collected_at": "2026-08-03T16:49:59.470420+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“클래리티법 입법 지연 시 비트코인 추가 조정”…번스타인 경고",
-    "content": "[멕시코=심영재 특파원] 미국 디지털자산(가상자산) 시장구조법인 클래리티법안(CLARITY Act)의 연내 통과가 무산되면 비트코인과 디지털자산 시장이 한 차례 더 하락할 수 있다는 전망이 나왔다. 다만 미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)가 규정 제정을 서두를 가능성이 커 시장 충격은 일시적일 수 있다는 분석이다. 클래리티법 통과 가능성 약화 코인데스크에 따르면 월가 투자회사 번스타인은 3일(현지시각) 보고서에서 미 상원이 휴회에 들어가기 전 법안을 처리할 시간이 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123682?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 16:00:05 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "클래리티법의 연내 통과가 무산될 경우 비트코인과 디지털자산 시장이 하락할 수 있다는 전망이 나왔고, 미국 증권거래위원회와 상품선물거래위원회가 규정 제정을 서두를 가능성이 커 시장 충격은 일시적일 수 있다는 분석이 있다.",
-    "collected_at": "2026-08-03T16:50:34.321520+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "모건스탠리, 써클 목표가 ‘반토막 이하’ 강하…주가 6%↓",
-    "content": "[멕시코=심영재 특파원] 써클(Circle)의 주가가 모건스탠리의 투자의견 하향 이후 6% 떨어졌다. 모건스탠리는 USDC 공급 증가세 둔화와 준비금 수익 감소, 토큰화 머니마켓펀드와 신규 스테이블코인 경쟁을 이유로 써클의 장기 수익 전망을 낮췄다. 모건스탠리, 목표가 38달러로 대폭 하향 코인데스크에 따르면 모건스탠리는 3일(현지시각) 써클의 투자의견을 ‘중립’에서 ‘비중 축소’로 낮추고 목표주가를 106달러에서 38달러로 하향했다. 보고서 발표 이후 써클 주가는 6% 하락했다. [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123676?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 15:23:47 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "모건스탠리가 써클의 투자의견을 하향하고 목표주가를 38달러로 낮추었기 때문에 시청자에게 유의미한 뉴스지만, 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-03T16:50:52.226468+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "아메리칸 비트코인, 5720만달러 적자에도 ‘BTC 8천개’ 확보",
-    "content": "[멕시코=심영재 특파원] 트럼프 대통령의 아들 에릭 트럼프가 공동 설립한 아메리칸 비트코인(American Bitcoin)이 비트코인 가격 하락으로 2분기 5720만달러의 순손실을 기록했다. 회사는 손실에도 채굴량을 사상 최대 수준으로 늘리고 비트코인 보유량을 8002개까지 확대했다. 평가손실에도 비트코인 보유량 14% 증가 더블록과 코인피디아에 따르면 아메리칸 비트코인은 3일(현지시각) 2026년 2분기 순손실이 5720만달러로 집계됐다고 밝혔다. 직전 분기 순손실 8180만달러보다는 손실 규모가 줄었다. 순손실의 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123672?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 15:02:34 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "아메리칸 비트코인이 비트코인 가격 하락에도 채굴량을 늘리고 비트코인 보유량을 확대했다는 뉴스",
-    "collected_at": "2026-08-03T16:51:10.915687+00:00"
   }
 ]
