@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Tokenized Anthropic Rises to $1,800 Range, Implying $1.6T–$1.84T Valuation",
+    "content": "Tokenized Anthropic Rises to $1,800 Range, Implying $1.6T–$1.84T Valuation\nAnthropic tokenized asset (ANTHROPICUSDT) listed on Binance Pre-IPO Perpetual Futures has seen active trading, with prices fluctuating between $1,600 and $1,842; based on the contract's estimated benchmark share count of 1 billion shares, the pre-market derivatives pricing implies a valuation of ~$1.6 trillion to $1.84 trillion for Anthropic, whereas in traditional private markets, Anthropic completed a $65 billion Series H round in May 2026 at a $965 billion post-money valuation, indicating a 65% to 88% premium in the crypto pre-market that aligns closely with Wall Street investment banks' $1.5 trillion to $2 trillion IPO valuation expectations. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25587",
+    "published_at": "2026-08-15T16:21:46+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스, 유명 프로젝트의 대형 거래소·기관의 중대 발표와 유사한 파급력을 보임",
+    "collected_at": "2026-08-15T16:47:12.778349+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미국, 이란 제재망 원유·환전·가상자산으로 넓혔다",
+    "content": "미국의 대이란 압박이 원유 수출 차단을 넘어 환전소, 해운망, 호르무즈해협 통행료, 디지털자산 거래소로 확대되고 있다. 추가 제재의 강도뿐 아니라 유가와 미·중 긴장으로 되돌아올 비용이 쟁점으로 떠올랐다.\n포천(Fortune)은 한국시간 16일 스콧 베센트(Scott Bessent) 미 재무장관이 이란을 더 강하게 고립시키기 위한 추가 경제 압박을 준비하고 있다고 보도했다. 백악관은 구체적인 패키지를 공개하지 않았고, 현재 드러난 것은 최종 집행안이 아니라 추가 압박 방향이다.\n제재망의 중심에는 중국 경로가 있다. 미 재무부는 4월 28일 문서에서 중국이 이란 원유 수출의 약 90%를 사들이고, 중국 산둥성의 독립 정유사가 이란산 원유...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391481",
+    "published_at": "Sat, 15 Aug 2026 16:19:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이란 제재망이 디지털 자산 거래소까지 확대되고 있다는 점에서 크립토와 관련이 있으며, 추가 제재의 강도와 유가, 미·중 긴장으로 인한 비용이 쟁점으로 떠올라 시장 전체에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-15T16:47:59.550573+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "7901만달러 청산, 에이스·AKE가 비트코인 앞섰다",

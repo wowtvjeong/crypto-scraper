@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Tokenized Anthropic Rises to $1,800 Range, Implying $1.6T–$1.84T Valuation",
+    "content": "Tokenized Anthropic Rises to $1,800 Range, Implying $1.6T–$1.84T Valuation\nAnthropic tokenized asset (ANTHROPICUSDT) listed on Binance Pre-IPO Perpetual Futures has seen active trading, with prices fluctuating between $1,600 and $1,842; based on the contract's estimated benchmark share count of 1 billion shares, the pre-market derivatives pricing implies a valuation of ~$1.6 trillion to $1.84 trillion for Anthropic, whereas in traditional private markets, Anthropic completed a $65 billion Series H round in May 2026 at a $965 billion post-money valuation, indicating a 65% to 88% premium in the crypto pre-market that aligns closely with Wall Street investment banks' $1.5 trillion to $2 trillion IPO valuation expectations. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25587",
+    "published_at": "2026-08-15T16:21:46+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스, 유명 프로젝트의 대형 거래소·기관의 중대 발표와 유사한 파급력을 보임",
+    "collected_at": "2026-08-15T16:47:12.778349+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "미국, 이란 제재망 원유·환전·가상자산으로 넓혔다",
+    "content": "미국의 대이란 압박이 원유 수출 차단을 넘어 환전소, 해운망, 호르무즈해협 통행료, 디지털자산 거래소로 확대되고 있다. 추가 제재의 강도뿐 아니라 유가와 미·중 긴장으로 되돌아올 비용이 쟁점으로 떠올랐다.\n포천(Fortune)은 한국시간 16일 스콧 베센트(Scott Bessent) 미 재무장관이 이란을 더 강하게 고립시키기 위한 추가 경제 압박을 준비하고 있다고 보도했다. 백악관은 구체적인 패키지를 공개하지 않았고, 현재 드러난 것은 최종 집행안이 아니라 추가 압박 방향이다.\n제재망의 중심에는 중국 경로가 있다. 미 재무부는 4월 28일 문서에서 중국이 이란 원유 수출의 약 90%를 사들이고, 중국 산둥성의 독립 정유사가 이란산 원유...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391481",
+    "published_at": "Sat, 15 Aug 2026 16:19:12 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이란 제재망이 디지털 자산 거래소까지 확대되고 있다는 점에서 크립토와 관련이 있으며, 추가 제재의 강도와 유가, 미·중 긴장으로 인한 비용이 쟁점으로 떠올라 시장 전체에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-15T16:47:59.550573+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "7901만달러 청산, 에이스·AKE가 비트코인 앞섰다",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "CLARITY Act는 크립토와 관련된 윤리 조항을 포함하는 법안으로, 백악관의 침묵은 이 법안의 파급력을 의미한다.",
     "collected_at": "2026-08-04T00:01:45.572481+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 양자 위협, 50만 물리 큐비트 추정이 던진 과제",
-    "content": "짐 크레이머(Jim Cramer) CNBC ‘매드머니(Mad Money)’ 진행자의 비트코인(BTC) 매도 발언을 계기로 양자컴퓨팅에 대비한 전자서명 체계 전환 문제가 다시 떠올랐다. 논쟁의 초점은 단기 가격보다 비트코인의 장기 보안과 네트워크 합의로 옮겨가는 모습이다.\n비트코인닷컴 뉴스(Bitcoin.com News)는 크레이머가 아빈드 크리슈나(Arvind Krishna) IBM 회장 겸 최고경영자와 지난달 30일 진행한 인터뷰 이후 비트코인을 모두 팔겠다는 뜻을 밝혔다고 전했다. 크레이머의 실제 보유 규모와 매각 완료 여부는 공개 검증되지 않았다.\n이번 발언은 본지가 앞서 전한 크레이머의 비트코인 전량 매도 계획과 같은 사안이다. 이번에는 ‘인버스...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/384585",
-    "published_at": "Mon, 03 Aug 2026 22:33:56 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인의 장기 보안과 네트워크 합의에 대한 논쟁이 다시 떠올라, 크레이머의 비트코인 매도 발언이 관련 주제로 다뤄지고 있다.",
-    "collected_at": "2026-08-03T22:51:51.827555+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "50.9% 희석 가능성…스피어 3D, 1030만달러 조달 추진",
-    "content": "비트코인(BTC) 채굴업체 스피어 3D(Sphere 3D, $ANY)가 최대 1030만 달러(약 148억원) 규모의 보통주 매각 한도를 열었다. 가정 가격을 적용하면 발행 가능한 신주는 기존 기본 발행주식의 50.9%에 해당한다.\n스피어 3D는 7월 31일 미국 증권거래위원회(SEC)에 제출한 8-K에서 A.G.P./얼라이언스 글로벌 파트너스(A.G.P./Alliance Global Partners), 맥심 그룹(Maxim Group LLC)과 수정·재작성 주식판매계약을 체결했다고 밝혔다. 보통주를 시장가 매각 방식으로 최대 1030만 달러까지 팔 수 있도록 한도와 판매 대리인을 정한 계약이다.\n시장가 매각은 기업이 거래소에서 형성된 주가에 맞춰 주식을 수시로 파는 자금조달 방식이다. 한도를...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384578",
-    "published_at": "Mon, 03 Aug 2026 21:39:00 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "스피어 3D가 최대 1030만 달러 규모의 보통주 매각 한도를 열었고, 이는 비트코인 채굴업체의 자금 조달에 영향을 줄 수 있는 뉴스이다. 그러나 시장 전체를 흔들 정도는 아님.",
-    "collected_at": "2026-08-03T22:51:52.555944+00:00"
   }
 ]
