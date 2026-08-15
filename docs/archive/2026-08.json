@@ -1,5 +1,65 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "이더리움 발행 논쟁, 보안과 공급 균형으로",
+    "content": "이더리움(ETH) 발행 구조를 둘러싼 논쟁이 네트워크 보안과 공급 증가의 균형 문제로 압축되고 있다. 새 ETH 발행은 검증자 보상과 보안 유지에 쓰이지만, 동시에 토큰 공급을 늘리는 비용을 동반한다는 지적이다.\n테크플로우는 한국시간 15일 오전 2시47분 잭 팬들(Zach Pandl) 그레이스케일(Grayscale) 연구책임자가 X에 올린 글을 인용해 이같이 전했다. 팬들은 이더리움을 하나의 “작은 국가”에 비유하며 ETH의 핵심 기능을 시스템 안의 재산권과 가치 교환 보호로 설명했다.\n그는 전통 국가가 세금으로 공공 서비스를 제공하는 것과 달리, 이더리움은 새 ETH 발행으로 네트워크 보안 비용을 조달한다고 봤다. 이 틀에서 스테이킹...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391303",
+    "published_at": "Sat, 15 Aug 2026 01:50:05 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "이더리움 발행 구조에 대한 논쟁이 네트워크 보안과 공급 증가의 균형 문제로 압축되고 있으며, 이는 이더리움의 핵심 기능과 관련이 있다.",
+    "collected_at": "2026-08-15T02:08:23.091187+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "체인링크, 12만7740 LINK 추가 매입했다",
+    "content": "체인링크(LINK)가 12만7740 LINK를 추가 매입해 리저브 지갑으로 옮겼다. 누적 체인링크 리저브 보유량은 약 548만 LINK로 늘었다.\n블록비츠(BlockBeats)는 15일 온체인 렌즈(Onchain Lens) 모니터링을 인용해 체인링크가 LINK 추가 매입을 완료했다고 전했다. 해당 물량의 가치는 약 112만 달러(약 15억8500만원)다.\n체인링크 리저브의 현재 보유 규모는 약 548만 LINK, 평가액은 약 4850만 달러(약 686억원)로 집계됐다. 평균 매입 단가는 LINK 1개당 11.14달러로 제시됐다.\n이번 거래는 단순 지갑 이동보다 체인링크 리저브의 축적 흐름에 초점이 맞춰진다. 체인링크는 공개 자료에서 리저브를 네트워크 성장과 지속 가능성을 뒷받침하기...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391291",
+    "published_at": "Sat, 15 Aug 2026 01:14:53 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "체인링크가 리저브 지갑으로 12만7740 LINK를 추가 매입했으며, 누적 보유량은 약 548만 LINK로 늘었다. 이는 체인링크 리저브의 축적 흐름에 초점이 맞춰진 거래로, 평균 매입 단가는 LINK 1개당 11.14달러로 제시된다.",
+    "collected_at": "2026-08-15T02:10:30.387593+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "제라치 \"암호화폐 업계, 미 중간선거 영향 과소평가\"",
+    "content": "암호화폐 업계의 정치적 영향력이 11월 미국 중간선거를 앞두고 다시 거론됐다. 암호화폐 자체가 유권자의 최우선 의제는 아니더라도 정치인의 기술·시장 인식을 보여주는 신호가 될 수 있다는 주장이다.\n오데일리는 15일 오전 2시 5분(한국시간) 네이트 제라치(Nate Geraci) ETF Store 대표가 게시글에서 “일부 미국 정치인은 암호화폐 업계가 올해 11월 중간선거에서 하게 될 역할을 심각하게 과소평가하고 있을 수 있다”고 밝혔다고 전했다. 제라치는 “유권자에게는 훨씬 더 중요한 의제가 많지만, 정치인의 암호화폐에 대한 입장은 그가 세계와 신흥 기술을 바라보는 방식을 상당 부분 보여준다”고 말했다.\n이번 발언은 암호화폐가 미국...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391290",
+    "published_at": "Sat, 15 Aug 2026 01:13:41 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "제라치 대표의 발언은 암호화폐 업계의 정치적 영향력을 강조하며, 미국 중간선거의 결과에 미치는 영향을 예측하고 있다. 이는 대형 거래소·기관의 중대 발표와 유사한 파급력을 가지고 있다.",
+    "collected_at": "2026-08-15T02:10:48.811329+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트와이즈 CIO, 비트코인 악재 무반응 주목",
+    "content": "비트코인(BTC)이 최근 악재에도 예전만큼 흔들리지 않으면서 약세장 저점 논쟁이 다시 고개를 들고 있다. 가격 방향을 단정하기보다 시장의 악재 민감도가 달라졌는지를 봐야 한다는 분석이다.\n\n맷 후건(Matt Hougan) 비트와이즈 최고투자책임자는 블룸버그 인터뷰에서 BTC가 “중요한 바닥 신호”를 보이고 있다고 말했다. 그는 마이클 세일러와 스트레티지(Strategy)를 둘러싼 매도 우려, 미국 클래리티(CLARITY) 법안 통과 가능성 약화에도 BTC가 뚜렷하게 하락하지 않은 점을 근거로 들었다.\n\n후건은 “시장이 나쁜 소식에 반응하지 않기 시작했다”는 취지로 설명했다. 이는 통상 약세장이 바닥에 가까워졌을 때 나타나는 흐름일 수 있다는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391286",
+    "published_at": "Sat, 15 Aug 2026 01:09:29 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트와이즈 CIO가 비트코인의 가격에 대한 민감도가 달라졌다고 분석하고, 악재에도 뚜렷한 하락이 없다는 점을 근거로 '중요한 바닥 신호'라고 언급했다.",
+    "collected_at": "2026-08-15T02:12:01.301244+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "93조8700억 SHIB, 초기 고래 지갑에 남았다",
+    "content": "시바이누(SHIB) 초기 투자자로 알려진 시브토시(Shibtoshi)가 93조8700억 SHIB를 보유한 것으로 관측됐다. 평가액은 4억3300만 달러(약 6127억원)다.\n우블록체인(Wu Blockchain)은 15일 오전 9시 49분 한국시간 온체인 분석가 에밋 갤릭(Emmett Gallic)과 아캄(Arkham) 데이터를 근거로 이같이 보도했다. 시브토시는 과거 약 1만1600달러(약 1641만원)를 들여 103조3300억 SHIB를 누적 매수한 초기 투자자로 전해졌다.\n아캄 데이터상 해당 주소는 올해 4월 이후 중동 가상자산 거래소 코인메나(CoinMENA)와 레인(Rain)으로 약 6조2000억 SHIB를 보냈다. 이체 당시 가치는 약 3000만 달러(약 425억원)로 제시됐다.\n이번 관측에서 더 큰 대목은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391282",
+    "published_at": "Sat, 15 Aug 2026 00:56:37 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "시브토시가 보유한 SHIB의 평가액과 수량이 공개되었고, 이는 SHIB의 초기 투자자에 대한 정보를 제공한다. 그러나 이 뉴스는 시장 전체에 큰 영향을 미치지 않는다.",
+    "collected_at": "2026-08-15T02:12:20.716816+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Breaking: ABFinance, a US-compliant cryptocurrency trading platform founded by former Bybit co-CEO Helen Liu, has announ",
