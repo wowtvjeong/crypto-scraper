@@ -2,6 +2,30 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "타임폴리오 ETF 19일 상폐, 상관계수 규제 논란",
+    "content": "타임폴리오자산운용의 ‘TIME 미국배당다우존스액티브’ ETF가 비교지수보다 높은 수익률을 내고도 상관계수 요건을 채우지 못해 오는 19일 상장폐지된다. 액티브 ETF가 초과 성과와 지수 연동성 기준을 동시에 맞춰야 하는 현행 제도가 다시 논란에 올랐다.\n연합뉴스는 16일 금융투자업계를 인용해 타임폴리오자산운용이 이 ETF의 상장폐지를 예고했다고 보도했다. 매매거래는 18일 정지되고 해지상환금은 21일 지급될 예정이다.\n한국거래소 공시에서 이 ETF의 상관계수는 6월 16일 기준 0.67이었다. 공시는 5월 14일부터 6월 16일까지 상관계수가 액티브 ETF 기준치인 0.7을 밑돌았다고 적었다.\n액티브 ETF는 비교지수와의 상관계수가 0.7...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391526",
+    "published_at": "Sat, 15 Aug 2026 21:40:11 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": false,
+    "reason": "ETF 상장폐지와 관련된 규제 논란이 업계 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-15T21:41:33.349135+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "솔라나, 토큰화 미 국채 순유입 5349억원",
+    "content": "솔라나(SOL)가 최근 30일 토큰화 미국 국채 시장에서 3억7800만 달러(약 5349억원)의 순유입을 기록하며 체인별 증가폭 1위에 올랐다.\nRWA.xyz는 15일 기준 토큰화 미국 국채 시장의 분산 가치가 162억3000만 달러(약 22조9655억원)로 집계됐다고 밝혔다. 이는 30일 전보다 1.81% 늘어난 규모로, 솔라나와 이더리움(ETH), BNB체인이 주요 증가 체인으로 제시됐다.\n토큰화 국채는 미국 국채나 국채형 머니마켓펀드 지분을 블록체인 토큰 형태로 표시한 상품군이다. 투자자는 온체인 지갑과 결제 인프라에서 전통 금융상품에 접근할 수 있지만, 상품별로 적격투자자 요건과 이전 제한이 붙을 수 있다.\n솔라나의 순유입 증가는 기관용 상품이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391524",
+    "published_at": "Sat, 15 Aug 2026 21:36:20 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "솔라나가 토큰화 미국 국채 시장에서 순유입을 기록하며 체인별 증가폭 1위에 올랐고, 이더리움과 BNB체인이 주요 증가 체인으로 제시된 점",
+    "collected_at": "2026-08-15T21:41:34.001932+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "크라켄 매출 5억800만달러, 거래대금 18% 줄어도 늘었다",
     "content": "크라켄 모회사 페이워드(Payward)가 2026년 2분기 거래대금 감소에도 조정 매출을 전년 동기보다 17% 늘렸다. 현물 거래 중심 수익에서 자산·서비스 기반 수익으로 무게가 옮겨가는 흐름이 실적 수치로 나타났다.\n페이워드는 14일 공개한 2026년 2분기 금융 하이라이트에서 조정 매출 5억800만 달러(약 7188억원), 조정 EBITDA 2300만 달러(약 325억원)를 기록했다고 밝혔다. 같은 기간 총 플랫폼 거래대금은 3100억 달러(약 438조6500억원)로 전년 동기 대비 18% 감소했다.\n거래대금과 매출의 방향이 엇갈린 점이 이번 실적의 핵심이다. 회사는 업계 현물 거래가 줄어든 반면 전통 선물, 주식, 토큰화 주식 활동이 늘었다고 설명했다.\n자산...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391514",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Solana의 새로운 제안이 47,000달러에서 650,000달러로 매일 SOL 소각량을 증가시키는 것을 목표로 함",
     "collected_at": "2026-08-04T08:27:28.339726+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Coldcard Flaw Cost AI Just $2 to Find, Dragonfly’s Qureshi Says",
-    "content": "Coldcard Flaw Cost AI Just $2 to Find, Dragonfly’s Qureshi Says\nDragonfly Managing Partner Haseeb Qureshi said the Coldcard wallet incident shows AI is reshaping the economics of crypto security, with product safety increasingly determined by how much companies spend on AI-powered testing. He introduced a “Cost of Discovery” metric to measure how cheaply a frontier model can reproduce a vulnerability, estimating the Coldcard flaw’s cost at roughly USD 2. Qureshi noted that a reported eight-minute Claude Code discovery may have been influenced by web search, but said a separate offline GLM test reproduced the issue in about 20 minutes. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25415",
-    "published_at": "2026-08-04T04:28:17+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 보안에 대한 AI의 영향과 AI-powered 테스팅에 대한 비용의 중요성에 대한 새로운 지표가 제시되는 뉴스",
-    "collected_at": "2026-08-04T05:38:52.433842+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Upbit to List HOME; Bithumb to Add META2 and USDG",
-    "content": "Upbit to List HOME; Bithumb to Add META2 and USDG\nSouth Korea's largest crypto exchange Upbit will list Defi App (HOME) on KRW and USDT markets. Defi App is a cross-chain DeFi platform supporting EVM and Solana ecosystems, offering token trading, lending and yield management, with HOME serving as its governance and utility token.\nMeanwhile, South Korea's second-largest crypto exchange Bithumb will list META2 and USDG on its KRW market. META2 represents MetaDAO, a Solana-based governance protocol that introduces prediction markets into DAO decision-making through the Futarchy model. USDG (Global Dollar) is a USD-pegged stablecoin issued by Paxos and backed 1:1 by the U.S. dollar. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25416",
-    "published_at": "2026-08-04T05:18:03+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 거래소 업비트와 비트툼브가 새로운 코인 HOME, META2, USDG를 목록에 추가하는 뉴스",
-    "collected_at": "2026-08-04T05:38:52.875347+00:00"
   }
 ]
