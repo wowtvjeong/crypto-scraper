@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "18억달러 마스터카드 인수, 상원 법안 심사와 맞물렸다",
+    "content": "마스터카드(Mastercard·$MA)의 최대 18억 달러(약 2조5470억원) 규모 BVNK 인수와 미국 디지털자산 시장 명확성 법안 논의가 스테이블코인 결제 인프라의 주요 흐름으로 맞물리고 있다.\n마스터카드는 3월 17일 투자자 공지에서 스테이블코인 인프라 기업 BVNK를 최대 18억 달러에 인수하는 최종 계약을 체결했다고 밝혔다. 인수 금액에는 조건부 지급액 3억 달러(약 4245억원)가 포함됐다. 거래는 규제 심사와 통상적인 종결 조건을 거쳐 연말 전 마무리될 예정이다.\n마스터카드는 BVNK 인수로 온체인 결제와 기존 법정화폐 결제망을 연결하겠다는 구상을 제시했다. BVNK는 주요 블록체인 네트워크에서 송금과 수취 기능을 제공하고 130개...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391442",
+    "published_at": "Sat, 15 Aug 2026 13:21:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 관련된 스테이블코인 결제 인프라의 주요 흐름으로 맞물려 있는 뉴스",
+    "collected_at": "2026-08-15T13:48:59.936282+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "마르쿠스 틸렌, 2030년 비트코인 100만 달러는 ‘수학적으로 불가능’",
+    "content": "마르쿠스 틸렌, 2030년 비트코인 100만 달러는 ‘수학적으로 불가능’",
+    "url": "https://ns3.ai/ko/news/MU41KFXLEa",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "마르쿠스 틸렌이라는 유명 인물이 비트코인 가격에 대한 공식 발표를 내렸고, 그 가격은 2030년까지 100만 달러를 넘을 수 없다는 수학적 증명이 포함되어 있다.",
+    "collected_at": "2026-08-15T13:49:47.175446+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "중국의 마누스 섬 사태는 국경을 넘는 AI 거래의 위험성을 높일 수 있다",
+    "content": "중국의 마누스 섬 사태는 국경을 넘는 AI 거래의 위험성을 높일 수 있다",
+    "url": "https://www.cryptopolitan.com/ko/chinas-manus-saga-cross-border-ai-deals/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "국경을 넘는 AI 거래의 위험성을 높일 수 있다는 점에서 크립토와 관련된 뉴스이며, 파급 범위가 크고 확정성이 높기 때문에 8.5점을 부여한다.",
+    "collected_at": "2026-08-15T13:50:19.936430+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "DeFiLlama Founder Says Months of Appeals to Apple Failed to Remove Fake App",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 가격이 회복하는 뉴스, 그러나 시장 전체에 영향을 주는 큰 사건은 아니지만 관련 주체가 크고 여러 매체가 다룰 만한 뉴스",
     "collected_at": "2026-08-03T21:38:26.538991+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "미·일 공동 외환시장 개입에 엔캐리 트레이드 우려 재부상…비트코인 변수는 달러 강세",
-    "content": "미·일 공동 외환시장 개입에 엔캐리 트레이드 우려 재부상…비트코인 변수는 달러 강세",
-    "url": "https://www.blockmedia.co.kr/archives/1123742?utm_source=coingecko&utm_medium=rss",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "미·일 공동 외환시장 개입에 대한 엔캐리 트레이드 우려가 재부상하고, 비트코인이 달러 강세에 영향을 미치는 변수로 언급되어 있어 크립토와 관련된 중요한 뉴스입니다.",
-    "collected_at": "2026-08-03T21:38:58.409653+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "블록체인협회, 상원 휴회 앞두고 셰리프협회의 Clarity Act 주장 반박",
-    "content": "블록체인협회, 상원 휴회 앞두고 셰리프협회의 Clarity Act 주장 반박",
-    "url": "https://ns3.ai/ko/news/oYxpfVLGx5",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "블록체인과 관련된 협회가 다른 협회에 대한 주장을 반박하는 뉴스, 관련 주체가 크고 영향 범위가 제한적이지만 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-03T21:39:14.769446+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "카르다노, 반 로쎔 하드포크로 프로토콜 11.0 적용",
-    "content": "카르다노, 반 로쎔 하드포크로 프로토콜 11.0 적용",
-    "url": "https://www.tokenpost.kr/news/blockchain/384575",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "카르다노 프로토콜의 하드포크로 인한 프로토콜 11.0의 적용은 카르다노의 개발과 향후 전망에 영향을 줄 수 있는 중요한 이벤트로 간주되며, 관련 주체의 규모도 중견 기업급으로 평가된다.",
-    "collected_at": "2026-08-03T21:39:32.207079+00:00"
   }
 ]
