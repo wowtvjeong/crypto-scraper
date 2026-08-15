@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "카르다노, 9월 12일 전 다익스트라 헌법 정비 추진",
+    "content": "카르다노(Cardano)가 다익스트라 시대(Dijkstra Era)를 앞두고 헌법상 가드레일 정비와 레이오스(Leios) 테스트를 병행하고 있다. 새 노드 기능을 메인넷에 올리기 전 조정 가능한 프로토콜 파라미터를 온체인 거버넌스가 다룰 수 있게 만드는 작업이다.\n인풋아웃풋(Input Output)은 7월 10일 공개한 글에서 카르다노 헌법을 작고 순수한 기술적 업데이트로 조정할 준비를 하고 있다고 밝혔다. 다익스트라 시대에는 우로보로스 레이오스(Ouroboros Leios)와 네스티드 트랜잭션 같은 기능이 포함되며, 이 과정에서 새로 조정 가능한 프로토콜 파라미터가 생긴다.\n카르다노 헌법은 명시되지 않은 파라미터를 거버넌스의 파라미터 업데이트로...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391412",
+    "published_at": "Sat, 15 Aug 2026 10:56:49 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "카르다노가 다익스트라 시대에 대한 헌법 정비를 추진하고 있으며, 새 노드 기능을 메인넷에 올리기 전 조정 가능한 프로토콜 파라미터를 온체인 거버넌스가 다룰 수 있게 만드는 작업이다.",
+    "collected_at": "2026-08-15T11:10:28.757908+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+    "content": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+    "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sat, 15 Aug 2026 10:44:52 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "규제 당국의 지시로 크립토 관련 거래소인 Kalshi가 특정 지역의 거래를 제한해야 하는 조건이 발표되었습니다.",
+    "collected_at": "2026-08-15T11:10:56.550516+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "엔비디아의 승부수 5000억달러 금융동맹, 월가 노림수와 거대한 위험",
