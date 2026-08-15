@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "content": "비트코인(BTC) 거래의 비금융 데이터 사용을 1년간 제한하려던 BIP-110이 공식 종료된 뒤에도 소수 분기 체인의 생존 가능성을 둘러싼 논쟁이 이어지고 있다. 쟁점은 새 코인 출현보다 소수 지지로 비트코인 합의 규칙을 강제할 수 있느냐에 맞춰졌다.\n공식 BIP 문서는 BIP-110 상태를 ‘Closed’로 표시하고, 8월 9일 변경 이력에 종료 사유로 ‘채굴이 정체된 체인 분리’를 남겼다. BIP-110은 96만1632번째 블록부터 96만3647번째 블록까지 비트 4 신호를 의무화하고 96만5664번째 블록에서 활성화하는 구조였다.\n조기 승인 기준은 2016개 블록 중 1109개, 즉 55%였다. 그러나 실제 지지는 이 기준에 크게 못 미쳤고, 앞서 본지는 BIP-110 공식...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391495",
+    "published_at": "Sat, 15 Aug 2026 18:54:13 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 거래의 비금융 데이터 사용 제한에 대한 논쟁과 소수 지지로 비트코인 합의 규칙을 강제할 수 있는 가능성에 대한 논의가 이어지고 있다.",
+    "collected_at": "2026-08-15T19:14:29.589894+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BIP-110 포크, Blake2b 전환 계획 속 7일 동안 블록 4개 채굴",
+    "content": "BIP-110 포크, Blake2b 전환 계획 속 7일 동안 블록 4개 채굴",
+    "url": "https://ns3.ai/ko/news/daWn6SzNZu",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 블록체인 내의 주요 업데이트",
+    "collected_at": "2026-08-15T19:14:29.913331+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "content": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "url": "https://www.tokenpost.kr/news/blockchain/391495",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 개선안과 소수 체인 시험대라는 내용이 크립토와 관련이 있으며, 시청자에게 유의미한 뉴스이지만 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-15T19:14:30.303014+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "COLDCARD Mk3 해킹으로 필리프 왕자의 비트코인 보유분이 위험에 처하다",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "이더리움 재단이 메인넷 본업으로 돌아가는 것을 발표했으므로, 이더리움의 주요 뉴스 중 하나로 간주할 수 있습니다.",
     "collected_at": "2026-08-04T05:47:49.746945+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Highlight Clip Jimmy Song: Altcoins Are Scams; Bitcoin Is Better Money, Not Better Technology",
-    "content": "Highlight Clip Jimmy Song: Altcoins Are Scams; Bitcoin Is Better Money, Not Better Technology\nJimmy Song: Altcoins Are Scams; Bitcoin Is Better Money, Not Better Technology\nIn June 2026, well-known Bitcoin educator Jimmy Song said in an interview with Cointelegraph during BTC Prague in Prague that altcoins, even when marketed as technically superior, still struggle to replace Bitcoin because they lack Bitcoin’s network effect and long-term security hardening.\nIn his view, many people simply do not care how often those assets get hacked, and the bigger misconception is that Bitcoin is still seen as a technology rather than money. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25413",
-    "published_at": "2026-08-04T00:44:22+00:00",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유명 인물의 발언이지만 구체적인 정책·행동 변화가 수반되지 않아 7점을 넘기지 않고, 여러 매체가 동시에 다룰 만한 뉴스이므로 7.5점을 부여한다.",
-    "collected_at": "2026-08-04T02:34:16.928498+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "유니스왑 창립자, 거래 터미널·런치패드 출시 예고",
-    "content": "유니스왑(UNI) 창립자가 유니스왑 생태계용 거래 터미널·런치패드로 소개된 pools.trade의 출시를 예고했다. 구체적인 출시 일정과 제공 기능은 공개되지 않았다.\n포사이트뉴스(Foresight News)는 4일 헤이든 애덤스(Hayden Adams) 유니스왑 창립자가 커뮤니티 이용자의 출시 시점 질문에 곧 출시된다고 답했다고 전했다. 포사이트뉴스는 pools.trade를 로빈후드 체인을 주요 대상으로 하는 유니스왑 생태계용 거래 터미널·런치패드라고 설명했다.\npools.trade 공식 도메인은 4일 한국시간 확인 기준 서비스 설명이나 관련 문서 없이 ‘Something new’라는 페이지 제목만 표시했다. 운영 주체와 지원 자산, 수수료 구조, 이용 가능 지역도...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384707",
-    "published_at": "Tue, 04 Aug 2026 02:29:54 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유니스왑 창립자가 유니스왑 생태계용 거래 터미널·런치패드 출시를 예고했으며, pools.trade가 주요 대상인 유니스왡 생태계용 거래 터미널·런치패드라는 점이 시청자에게 유의미한 뉴스임",
-    "collected_at": "2026-08-04T02:34:21.433772+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "말레이시아 디지털경제공사, 블록체인 주간 지원 철회",
-    "content": "말레이시아 디지털경제공사(MDEC)가 애프터파티 홍보 논란이 불거진 말레이시아 블록체인 위크 2026(Malaysia Blockchain Week 2026)에 대한 지원을 철회했다. 주최 측은 문제가 된 홍보물을 내리고 사과했다.\n말레이시아키니는 MDEC와 말레이시아 디지털부가 애프터파티의 기획과 승인, 홍보, 게스트 선정에 관여하지 않았다고 보도했다. 정부 기관의 지원을 받는 행사와 별도 부대행사의 홍보가 뒤섞이면서 기관 로고 사용과 행사 운영을 둘러싼 비판이 제기됐다.\n행사 등록 페이지에는 공식 애프터파티가 7월 30일 쿠알라룸푸르 ING Livehouse KL에서 열리는 것으로 안내됐다. 프리미엄 소파 패키지 가격은 테더(USDT) 1000개로...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384696",
-    "published_at": "Tue, 04 Aug 2026 02:19:46 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "말레이시아 디지털경제공사가 블록체인 관련 행사에 대한 지원을 철회하는 등 정부 기관의 공식 발표와 관련된 뉴스",
-    "collected_at": "2026-08-04T02:36:12.239677+00:00"
   }
 ]

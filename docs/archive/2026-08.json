@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "content": "비트코인(BTC) 거래의 비금융 데이터 사용을 1년간 제한하려던 BIP-110이 공식 종료된 뒤에도 소수 분기 체인의 생존 가능성을 둘러싼 논쟁이 이어지고 있다. 쟁점은 새 코인 출현보다 소수 지지로 비트코인 합의 규칙을 강제할 수 있느냐에 맞춰졌다.\n공식 BIP 문서는 BIP-110 상태를 ‘Closed’로 표시하고, 8월 9일 변경 이력에 종료 사유로 ‘채굴이 정체된 체인 분리’를 남겼다. BIP-110은 96만1632번째 블록부터 96만3647번째 블록까지 비트 4 신호를 의무화하고 96만5664번째 블록에서 활성화하는 구조였다.\n조기 승인 기준은 2016개 블록 중 1109개, 즉 55%였다. 그러나 실제 지지는 이 기준에 크게 못 미쳤고, 앞서 본지는 BIP-110 공식...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391495",
+    "published_at": "Sat, 15 Aug 2026 18:54:13 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인 거래의 비금융 데이터 사용 제한에 대한 논쟁과 소수 지지로 비트코인 합의 규칙을 강제할 수 있는 가능성에 대한 논의가 이어지고 있다.",
+    "collected_at": "2026-08-15T19:14:29.589894+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "BIP-110 포크, Blake2b 전환 계획 속 7일 동안 블록 4개 채굴",
+    "content": "BIP-110 포크, Blake2b 전환 계획 속 7일 동안 블록 4개 채굴",
+    "url": "https://ns3.ai/ko/news/daWn6SzNZu",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 블록체인 내의 주요 업데이트",
+    "collected_at": "2026-08-15T19:14:29.913331+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "content": "4블록 그친 비트코인 개선안, 소수 체인 시험대",
+    "url": "https://www.tokenpost.kr/news/blockchain/391495",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "비트코인 개선안과 소수 체인 시험대라는 내용이 크립토와 관련이 있으며, 시청자에게 유의미한 뉴스이지만 영향 범위가 제한적이다.",
+    "collected_at": "2026-08-15T19:14:30.303014+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "COLDCARD Mk3 해킹으로 필리프 왕자의 비트코인 보유분이 위험에 처하다",
