@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "아부다비 국부자금, 비트코인 ETF 2294만주 유지",
+    "content": "아부다비 국부펀드 계열 자금이 2분기에도 블랙록의 현물 비트코인(BTC) 상장지수펀드(ETF) 보유 주식 2294만주를 유지한 것으로 나타났다. 평가액은 비트코인 가격 하락 영향으로 1억1800만 달러(약 1670억원) 줄었다.\n기준 시점은 6월 30일이다. 무바달라 인베스트먼트 컴퍼니(Mubadala Investment Company)와 아부다비 투자위원회(ADIC)가 블랙록 아이셰어즈 비트코인 트러스트 ETF(IBIT)를 합산 2294만주 보유했다고 크립토슬레이트(CryptoSlate)는 보도했다.\n두 기관의 합산 평가액은 약 7억6400만 달러(약 1조811억원)로 집계됐다. 기관별로는 무바달라가 약 4억9010만 달러(약 6935억원), 아부다비 투자위원회가 약 2억7360만 달러(약...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391368",
+    "published_at": "Sat, 15 Aug 2026 06:13:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "아부다비 국부자금이 블랙록의 비트코인 ETF를 2294만주 유지하고 있는 것으로 나타났으며, 평가액은 1억1800만 달러 줄었다. 이는 비트코인 가격 하락의 영향으로 인한 것으로 보인다.",
+    "collected_at": "2026-08-15T06:19:49.049158+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "5억7480만달러 주소 오용 손실, 체인 혼동이 키웠다",
+    "content": "이더리움(ETH)과 BNB체인에서 주소 오용으로 분류된 고위험 사례 6만5340건이 확인됐다. 손실 규모는 126,982.94 ETH와 17,726.7 BNB, 5억7480만 달러(약 8134억원) 이상으로 집계됐다.\nUSENIX Security ’26 채택 논문 ‘Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact’는 이더리움 메인넷과 BNB 스마트체인을 대상으로 주소 오용 사례를 분석했다. 연구진은 깃허브와 스택 익스체인지에서 수집한 1031만2572개 주소와 중복 제거된 1630만5399개 개인키를 온체인 거래와 대조했다.\n이번 논문은 본지가 앞서 전한 주소 오용 손실 추산을 세부 유형과 공격 구조 중심으로 다시 들여다본 연구다....  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391366",
+    "published_at": "Sat, 15 Aug 2026 06:12:17 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 주소 오용으로 인한 5억7480만 달러 이상의 손실이 확인되었고, 이더리움 메인넷과 BNB 스마트체인에 대한 연구가 발표되었다.",
+    "collected_at": "2026-08-15T06:19:49.459488+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "아부다비 국부펀드, 1억 1,800만 달러 손실에도 블랙록 비트코인 ETF 지분 7억 6,400만 달러 유지",
+    "content": "아부다비 국부펀드, 1억 1,800만 달러 손실에도 블랙록 비트코인 ETF 지분 7억 6,400만 달러 유지",
+    "url": "https://ns3.ai/ko/news/ZTdGpIUQgK",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 국부펀드가 블랙록 비트코인 ETF에 7억 6,400만 달러를 투자하고 있는 것으로 나타났으며, 1억 1,800만 달러의 손실에도 지분을 유지하고 있다.",
+    "collected_at": "2026-08-15T06:20:24.612780+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Cboe Seeks SEC Approval for First US 3x Bitcoin and Ether ETFs",
