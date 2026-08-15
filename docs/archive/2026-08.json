@@ -1,5 +1,53 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "JPMorgan cut Polymarket’s banking ties in 2025: what’s confirmed, and what isn’t",
+    "content": "JPMorgan cut Polymarket’s banking ties in 2025: what’s confirmed, and what isn’t",
+    "url": "https://coinmarketcap.com/community/articles/6a80ee47d08c9b65fb0a4c95/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 은행(JPMorgan)이 크립토 관련 프로젝트(Polymarket)와의 은행 관계를 끊었다는 뉴스, 영향 범위는 크립토 시장 전반에 미치지 않지만 관련 주체가 중견 기업급으로 파급력이 있다.",
+    "collected_at": "2026-08-15T23:10:44.311602+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Woman alleges stepfather used xAI’s Grok to create explicit images from her childhood photo",
+    "content": "Woman alleges stepfather used xAI’s Grok to create explicit images from her childhood photo",
+    "url": "https://coinmarketcap.com/community/articles/6a80ee459306a622ef765edf/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "xAI의 Grok라는 AI 기술을 사용한 뉴스, 관련 주체가 크고 파급 범위가 크지만 아직 확정 발표가 아니므로 8.5점",
+    "collected_at": "2026-08-15T23:10:44.659188+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Abu Dhabi’s BlackRock Bitcoin ETF Stake Falls in Value",
+    "content": "Abu Dhabi’s BlackRock Bitcoin ETF Stake Falls in Value",
+    "url": "https://coinmarketcap.com/community/articles/6a80e997d13bf07e58cd4b54/",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "BlackRock이 비트코인 ETF에 투자한 자산의 가치가 감소하는 뉴스, 관련 주체가 대형 투자 회사인 BlackRock으로 파급 범위가 크고 확정성이 높음",
+    "collected_at": "2026-08-15T23:11:02.676808+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Binance Research: Gen Z Lifted ETFs to 25% of Its Equity Volume in August",
+    "content": "Binance Research: Gen Z Lifted ETFs to 25% of Its Equity Volume in August",
+    "url": "https://coinmarketcap.com/community/articles/6a80e997d71d286d2776107b/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Binance의 연구 결과가 발표되었고, Gen Z의 ETF 투자량이 25%로 증가한 것으로 나타났으나, 시장 전체에 직접적인 영향을 주지는 않는다.",
+    "collected_at": "2026-08-15T23:11:15.980936+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "Z세대 ETF 비중 25%, 바이낸스 주식거래서 확대",

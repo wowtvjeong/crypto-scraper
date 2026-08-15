@@ -1,5 +1,53 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "JPMorgan cut Polymarket’s banking ties in 2025: what’s confirmed, and what isn’t",
+    "content": "JPMorgan cut Polymarket’s banking ties in 2025: what’s confirmed, and what isn’t",
+    "url": "https://coinmarketcap.com/community/articles/6a80ee47d08c9b65fb0a4c95/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 은행(JPMorgan)이 크립토 관련 프로젝트(Polymarket)와의 은행 관계를 끊었다는 뉴스, 영향 범위는 크립토 시장 전반에 미치지 않지만 관련 주체가 중견 기업급으로 파급력이 있다.",
+    "collected_at": "2026-08-15T23:10:44.311602+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Woman alleges stepfather used xAI’s Grok to create explicit images from her childhood photo",
+    "content": "Woman alleges stepfather used xAI’s Grok to create explicit images from her childhood photo",
+    "url": "https://coinmarketcap.com/community/articles/6a80ee459306a622ef765edf/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "xAI의 Grok라는 AI 기술을 사용한 뉴스, 관련 주체가 크고 파급 범위가 크지만 아직 확정 발표가 아니므로 8.5점",
+    "collected_at": "2026-08-15T23:10:44.659188+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Abu Dhabi’s BlackRock Bitcoin ETF Stake Falls in Value",
+    "content": "Abu Dhabi’s BlackRock Bitcoin ETF Stake Falls in Value",
+    "url": "https://coinmarketcap.com/community/articles/6a80e997d13bf07e58cd4b54/",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "BlackRock이 비트코인 ETF에 투자한 자산의 가치가 감소하는 뉴스, 관련 주체가 대형 투자 회사인 BlackRock으로 파급 범위가 크고 확정성이 높음",
+    "collected_at": "2026-08-15T23:11:02.676808+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Binance Research: Gen Z Lifted ETFs to 25% of Its Equity Volume in August",
+    "content": "Binance Research: Gen Z Lifted ETFs to 25% of Its Equity Volume in August",
+    "url": "https://coinmarketcap.com/community/articles/6a80e997d71d286d2776107b/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Binance의 연구 결과가 발표되었고, Gen Z의 ETF 투자량이 25%로 증가한 것으로 나타났으나, 시장 전체에 직접적인 영향을 주지는 않는다.",
+    "collected_at": "2026-08-15T23:11:15.980936+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "Z세대 ETF 비중 25%, 바이낸스 주식거래서 확대",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "시총 2000만 달러를 돌파하고 24시간 거래량이 200만 달러에 이를 정도로 크립토 시장에 큰 영향을 미치는 소식이지만, 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-04T08:23:24.837458+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "단고 창업자 “암호화폐 초기 부 창출 창구 닫혔다”",
-    "content": "단고(Dango) 창업자가 암호화폐 시장의 ‘초기 부 창출 창구’가 닫혔다고 진단했다. POAP의 신규 발행자 온보딩 중단과 단고의 사업 정리가 온체인 애플리케이션의 실제 수요를 둘러싼 논쟁으로 번지는 모습이다.\n래리 엔지니어(Larry Engineer) 단고 창업자는 4일 우블록체인이 공개한 발제문에서 “지난 5년은 NFT, 메타버스, DePIN, 소셜파이, 게임파이, DAO 등 다수의 암호화폐 서사가 성립하기 어렵다는 점을 보여줬다”고 말했다. 그는 ENS와 POAP 같은 온체인 소유권 기반 애플리케이션도 성장 동력을 잃었다고 평가했다.\n이번 발언은 POAP의 운영 전환을 계기로 나왔다. POAP는 행사 참석 사실을 디지털 수집품으로 발행하는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384891",
-    "published_at": "Tue, 04 Aug 2026 07:35:36 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "단고 창업자가 암호화폐 시장의 초기 부 창출 창구가 닫혔다고 진단하고, NFT, 메타버스, DePIN, 소셜파이, 게임파이, DAO 등 다수의 암호화폐 서사가 성립하기 어렵다는 점을 강조했다.",
-    "collected_at": "2026-08-04T08:23:42.309030+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스피어 3D 1분기 59억원 손실, 비트코인 팔아 운영자금 충당",
-    "content": "비트코인(BTC) 채굴업체 스피어 3D(Sphere 3D, $ANY)가 채굴한 비트코인을 팔아 운영자금을 충당했지만 2026년 1분기 410만6000달러(약 59억원)의 순손실을 기록했다. 회사는 보통주 추가 발행도 자금 확보 수단으로 활용하고 있다.\n스피어 3D가 미국 증권거래위원회(SEC)에 제출한 1분기 보고서에 따르면, 3월 31일 기준 현금 및 현금성 자산은 314만5000달러(약 45억원), 비트코인 보유액의 공정가치는 178만5000달러(약 26억원)였다. 회사는 반복된 손실과 영업활동 현금흐름 적자, 해시레이트 수준을 근거로 추가 자금 조달에 실패하면 12개월 안에 계속기업으로 존속할 능력에 중대한 의문이 있다고 밝혔다.\n1분기 비트코인 채굴량은...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/384885",
-    "published_at": "Tue, 04 Aug 2026 07:29:30 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 채굴업체가 비트코인을 팔아 운영자금을 충당했지만 59억원의 순손실을 기록했다. 회사는 추가 자금 조달에 실패하면 존속할 능력에 중대한 의문이 있다.",
-    "collected_at": "2026-08-04T08:24:55.326318+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "‘중앙화거래소 독주’ 흔들렸다⋯ DEX 현물 거래 비중 사상 최고치",
-    "content": "[블록미디어 양원모 기자] 지난달 탈중앙화거래소(DEX)의 현물 거래량이 중앙화거래소(CEX) 거래 비중 사상 최고치를 기록했다. 전체 디지털자산 현물 거래가 둔화하는 가운데 CEX 거래 감소 폭이 DEX보다 더 크게 나타나면서 온체인 거래 비중이 빠르게 확대되고 있다는 분석이다. 4일(현지시각) 디지털자산 전문 매체 더블록, 블록웍스 등에 따르면 7월 DEX 현물 거래량은 CEX 거래량의 24.14%를 기록했다. 이는 더블록이 관련 통계를 집계하기 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123980?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 04 Aug 2026 07:53:06 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "중앙화거래소 거래량 감소와 탈중앙화거래소 거래량 증가로 온체인 거래 비중이 빠르게 확대되고 있다는 분석이 나온 뉴스",
-    "collected_at": "2026-08-04T08:25:12.978264+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "NY judge denies CFTC motion to halt enforcement action against Kalshi",
-    "content": "The ruling leaves New York’s case against Kalshi in place while allowing the CFTC to renew its request before Judge Victor Marrero.",
-    "url": "https://cointelegraph.com/news/ny-judge-denies-cftc-motion-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 04 Aug 2026 07:49:22 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "CFTC와 관련된 뉴스이며, 유의미한 규제 동향이 포함되어 있으나, 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-08-04T08:26:03.756006+00:00"
   }
 ]
