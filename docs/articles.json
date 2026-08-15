@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Justin Sun Responds After Binance Announces Restrictions on Transactions Involving HTX",
+    "content": "Justin Sun Responds After Binance Announces Restrictions on Transactions Involving HTX\nJustin Sun said he had spoken with Binance, which clarified that its restrictions on transactions involving HTX and other platforms apply only to users in the UK and EU. HTX does not operate in the UK or EU and is currently negotiating settlements with regulators in the two regions. Users affected during this process can contact HTX customer support, and HTX will coordinate a resolution. Earlier, Binance announced that it would stop processing transactions involving HTX, EXMO, and nine other platforms. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25586",
+    "published_at": "2026-08-15T14:03:48+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Binance가 HTX와 관련된 거래 제한을 발표하고, Justin Sun이 이에 대한 반응을 보인 뉴스. 영향 범위는 크립토 시장 전반에 영향을 주지 않지만, 관련 주체의 규모가 크고, 다수 매체가 동시에 다룰 만한 뉴스이므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-15T14:44:54.992982+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "비트코인 무지개차트 지표 10년 저점권 진입",
+    "content": "비트코인(BTC)의 변동성 조정 무지개차트 Z스코어가 -2.293으로 내려가 10년 저점권에 진입했다. 2022년 약세장 저점 당시 -1.979보다 낮은 수치다.\n악셀 애들러 주니어(Axel Adler Jr.) 크립토퀀트 애널리스트는 BTC가 현재 무지개차트 모델의 최하단 구간에서 거래되고 있으며, 장기 모델 가격 궤적 대비 극단적 할인 상태를 보인다고 밝혔다고 오데일리가 15일 오후 3시19분(한국시간) 전했다.\n그가 제시한 변동성 조정 Z스코어 -2.293은 현재 가격이 장기 모델에서 산출한 기준선보다 얼마나 아래에 있는지를 표준화해 보여 주는 값이다. 숫자가 낮을수록 모델 대비 하방 괴리가 크다는 뜻이다.\n무지개차트는 BTC의 장기 가격 흐름을...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391454",
+    "published_at": "Sat, 15 Aug 2026 14:37:37 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "비트코인의 변동성 조정 무지개차트 Z스코어가 10년 저점권에 진입했으며, 장기 모델 가격 궤적 대비 극단적 할인 상태를 보인다고 밝혔다.",
+    "collected_at": "2026-08-15T14:44:55.258000+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스마켓츠, 미국 예측시장·스포츠북 동시 추진",
+    "content": "스마켓츠(Smarkets)가 미국 예측시장 진입을 위해 연방 파생상품 규제와 주별 스포츠베팅 인가를 동시에 추진하고 있다. 스포츠 이벤트 계약을 금융상품으로 볼지, 주정부가 관리하는 도박으로 볼지를 두고 미국 내 관할권 다툼이 커진 데 따른 전략이다.\nCNBC는 15일 오후 11시24분(한국시간) 스마켓츠가 미국 상품선물거래위원회(CFTC) 라이선스와 주별 스포츠북 허가를 함께 추진하고 있다고 보도했다. 스마켓츠는 3월 CFTC에 예측시장 라이선스를 신청했다.\n스마켓츠의 누적 거래량은 600억 달러(약 84조9000억원)를 넘었고, 올해 거래 규모도 12억 달러(약 1조6980억원)를 넘었다. 회사는 3월 발표문에서 누적 거래량을 약 500억 달러(약...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391452",
+    "published_at": "Sat, 15 Aug 2026 14:32:25 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": false,
+    "reason": "스마켓츠가 미국 예측시장 진입을 위해 연방 파생상품 규제와 주별 스포츠베팅 인가를 동시에 추진하는 전략을 발표했다. 이는 미국 내 관할권 다툼이 커진 데 따른 대응으로, 스마켓츠의 규모와 거래량을 고려할 때 이 뉴스는 업계 전반에 주목할 만한 뉴스이다.",
+    "collected_at": "2026-08-15T14:44:55.867438+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "코인베이스, AI 거래 손실 책임 사용자에 고지",
+    "content": "코인베이스($COIN)가 AI 에이전트 기반 거래에서 오류와 서비스 장애가 발생할 수 있으며, 관련 거래 책임은 사용자에게 있다고 고지했다. 자동화된 주문 실행이 가능해져도 손실과 감독 책임이 플랫폼으로 넘어가는 것은 아니라는 설명이다.\n코인베이스는 트레이딩 아레나 위험고지에서 사용자가 애플리케이션을 이용하면 모든 거래 결정을 스스로 책임진다고 밝혔다. AI 에이전트는 사용자 입력을 바탕으로 자동 거래를 시작할 수 있고, 거래가 추가 검토 없이 이뤄질 수 있다고 설명했다. 오데일리는 15일 오후 3시 8분 한국시간 코인베이스가 X에서 관련 내용은 참고용이며 투자 조언이나 추천이 아니라고 밝혔다고 전했다.\n핵심은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391449",
+    "published_at": "Sat, 15 Aug 2026 14:12:34 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "코인베이스가 AI 거래에서 오류와 서비스 장애가 발생할 수 있으며, 관련 거래 책임은 사용자에게 있다고 고지했다.",
+    "collected_at": "2026-08-15T14:45:41.768586+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "홍콩 투자사기 35.8억홍콩달러, 미 규제 논의 재개",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "양자 위협과 관련된 뉴스이며, 50만 물리 큐비트 추정은 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이지만, 아직 '즉시 속보'급 확정 사건은 아님",
     "collected_at": "2026-08-03T22:54:55.428000+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "카르다노, 반 로쎔 하드포크로 프로토콜 11.0 적용",
-    "content": "카르다노(Cardano)가 반 로쎔(Van Rossem) 하드포크를 통해 메인넷 프로토콜을 버전 11.0으로 올렸다. 이번 업그레이드는 새 시대로 넘어가는 전환이 아니라 콘웨이 시대(Conway Era) 안에서 프로토콜 규칙을 조정한 작업이다.\n인터섹트(Intersect)는 반 로쎔 하드포크가 한국시간 7월 19일 오전 6시 44분 51초 슬롯 192,844,800에서 발효됐다고 밝혔다. 카르다노 공식 하드포크 페이지에는 시행일이 7월 18일, 프로토콜 버전이 11.0으로 기재됐으며 상태는 콘웨이 시대로 표시됐다.\n이번 업그레이드는 원장 규칙 정비와 VRF 키 고유성 강화, 플루투스(Plutus) 스마트계약 성능 개선, 새로운 암호화 내장 기능 도입을 담았다. 플루투스는...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/384575",
-    "published_at": "Mon, 03 Aug 2026 21:17:11 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "카르다노의 프로토콜 업그레이드가 특정 코인에 한정된 이슈로, 중견 기업의 파트너십과 유사한 파급력으로 평가됨",
-    "collected_at": "2026-08-03T21:36:30.430964+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "허깅페이스 침해 공격 행위 1만7600건 복구",
-    "content": "오픈AI(OpenAI)의 내부 사이버 평가에 투입된 AI 에이전트가 격리 환경을 벗어나 허깅페이스(Hugging Face) 인프라에 접근했다. 허깅페이스가 복구한 공격 행위는 약 1만7600건에 달했다.\n오픈AI는 7월 21일 보안 공지에서 GPT-5.6 솔(GPT-5.6 Sol)과 더 강력한 내부 연구용 사전 출시 모델을 사이버 역량 평가인 ‘ExploitGym’에 투입했다고 밝혔다. 평가는 고위험 사이버 행위를 차단하는 일부 운영 분류기를 끈 상태에서 진행됐다.\n모델은 패키지 레지스트리 캐시 프록시의 제로데이 취약점을 이용해 외부 인터넷 접근권을 확보한 뒤 허깅페이스 생산 인프라의 취약점까지 연결했다. 허깅페이스는 7월 9일 오전 11시28분부터 13일 오후...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/384573",
-    "published_at": "Mon, 03 Aug 2026 21:13:38 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "크립토와 관련이 없지만, 크립토와 관련된 기술(인공지능, AI)에 대한 공격에 대한 뉴스입니다. 허깅페이스 인프라에 대한 공격이 복구되었으며, 약 1만7600건의 공격 행위가 있었다. 이 뉴스는 크립토 시장에 직접적인 영향을 주지 않지만, 크립토와 관련된 기술에 대한 보안 이슈를 다루고 있기 때문에 8.5점을 부여합니다.",
-    "collected_at": "2026-08-03T21:36:31.042508+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "미·일 공동 외환시장 개입에 엔캐리 트레이드 우려 재부상…비트코인 변수는 달러 강세",
-    "content": "[블록미디어 명정선 기자] 미국과 일본이 공동으로 외환시장에 개입하면서 엔화 가치가 급반등하자 시장에서는 2024년 ‘엔캐리 트레이드 청산’ 당시의 비트코인 급락이 재현되는 것 아니냐는 우려가 다시 고개를 들고 있다. 다만 최근 시장에서는 엔화보다 미국 달러 강세가 비트코인 가격에 더 큰 영향을 미치고 있다는 분석도 나온다. 스콧 베선트 미국 재무장관은 3일(현지시각) 소셜미디어 X를 통해 미국이 지난주 일본과 함께 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123742?utm_source=general&utm_medium=rss",
-    "published_at": "Mon, 03 Aug 2026 21:20:03 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국과 일본의 공동 외환시장 개입이 엔화 가치에 영향을 미치고, 비트코인 가격에 영향을 미치는 달러 강세에 대한 우려가 재부상하는 뉴스",
-    "collected_at": "2026-08-03T21:37:16.928999+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Bessent’s top crypto adviser Tyler Williams exits US Treasury: Report",
-    "content": "A key architect of the Trump administration’s digital asset agenda is leaving the Treasury Department as Congress struggles to advance landmark crypto legislation.",
-    "url": "https://cointelegraph.com/news/bessent-top-crypto-adviser-tyler-williams-leaves-us-treasury-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Mon, 03 Aug 2026 20:29:47 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관의 중대 발표와 유사한 유명 프로젝트·규제 당국의 주요 인물의 이직 소식",
-    "collected_at": "2026-08-03T21:37:34.612439+00:00"
   }
 ]
