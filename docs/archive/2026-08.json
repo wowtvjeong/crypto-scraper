@@ -1,5 +1,65 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "COLDCARD Mk3 해킹으로 필리프 왕자의 비트코인 보유분이 위험에 처하다",
+    "content": "COLDCARD Mk3 해킹으로 필리프 왕자의 비트코인 보유분이 위험에 처하다",
+    "url": "https://ns3.ai/ko/news/AxNgcAH1hT",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "COLDCARD Mk3 해킹으로 필리프 왕자의 비트코인 보유분이 위험에 처하다라는 문구는 크립토와 관련된 중요한 뉴스를 나타내며, 필리프 왕자의 비트코인 보유분이 위험에 처한다는 점은 파급 범위가 크고 확정성이 높다. 다만, 필리프 왕자의 비트코인 보유분이 정확히 얼마인지에 대한 정보가 부족하고, COLDCARD Mk3 해킹에 대한 자세한 내용도 알려주지 않아 9점을 넘기지 못했다.",
+    "collected_at": "2026-08-15T18:53:17.238346+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "구글 계정 탈취로 비트코인 보유자, 약 75만 달러 상당 BTC 잃어",
+    "content": "구글 계정 탈취로 비트코인 보유자, 약 75만 달러 상당 BTC 잃어",
+    "url": "https://ns3.ai/ko/news/d7spZgqHuc",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "구글 계정 탈취로 비트코인 보유자가 약 75만 달러 상당의 비트코인을 잃어버렸다는 뉴스는 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스이므로 8.5점을 부여합니다.",
+    "collected_at": "2026-08-15T18:53:35.710634+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "DeFiLlama 설립자는 애플이 가짜 앱을 삭제하도록 하기 위해 자신의 지갑을 털어갔습니다",
+    "content": "DeFiLlama 설립자는 애플이 가짜 앱을 삭제하도록 하기 위해 자신의 지갑을 털어갔습니다",
+    "url": "https://www.cryptopolitan.com/ko/defillama-founder-hack-to-force-apple/",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "DeFiLlama 설립자가 자신의 지갑을 털어 가짜 앱을 삭제하도록 한다는 뉴스는 크립토와 관련된 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T18:53:51.465775+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Cboe Seeks SEC Approval for First U.S. 3x Bitcoin and Ether ETFs",
+    "content": "Cboe Seeks SEC Approval for First U.S. 3x Bitcoin and Ether ETFs",
+    "url": "https://coinmarketcap.com/community/articles/6a80b15c0b88e36829350d2f/",
+    "published_at": null,
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "규제당국의 공식 결정과 ETF 승인/거부가 관련된 뉴스",
+    "collected_at": "2026-08-15T18:54:08.940429+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+    "content": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
+    "url": "https://coinmarketcap.com/community/articles/6a80b15778db137f7d7aa1cf/",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표와 유사한 뉴스인 Trump-Linked World Liberty가 USD1 Stablecoin에 대한 조건부 은행 지위를 받았다는 뉴스",
+    "collected_at": "2026-08-15T18:54:24.679551+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "75만달러 BTC 탈취, 구글 계정 침해서 시작",
