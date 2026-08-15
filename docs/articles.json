@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "Z세대 ETF 비중 25%, 바이낸스 주식거래서 확대",
+    "content": "바이낸스의 Z세대 주식 거래에서 ETF 비중이 8월 초 25.0%로 올라섰다. 6월 14.6%에서 두 달 사이 10.4%포인트 높아진 수치다.\n\n바이낸스 리서치는 12일 보고서에서 Z세대가 바이낸스 주식 거래에서 ETF 활용을 늘린 것으로 나타났다고 밝혔다. 같은 기간 밀레니얼 세대의 8월 초 ETF 거래 비중은 9.5%였다.\n\n순유입 기준도 같은 방향을 보였다. Z세대의 무레버리지 ETF 순유입 비중은 6월 18.5%에서 7월 21.9%로 올랐다. 반면 개별 주식 비중은 77.0%에서 74.2%로 낮아졌다.\n\n림 김 타이(Lim Kim Thye) 바이낸스 리서치 보고서 저자는 “두 달은 추세를 확립하기에 충분하지 않다”고 말했다. 이번 수치를 구조적 변화로 단정하기에는 표본...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391532",
+    "published_at": "Sat, 15 Aug 2026 22:37:48 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "바이낸스 Z세대 ETF 비중이 25%로 올라섰고, 밀레니얼 세대의 ETF 거래 비중은 9.5%로 낮은 수치로 나타났으며, 순유입 기준도 같은 방향을 보였다. 그러나 리서치는 두 달은 추세를 확립하기에 충분하지 않다고 말했다. ",
+    "collected_at": "2026-08-15T22:44:14.167468+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "튜더, 비트코인 ETF 보유 18.9% 늘렸다",
+    "content": "폴 튜더 존스(Paul Tudor Jones)가 설립한 튜더 인베스트먼트(Tudor Investment Corporation)가 2분기 말 블랙록($BLK) 비트코인(BTC) 현물 상장지수펀드(ETF) 보유량을 전분기보다 18.9% 늘린 것으로 나타났다.\n튜더 인베스트먼트는 미국 증권거래위원회(SEC)에 제출한 최신 13F 문서에서 2026년 6월 30일 기준 아이셰어즈 비트코인 트러스트(IBIT) 68만8529주를 신고했다고 비트코인닷컴 뉴스는 전했다. 보유 평가액은 2290만 달러(약 324억원)다.\n직전 분기 신고 수량은 57만9083주였다. 이번 분기에는 10만9446주가 늘었고 증가율은 18.9%로 집계됐다.\n아이셰어즈 비트코인 트러스트는 블랙록이 운용하는 미국 비트코인 현물 ETF다....  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391530",
+    "published_at": "Sat, 15 Aug 2026 22:27:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "폴 튜더 존스 설립의 튜더 인베스트먼트가 블랙록 비트코인 ETF 보유량을 18.9% 늘렸으며, 증가율은 10만9446주로 집계됐다. 이는 비트코인 시장에 영향을 줄 수 있는 중견 기관의 파트너십을 나타내므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-15T22:44:14.699214+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "JPMorgan, Polymarket과의 은행 거래 관계 종료했지만 잠재적 IPO 역할 모색",
+    "content": "JPMorgan, Polymarket과의 은행 거래 관계 종료했지만 잠재적 IPO 역할 모색",
+    "url": "https://ns3.ai/ko/news/JKvOD58ni4",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "JPMorgan과 Polymarket의 은행 거래 관계 종료는 크립토 시장에 영향을 줄 수 있지만, 잠재적 IPO 역할 모색은 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-15T22:44:37.449808+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "세일러 “돈은 경제적 에너지”…비트코인이 저장 효율 최강",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "CFTC와 관련된 뉴스이며, 유의미한 규제 동향이 포함되어 있으나, 아직 '즉시 속보'급 확정 사건은 아님",
     "collected_at": "2026-08-04T08:26:03.756006+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Nigeria sets crypto tax collection rules for digital asset platforms",
-    "content": "The framework specifies how existing tax obligations apply to crypto disposals and rewards, with some withheld amounts payable in the originating token.",
-    "url": "https://cointelegraph.com/news/nigeria-crypto-tax-rules-digital-asset-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 04 Aug 2026 07:25:32 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Nigeria의 규제 당국이 크립토 관련 소득에 대한 세금 수집 규칙을 발표함으로써 크립토 시장 전반에 영향을 줄 수 있는 뉴스",
-    "collected_at": "2026-08-04T08:26:19.211287+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Crypto firms still seeking frontier AI access; only select few have it",
-    "content": "Crypto executives say restricting powerful AI models may initially be justified, but it doesn’t make sense as open-source alternatives become more capable.",
-    "url": "https://cointelegraph.com/news/few-crypto-firms-have-access-to-frontier-ai-as-cyber-threats-escalate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Tue, 04 Aug 2026 06:00:23 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 업계의 AI 접근성에 대한 뉴스, 그러나 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-04T08:26:35.581995+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-    "content": "Bhutan's GMC puts part of its bitcoin treasury to work after 10,000 BTC pledge",
-    "url": "https://www.coindesk.com/markets/2026/08/04/bhutan-s-gmc-puts-part-of-its-bitcoin-treasury-to-work-after-10-000-btc-pledge",
-    "published_at": "Tue, 04 Aug 2026 07:56:11 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "대형 기관(Bhutan의 GMC)이 비트코인 자산을 사용하는 소식으로, 관련 주체의 규모가 크고 파급 범위가 특정 섹터 전체에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-04T08:26:41.047972+00:00"
   }
 ]
