@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스테이블코인 보상 금지, 거래소 리워드로 번졌다",
+    "content": "미국 스테이블코인 규제 논쟁이 발행사 이자 금지에서 거래소·제휴사 보상 허용 범위로 옮겨가고 있다. 스테이블코인 시가총액이 3,000억 달러를 넘어서면서 은행 예금 기반과 크립토 플랫폼의 보상 모델이 맞붙는 구도다.\n미국 정부출판국은 지니어스법(GENIUS Act)이 2025년 7월 18일 공법 119-27호로 승인됐다고 밝혔다. 법문은 허가받은 결제 스테이블코인 발행사와 해외 결제 스테이블코인 발행사가 보유·사용·유지와 직접 연결해 보유자에게 이자나 수익률을 지급하지 못하도록 했다.\n쟁점은 발행사가 아닌 거래소나 제휴사가 주는 보상이다. 코인베이스(Coinbase·$COIN)는 지니어스법 통과 뒤 유에스디코인(USDC) 보유자에게 최대...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391692",
+    "published_at": "Sun, 16 Aug 2026 13:13:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "스테이블코인 규제 논쟁이 거래소·제휴사 보상 허용 범위로 옮겨가고 있으며, 미국 정부가 지니어스법을 승인하여 발행사가 아닌 거래소나 제휴사가 주는 보상을 금지하는 규정을 제정했다.",
+    "collected_at": "2026-08-16T13:51:10.893070+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "테더 CEO “자체 블록체인 구축 계획 없다”",
+    "content": "[블록미디어 이정화 기자] 세계 최대 스테이블코인 발행사 테더(Tether)의 최고경영자(CEO) 파올로 아르도이노가 자체 블록체인을 구축할 계획이 없다고 공식적으로 밝혔다. 이는 최근 테더가 스테이블코인 전용 블록체인인 이른바 ‘스테이블체인’을 개발 중이라는 시장 분석 보고서에 대한 직접적인 반박이다. 아르도이노 CEO는 16일(현지시각) 테더가 어떤 블록체인도 구축하고 있지 않으며, 앞으로도 그럴 계획이 없다고 강조했다. 그는 테더가 ‘체인 중립성(chain-agnostic)’ 원칙을 유지하며 USDT의 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128282?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 13:28:30 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "테더 CEO가 자체 블록체인 구축 계획이 없다고 공식적으로 밝혔고, 이는 시장 분석 보고서에 대한 반박이다. 그러나 아직 시장 전체에 큰 영향을 미치지는 않는다.",
+    "collected_at": "2026-08-16T13:52:15.780387+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers",
