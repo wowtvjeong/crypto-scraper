@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "5년래 최대 유니스왑 고래 출금, 바이낸스서 포착",
+    "content": "유니스왑(UNI) 대형 투자자의 바이낸스 출금 규모가 최근 5년 기준 최고 수준으로 올라섰다. UNI 가격이 2021년 고점 대비 93% 이상 하락한 구간에서도 일부 대형 지갑의 거래소 외부 이동이 이어졌다는 분석이다.\n다크포스트(Darkfost) 크립토퀀트(CryptoQuant) 애널리스트는 공개 분석에서 바이낸스의 UNI 출금 상위 10건이 하루 평균 7,300 UNI를 기록했다고 밝혔다고 PANews가 전했다. 이 수치는 최근 5년 기준 최고치다.\n그는 현재 평균값도 높은 수준에 머물러 있으며, 같은 거래군이 하루 평균 5,600 UNI를 계속 축적하고 있다고 설명했다. 이번 분석은 바이낸스에서 외부 지갑으로 빠져나간 대형 출금 거래를 따로 본 지표다.\n거래소...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391724",
+    "published_at": "Sun, 16 Aug 2026 15:32:44 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "유니스왑 대형 투자자의 바이낸스 출금 규모가 최근 5년 기준 최고 수준으로 올라섰고, 현재 평균값도 높은 수준에 머물러 있다.",
+    "collected_at": "2026-08-16T15:43:25.422508+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "유비에스, 아이비트 콜옵션 24배로 늘렸다",
+    "content": "유비에스(UBS Group AG)가 2분기 블랙록(BlackRock)의 비트코인 현물 ETF 관련 콜옵션 익스포저를 24배 넘게 늘렸다. 직접 보유분도 증가한 반면 풋옵션 익스포저는 줄어, 대형 금융사의 비트코인(BTC) ETF 포지션 변화가 확인됐다.\n코인데스크(CoinDesk)는 미국 증권거래위원회(SEC)에 제출된 2분기 13F 공시를 근거로 유비에스가 블랙록의 아이셰어즈 비트코인 트러스트 ETF(IBIT) 콜옵션 익스포저를 1분기 8만주에서 195만주로 늘렸다고 보도했다. 증가폭은 24배를 넘는다.\n유비에스의 아이비트 직접 보유분은 약 12% 늘어난 40만7890주로 집계됐다. 해당 지분 가치는 1360만 달러(약 192억원)다. 반대로 풋옵션 익스포저는 14만3300주로...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391721",
+    "published_at": "Sun, 16 Aug 2026 15:23:09 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "유비에스가 블랙록의 비트코인 ETF 콜옵션 익스포저를 24배 넘게 늘렸고, 직접 보유분도 증가했다. 대형 금융사의 비트코인 ETF 포지션 변화가 확인되며, 여러 매체가 동시에 다룰 만한 뉴스이다.",
+    "collected_at": "2026-08-16T15:43:44.909933+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Cardano Plans Two-Phase Dijkstra Upgrade With Leios and Peras",
