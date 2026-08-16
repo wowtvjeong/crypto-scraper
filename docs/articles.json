@@ -1,5 +1,17 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",
+    "content": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",
+    "url": "https://ns3.ai/ko/news/O6zFWAhPUf",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표",
+    "collected_at": "2026-08-16T17:41:41.340772+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "3배 비트코인 ETF 심사대, 2배 상품 1년 -79%",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트코인 생태계에서 인공지능(AI)을 활용한 코드 보안 점검이 본격화되며, 150곳의 코드 저장소가 점검되었고 십여 건의 취약점이 발견되었다. 이 작업은 오픈소스 비트코인 개발 후원 단체 오픈새츠가 약 2만 달러의 AI 연산 비용을 부담했다.",
     "collected_at": "2026-08-04T23:31:04.312305+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "폴리마켓, 기업가치 200억달러 투자 유치 추진…예측시장 ‘몸값 경쟁’ 가속",
-    "content": "[블록미디어 명정선 기자] 디지털자산(가상자산) 기반 예측시장 플랫폼 폴리마켓(Polymarket)이 기업가치 200억달러(약 28조원)를 웃도는 수준에서 신규 투자 유치를 추진하고 있는 것으로 전해졌다. 미국 규제 거래소 출범 이후 이용자와 거래 규모가 빠르게 늘어나면서 예측시장 산업에 대한 투자 열기가 이어지는 모습이다. CNBC는 4일(현지시각) 복수의 관계자를 인용해 폴리마켓이 기업가치 200억달러 이상을 인정받는 조건으로 신규 자금 조달을 위한 투자자들과 협상을 진행하고 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1124212?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 04 Aug 2026 23:11:12 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "폴리마켓이 기업가치 200억달러 이상을 인정받는 조건으로 신규 자금 조달을 위한 투자자들과 협상을 진행하고 있는 것으로 전해졌다. 이는 예측시장 산업에 대한 투자 열기가 이어지는 모습으로, 미국 규제 거래소 출범 이후 이용자와 거래 규모가 빠르게 늘어난 것으로 보인다.",
-    "collected_at": "2026-08-04T23:31:40.204142+00:00"
   }
 ]

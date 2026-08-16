@@ -1,5 +1,17 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",
+    "content": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",
+    "url": "https://ns3.ai/ko/news/O6zFWAhPUf",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·기관의 중대 발표",
+    "collected_at": "2026-08-16T17:41:41.340772+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "3배 비트코인 ETF 심사대, 2배 상품 1년 -79%",
