@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "3배 비트코인 ETF 심사대, 2배 상품 1년 -79%",
+    "content": "Cboe BZX 거래소가 비트코인(BTC)과 이더리움(ETH)을 포함한 3배 레버리지 ETF 상장 규정 변경안을 미국 증권거래위원회(SEC)에 제출했다. 기존 2배 상품에서 1년 기준 80% 안팎의 손실률이 공시된 가운데, 더 높은 배율의 선물 기반 상품이 심사대에 올랐다.\nCboe BZX는 규정 파일 SR-CboeBZX-2026-065에서 △3배 금 ETF △3배 은 ETF △3배 비트코인 ETF △3배 이더 ETF △3배 원유 ETF △3배 천연가스 ETF의 상장·거래를 제안했다. 해당 안은 2026년 8월 10일 거래소 내부 승인 절차를 거쳤다.\n이번 상품은 비트코인과 이더리움 현물을 직접 보유하는 구조가 아니다. Cboe 문서는 각 상품이 1개월·2개월 선물 가격을 기준으로 하루 성과의 3배를...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391737",
+    "published_at": "Sun, 16 Aug 2026 17:08:58 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 3배 레버리지 ETF를 상장 규정 변경안을 제출했으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T17:11:24.399315+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "앤트로픽 CEO “AI 반감은 신뢰 위기”",
+    "content": "앤트로픽(Anthropic) 최고경영자가 미국 내 인공지능(AI) 반감의 핵심을 기업·정부·기술업계에 대한 신뢰 부족으로 규정했다. AI 위험 경고가 반발을 키웠다는 비판에는 자신의 메시지가 과도하게 비관적이지 않았다고 반박했다.\n다리오 아모데이(Dario Amodei) 앤트로픽 CEO는 15일 엑스(X)에 올린 글에서 개빈 베이커(Gavin Baker) 투자자의 비판에 답했다. 베이커는 아모데이의 AI 위험 경고가 미국 내 AI 반발, 특히 데이터센터 반대 여론을 키웠다고 주장했다.\n베이커는 아모데이가 AI 규제 논쟁에서 설득력을 잃었다며 AI 산업을 더 긍정적으로 설명해야 한다고 했다. 테크크런치(TechCrunch)는 아모데이가 자신의 메시지가 과도하게...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391735",
+    "published_at": "Sun, 16 Aug 2026 17:05:47 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "인공지능(AI) 관련 뉴스이며, CEO의 발언이 신뢰 위기와 관련된 신뢰 부족을 언급하고 있다. 그러나 AI 위험 경고가 반발을 키웠다는 비판에 대한 반박은 7점보다 조금 더 높은 점수를 받는다.",
+    "collected_at": "2026-08-16T17:11:25.166968+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo",

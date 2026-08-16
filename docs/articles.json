@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "3배 비트코인 ETF 심사대, 2배 상품 1년 -79%",
+    "content": "Cboe BZX 거래소가 비트코인(BTC)과 이더리움(ETH)을 포함한 3배 레버리지 ETF 상장 규정 변경안을 미국 증권거래위원회(SEC)에 제출했다. 기존 2배 상품에서 1년 기준 80% 안팎의 손실률이 공시된 가운데, 더 높은 배율의 선물 기반 상품이 심사대에 올랐다.\nCboe BZX는 규정 파일 SR-CboeBZX-2026-065에서 △3배 금 ETF △3배 은 ETF △3배 비트코인 ETF △3배 이더 ETF △3배 원유 ETF △3배 천연가스 ETF의 상장·거래를 제안했다. 해당 안은 2026년 8월 10일 거래소 내부 승인 절차를 거쳤다.\n이번 상품은 비트코인과 이더리움 현물을 직접 보유하는 구조가 아니다. Cboe 문서는 각 상품이 1개월·2개월 선물 가격을 기준으로 하루 성과의 3배를...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391737",
+    "published_at": "Sun, 16 Aug 2026 17:08:58 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 3배 레버리지 ETF를 상장 규정 변경안을 제출했으며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T17:11:24.399315+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "앤트로픽 CEO “AI 반감은 신뢰 위기”",
+    "content": "앤트로픽(Anthropic) 최고경영자가 미국 내 인공지능(AI) 반감의 핵심을 기업·정부·기술업계에 대한 신뢰 부족으로 규정했다. AI 위험 경고가 반발을 키웠다는 비판에는 자신의 메시지가 과도하게 비관적이지 않았다고 반박했다.\n다리오 아모데이(Dario Amodei) 앤트로픽 CEO는 15일 엑스(X)에 올린 글에서 개빈 베이커(Gavin Baker) 투자자의 비판에 답했다. 베이커는 아모데이의 AI 위험 경고가 미국 내 AI 반발, 특히 데이터센터 반대 여론을 키웠다고 주장했다.\n베이커는 아모데이가 AI 규제 논쟁에서 설득력을 잃었다며 AI 산업을 더 긍정적으로 설명해야 한다고 했다. 테크크런치(TechCrunch)는 아모데이가 자신의 메시지가 과도하게...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391735",
+    "published_at": "Sun, 16 Aug 2026 17:05:47 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "인공지능(AI) 관련 뉴스이며, CEO의 발언이 신뢰 위기와 관련된 신뢰 부족을 언급하고 있다. 그러나 AI 위험 경고가 반발을 키웠다는 비판에 대한 반박은 7점보다 조금 더 높은 점수를 받는다.",
+    "collected_at": "2026-08-16T17:11:25.166968+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Vitalik Buterin Says Ethereum Scaling Can Draw Lessons From Bitcoin’s Utreexo",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "폴리마켓이 기업가치 200억달러 이상을 인정받는 조건으로 신규 자금 조달을 위한 투자자들과 협상을 진행하고 있는 것으로 전해졌다. 이는 예측시장 산업에 대한 투자 열기가 이어지는 모습으로, 미국 규제 거래소 출범 이후 이용자와 거래 규모가 빠르게 늘어난 것으로 보인다.",
     "collected_at": "2026-08-04T23:31:40.204142+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "SK하이닉스, 美 증권가 일제히 ‘매수’ 의견…AI 메모리 경쟁력에 ADR 8% 상승(종합)",
-    "content": "[블록미디어 명정선 기자] SK하이닉스의 미국주식예탁증서(ADR)가 주요 글로벌 증권사들의 잇따른 매수 의견에 힘입어 강세를 나타냈다. 증권가는 고대역폭메모리(HBM) 시장에서의 경쟁력과 미국 상장을 통한 투자자 저변 확대를 근거로 SK하이닉스의 기업가치가 재평가될 가능성이 크다고 평가했다. 4일(현지시각) 로이터통신과 야후파이낸스 등 외신에 따르면 뉴욕증시에서 SK하이닉스 ADR은 8% 상승한 154.38달러에 거래를 마쳤다. SK하이닉스는 지난 7월 10일 미국 나스닥에 ADR을 상장하며 약 265억달러를 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1124203?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 04 Aug 2026 22:40:51 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "SK하이닉스의 미국 주식 예탁 증서가 증권가의 매수 의견에 힘입어 상승했으며, 고대역폭 메모리 시장에서의 경쟁력과 미국 상장을 통한 투자자 저변 확대에 대한 평가로 기업 가치가 재평가될 가능성이 크다고 평가받았습니다.",
-    "collected_at": "2026-08-04T23:31:58.657513+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "S&P500 신고가인데… ‘빅쇼트’ 마이클 버리 “1987년급 폭락 온다” 경고",
-    "content": "[블록미디어 명정선 기자] 미국 증시가 기업 실적 호조와 유가 하락에 힘입어 최고치를 경신하는 가운데, 영화 ‘빅쇼트’의 실제 주인공인 마이클 버리(Michael Burry) 사이온 자산운용 대표가 “1987년 ‘블랙 먼데이’와 같은 대폭락이 올 수 있다”며 하락 배팅(숏 포지션)을 고수하고 나섰다. 4일(현지시각) CNBC에 따르면 버리는 자신의 서브스택(Substack)을 통해 “우리가 주요 고점에 가까워졌으며 1987년과 같은 폭락이 발생할 가능성이 있다는 신념을 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1124199?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 04 Aug 2026 22:14:38 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": false,
-    "reason": "대형 거래소와 관련된 뉴스이며, 주요 자산의 가격 변동과 관련된 경고를 포함하고 있지만, 아직 확정된 사건은 아님",
-    "collected_at": "2026-08-04T23:32:17.170893+00:00"
   }
 ]
