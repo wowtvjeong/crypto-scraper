@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "장신커지 4.52%, 미 메모리 ETF 비중 확대",
+    "content": "미국 상장 메모리 반도체 ETF가 중국 장신커지 비중을 늘리며 삼성전자와 SK하이닉스가 포함된 글로벌 메모리 포트폴리오 안에서 중국 기업 노출을 확대했다.\n라운드힐 메모리 ETF(Roundhill Memory ETF·DRAM)의 장신커지 비중은 8월 14일 종가 기준 4.52%로 여섯 번째 보유 종목에 올랐다. 오데일리는 한국시간 16일 오전 6시52분 라운드힐이 최근 보유 종목을 조정했고, 6월 처음 편입된 자오이촹신 비중은 1.16%라고 보도했다.\n테마 ETF(Tema ETFs)는 자체 펀드 페이지에서 8월 14일 기준 테마 메모리 ETF(Tema Memory ETF·DISK)의 장신커지 스와프 비중이 7.54%라고 밝혔다. 같은 자료에서 DISK의 보유 종목은 샌디스크 16.94%, 키옥시아...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391610",
+    "published_at": "Sun, 16 Aug 2026 06:07:49 +0000",
+    "relevance_score": 7.0,
+    "is_crypto_related": false,
+    "reason": "장신커지와 관련된 ETF의 비중 확대에 대한 뉴스, 그러나 크립토와 직접적인 관련이 없다",
+    "collected_at": "2026-08-16T06:21:58.118543+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
+    "content": "[블록미디어 이정화 기자] 브래드 갈링하우스 리플 최고경영자(CEO)가 미국 와이오밍에서 열리는 블록체인 행사에 연사로 나선다. 금융 인프라 현대화를 주제로 논의할 예정인 가운데 엑스알피(XRP) 생태계와 관련한 발언이 나올지 시장의 관심이 쏠린다. 미국 증권거래위원회(SEC) 위원장과 주요 디지털자산 업계 인사들도 참석할 예정이어서 정책과 기관 채택을 둘러싼 논의에 관심이 모인다. 갈링하우스, 18일 금융 인프라 논의 15일(현지시각) 유투데이에 따르면 갈링하우스 CEO는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128260?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 06:17:34 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "리플 CEO가 블록체인 심포지엄에 연사로 나서고, SEC 위원장과 함께 참석할 예정인 점이 시장의 관심을 끌고 있다.",
+    "collected_at": "2026-08-16T06:22:34.539833+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
+    "content": "리플 CEO, 블록체인 심포지엄 출격…SEC 위원장과 한자리에",
+    "url": "https://www.blockmedia.co.kr/archives/1128260?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "리플 CEO와 SEC 위원장이 한 자리에서 만나게 되는 블록체인 심포지엄은 업계 전반에 큰 관심을 끌 것으로 예상되며, 리플 CEO의 출격은 리플 자체에 큰 파급력을 줄 것으로 보인다.",
+    "collected_at": "2026-08-16T06:22:51.422134+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "에이비파이낸스 출시 취소 보도 뒤 공개 활동 지속",
     "content": "에이비파이낸스(ABFinance)가 암호화폐 거래 플랫폼 출시 계획을 접었다는 보도가 나온 뒤에도 공개 채널에서는 채용과 커뮤니티 활동 기록이 이어지고 있다. 정식 서비스가 가동되기 전 나온 사안인 만큼 이용자 자산 문제보다 출시 전 프로젝트의 사업 지속성 문제가 먼저 부각됐다.\n본지는 앞서 에이비파이낸스의 출시 취소 보도를 전한 바 있다. AMBCrypto는 에이비파이낸스가 공식 X를 통해 출시 계획을 진행하지 않겠다고 밝혔다고 보도했다.\n에이비파이낸스는 링크드인 회사 소개에서 전통 금융 시스템과 디지털자산을 잇는 안전하고 규제 준수형 금융 인프라를 구축하는 금융기술 회사라고 설명해 왔다. 본사는 미국 뉴욕으로 표시돼...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391606",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "유명 엔젤투자자이자 우버 초기 투자자인 제이슨 칼라카니스가 비트코인 투자 비중을 줄이고 솔라나와 비텐서 같은 프로젝트에 자금을 배분해야 한다고 주장하며 솔라나가 실제 제품을 만들어내고 있다고 평가했다.",
     "collected_at": "2026-08-04T15:50:12.215786+00:00"
-  },
-  {
-    "source": "coindesk",
-    "source_type": "press",
-    "title": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-    "content": "Polymarket targets $20 billion valuation as competition heats up in prediction market sector",
-    "url": "https://www.coindesk.com/markets/2026/08/04/polymarket-targets-usd20-billion-valuation-as-competition-heats-up-in-prediction-markets",
-    "published_at": "Tue, 04 Aug 2026 14:38:23 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 업계 전반에 영향을 줄 수 있는 대형 거래소·유명 프로젝트의 중대 발표",
-    "collected_at": "2026-08-04T15:51:18.031392+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Bitdeer Shares Surge 23% on $4.7 Billion AI Data Center Deal",
-    "content": "Bitdeer Shares Surge 23% on $4.7 Billion AI Data Center Deal\nBitdeer, founded by Bitmain co-founder Jihan Wu, announced that its subsidiary Tydal Data Center AS has signed a 16-year colocation and services agreement with Volta Tydal AS. The project will provide 121 MW of IT capacity, or approximately 133 MW of total power, for AI computing infrastructure at the Tydal AI/HPC campus in Norway.\nThe agreement is expected to generate approximately $4.7 billion in contracted revenue over its initial term, with an eight-year renewal option that could bring the total contract value to around $8 billion. Bitdeer shares surged 23% following the announcement.\nBloomberg reports that Anthropic is the unnamed AI lab behind the project. The Claude developer has reportedly signed a six-year, roughly $10 billion compute deal with Nvidia-backed Volta Infra Holdings, while Bitdeer’s $4.7 billion agreement covers the underlying data center colocation and services. The facility will use Dell hardware and Nvidia Vera Rubin chips, though the companies have not publicly confirmed Anthropic as the end customer. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25423",
-    "published_at": "2026-08-04T12:26:28+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와 관련된 뉴스, 구체적 금액이 동반된 계약 소식",
-    "collected_at": "2026-08-04T13:13:25.165383+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "미 상원 표결 앞두고 반크립토 광고전 격화…클래리티 법안 분기점",
-    "content": "미국 의회의 암호화폐 법안 처리 막판 국면에서 정체불명의 단체가 ‘반(反)크립토’ 광고 공세를 펼치며 논쟁이 격화되고 있다. 규제 법안인 ‘클래리티 법안(Clarity Act)’을 둘러싼 여론전에 불이 붙는 모습이다.워싱턴 DC 전역의 TV와 소셜미디어에서는 최근 암호화폐를 ‘테러 조직과 마약 카르텔의 도구’로 묘사하는 광고가 확산되고 있다. 광고는 “가장 어두운 곳에서 활동하는 이들이 규제 공백 때문에 크립토를 사용한다”는 메시지와 함께 강한 경고를 담고 있다. 동시에 “이제 암호화폐를 그림자 밖으로 끌어내야 한다”고 주장한다.이 캠페인을 주도하는 단체는 ‘크립토 워치독(Crypto Watchdog)’으로, 공화당 정치 캠페인 경력이 있는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385137",
-    "published_at": "Tue, 04 Aug 2026 13:08:34 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국 의회의 암호화폐 법안 처리에 대한 반크립토 광고전이 격화되고 있는 상황이며, 관련 주체의 규모가 크고 파급 범위가 크며, 확정성도 높다.",
-    "collected_at": "2026-08-04T13:13:25.974534+00:00"
   }
 ]
