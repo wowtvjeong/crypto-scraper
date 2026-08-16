@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "3억6557만달러 밈코인, 로빈후드체인 초반 주도",
+    "content": "로빈후드($HOOD)가 공개한 로빈후드체인(Robinhood Chain)에서 밈코인 시가총액이 3억6557만4783달러(약 5173억원)로 집계됐다. 주식 토큰화와 실물자산(RWA)을 앞세운 체인이지만 공개 지표상 초기 거래 수요는 밈코인과 RWA에 함께 걸쳐 있다.\n로빈후드는 7월 1일 로빈후드체인 공개 메인넷과 스톡 토큰(Stock Tokens)을 공개했다. 로빈후드체인은 아비트럼(ARB) 플랫폼 기반 이더리움(ETH) 레이어2로 설계됐고, 스톡 토큰은 120개국 이상에서 제공되지만 지역별 가용성은 다르다고 회사는 밝혔다.\n디파이라마(DefiLlama)에 따르면, 로빈후드체인의 총예치금(TVL)은 5억4483만 달러(약 7710억원), 스테이블코인 시가총액은 6억3897만...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391767",
+    "published_at": "Sun, 16 Aug 2026 20:41:42 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "로빈후드체인이 공개된 후 밈코인의 시가총액이 3억6557만달러로 집계된 뉴스이며, 로빈후드체인이 아비트럼 플랫폼 기반 이더리움 레이어2로 설계된 점을 고려하여 7.5점을 부여한다.",
+    "collected_at": "2026-08-16T20:44:34.333565+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "입력 100만 토큰 0.75달러, 제미나이 3.7 정식 배포",
+    "content": "구글(Google)이 제미나이(Gemini) 3.7 플래시를 정식 배포 모델로 올리고 2026년 말까지 입력 100만 토큰당 0.75달러(약 1061원)의 도입가를 적용한다. 유럽연합(EU)의 AI 투명성 의무 시행과 맞물리면서 개발자용 AI 모델 경쟁은 가격뿐 아니라 표시·출처 추적 체계까지 함께 따지는 국면에 들어섰다.\n\n구글은 13일 UTC 기준 개발자 문서에서 제미나이 3.7 플래시를 정식 배포(GA) 모델로 제시하고 모델 ID를 ‘gemini-3.7-flash’로 밝혔다. 13일 UTC는 한국시간 13일 오전 9시부터 14일 오전 8시 59분까지에 해당한다.\n\n제미나이 3.7 플래시는 입력 토큰 104만8576개, 최대 출력 토큰 6만4000개를 지원한다. 입력 형식은 텍스트, 이미지,...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391763",
+    "published_at": "Sun, 16 Aug 2026 20:16:42 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "구글이 제미나이 3.7 플래시를 정식 배포 모델로 올리고, 2026년 말까지 입력 토큰당 0.75달러의 도입가를 적용하는 뉴스. 개발자용 AI 모델 경쟁이 가격뿐 아니라 표시·출처 추적 체계까지 함께 따지는 국면에 들어섰다.",
+    "collected_at": "2026-08-16T20:44:35.116031+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "샌디스크 무기한 계약 미결제약정 17.3억달러 최다…주식 파생상품 시장 주도",
+    "content": "[블록미디어 이정화 기자] 샌디스크(SNDK) 주식 무기한 계약(Perpetual Contract) 미결제약정(Open Interest)이 17억3000만달러를 기록하며 주식 기반 무기한 계약 중 최고치를 달성했다. 이는 디지털자산 시장에서 전통 주식 파생상품의 영향력이 커지고 있음을 보여주는 중요한 지표로 평가된다. 16일(현지시각) 우블록체인 데이터에 따르면 샌디스크 무기한 계약의 미결제약정은 스페이스X(SPCX)의 9억2800만달러 대비 약 1.86배, SK하이닉스(SKHX)의 4억9300만달러 대비 약 3.51배에 달하는 수치다. 샌디스크는 현재 디지털자산 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128299?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 20:33:02 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "디지털 자산 시장에서 전통 주식 파생상품의 영향력이 커지고 있음을 보여주는 중요한 지표로 평가된다. 또한, 샌디스크 무기한 계약의 미결제약정은 다른 주식 기반 무기한 계약보다 훨씬 높은 수치로, 주식 파생상품 시장에서 주도적인 역할을 하고 있다.",
+    "collected_at": "2026-08-16T20:45:00.896544+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "주소 오용 손실 5억7480만달러, 체인 혼동이 키웠다",
     "content": "이더리움(ETH)과 BNB체인에서 주소 오용으로 분류된 고위험 사례 6만5340건이 확인됐다. 관련 손실은 5억7480만 달러(약 8133억원)로 집계됐다.\n크립토포테이토는 USENIX Security ’26 채택 논문 ‘Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact’가 이더리움과 BNB 스마트체인 거래를 분석해 이 같은 결과를 제시했다고 전했다. 논문은 중산대, 저장대, 베이징대 등 연구진이 참여한 연구로 USENIX Security ’26 기술 세션 목록에도 올라 있다.\n연구진은 깃허브와 스택 익스체인지에서 수집한 1031만2572개 후보 주소와 1630만5399개 노출 개인키를 온체인 거래와 대조했다. 분석 대상 거래는...  더보기",
     "url": "https://www.tokenpost.kr/news/blockchain/391761",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "이더리움 스테이킹 물량과 관련된 EIP-8363에 대한 찬반 논쟁과 독립 검증자의 이탈 우려가 주요 내용으로, 대형 거래소나 유명 프로젝트와 관련된 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-05T03:54:17.543572+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "SOL 하루 소각 최대 9000개로 늘리는 개편안 논의",
-    "content": "솔라나(SOL) 커뮤니티가 하루 SOL 소각량을 현재 약 648개에서 7500~9000개로 늘릴 수 있는 수수료 개편안을 논의하고 있다. 신규 발행 감소 속도를 높이는 별도 제안도 함께 거론되면서 공급 구조 조정이 핵심 의제로 떠올랐다.\n솔라나 개선문서 저장소에 공개된 SIMD-0553은 현재 서명당 5000램포트인 기본 수수료를 기본 포함 수수료와 리소스 수수료로 나누는 방안을 담았다. 기본 포함 수수료는 서명당 2500램포트로 낮춰 전액 블록 리더에게 지급하고, 거래가 요청한 네트워크 자원에 비례해 부과하는 리소스 수수료는 전액 소각한다.\n제안자는 이 구조를 적용하면 하루 SOL 소각량이 약 7500~9000개로 늘어날 수 있다고 설명했다. 이는...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385489",
-    "published_at": "Wed, 05 Aug 2026 03:12:21 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "솔라나 커뮤니티에서 하루 SOL 소각량을 7500~9000개로 늘릴 수 있는 수수료 개편안을 논의하고 있다. 이는 공급 구조 조정이 핵심 의제로 떠올랐으며, 신규 발행 감소 속도를 높이는 별도 제안도 함께 거론된다.",
-    "collected_at": "2026-08-05T03:55:07.223883+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "유니스왑, 6일 오전 1시 pools.trade 공개 예고",
-    "content": "유니스왑(UNI)이 신규 도메인 pools.trade의 공개를 예고했다. 공개 예정 시각은 한국시간 8월 6일 오전 1시다.\n5일 현재 pools.trade 공식 페이지에는 ‘Something new’라는 문구만 표시돼 있다. 포사이트뉴스(Foresight News)는 유니스왑이 예고 영상을 공개했으며 카운트다운이 중국시간 8월 6일 0시를 가리킨다고 전했다.\n커뮤니티에서는 pools.trade가 로빈후드 체인(Robinhood Chain)에서 작동하는 런치패드일 수 있다는 추정이 나왔다. 예고 영상 파일 경로에 ‘rh-cca/frong.mp4’가 포함된 점이 근거로 제시됐다.\n일부 이용자는 ‘RH’를 로빈후드로, ‘CCA’를 유니스왑의 연속 청산 경매(continuous clearing auction)로 해석했다. 다만...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385487",
-    "published_at": "Wed, 05 Aug 2026 03:07:33 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "유니스왑이 신규 도메인 pools.trade의 공개를 예고했으며, 커뮤니티에서는 pools.trade가 로빈후드 체인에서 작동하는 런치패드일 수 있다는 추정이 나왔다.",
-    "collected_at": "2026-08-05T03:55:45.003412+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "콜드카드 결함 의혹, 피해 추산 1억달러 넘게 엇갈려",
-    "content": "콜드카드(COLDCARD) 하드웨어 지갑의 엔트로피 결함 의혹이 비트코인(BTC) 셀프 커스터디 보안 논쟁으로 번졌다. 갤럭시는 피해 규모가 1500 BTC 이상, 1억 달러(약 1460억원) 이상이라고 밝혔다.\n갤럭시(Galaxy)는 4일 공개한 팟캐스트 ‘Inside the COLDCARD Entropy Failure w/ Alex Thorn’에서 “여러 공격 파동으로 1,500 BTC 이상, 1억 달러 이상이 손상됐다”고 밝혔다. 해당 에피소드는 3일 녹음됐다.\n쟁점은 개인키 유출보다 앞선 시드 생성 단계에 있다. 하드웨어 지갑은 사용자가 개인키를 직접 보관하는 장치지만, 시드 문구를 만들 때 무작위성이 충분하지 않으면 공격자가 후보 시드를 좁혀 지갑을 찾아낼 가능성이 생긴다. 이번...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385485",
-    "published_at": "Wed, 05 Aug 2026 02:54:57 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "콜드카드 하드웨어 지갑의 엔트로피 결함 의혹이 비트코인 시장에 영향을 줄 가능성이 있어, 대형 거래소·유명 프로젝트와 관련된 뉴스이지만 아직 '즉시 속보'급 확정 사건은 아님",
-    "collected_at": "2026-08-05T03:56:20.748572+00:00"
   }
 ]
