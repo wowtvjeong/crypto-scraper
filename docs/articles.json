@@ -2,6 +2,54 @@
   {
     "source": "wublockchainenglish",
     "source_type": "telegram",
+    "title": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers",
+    "content": "SafePal Discloses Order Data Breach Affecting Nearly 40,000 Customers\nCrypto wallet provider SafePal disclosed a security incident involving an authorization flaw in an order-tracking plugin that allowed unauthorized access to customer order information. Approximately 39,798 customers who placed orders between March 2, 2025 and April 11, 2026 were affected, with exposed data including names, email addresses, shipping addresses, phone numbers and purchase details. SafePal said seed phrases, private keys, wallet passwords, payment information and government-issued ID numbers were not affected, and no evidence was found that wallet access or customer funds were compromised. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25593",
+    "published_at": "2026-08-16T12:56:56+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소가 아닌 크립토 관련 서비스인 SafePal의 고객 정보 유출 사고로 40,000명 고객이 영향을 받았고, 민감한 정보인 seed phrases, private keys, wallet passwords는 영향을 받지 않았다. 그러나 고객의 이름, 이메일 주소, 배송 주소, 전화번호, 구매 상세 정보가 노출되었다. ",
+    "collected_at": "2026-08-16T13:07:00.206464+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "영국산 장거리 드론, 러시아 본토 군사시설 타격 보도",
+    "content": "영국산 장거리 드론이 러시아 본토 군사 목표물 타격에 쓰였다는 보도가 나오면서 서방의 대우크라이나 드론 지원 확대가 다시 주목받고 있다. 이번 사안은 러시아 후방 인프라를 겨냥한 우크라이나의 장거리 타격전이 영국 방산 공급망과 맞물리는 흐름으로 풀이된다.\n더타임스(The Times)는 16일 영국산 드론이 러시아 내부 군사 목표물을 공격하는 데 쓰였다고 보도했다. 보도에서 거론된 기종은 BAE 시스템스(BAE Systems) 계열 칼렌렌즈(Callen-Lenz)가 설계·개발한 Nyan One Way Effector다.\n영국 정부와 우크라이나 정부가 이 특정 드론의 러시아 본토 사용을 공개적으로 확인한 자료는 확인되지 않았다. 기사에서 다룰 수 있는 범위는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391687",
+    "published_at": "Sun, 16 Aug 2026 12:56:36 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "러시아 본토 군사시설 타격에 쓰인 영국산 장거리 드론이 우크라이나의 장거리 타격전과 영국 방산 공급망과 관련된 뉴스로, 서방의 대우크라이나 드론 지원 확대가 다시 주목받고 있다.",
+    "collected_at": "2026-08-16T13:07:00.566351+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "150억달러 손실 제인스트리트, AI펀드 타격 겹쳤다",
+    "content": "제인스트리트(Jane Street)가 7월 약 150억 달러(약 21조2250억원)의 손실을 낸 것으로 전해졌다. 월가 대형 트레이딩사의 월간 손실로는 이례적인 규모다.\n로이터는 이번 손실이 전 오픈AI(OpenAI) 연구원 레오폴드 아셴브레너(Leopold Aschenbrenner)가 운용하는 AI 헤지펀드 시추에이셔널 어웨어니스(Situational Awareness) 투자와 기술주 매도세가 겹친 결과라고 보도했다.\n시추에이셔널 어웨어니스는 7월 AI 관련 주식 매도세 속에 포트폴리오 가치가 67% 하락했다. 대출기관의 추가 증거금 요구가 이어지자 이 펀드는 주식 포트폴리오 상당 부분을 시타델(Citadel)에 매각한 것으로 전해졌다.\n추가 증거금 요구는 담보 가치가...  더보기",
+    "url": "https://www.tokenpost.kr/news/market/391681",
+    "published_at": "Sun, 16 Aug 2026 12:40:03 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "대형 트레이딩사 제인스트리트의 150억달러 손실과 AI펀드의 타격이 겹친 것으로 보도되며, 시장 전체에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T13:07:20.445421+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "토큰화 주식 보유자 131만명…한 달 새 2배, RWA 시장 확산",
+    "content": "[블록미디어 이정화 기자] 실물연계자산(RWA) 시장의 확장과 함께 토큰화 주식 시장이 빠르게 성장하고 있다. 토큰화 주식 보유자는 한 달 만에 두 배 이상으로 늘었고 월간 전송 규모는 180% 가까이 급증했다. 코인텔레그래프는 15일(현지시각) RWA.xyz 데이터를 인용해 토큰화 주식 보유자가 최근 한 달 동안 두 배 이상 증가한 131만명을 기록했다고 보도했다. 월간 전송 규모는 같은 기간 179% 증가한 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128270?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 12:42:13 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "토큰화 주식 보유자가 두 배 이상 증가하고 월간 전송 규모가 179% 증가한 것으로 보아, RWA 시장 확산에 따른 크립토 시장의 영향이 크다.",
+    "collected_at": "2026-08-16T13:07:56.205541+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
     "title": "Asia's weekly TOP10 crypto news",
     "content": "Asia's weekly TOP10 crypto news\nSouth Korea Tightens Cross-Border Crypto Transfers, Hong Kong-Licensed HKDAP Faces Security and Compliance Concerns, Russia Expands Long-Term Mining Restrictions, Cambodia Moves to Draft Digital Asset Legislation, and Deribit Secures a Dubai VARA Broker-Dealer License. For the complete article and weekly curated reports, subscribe to our Substack: — \nlink",
     "url": "https://t.me/wublockchainenglish/25591",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트와이즈 ETF에서 하이퍼리퀴드 토큰 11만320개가 언스테이킹된 사실과 해당 토큰의 평가액이 613만 달러라는 정보가 나와, 관련 주체가 비트와이즈 ETF로 크고, 파급 범위가 크립토 시장 전반에 영향을 줄 가능성이 있으나 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-04T19:08:14.387920+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "3억달러 조달한 볼타, 비트디어와 47억달러 계약",
-    "content": "볼타 인프라스트럭처(Volta Infrastructure)가 3억 달러(약 4432억원)를 조달하고 비트디어(Bitdeer·$BTDR)와 노르웨이 인공지능(AI) 데이터센터 계약을 체결했다. 비트코인 채굴에 활용하던 전력·부지 자산을 AI·고성능컴퓨팅(HPC) 인프라로 전환하는 사업이 구체화됐다.\n비트디어는 4일 자회사 타이달 데이터센터(Tydal Data Center)가 볼타 자회사 볼타 타이달(Volta Tydal)과 노르웨이 타이달 캠퍼스의 16년 코로케이션 임대·서비스 계약을 체결했다고 밝혔다. 기본 계약액은 47억 달러(약 6조9428억원)이며 8년 연장 옵션을 포함하면 최대 80억 달러(약 11조8175억원)로 늘어날 수 있다.\n앞서 앤트로픽과 볼타가 100억 달러 규모 컴퓨팅...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385281",
-    "published_at": "Tue, 04 Aug 2026 18:16:55 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
-    "collected_at": "2026-08-04T19:08:34.880091+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "140곳 참여 오픈 유에스디, 결제사는 USDC 병행",
-    "content": "오픈 유에스디(Open USD·OUSD)에 140곳 넘는 기업이 참여했지만 주요 결제·거래 기업은 유에스디코인(USDC) 지원도 이어가고 있다. 특정 스테이블코인을 교체하기보다 여러 달러 기반 결제망을 함께 연결하는 흐름이다.\n오픈 스탠더드(Open Standard)는 6월 30일 비자(Visa·$V), 마스터카드(Mastercard·$MA), 스트라이프(Stripe), 블랙록(BlackRock), 코인베이스($COIN) 등이 참여하는 오픈 유에스디를 공개했다. 국내에서는 두나무와 하나카드, 한화생명, 현대카드, 케이뱅크, 카카오뱅크, KB국민카드, 농협카드, 삼성카드, 삼성전자, 신한금융그룹, 우리카드가 파트너 명단에 이름을 올렸다.\n오픈 유에스디는 무료 민팅·상환과 준비금...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385278",
-    "published_at": "Tue, 04 Aug 2026 18:07:41 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·기관이 참여하는 크립토 관련 뉴스, 여러 달러 기반 결제망을 연결하는 흐름",
-    "collected_at": "2026-08-04T19:09:29.694735+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "오픈USD 충격 과했나…코인베이스·비자·마스터카드 '공존' 강조",
-    "content": "오픈USD가 등장하며 스테이블코인 시장을 뒤흔든 가운데, 주요 참여 기업들은 ‘경쟁’이 아닌 ‘공존’ 전략을 강조하고 있다. 시장이 과잉 반응했다는 평가가 힘을 얻는다.한 달 전 오픈스탠다드(Open Standard)가 ‘오픈USD(Open USD)’를 공개하자 코인베이스($COIN), 비자($V), 마스터카드($MA)의 참여 소식은 즉각 시장 충격으로 이어졌다. 서클(Circle)의 스테이블코인 유에스디코인(USDC)을 정면 겨냥한 도전으로 해석되며, 서클 주가는 최대 20% 급락했고 이후에도 회복하지 못한 상태다. 특히 140개 이상의 출시 파트너가 공개되면서 기존 USDC 생태계가 흔들릴 수 있다는 우려가 확산됐다.하지만 최근 분위기는 다소 달라지고 있다....  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385276",
-    "published_at": "Tue, 04 Aug 2026 17:57:50 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "오픈USD가 등장하며 스테이블코인 시장을 뒤흔든 가운데, 주요 참여 기업들이 '경쟁'이 아닌 '공존' 전략을 강조하고 있다.",
-    "collected_at": "2026-08-04T19:10:05.099597+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "바이비트 유럽 결제 인가, 거래 법인과 어떻게 나뉘나",
-    "content": "바이비트가 유럽에서 암호자산 거래와 전자화폐·결제 서비스를 별도 법인과 인가 체계로 운영한다. 이용자 접점은 Bybit.eu로 통합하되 법적 권한과 책임은 법인별로 나누는 구조다.\n바이비트의 오스트리아 결제 법인 바이비트 페이먼츠(Bybit Payments GmbH)는 오스트리아 금융시장감독청(FMA)으로부터 전자화폐기관(EMI) 인가를 받았다고 크립토브리핑은 4일 전했다. 바이비트 페이먼츠는 전자화폐와 결제 서비스를 담당하고, 별도 법인인 바이비트 EU(Bybit EU GmbH)는 유럽연합(EU)의 암호자산시장규제인 미카(MiCA) 체계에서 암호자산 서비스를 맡는다. 본지는 앞서 바이비트의 EMI 인가와 법인별 역할 분담을 보도했다.\nFMA는 2025년...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/385274",
-    "published_at": "Tue, 04 Aug 2026 17:53:41 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "바이비트가 유럽에서 암호자산 거래와 전자화폐·결제 서비스를 별도 법인과 인가 체계로 운영하는 구조가 공개되었으며, 유럽 연합(EU)의 암호자산 시장 규제인 미카(MiCA) 체계에서 암호자산 서비스를 맡는 별도 법인인 바이비트 EU가 존재한다는 점이 중요합니다.",
-    "collected_at": "2026-08-04T19:10:16.815602+00:00"
   }
 ]
