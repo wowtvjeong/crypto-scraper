@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",
+    "content": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",
+    "url": "https://ns3.ai/ko/news/6RFSKyct2w",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 암호화폐 규제 회의를 취소하고 혁신 면제 계획이 지연된다는 뉴스는 업계 전반에 큰 영향을 줄 가능성이 있는 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:52:31.369572+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC, Reg Crypto 및 혁신 면제 관련 회의 취소",
+    "content": "SEC, Reg Crypto 및 혁신 면제 관련 회의 취소",
+    "url": "https://ns3.ai/ko/news/BhkwdQ7pim",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 주최하는 회의가 취소된 것으로 보아, 크립토 관련 규제에 대한 영향이 있을 것으로 추정되며, 관련 주체의 규모가 높고 파급 범위가 크지만 확정성은 아직 미흡하여 7.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:52:43.749146+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Bitwise Mulls Tokenizing Its Solana Staking ETF via Superstate Partnership",
+    "content": "Bitwise Mulls Tokenizing Its Solana Staking ETF via Superstate Partnership",
+    "url": "https://coinmarketcap.com/community/articles/6a8202d8d71d286d2776115d/",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Bitwise가 Solana Staking ETF를 토큰화할 가능성을 고려하고 있으며, Superstate와 파트너십을 맺고 있다. 이는 크립토 시장 전반에 영향을 줄 수 있는 뉴스이다.",
+    "collected_at": "2026-08-16T18:53:30.865516+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals",

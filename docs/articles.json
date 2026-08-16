@@ -1,5 +1,41 @@
 [
   {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",
+    "content": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",
+    "url": "https://ns3.ai/ko/news/6RFSKyct2w",
+    "published_at": null,
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 암호화폐 규제 회의를 취소하고 혁신 면제 계획이 지연된다는 뉴스는 업계 전반에 큰 영향을 줄 가능성이 있는 뉴스이므로 8.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:52:31.369572+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC, Reg Crypto 및 혁신 면제 관련 회의 취소",
+    "content": "SEC, Reg Crypto 및 혁신 면제 관련 회의 취소",
+    "url": "https://ns3.ai/ko/news/BhkwdQ7pim",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "SEC가 주최하는 회의가 취소된 것으로 보아, 크립토 관련 규제에 대한 영향이 있을 것으로 추정되며, 관련 주체의 규모가 높고 파급 범위가 크지만 확정성은 아직 미흡하여 7.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:52:43.749146+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Bitwise Mulls Tokenizing Its Solana Staking ETF via Superstate Partnership",
+    "content": "Bitwise Mulls Tokenizing Its Solana Staking ETF via Superstate Partnership",
+    "url": "https://coinmarketcap.com/community/articles/6a8202d8d71d286d2776115d/",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Bitwise가 Solana Staking ETF를 토큰화할 가능성을 고려하고 있으며, Superstate와 파트너십을 맺고 있다. 이는 크립토 시장 전반에 영향을 줄 수 있는 뉴스이다.",
+    "collected_at": "2026-08-16T18:53:30.865516+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "Uniswap과 pools.trade가 관련된 토큰 발행 출시 예고로, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
     "collected_at": "2026-08-05T04:02:26.434171+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Highlight Clip Early Bitcoin Core Developer: 99% of Digital Assets Will Eventually Go to Zero",
-    "content": "Highlight Clip Early Bitcoin Core Developer: 99% of Digital Assets Will Eventually Go to Zero\nEarly Bitcoin Core Developer: 99% of Digital Assets Will Eventually Go to Zero\nOn July 28, 2026, early Bitcoin core developer Jeff Garzik stated on the Bitcoin Treasuries podcast that 99% of digital assets will inevitably go to zero. He believes that with zero creation costs enabling permissionless innovation, networks like Solana generate massive amounts of new tokens daily.\nUnder the law of supply and demand, this near-infinite supply naturally leads to most tokens losing their value. Garzik stated that this zero-cost free competition is positive for the overall industry, as it provides an optimal testing ground for economic experiments, where the high-quality projects that survive the brutal elimination will ultimately benefit everyone. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25427",
-    "published_at": "2026-08-05T00:05:46+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 코어 개발자 중 한 명인 제프 가르직이 99%의 디지털 자산이 결국 0에 도달할 것이라고 말했으며, 이는 수요와 공급의 법칙에 따라 발생하는 자연스러운 현상이라고 설명했다.",
-    "collected_at": "2026-08-05T00:55:39.040593+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "프루프오브플레이 운영 중단, 파이럿 자산 공개한다",
-    "content": "블록체인 게임 스튜디오 프루프오브플레이(Proof of Play)가 운영 중단을 발표하고 파이럿 네이션의 코드와 아트 자산을 가능한 범위에서 공개하기로 했다. 회사 운영은 멈추지만 파이럿 토큰 생태계 지원은 별도 재단이 이어간다.\n프루프오브플레이는 8월 4일 블록체인 기술을 활용한 게임이 탈중앙화 인터넷의 새로운 가능성을 열 수 있다고 봤지만, 이를 대규모로 검증할 제품과 지속 가능한 사업을 구축하지 못했다고 밝혔다.\n공개 대상에는 파이럿 네이션 관련 애플리케이션과 스마트컨트랙트, 파운더 NFT, 지식재산(IP) 등이 포함된다. 화성재경은 이들 자산이 CC0 방식으로 공개될 예정이라고 전했다.\nCC0는 저작권자가 법적으로...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385405",
-    "published_at": "Wed, 05 Aug 2026 00:41:42 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "프루프오브플레이가 운영 중단을 발표하고 파이럿 네이션의 코드와 아트 자산을 공개하기로 한 뉴스, 이는 크립토 업계에 큰 영향을 줄 수 있는 대형 프로젝트의 변화라서",
-    "collected_at": "2026-08-05T00:56:44.202274+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "8억대는 갤럭시 AI 목표, 삼성월렛 스테이블코인 구상",
-    "content": "삼성전자가 삼성월렛에 스테이블코인을 지원하는 방향을 제시하면서 갤럭시 생태계의 결제 인프라 확장에 나섰다. 사업의 핵심은 갤럭시 기기 수보다 삼성월렛이 확보한 결제·지갑 유통망을 디지털자산과 연결하는 방식에 있다.\n삼성 비즈니스 인사이트는 7월 22일 런던에서 열린 갤럭시 언팩에서 삼성월렛이 향후 스테이블코인을 지원할 것이라고 소개했다. 삼성월렛은 결제와 디지털 키, 신분증, 탑승권 등을 담는 통합 지갑으로 확장되고 있다.\n앞서 삼성전자의 스테이블코인 기능 추진 구상이 전해졌지만, 함께 언급된 8억대는 삼성월렛 이용자 수나 스테이블코인 지원 기기 수가 아니다. 삼성 비즈니스 인사이트가 제시한 수치는 2026년...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385404",
-    "published_at": "Wed, 05 Aug 2026 00:40:57 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "삼성전자가 갤럭시 생태계의 결제 인프라 확장에 나선 것으로 보아, 스테이블코인 지원과 디지털자산 연결이 중요한 역할을 할 것으로 예상되며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-05T00:57:03.818222+00:00"
   }
 ]
