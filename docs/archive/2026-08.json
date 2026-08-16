@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "트럼프, 이란 추가 제재 검토로 핵협상 압박",
+    "content": "도널드 트럼프 미국 대통령이 이란 핵 정책을 압박하기 위해 추가 제재와 제한 조치를 검토하고 있다. 실제 제재 발표 전 단계지만 미·이란 협상과 중동 지정학, 에너지 가격을 함께 흔들 수 있는 사안이다.\n크립토브리핑(CryptoBriefing)은 트럼프 대통령이 이란 핵 정책에 영향을 주기 위해 추가 경제 압박을 검토하고 있다고 보도했다. 협상은 지역 중재국을 통해 이어졌지만 진전은 제한적이었고, 시장은 제재 강화가 포괄적 합의 가능성에 미칠 영향을 보고 있다.\n추가 제재 검토는 이란 핵 프로그램을 둘러싼 미·이란 긴장이 이어지는 가운데 나왔다. 경제 압박이 강해질 경우 협상 동력이 약해지고, 재건 자금이 포함된 포괄 합의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391660",
+    "published_at": "Sun, 16 Aug 2026 10:17:29 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "트럼프 대통령이 이란 핵 정책에 영향을 주기 위해 추가 경제 압박을 검토하고 있다고 보도했다. 이는 중동 지정학, 에너지 가격을 함께 흔들 수 있는 사안으로, 시장 전체에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T10:45:23.233629+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CZ, 세계금협회 CEO의 비트코인 가치 0 주장에 응답",
+    "content": "CZ, 세계금협회 CEO의 비트코인 가치 0 주장에 응답",
+    "url": "https://ns3.ai/ko/news/kNK91UFvPP",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 CZ가 세계금협회 CEO의 비트코인 가치 0 주장에 공식적으로 반응하는 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T10:46:59.729858+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[온체인동향] 하이퍼리퀴드 독주 지속… 아비트럼은 3억달러 ‘썰물’",

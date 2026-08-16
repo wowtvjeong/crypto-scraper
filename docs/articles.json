@@ -1,5 +1,29 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "트럼프, 이란 추가 제재 검토로 핵협상 압박",
+    "content": "도널드 트럼프 미국 대통령이 이란 핵 정책을 압박하기 위해 추가 제재와 제한 조치를 검토하고 있다. 실제 제재 발표 전 단계지만 미·이란 협상과 중동 지정학, 에너지 가격을 함께 흔들 수 있는 사안이다.\n크립토브리핑(CryptoBriefing)은 트럼프 대통령이 이란 핵 정책에 영향을 주기 위해 추가 경제 압박을 검토하고 있다고 보도했다. 협상은 지역 중재국을 통해 이어졌지만 진전은 제한적이었고, 시장은 제재 강화가 포괄적 합의 가능성에 미칠 영향을 보고 있다.\n추가 제재 검토는 이란 핵 프로그램을 둘러싼 미·이란 긴장이 이어지는 가운데 나왔다. 경제 압박이 강해질 경우 협상 동력이 약해지고, 재건 자금이 포함된 포괄 합의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391660",
+    "published_at": "Sun, 16 Aug 2026 10:17:29 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": false,
+    "reason": "트럼프 대통령이 이란 핵 정책에 영향을 주기 위해 추가 경제 압박을 검토하고 있다고 보도했다. 이는 중동 지정학, 에너지 가격을 함께 흔들 수 있는 사안으로, 시장 전체에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T10:45:23.233629+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "CZ, 세계금협회 CEO의 비트코인 가치 0 주장에 응답",
+    "content": "CZ, 세계금협회 CEO의 비트코인 가치 0 주장에 응답",
+    "url": "https://ns3.ai/ko/news/kNK91UFvPP",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 CZ가 세계금협회 CEO의 비트코인 가치 0 주장에 공식적으로 반응하는 뉴스, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T10:46:59.729858+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "[온체인동향] 하이퍼리퀴드 독주 지속… 아비트럼은 3억달러 ‘썰물’",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "비트마인이 이더리움과 자사주를 추가 매입하고, 보유자산이 113억 달러로 집계되며, 현금이 감소하는 뉴스입니다.",
     "collected_at": "2026-08-04T15:42:37.682603+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "이더리움 발행곡선 왜 바꾸나…스테이킹 50%의 의미",
-    "content": "이더리움(ETH) 커뮤니티에서 스테이킹 비율이 약 50%에 이르면 검증자 순보상을 0에 가깝게 낮추는 발행곡선 개편안이 논의되고 있다. 검증자 보상 일부를 소각해 스테이킹 확대에 따른 공급 증가와 중앙화 위험을 낮추자는 구상이다.\n중국 크립토 매체 마스비트는 4일 ‘테이퍼드 이슈언스 번(Tapered Issuance Burn)’이라는 제안이 이더리움 발행 구조를 조정하는 방안을 담았다고 보도했다. 5일 현재 이더리움 공식 EIP 전체 목록에는 해당 명칭으로 번호가 부여된 제안이 올라와 있지 않다.\n제안의 핵심은 매 에포크마다 검증자의 이론상 보상 일부를 소각하고, 스테이킹 규모가 커질수록 소각 비율을 높이는 방식이다. 제시된 설계에서는...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385219",
-    "published_at": "Tue, 04 Aug 2026 15:28:55 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 발행곡선 개편안이 논의되고 있으며, 스테이킹 확대에 따른 공급 증가와 중앙화 위험을 낮추는 목적으로 검증자 보상 일부를 소각하는 방안이 제시되었다.",
-    "collected_at": "2026-08-04T15:43:14.654265+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "DDN 인피니아, 엔비디아 추론 데이터 병목 완화 겨냥",
-    "content": "DDN이 스토리지 플랫폼 인피니아(Infinia)를 엔비디아($NVDA)의 추론 데이터 전송 체계에 통합했다. 대형언어모델(LLM) 서비스에서 GPU가 데이터를 기다리는 시간을 줄이는 것이 이번 협업의 핵심이다.\nDDN은 7월 23일 기술 블로그에서 인피니아 NIXL 플러그인이 엔비디아의 NIXL 1.3 배포판과 다이나모(Dynamo) 추론 컨테이너에 포함됐다고 밝혔다. NIXL은 ‘NVIDIA Inference Transfer Library’의 약자로, 분산 추론 환경에서 GPU·CPU·SSD·오브젝트 스토리지 사이의 데이터 이동을 처리하는 라이브러리다.\n이번 통합은 AI 추론 과정에서 발생하는 ‘KV 캐시’ 이동에 초점을 맞췄다. KV 캐시는 LLM이 앞선 문맥을 재사용하기 위해 저장하는...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385216",
-    "published_at": "Tue, 04 Aug 2026 15:18:51 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": false,
-    "reason": "엔비디아와 DDN의 협업으로 인해 대형언어모델 서비스에서 GPU가 데이터를 기다리는 시간을 줄이는 것이 가능해지는데, 이는 크립토와 직접 관련이 없지만 AI 기술과 관련된 뉴스이므로 7.5점을 부여한다.",
-    "collected_at": "2026-08-04T15:43:34.199972+00:00"
   }
 ]
