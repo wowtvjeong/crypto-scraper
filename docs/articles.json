@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Cardano Plans Two-Phase Dijkstra Upgrade With Leios and Peras",
+    "content": "Cardano Plans Two-Phase Dijkstra Upgrade With Leios and Peras\nCardano has outlined a two-phase rollout for its upcoming Dijkstra era. Phase 1, targeting Q4 2026 code completion, will activate Ouroboros Linear Leios (CIP-164) to increase throughput through supplementary Endorser Blocks, while also introducing nested transactions (CIP-118), guard scripts (CIP-112), account-address enhancements (CIP-159) and simpler staking-reward withdrawals (CIP-181).\nPhase 2, targeted for Q2 2027, will activate Ouroboros Peras (CIP-140), adding a stake-pool voting layer designed to accelerate settlement. Both phases will undergo testnet deployment and on-chain governance approval before mainnet activation. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25594",
+    "published_at": "2026-08-16T14:46:20+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 프로젝트인 카르다노가 두 단계의 업그레이드를 계획하고 있으며, 이 업그레이드는 성능 향상과 새로운 기능의 추가를 목표로 한다.",
+    "collected_at": "2026-08-16T15:11:23.624488+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens",
+    "content": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens\nCZ said he plans to donate the BNB and 币安人生 tokens held in the wallet address he used while testing Trust Wallet to Giggle Academy, then stop using the address entirely, effectively turning it into a burn address. He said the wallet had become cluttered with unsolicited meme coins, and attempts to burn some of them only led to more tokens being sent in and further community speculation around his on-chain activity. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25595",
+    "published_at": "2026-08-16T15:06:55+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CZ의 공개 지갑 주소 사용 중단 계획과 BNB, 币安人生 토큰의 기부에 대한 언급",
+    "collected_at": "2026-08-16T15:11:23.855839+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 연준, 기준금리 3.50~3.75% 동결 外",
+    "content": "연준이 기준금리를 3.50~3.75%로 동결하고 3명이 인상을 주장했다.\n미국 연방준비제도(Fed·연준)는 7월 29일(현지시간) 성명에서 연방공개시장위원회(FOMC)가 9대 3으로 기준금리 동결을 결정했다고 밝혔다. 베스 해맥(Beth M. Hammack), 닐 카시카리(Neel Kashkari), 로리 로건(Lorie K. Logan)은 0.25%포인트 인상을 주장했다.\n미 지니어스법이 스테이블코인 발행사 이자 지급을 막고 보상 쟁점을 남겼다.\n미국 정부출판국은 지니어스법(GENIUS Act)이 2025년 7월 18일 공법 119-27호로 승인됐다고 밝혔다. 법문은 허가받은 결제 스테이블코인 발행사와 해외 결제 스테이블코인 발행사가 보유·사용·유지와 직접 연결해 이자나 수익률을...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391713",
+    "published_at": "Sun, 16 Aug 2026 15:05:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미 지니어스법이 스테이블코인 발행사 이자 지급을 막고 보상 쟁점을 남겼다. 이는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-08-16T15:11:32.448806+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스테이블, STABLE 82% 2029년 말까지 락업",
+    "content": "스테이블(Stable)이 STABLE 총공급량의 82%를 통합 락업 물량으로 묶고 2029년 말까지 단계적으로 해제하기로 했다.\n스테이블은 업데이트한 백서에서 총공급량을 1000억 개로 정하고, 이 가운데 180억 개를 토큰 생성 시점 유통 물량으로 배정했다고 밝혔다. 오데일리는 16일 오후 3시55분(한국시간) 이 같은 백서 내용을 전했다.\n초기 유통 물량 180억 개는 제네시스 배분 10%와 재단의 첫날 해제 물량 8%로 구성된다. 나머지 820억 개는 유니버설 락(Universal Lock)으로 묶인다.\n유니버설 락은 여러 배정 물량을 하나의 락업 풀로 묶어 정해진 일정에 따라 해제하는 구조다. 개별 투자자·팀·재단 물량을 따로 나누어 설명하기보다 전체...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391712",
+    "published_at": "Sun, 16 Aug 2026 14:59:51 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "스테이블이 82%의 토큰을 2029년 말까지 락업하고 해제하는 계획을 발표한 뉴스, 이는 크립토 시장 전반에 영향을 줄 수 있는 대형 프로젝트의 결정",
+    "collected_at": "2026-08-16T15:11:52.800969+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "27억5000만달러 인수, 크라켄 금융인프라 넓혔다",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "장외거래 전문 투자자 비중이 72%로 높아졌고, 소액 지갑은 분배 성향을 보였다는 뉴스",
     "collected_at": "2026-08-04T22:04:08.465053+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "예금토큰 지갑 50만개로 확대, 송금도 시험한다",
-    "content": "한국금융연구원이 2025년 12월 발간한 이명활 선임연구위원의 KIF이슈리포트 ‘은행 디지털화폐 발행방식 비교’는 예금토큰과 은행 스테이블코인의 발행·담보·결제 구조를 비교했다. 국내에서는 한국은행의 예금토큰 실험이 2단계로 확대돼 지갑 한도가 최대 50만개로 늘어난다.\n보고서는 디지털화폐의 발행 주체와 이를 뒷받침하는 자산, 최종 결제가 이뤄지는 구조를 기준으로 두 방식을 분석했다. 국제결제은행(BIS)은 중앙은행 디지털화폐(CBDC)를 중앙은행의 직접 부채로 설명한다. 반면 은행 예금과 전자화폐 등 일반 국민이 사용하는 디지털 화폐는 민간 발행자의 부채에 해당한다.\n예금토큰은 은행 계좌의 예금을 토큰으로 전환해...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/385340",
-    "published_at": "Tue, 04 Aug 2026 21:29:31 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "국내에서 예금토큰 실험을 확대하는 뉴스, 여러 매체가 다룰 만한 뉴스지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-04T22:04:43.391255+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "72비트 시드 취약점에 콜드카드 Q 파손 항의",
-    "content": "콜드카드(Coldcard) 하드웨어 지갑의 시드 생성 취약점에 항의하는 이용자가 콜드카드 Q를 총으로 파손했다. 제조사 코인카이트(Coinkite)는 수정 전 펌웨어로 만든 일부 시드의 엔트로피가 기대치인 128비트가 아닌 약 72비트였다고 밝혔다.\n미국 비트코인(BTC) 커뮤니티에서 덴버비트코인(@denverbitcoin)으로 알려진 애덤(Adam)은 8월 2일 콜드카드 Q를 파손하겠다는 뜻을 밝히고 피해 이용자들과 연대하겠다는 입장을 냈다고 크립토브리핑(Crypto Briefing)은 전했다. 이번 행동은 제조사의 취약점 대응에 항의하는 상징적 행위로 소개됐다.\n코인카이트는 7월 30일 공개해 8월 1일 갱신한 보안 권고에서 수정 전 펌웨어가 설치된...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385337",
-    "published_at": "Tue, 04 Aug 2026 21:19:50 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "콜드카드의 시드 생성 취약점에 대한 항의로 파손된 콜드카드 Q와 제조사 코인카이트의 수정 전 펌웨어로 만든 일부 시드의 엔트로피가 기대치인 128비트가 아닌 약 72비트인 점이 관련 주제로 다뤄짐.",
-    "collected_at": "2026-08-04T22:05:37.888821+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "제로캡, 데리비트 담보 파이어블록스 커스터디로 이전",
-    "content": "제로캡(Zerocap)이 데리비트(Deribit) 파생상품 거래 담보를 파이어블록스(Fireblocks)의 ‘오프 익스체인지(Off Exchange)’ 구조로 이전했다. 거래소 계정에 담보를 먼저 예치하는 대신 커스터디 안에 둔 자산을 증거금으로 인정받는 방식이다.\n파이어블록스는 고객 사례에서 제로캡이 기존 이중 커스터디 구조를 단일 플랫폼으로 전환했다고 밝혔다. 제로캡은 호주 금융서비스 라이선스 아래 운영되는 글로벌 마켓메이커이자 유동성 공급자로, 아시아·유럽·중동·미주 지역의 기관 및 도매 고객에게 서비스를 제공한다.\n오프 익스체인지는 거래소가 거래 장소와 자산 보관 역할을 함께 맡을 때 발생하는 상대방 위험을 줄이기 위한 구조다....  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385336",
-    "published_at": "Tue, 04 Aug 2026 21:14:43 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "데리비트와 파이어블록스의 파트너십과 제로캡의 거래 구조 변경에 대한 뉴스, 그러나 시장 전체에 큰 영향을 주지 않는다",
-    "collected_at": "2026-08-04T22:05:55.389347+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "채굴자 지지 55% 문턱에 작업증명 변경 코드 재정비",
-    "content": "비트코인(BTC)의 거래 데이터 저장을 제한하는 BIP-110을 둘러싼 논쟁이 작업증명(PoW) 변경 코드 재정비로 이어졌다. 채굴자와 노드 운영자 가운데 누가 네트워크 규칙을 결정할지를 둘러싼 갈등이 기술적 대응 단계로 번진 모습이다.\n개발자 크리스 귀다(Chris Guida)는 루크 대시주니어(Luke Dashjr)가 2017년 작성한 PoW 하드포크 코드를 최신 비트코인 노츠(Bitcoin Knots) 코드 기반에 맞춰 리베이스했다. 해당 코드는 BIP-110이 충분한 채굴자 지지를 얻지 못할 경우를 대비한 비상 선택지로 설명됐다고 크립토브리핑(Crypto Briefing)은 4일 보도했다.\nBIP-110은 ‘데이터 축소 임시 소프트포크(Reduced Data Temporary...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385334",
-    "published_at": "Tue, 04 Aug 2026 21:07:55 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 작업증명 변경 코드 재정비로 인한 갈등과 BIP-110의 채굴자 지지율에 대한 논쟁이 기술적 대응 단계로 진행되고 있다.",
-    "collected_at": "2026-08-04T22:06:33.498990+00:00"
   }
 ]

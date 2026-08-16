@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Cardano Plans Two-Phase Dijkstra Upgrade With Leios and Peras",
+    "content": "Cardano Plans Two-Phase Dijkstra Upgrade With Leios and Peras\nCardano has outlined a two-phase rollout for its upcoming Dijkstra era. Phase 1, targeting Q4 2026 code completion, will activate Ouroboros Linear Leios (CIP-164) to increase throughput through supplementary Endorser Blocks, while also introducing nested transactions (CIP-118), guard scripts (CIP-112), account-address enhancements (CIP-159) and simpler staking-reward withdrawals (CIP-181).\nPhase 2, targeted for Q2 2027, will activate Ouroboros Peras (CIP-140), adding a stake-pool voting layer designed to accelerate settlement. Both phases will undergo testnet deployment and on-chain governance approval before mainnet activation. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25594",
+    "published_at": "2026-08-16T14:46:20+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "크립토 프로젝트인 카르다노가 두 단계의 업그레이드를 계획하고 있으며, 이 업그레이드는 성능 향상과 새로운 기능의 추가를 목표로 한다.",
+    "collected_at": "2026-08-16T15:11:23.624488+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens",
+    "content": "CZ Says He Will Stop Using Public Wallet Address After Donating Remaining BNB and 币安人生 Tokens\nCZ said he plans to donate the BNB and 币安人生 tokens held in the wallet address he used while testing Trust Wallet to Giggle Academy, then stop using the address entirely, effectively turning it into a burn address. He said the wallet had become cluttered with unsolicited meme coins, and attempts to burn some of them only led to more tokens being sent in and further community speculation around his on-chain activity. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25595",
+    "published_at": "2026-08-16T15:06:55+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "CZ의 공개 지갑 주소 사용 중단 계획과 BNB, 币安人生 토큰의 기부에 대한 언급",
+    "collected_at": "2026-08-16T15:11:23.855839+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "[자정 뉴스브리핑] 연준, 기준금리 3.50~3.75% 동결 外",
+    "content": "연준이 기준금리를 3.50~3.75%로 동결하고 3명이 인상을 주장했다.\n미국 연방준비제도(Fed·연준)는 7월 29일(현지시간) 성명에서 연방공개시장위원회(FOMC)가 9대 3으로 기준금리 동결을 결정했다고 밝혔다. 베스 해맥(Beth M. Hammack), 닐 카시카리(Neel Kashkari), 로리 로건(Lorie K. Logan)은 0.25%포인트 인상을 주장했다.\n미 지니어스법이 스테이블코인 발행사 이자 지급을 막고 보상 쟁점을 남겼다.\n미국 정부출판국은 지니어스법(GENIUS Act)이 2025년 7월 18일 공법 119-27호로 승인됐다고 밝혔다. 법문은 허가받은 결제 스테이블코인 발행사와 해외 결제 스테이블코인 발행사가 보유·사용·유지와 직접 연결해 이자나 수익률을...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391713",
+    "published_at": "Sun, 16 Aug 2026 15:05:15 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미 지니어스법이 스테이블코인 발행사 이자 지급을 막고 보상 쟁점을 남겼다. 이는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이다.",
+    "collected_at": "2026-08-16T15:11:32.448806+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "스테이블, STABLE 82% 2029년 말까지 락업",
+    "content": "스테이블(Stable)이 STABLE 총공급량의 82%를 통합 락업 물량으로 묶고 2029년 말까지 단계적으로 해제하기로 했다.\n스테이블은 업데이트한 백서에서 총공급량을 1000억 개로 정하고, 이 가운데 180억 개를 토큰 생성 시점 유통 물량으로 배정했다고 밝혔다. 오데일리는 16일 오후 3시55분(한국시간) 이 같은 백서 내용을 전했다.\n초기 유통 물량 180억 개는 제네시스 배분 10%와 재단의 첫날 해제 물량 8%로 구성된다. 나머지 820억 개는 유니버설 락(Universal Lock)으로 묶인다.\n유니버설 락은 여러 배정 물량을 하나의 락업 풀로 묶어 정해진 일정에 따라 해제하는 구조다. 개별 투자자·팀·재단 물량을 따로 나누어 설명하기보다 전체...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391712",
+    "published_at": "Sun, 16 Aug 2026 14:59:51 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "스테이블이 82%의 토큰을 2029년 말까지 락업하고 해제하는 계획을 발표한 뉴스, 이는 크립토 시장 전반에 영향을 줄 수 있는 대형 프로젝트의 결정",
+    "collected_at": "2026-08-16T15:11:52.800969+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "27억5000만달러 인수, 크라켄 금융인프라 넓혔다",
