@@ -1,5 +1,17 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드 독주 지속… 아비트럼은 3억달러 ‘썰물’",
+    "content": "[블록미디어 양원모 기자] 8월 둘째 주 온체인 자금의 방향이 다시 한 번 극명하게 갈리며 주요 블록체인 간 유동성의 무게중심이 이동하는 모습이다. 16일 디파이 데이터 분석 플랫폼 아르테미스에 따르면 지난 일주일간 브리지 유입 규모가 가장 컸던 네트워크는 3억달러(약 4258억원)를 넘어선 하이퍼리퀴드였다. 이더리움이 약 2억8000만달러(약 3974억원)로 뒤를 이었고, 아비트럼은 약 1억2000만달러(약 1703억원)를 기록했다. 반면 유출에서는 아비트럼이 압도적이었다. [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127818?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 10:00:24 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "온체인 자금의 방향이 극명하게 갈리고 주요 블록체인 간 유동성의 무게중심이 이동하는 모습이 보이며, 하이퍼리퀴드가 3억달러를 넘어선 브리지 유입 규모를 기록했다.",
+    "collected_at": "2026-08-16T10:12:53.861646+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M",
@@ -17986,17 +17998,5 @@
     "is_crypto_related": false,
     "reason": "엔비디아와 DDN의 협업으로 인해 대형언어모델 서비스에서 GPU가 데이터를 기다리는 시간을 줄이는 것이 가능해지는데, 이는 크립토와 직접 관련이 없지만 AI 기술과 관련된 뉴스이므로 7.5점을 부여한다.",
     "collected_at": "2026-08-04T15:43:34.199972+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "서클 게이트웨이, 스마트계정 예치 지원…전송은 EOA만",
-    "content": "서클($CRCL) 게이트웨이(Circle Gateway)가 스마트 컨트랙트 계정의 유에스디코인(USDC) 예치를 지원한다. 다만 즉시 전송에 쓰이는 번 인텐트 단계에서는 외부 소유 계정(EOA) 서명만 허용돼 기능별 적용 범위를 구분해야 한다.\n크립토브리핑은 게이트웨이가 ERC-1271을 네이티브로 지원해 스마트 컨트랙트 지갑이 별도 위임 계정 없이 유에스디코인 잔액을 관리할 수 있게 됐다고 전했다. 적용 네트워크로는 이더리움(ETH), 베이스(Base), 아비트럼(ARB), 아발란체(AVAX)를 제시했다.\nERC-1271은 스마트 컨트랙트가 서명의 유효성을 검증할 수 있도록 만든 이더리움 표준이다. 일반 개인키 기반 지갑과 달리 스마트 컨트랙트 지갑은...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385214",
-    "published_at": "Tue, 04 Aug 2026 15:13:27 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "스마트 컨트랙트 계정의 유에스디코인 예치를 지원하는 게이트웨이의 새로운 기능이 소개되며, ERC-1271 표준을 지원하여 스마트 컨트랙트 지갑이 별도 위임 계정 없이 유에스디코인 잔액을 관리할 수 있게 됐다고 전했다.",
-    "collected_at": "2026-08-04T15:44:10.070038+00:00"
   }
 ]

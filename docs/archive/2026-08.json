@@ -1,5 +1,17 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "[온체인동향] 하이퍼리퀴드 독주 지속… 아비트럼은 3억달러 ‘썰물’",
+    "content": "[블록미디어 양원모 기자] 8월 둘째 주 온체인 자금의 방향이 다시 한 번 극명하게 갈리며 주요 블록체인 간 유동성의 무게중심이 이동하는 모습이다. 16일 디파이 데이터 분석 플랫폼 아르테미스에 따르면 지난 일주일간 브리지 유입 규모가 가장 컸던 네트워크는 3억달러(약 4258억원)를 넘어선 하이퍼리퀴드였다. 이더리움이 약 2억8000만달러(약 3974억원)로 뒤를 이었고, 아비트럼은 약 1억2000만달러(약 1703억원)를 기록했다. 반면 유출에서는 아비트럼이 압도적이었다. [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1127818?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 10:00:24 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "온체인 자금의 방향이 극명하게 갈리고 주요 블록체인 간 유동성의 무게중심이 이동하는 모습이 보이며, 하이퍼리퀴드가 3억달러를 넘어선 브리지 유입 규모를 기록했다.",
+    "collected_at": "2026-08-16T10:12:53.861646+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M",
