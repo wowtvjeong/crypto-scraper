@@ -1,5 +1,77 @@
 [
   {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "세이프팔, 고객 주문정보 약 4만 건 무단 접근 확인… “시드 문구·자산은 안전”",
+    "content": "[블록미디어 최동녘 에디터] 하드웨어 월렛 제조사 세이프팔(SafePal)이 고객 주문정보에 대한 무단 접근 사고를 확인했다고 16일 밝혔다. 영향을 받은 고객은 약 3만9798명이다. 세이프팔에 따르면 이번 사고는 주문 조회 기능에 연동된 플러그인의 권한 검증 결함에서 비롯됐다. 특정 조건에서 다른 고객의 주문정보에 접근할 수 있는 취약점이 존재했으며, 회사는 발견 즉시 결함을 수정하고 추가 보안 조치를 적용했다고 설명했다. 유출된 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128293?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 11:30:29 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "세이프팔의 하드웨어 월렛 고객 주문정보에 대한 무단 접근 사고로 약 4만 건의 고객이 영향을 받았지만, 회사는 자산은 안전하다고 밝혔다.",
+    "collected_at": "2026-08-16T11:42:04.447171+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "월가 고평가 경고음, 대공황 · 닷컴버블 수준…비트코인도 긴장",
+    "content": "[블록미디어 이정화 기자] 미국 증시의 밸류에이션이 1929년 대공황 직전과 2000년 닷컴버블 당시 수준에 접근했다. 최근 기술주 등 위험자산과 높은 동조화를 보인 비트코인(BTC)에도 단기 조정 위험이 커질 수 있다는 분석이 나온다. 미 증시 CAPE 40~42…닷컴버블 수준 접근 비인크립토는 15일(현지시각) S&P500의 실러 경기조정주가수익비율(CAPE)이 40~42 수준에 도달했다고 보도했다. 이는 1990년대 후반 닷컴버블 당시 기록한 약 44에 근접한 수준이다. [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128272?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 11:17:43 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "미 증시의 밸류에이션이 대공황 및 닷컴버블 수준에 접근하여 비트코인에도 단기 조정 위험이 커질 수 있다는 분석이 나왔다.",
+    "collected_at": "2026-08-16T11:42:04.699634+00:00"
+  },
+  {
+    "source": "cointelegraph",
+    "source_type": "press",
+    "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+    "content": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+    "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "published_at": "Sun, 16 Aug 2026 11:12:51 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "Hegotá 업그레이드와 관련된 66개 제안이 줄어들어 Ethereum 개발자들의 노력에 대한 소식으로, 영향 범위는 크립토 시장 전반에 미치지 않지만 관련 주체가 중견 기업급으로 파급력이 있는 뉴스임",
+    "collected_at": "2026-08-16T11:42:05.105560+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "세이프팔, 고객 주문정보 약 4만 건 무단 접근 확인… “시드 문구·자산은 안전”",
+    "content": "세이프팔, 고객 주문정보 약 4만 건 무단 접근 확인… “시드 문구·자산은 안전”",
+    "url": "https://www.blockmedia.co.kr/archives/1128293?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "세이프팔이 고객 주문정보 약 4만 건에 대한 무단 접근을 확인했지만, 시드 문구와 자산은 안전하다고 밝혔다. 이는 크립토 시장에 대한 큰 영향을 줄 수 있는 거래소의 보안 문제로 간주된다.",
+    "collected_at": "2026-08-16T11:42:09.475513+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "월가 고평가 경고음, 대공황 · 닷컴버블 수준…비트코인도 긴장",
+    "content": "월가 고평가 경고음, 대공황 · 닷컴버블 수준…비트코인도 긴장",
+    "url": "https://www.blockmedia.co.kr/archives/1128272?utm_source=coingecko&utm_medium=rss",
+    "published_at": null,
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대공황 및 닷컴버블 수준의 경고가 비트코인에까지 영향을 미치는 등 시장 전체에 큰 영향을 줄 가능성이 있는 뉴스",
+    "collected_at": "2026-08-16T11:42:48.480128+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "이더리움 개발자들, Hegotá 업그레이드 위한 66개 제안 검토",
+    "content": "이더리움 개발자들, Hegotá 업그레이드 위한 66개 제안 검토",
+    "url": "https://ns3.ai/ko/news/vcykBzEXTB",
+    "published_at": null,
+    "relevance_score": 7.0,
+    "is_crypto_related": true,
+    "reason": "이더리움 개발자들이 Hegotá 업그레이드에 대한 66개 제안을 검토하고 있는 것으로 보아, 이더리움과 관련된 뉴스이지만, 아직 시장 전체에 영향을 주는 큰 사건은 아니므로 7점을 부여합니다.",
+    "collected_at": "2026-08-16T11:43:13.871754+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "스테이킹 보상 분기 분배 추진, ETH·SOL 축소 논의",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "솔라나 네트워크의 거버넌스 개혁으로 인해 일일 소각량이 13배 급증할 가능성이 제기된다는 뉴스, 이는 연간 약 2억 3,700만 달러 규모의 공급 감소 효과를 의미한다.",
     "collected_at": "2026-08-04T17:30:27.672000+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "단일종목 레버리지 ETF 규제, 코스피 거래대금 급감",
-    "content": "단일종목 레버리지 ETF에 대한 규제가 강화되자 거래가 빠르게 식으면서, 시장 과열을 진정시키려는 당국 조치가 단기적으로는 뚜렷한 효과를 내는 모습이다.4일 코스콤 체크와 연합인포맥스에 따르면 단일종목 레버리지와 인버스 상품을 포함한 16종의 합산 거래대금은 1조2천556억원으로 집계됐다. 금융당국은 지난달 31일부터 이들 상품에 투자할 때 필요한 기본예탁금을 1천만원에서 3천만원으로 높였는데, 이후 3거래일 연속 거래대금이 줄었다. 규제 시행 직전인 7월 30일 12조4천485억원에 달했던 거래대금은 31일 3조1천518억원으로 급감했고, 8월 3일에는 1조3천872억원, 4일에는 다시 1조원 초반대로 내려왔다. 투자 진입 문턱을 높여...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/385246",
-    "published_at": "Tue, 04 Aug 2026 16:32:44 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": false,
-    "reason": "규제 강화로 단기적으로 뚜렷한 효과를 내는 모습이며, 거래대금이 급감하는 등 시장 과열을 진정시키려는 당국의 조치가 시장에 큰 영향을 미치는 뉴스",
-    "collected_at": "2026-08-04T17:31:05.865760+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "트럼프 밈코인 논란 재점화…워런, SEC 조사 촉구",
-    "content": "미국 정치권에서 트럼프 대통령의 ‘밈코인’ 논란이 다시 불붙고 있다. 대규모 투자자 손실과 막대한 수익 간 괴리가 드러나면서 규제 논쟁까지 확산되는 모습이다.엘리자베스 워런 상원의원은 리처드 블루멘탈 상원의원과 함께 트럼프 대통령이 연관된 밈코인 ‘트럼프($TRUMP)’에 대해 미국 증권거래위원회(SEC)의 조사를 촉구했다. 두 의원은 폴 앳킨스 SEC 위원장에게 보낸 서한에서 약 100만 명에 달하는 투자자들이 총 38억 달러(약 5조 4,240억 원) 손실을 입은 반면, 트럼프 대통령은 해당 토큰으로 6억 3,600만 달러(약 9,081억 원)의 수익을 올린 것으로 나타났다고 지적했다.이들은 “암호화폐 거래에는 본질적으로 위험이 따르지만,...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385245",
-    "published_at": "Tue, 04 Aug 2026 16:27:24 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "트럼프 대통령과 관련된 밈코인 '트럼프'에 대한 SEC 조사 촉구로 인해 대규모 투자자 손실과 막대한 수익 간 괴리가 드러나면서 규제 논쟁까지 확산되는 모습이 보인다.",
-    "collected_at": "2026-08-04T17:31:26.658979+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "41억3000만달러 돌파한 하이퍼리퀴드 전통자산 시장",
-    "content": "하이퍼리퀴드(HYPE)의 실물자산(RWA) 기반 HIP-3 전통자산 시장 미결제약정이 41억3000만 달러(약 6조600억원)로 집계됐다. 비트코인(BTC)과 이더리움(ETH)에 집중됐던 온체인 파생상품의 거래 대상이 주식·원자재·지수형 상품으로 넓어지는 흐름이다.\n유투데이(U.Today)는 4일 Hyperscreener ASXN 집계에서 HIP-3 전통자산 시장 미결제약정이 처음 41억3000만 달러를 넘어섰다고 보도했다. 일일 거래량은 229% 증가한 48억7000만 달러(약 7조1500억원)로 제시됐다.\n거래 확대의 중심에는 주식 가격을 추종하는 무기한선물이 있다. 집계상 SK하이닉스 연동 상품 SKHX와 마이크론 연동 상품 MU가 상위 시장에 포함됐다. AI 메모리 반도체 관련...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/385240",
-    "published_at": "Tue, 04 Aug 2026 16:12:48 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와 관련된 뉴스, 구체적 금액이 동반된 정책/자금 관련 소식, 파급 범위가 크다",
-    "collected_at": "2026-08-04T17:32:20.585197+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트디어, 티달 16년 계약으로 AI 인프라 넓힌다",
-    "content": "비트디어(Bitdeer·$BTDR)가 노르웨이 티달 데이터센터의 전력 인프라를 인공지능(AI) 컴퓨팅에 공급하는 16년 계약을 추진한다. 비트코인(BTC) 채굴을 기반으로 성장한 회사가 장기 AI 인프라 매출을 확보하려는 사업 전환에 나선 것이다.\n비트디어는 6월 29일 자회사 Tydal Data Center AS가 티달 AI 데이터센터 부지의 코로케이션 임차 계약을 체결했다고 밝혔다. 상대방의 외부 고객·공급업체 계약 완료 등 선행 조건이 남아 있어 계약 효력 발생을 보장할 수 없다고 설명했다.\n코인텔레그래프는 이후 이 계약 규모를 기본 16년간 최대 47억 달러(약 6조7210억원)라고 보도했다. 또 비트디어가 티달 AI·고성능컴퓨팅(HPC) 단지에서 121MW의...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385239",
-    "published_at": "Tue, 04 Aug 2026 16:11:36 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와의 16년 계약, 장기 AI 인프라 매출 확보, 큰 규모의 비용(47억 달러)",
-    "collected_at": "2026-08-04T17:32:38.458434+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "피어스 “클래리티법과 별개로 SEC 규제 정비 계속”",
-    "content": "헤스터 피어스(Hester Peirce) 미국 증권거래위원회(SEC) 위원이 클래리티 법안(CLARITY Act)의 성사 여부와 별개로 디지털자산 규제 정비를 계속하겠다는 뜻을 밝혔다.\nPANews는 4일 피어스 위원이 법안 처리에 낙관적인 태도를 보이며 “법안이 통과되든 그렇지 않든 SEC는 노력을 계속할 것”이라고 말했다고 전했다. 다만 SEC 공개 자료에서는 해당 발언의 원문 녹취나 영상을 확인할 수 없었다.\n클래리티 법안은 디지털자산을 증권과 상품 영역으로 나눠 SEC와 미국 상품선물거래위원회(CFTC)의 관할을 정리하는 시장구조 법안이다. 의회가 기관별 권한을 법률로 구분해 시장 참여자에게 일관된 규제 기준을 제공하는 데 목적이 있다.\n미...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/385238",
-    "published_at": "Tue, 04 Aug 2026 16:11:35 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "미국 증권거래위원회(SEC) 위원이 디지털자산 규제 정비를 계속하겠다는 뜻을 밝혔다는 뉴스",
-    "collected_at": "2026-08-04T17:32:55.985282+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "피어스 “클래리티 법안 무산돼도 SEC 개편 지속”",
-    "content": "헤스터 피어스(Hester Peirce) 미국 증권거래위원회(SEC) 위원이 클래리티 법안(CLARITY Act) 통과에 낙관적인 입장을 유지하면서도 입법이 무산되면 SEC 자체 권한으로 디지털자산 규제 개편을 이어가겠다고 밝혔다.\n피어스 위원은 “법안 통과 여부와 관계없이 SEC는 계속 추진할 것”이라며 “법안이 통과되지 않아도 우리가 할 수 있는 일은 많다”고 말했다고 PANews가 4일 전했다. 이번 발언의 원문 녹취나 SEC 공식 전문은 확인되지 않았다.\n피어스 위원의 발언은 의회 입법과 규제기관의 자체 정비를 병행하겠다는 의미로 풀이된다. 앞서 SEC는 의회의 법안 처리가 지연되면 자체 암호화폐 규칙을 마련할 수 있다는 입장을 밝힌 바...  더보기",
-    "url": "https://www.tokenpost.kr/news/policy/385236",
-    "published_at": "Tue, 04 Aug 2026 16:09:38 +0000",
-    "relevance_score": 9.0,
-    "is_crypto_related": true,
-    "reason": "SEC 위원이 디지털 자산 규제 개편을 이어갈 것이라는 발언으로, 규제 당국의 자체 정비를 의미하는 것으로 풀이된다.",
-    "collected_at": "2026-08-04T17:33:13.314017+00:00"
   }
 ]
