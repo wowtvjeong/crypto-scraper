@@ -2,6 +2,42 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "MSBT 비트코인 잔고 6675개로 늘었다",
+    "content": "모건스탠리(Morgan Stanley)의 현물 비트코인(BTC) ETF 지갑 잔고가 6675개로 늘어 처음 6600개를 넘었다.\n\n오데일리는 16일 오전 4시37분 한국시간 기준 아캄(Arkham) 모니터링을 인용해 모건스탠리 비트코인 트러스트(MSBT)가 전날 703만 달러(약 99억원)를 들여 BTC 약 111.762개를 추가했다고 전했다. MSBT의 비트코인 보유 가치는 4억2000만 달러(약 5943억원)를 웃도는 것으로 집계됐다.\n\nMSBT는 모건스탠리 명의의 현물 비트코인 ETF다. 아캄은 4월 17일 공개한 글에서 MSBT 관련 온체인 지갑을 식별했으며, 투자자가 해당 지갑의 유입과 유출을 추적할 수 있다고 밝혔다. 다만 ETF 결제는 T+1 구조여서 온체인 반영 시점은 실제...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391580",
+    "published_at": "Sun, 16 Aug 2026 03:43:04 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 뉴스인 모건스탠리 비트코인 ETF 지갑 잔고가 증가했지만, 아직 시장 전체에 큰 영향을 미치지 않는다.",
+    "collected_at": "2026-08-16T04:05:42.384818+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "SEC, 3배 비트코인·이더리움 선물 ETF에 대한 Cboe 제안 검토",
+    "content": "SEC, 3배 비트코인·이더리움 선물 ETF에 대한 Cboe 제안 검토",
+    "url": "https://ns3.ai/ko/news/smBuD93Awb",
+    "published_at": null,
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "SEC와 Cboe의 공식 제안 검토로, 규제 당국의 결정에 대한 큰 파급력을 가짐",
+    "collected_at": "2026-08-16T04:05:57.893336+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "Shaw, baoskee의 ai16z 660만 달러 내부자 거래 의혹 제기",
+    "content": "Shaw, baoskee의 ai16z 660만 달러 내부자 거래 의혹 제기",
+    "url": "https://ns3.ai/ko/news/Rmp8zDdovn",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 투자 회사와 관련된 내부자 거래 의혹이 제기되어, 크립토 시장 전반에 영향을 줄 가능성이 있어",
+    "collected_at": "2026-08-16T04:06:14.472034+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "아이렌 \"AI센터 늘수록 연산 수요 커진다\"",
     "content": "IREN이 인공지능(AI) 데이터센터 확대가 수요를 해소하기보다 추가 수요를 만들 수 있다고 주장했다. 비트코인(BTC) 채굴 인프라를 AI 클라우드로 전환하는 기업 입장에서는 전력 접속과 송전망, 건설 역량이 성장 속도를 가르는 조건으로 떠올랐다.\n대니얼 로버츠(Daniel Roberts) IREN 공동창업자 겸 공동 최고경영자는 16일 게시글에서 AI 데이터센터가 하나 늘어날 때마다 AI 수요는 줄지 않고 더 늘어난다고 말했다고 블록비츠는 전했다. 그는 더 강한 AI가 더 많은 컴퓨팅 파워를 필요로 하고, 더 저렴한 AI는 사용량을 늘린다고 설명했다.\n로버츠는 AI 성능이 한 단계 높아질 때마다 1년 전에는 없던 새 활용 사례가 생긴다고 봤다....  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391575",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "마스터카드가 스테이블코인 인프라 기업을 인수하며 비자와의 경쟁을 본격화하는 뉴스, 여러 자산·시장 전반에 영향을 줄 가능성이 있다",
     "collected_at": "2026-08-04T13:19:13.667123+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "“미국을 디지털자산 수도로” 베선트 ‘핵심 참모’ 사임⋯ 클래리티 법 통과 변수 되나",
-    "content": "[블록미디어 양원모 기자] 미국 재무부에서 스콧 베선트 재무장관의 디지털자산 정책을 총괄해온 핵심 참모 타일러 윌리엄스(Tyler Williams) 수석 디지털자산 고문이 재무부를 떠났다. 미 의회가 디지털자산 시장구조 법안인 ‘클래리티 법안(CLARITY Act)’ 처리를 앞두고 막판 협상을 이어가는 시점이어서 향후 정책 추진에도 관심이 쏠린다. 3일(현지시각) 미국 정치전문매체 펀치볼뉴스 등에 따르면 베선트 장관은 이날 성명을 통해 윌리엄스가 지난 7월31일 퇴임했다고 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1124025?utm_source=general&utm_medium=rss",
-    "published_at": "Tue, 04 Aug 2026 11:01:03 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국 재무부의 핵심 참모가 사임하고, 클래리티 법안이 처리될 가능성이 높아지면서 정책 추진에 관심이 쏠리는 상황이 발생했다.",
-    "collected_at": "2026-08-04T13:19:30.107778+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "[단독]빗썸, API 이벤트 30억 배상안 거부…집단소송 가나",
-    "content": "[단독]빗썸, API 이벤트 30억 배상안 거부…집단소송 가나",
-    "url": "https://www.decenter.kr/article/20075665",
-    "published_at": null,
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소인 빗썸의 API 이벤트로 인한 배상금에 대한 거부로 인한 집단소송이 가는 등, 크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-08-04T13:19:46.830935+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings",
-    "content": "Italy’s Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings\nItaly’s largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock’s iShares Bitcoin Trust (IBIT) fell 93.7% from the previous quarter to 40,723 shares. The underlying-share amount tied to its reported IBIT call position dropped 99.3% to 18,000 shares, while a new put position equivalent to 500,000 IBIT shares appeared. Meanwhile, its iShares Staked Ethereum Trust ETF holding rose from 116,200 to 349,600 shares, while its Bitwise Solana Staking ETF position fell from 2,817 shares to seven. The filing does not reveal the bank’s full options structure or net exposure. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25419",
-    "published_at": "2026-08-04T08:52:13+00:00",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 은행 Intesa Sanpaolo이 비트코인 ETF에 대한 지분을 94% 줄이고 이더리움 ETF에 대한 지분을 3배로 늘렸다는 시장 전체에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-08-04T11:00:59.699295+00:00"
   }
 ]
