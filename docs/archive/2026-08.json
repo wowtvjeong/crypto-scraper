@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M",
+    "content": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M\nPayward, the parent company of Kraken, reported Q2 adjusted revenue of $508 million, up 17% year over year, while adjusted EBITDA fell to $23 million from about $80 million a year earlier. Total platform transaction volume declined to $310 billion, while funded accounts rose 42% to a record 6.6 million. Asset-based and other revenue accounted for 60% of total revenue, up from 55% a year earlier, pointing to a broader revenue mix despite weaker trading activity and lower profitability. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25590",
+    "published_at": "2026-08-16T09:33:48+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Kraken의 부모사 Payward가 2분기 매출 508억 달러, EBITDA 23억 달러를 보고했으며, 거래량과 계좌 개설자 증가로 더 넓은 수입 범위가 나타났다.",
+    "collected_at": "2026-08-16T09:48:31.157977+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "체인링크 고래, 98만개 코인베이스로…매도 압력",
+    "content": "[블록미디어 이정화 기자] 체인링크(Chainlink) 대규모 투자자가 약 98만455토큰(LINK)을 코인베이스로 이체해 매도 가능성이 제기됐다. 해당 지갑은 약 2시간 전 984.55K LINK를 코인베이스에 보냈다. 16일 온체인 렌즈 데이터에 따르면 이 고래는 지난 한 달 동안 바이낸스에서 약 241만 LINK를 매수해 축적했다. 현재 보유 잔액은 143만 LINK다. 이번 코인베이스 이체는 매도 신호로 해석될 여지가 있다. 대규모 지갑의 거래는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128289?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 09:32:58 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대규모 투자자가 체인링크를 매도할 가능성이 제기된 소식, 관련 주체의 규모가 크고 파급 범위가 특정 코인 한정",
+    "collected_at": "2026-08-16T09:48:31.741531+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "World Liberty, 1억 1,260만 달러 규모 포지션 청산 임박 속 OCC 예비 승인 획득",
+    "content": "World Liberty, 1억 1,260만 달러 규모 포지션 청산 임박 속 OCC 예비 승인 획득",
+    "url": "https://ns3.ai/ko/news/p0vFcSGpHi",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "OCC 예비 승인 획득은 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-16T09:48:53.023398+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "1530만달러 넘은 폰스 창작자 수수료",

@@ -1,5 +1,41 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M",
+    "content": "Kraken Parent Payward Reports $508M Q2 Revenue as Adjusted EBITDA Falls to $23M\nPayward, the parent company of Kraken, reported Q2 adjusted revenue of $508 million, up 17% year over year, while adjusted EBITDA fell to $23 million from about $80 million a year earlier. Total platform transaction volume declined to $310 billion, while funded accounts rose 42% to a record 6.6 million. Asset-based and other revenue accounted for 60% of total revenue, up from 55% a year earlier, pointing to a broader revenue mix despite weaker trading activity and lower profitability. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25590",
+    "published_at": "2026-08-16T09:33:48+00:00",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 Kraken의 부모사 Payward가 2분기 매출 508억 달러, EBITDA 23억 달러를 보고했으며, 거래량과 계좌 개설자 증가로 더 넓은 수입 범위가 나타났다.",
+    "collected_at": "2026-08-16T09:48:31.157977+00:00"
+  },
+  {
+    "source": "blockmedia",
+    "source_type": "press",
+    "title": "체인링크 고래, 98만개 코인베이스로…매도 압력",
+    "content": "[블록미디어 이정화 기자] 체인링크(Chainlink) 대규모 투자자가 약 98만455토큰(LINK)을 코인베이스로 이체해 매도 가능성이 제기됐다. 해당 지갑은 약 2시간 전 984.55K LINK를 코인베이스에 보냈다. 16일 온체인 렌즈 데이터에 따르면 이 고래는 지난 한 달 동안 바이낸스에서 약 241만 LINK를 매수해 축적했다. 현재 보유 잔액은 143만 LINK다. 이번 코인베이스 이체는 매도 신호로 해석될 여지가 있다. 대규모 지갑의 거래는 [...]",
+    "url": "https://www.blockmedia.co.kr/archives/1128289?utm_source=general&utm_medium=rss",
+    "published_at": "Sun, 16 Aug 2026 09:32:58 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "대규모 투자자가 체인링크를 매도할 가능성이 제기된 소식, 관련 주체의 규모가 크고 파급 범위가 특정 코인 한정",
+    "collected_at": "2026-08-16T09:48:31.741531+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "World Liberty, 1억 1,260만 달러 규모 포지션 청산 임박 속 OCC 예비 승인 획득",
+    "content": "World Liberty, 1억 1,260만 달러 규모 포지션 청산 임박 속 OCC 예비 승인 획득",
+    "url": "https://ns3.ai/ko/news/p0vFcSGpHi",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "OCC 예비 승인 획득은 크립토 시장에 영향을 줄 수 있는 중요한 뉴스이지만, 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-16T09:48:53.023398+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "1530만달러 넘은 폰스 창작자 수수료",
@@ -17962,41 +17998,5 @@
     "is_crypto_related": true,
     "reason": "스마트 컨트랙트 계정의 유에스디코인 예치를 지원하는 게이트웨이의 새로운 기능이 소개되며, ERC-1271 표준을 지원하여 스마트 컨트랙트 지갑이 별도 위임 계정 없이 유에스디코인 잔액을 관리할 수 있게 됐다고 전했다.",
     "collected_at": "2026-08-04T15:44:10.070038+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "콜드카드 “난수 생성기 오류, 영구 손상 아니다”",
-    "content": "콜드카드(Coldcard)가 진정한 난수 생성기(TRNG) 오류는 기기를 영구적으로 작동 불능 상태로 만드는 문제가 아니라고 밝혔다. 오류가 발생해도 전원을 완전히 차단한 뒤 다시 켜면 복구할 수 있다는 설명이다.\n콜드카드는 8월 4일 공식 X 공지에서 해당 오류 상태가 휘발성이며 기기 플래시에 기록되지 않는다고 설명했다. 시스템이 오류 발생 시 작동을 멈추는 ‘안전 실패’ 방식으로 설계돼 장치를 영구적으로 손상시키지 않는다는 입장이다.\nTRNG는 하드웨어 지갑의 시드 문구를 만드는 무작위성의 출발점이다. 콜드카드 공식 FAQ에는 메인 칩 내부의 하드웨어 TRNG를 주로 사용하고, 의사 난수 생성기(PRNG)의 출력과 배타적 논리합(XOR)...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385210",
-    "published_at": "Tue, 04 Aug 2026 15:08:36 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "콜드카드의 난수 생성기 오류가 기기를 영구적으로 손상시키지 않는다는 설명이 나왔고, 오류가 발생해도 복구가 가능하다는 점이 중요합니다.",
-    "collected_at": "2026-08-04T15:45:23.979269+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "12.5MW 시설 인수한 포티튜드, 자체 운영 확대",
-    "content": "지캐시(ZEC) 채굴사 포티튜드(Fortitude)가 미국 네브래스카주 프로서의 12.5MW 디지털 인프라 시설을 인수했다. 이번 거래로 토지와 건물, 변전 설비를 직접 보유·운영하는 전략을 확대했다.\n디지털커런시그룹(Digital Currency Group·DCG) 계열사인 포티튜드는 4일 프로서 시설의 부동산과 개선물을 625만 달러(약 89억원)에 인수했다고 밝혔다. 거래에는 약 98만5000달러(약 14억원)의 호스팅 보증금 크레디트와 약 46만5500달러(약 7억원) 규모의 T21 채굴기 1400대 매각분이 반영됐다. 신규 현금 지출은 약 470만 달러(약 67억원)다.\n프로서 시설은 포티튜드의 네브래스카주 세 번째 거점이다. 회사의 계약 전력 포트폴리오는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385209",
-    "published_at": "Tue, 04 Aug 2026 15:05:46 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토 채굴사 포티튜드가 미국 네브래스카주 프로서의 12.5MW 디지털 인프라 시설을 인수하여 자체 운영을 확대하는 뉴스",
-    "collected_at": "2026-08-04T15:45:41.435572+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 6만3000달러대, 개인·고래 동시 매집…분기점 서나",
-    "content": "비트코인(BTC)이 6만 달러 중반 구간에서 강한 ‘공급 밀집’과 ‘축적’ 흐름을 동시에 보이며 시장의 분기점에 서 있다. 주요 온체인 지표는 개인과 고래 투자자 모두가 같은 가격대에서 매집을 확대하고 있음을 시사한다.6만3000달러, 가장 두꺼운 매물대 형성최근 몇 주간 비트코인(BTC)은 6만 달러에서 6만7000달러 사이에서 박스권 움직임을 이어왔다. 이 가운데 약 6만3000달러 구간은 현재 가장 많은 물량이 쌓인 ‘핵심 가격대’로 부상했다.글래스노드의 ‘개체 조정 UTXO 실현 가격 분포(URPD)’ 데이터에 따르면, 약 51만5000 BTC에 해당하는 3% 이상의 공급이 이 가격대에 집중돼 있다. 이어 6만1000달러 부근에도 약 36만2000 BTC, 전체...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385206",
-    "published_at": "Tue, 04 Aug 2026 14:58:00 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트코인의 가격이 6만3000달러 구간에서 강한 공급 밀집과 축적 흐름을 동시에 보이며, 개인과 고래 투자자가 같은 가격대에서 매집을 확대하고 있음을 시사한다. 이는 시장의 분기점에 서 있는 중요한 신호로 간주된다.",
-    "collected_at": "2026-08-04T15:46:18.838803+00:00"
   }
 ]
