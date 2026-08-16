@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals",
+    "content": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals\nAccording to WuBlockchain Data, as of August 17, open interest in Sandisk (SNDK) stock perpetuals reached $1.73 billion, the highest among all stock perpetuals. The figure was approximately 1.86 times SPCX’s $928 million and 3.51 times SKHX’s $493 million. SNDK is now the crypto market’s largest stock perpetual by open interest, while its trading volume also significantly exceeds that of most storage-sector peers, including MU.\nNotably, several firms providing liquidity for SNDK and related derivatives are also deeply involved in digital asset markets. Cboe directories list Susquehanna (SIG) and IMC as the designated primary market makers for SNDK options on Cboe Options and EDGX Options, respectively. MIAX documents show that Citadel Securities was appointed primary lead market maker when options on the T-REX 2X Long SNDK Daily Target ETF (SNDU) were launched.\nIn addition, a Schedule 13G filed by Jane Street on August 5 shows that, as of July 30, the firm beneficially owned 7.4094 million Sandisk shares, representing a 5.0% stake. Jane Street is one of the world’s largest electronic market makers and was also an early mover among traditional financial institutions in digital asset trading. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25598",
+    "published_at": "2026-08-16T17:57:17+00:00",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장에서 가장 높은 오픈 인테레스트를 기록한 SNDK 스톡 퍼퓰럴과 관련된 뉴스, 또한 관련된 거래소와 시장에 깊은 영향을 미치는 여러 기업의 참여를 언급함",
+    "collected_at": "2026-08-16T18:13:52.359724+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "테더 감사 통과, 윈터뮤트 10억달러 AI 투자",
+    "content": "테더(USDT)의 2025년 재무제표 전체 감사와 윈터뮤트의 10억 달러(약 1조4150억원) 투자 계획이 지난주 크립토 시장의 주요 재료로 떠올랐다. 장기 휴면 이더리움(ETH) 이동, 아서 헤이즈의 비트코인(BTC) 가격 시나리오, 금값 상승도 함께 시장의 관심을 받았다.\n\n비트코인닷컴 뉴스는 16일 주간 정리 기사에서 KPMG U.S.가 테더의 2025년 재무제표 전체 감사에 대해 적정 의견을 냈다고 전했다. 테더는 앞서 2025년 순이익이 100억 달러(약 14조1500억원)를 넘었고 초과 준비금은 63억 달러(약 8조9145억원), 미국 국채 익스포저는 1410억 달러(약 199조5150억원)라고 밝혔다.\n\n적정 의견은 독립 감사인이 재무제표가 회계 기준에 따라...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391746",
+    "published_at": "Sun, 16 Aug 2026 18:07:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 테더의 재무제표 전체 감사와 윈터뮤트의 10억 달러 투자 계획이 크립토 시장의 주요 재료로 떠올랐고, 테더의 재무제표가 회계 기준에 따라 적정하다는 독립 감사인의 의견이 나왔다는 점",
+    "collected_at": "2026-08-16T18:13:52.629839+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "지디 컬처 주식수 18배, BTC 보유 대가 커졌다",
+    "content": "지디 컬처그룹(GD Culture Group·$GDC)이 비트코인(BTC) 7,500개를 유지한 채 2026년 상반기 대규모 평가손실을 반영했고, 같은 기간 발행주식 수는 18배 넘게 늘었다.\n크립토슬레이트(CryptoSlate)는 회사의 분기 보고서를 근거로 지디 컬처그룹이 상반기 BTC 평가손실 2억1180만 달러(약 2997억원)를 인식했다고 보도했다. 이 손실은 보유 BTC를 처분해 생긴 현금 유출이 아니라 공정가치 변동을 손익에 반영한 비현금 회계손실이다.\n미 증권거래위원회(SEC)에 제출된 1분기 보고서에서 회사는 2026년 3월 31일 기준 7,500 BTC를 보유했다고 밝혔다. 원가 기준은 8억4200만 달러(약 1조1914억원), 당시 공정가치는 약 5억100만 달러(약...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391745",
+    "published_at": "Sun, 16 Aug 2026 18:05:53 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "지디 컬처그룹이 비트코인 보유량과 평가손실을 공개했지만, 시장 전체에 직접적인 영향을 주는 것은 아니지만, 관련 주체가 크고, 여러 매체가 다룰 만한 뉴스이므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:13:52.947799+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "2500억달러 주식 무기한 선물, 바이낸스 76%",
+    "content": "주요 디지털자산 거래소의 주식 연계 무기한 선물 거래량이 7월 2500억 달러(약 353조7500억원)로 늘었다. 4월 약 150억 달러(약 21조2250억원)에서 3개월 만에 17배로 커진 규모다.\n크립토퀀트(CryptoQuant)는 7월 기준 주요 디지털자산 거래소의 주식 연계 무기한 선물 월간 거래량이 이같이 집계됐다고 밝혔다. 무기한 선물은 만기일 없이 거래되는 파생상품으로, 이번 집계 대상은 비트코인(BTC)이나 이더리움(ETH)이 아니라 전통 주식과 상장지수펀드(ETF)에 연동된 계약이다.\n거래소별로는 바이낸스가 가장 큰 비중을 차지했다. 바이낸스의 7월 주식 연계 무기한 선물 거래량은 약 1930억 달러(약 273조950억원)로 전체의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391743",
+    "published_at": "Sun, 16 Aug 2026 17:49:08 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스, 대형 거래소와 전통 주식에 연동된 계약이 관련되어 있다.",
+    "collected_at": "2026-08-16T18:14:20.574040+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",

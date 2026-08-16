@@ -1,5 +1,53 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals",
+    "content": "SNDK Stock Perpetual Open Interest Reaches $1.73 Billion, Highest Among Stock Perpetuals\nAccording to WuBlockchain Data, as of August 17, open interest in Sandisk (SNDK) stock perpetuals reached $1.73 billion, the highest among all stock perpetuals. The figure was approximately 1.86 times SPCX’s $928 million and 3.51 times SKHX’s $493 million. SNDK is now the crypto market’s largest stock perpetual by open interest, while its trading volume also significantly exceeds that of most storage-sector peers, including MU.\nNotably, several firms providing liquidity for SNDK and related derivatives are also deeply involved in digital asset markets. Cboe directories list Susquehanna (SIG) and IMC as the designated primary market makers for SNDK options on Cboe Options and EDGX Options, respectively. MIAX documents show that Citadel Securities was appointed primary lead market maker when options on the T-REX 2X Long SNDK Daily Target ETF (SNDU) were launched.\nIn addition, a Schedule 13G filed by Jane Street on August 5 shows that, as of July 30, the firm beneficially owned 7.4094 million Sandisk shares, representing a 5.0% stake. Jane Street is one of the world’s largest electronic market makers and was also an early mover among traditional financial institutions in digital asset trading. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25598",
+    "published_at": "2026-08-16T17:57:17+00:00",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장에서 가장 높은 오픈 인테레스트를 기록한 SNDK 스톡 퍼퓰럴과 관련된 뉴스, 또한 관련된 거래소와 시장에 깊은 영향을 미치는 여러 기업의 참여를 언급함",
+    "collected_at": "2026-08-16T18:13:52.359724+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "테더 감사 통과, 윈터뮤트 10억달러 AI 투자",
+    "content": "테더(USDT)의 2025년 재무제표 전체 감사와 윈터뮤트의 10억 달러(약 1조4150억원) 투자 계획이 지난주 크립토 시장의 주요 재료로 떠올랐다. 장기 휴면 이더리움(ETH) 이동, 아서 헤이즈의 비트코인(BTC) 가격 시나리오, 금값 상승도 함께 시장의 관심을 받았다.\n\n비트코인닷컴 뉴스는 16일 주간 정리 기사에서 KPMG U.S.가 테더의 2025년 재무제표 전체 감사에 대해 적정 의견을 냈다고 전했다. 테더는 앞서 2025년 순이익이 100억 달러(약 14조1500억원)를 넘었고 초과 준비금은 63억 달러(약 8조9145억원), 미국 국채 익스포저는 1410억 달러(약 199조5150억원)라고 밝혔다.\n\n적정 의견은 독립 감사인이 재무제표가 회계 기준에 따라...  더보기",
+    "url": "https://www.tokenpost.kr/news/briefing/391746",
+    "published_at": "Sun, 16 Aug 2026 18:07:35 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소 테더의 재무제표 전체 감사와 윈터뮤트의 10억 달러 투자 계획이 크립토 시장의 주요 재료로 떠올랐고, 테더의 재무제표가 회계 기준에 따라 적정하다는 독립 감사인의 의견이 나왔다는 점",
+    "collected_at": "2026-08-16T18:13:52.629839+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "지디 컬처 주식수 18배, BTC 보유 대가 커졌다",
+    "content": "지디 컬처그룹(GD Culture Group·$GDC)이 비트코인(BTC) 7,500개를 유지한 채 2026년 상반기 대규모 평가손실을 반영했고, 같은 기간 발행주식 수는 18배 넘게 늘었다.\n크립토슬레이트(CryptoSlate)는 회사의 분기 보고서를 근거로 지디 컬처그룹이 상반기 BTC 평가손실 2억1180만 달러(약 2997억원)를 인식했다고 보도했다. 이 손실은 보유 BTC를 처분해 생긴 현금 유출이 아니라 공정가치 변동을 손익에 반영한 비현금 회계손실이다.\n미 증권거래위원회(SEC)에 제출된 1분기 보고서에서 회사는 2026년 3월 31일 기준 7,500 BTC를 보유했다고 밝혔다. 원가 기준은 8억4200만 달러(약 1조1914억원), 당시 공정가치는 약 5억100만 달러(약...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391745",
+    "published_at": "Sun, 16 Aug 2026 18:05:53 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "지디 컬처그룹이 비트코인 보유량과 평가손실을 공개했지만, 시장 전체에 직접적인 영향을 주는 것은 아니지만, 관련 주체가 크고, 여러 매체가 다룰 만한 뉴스이므로 7.5점을 부여한다.",
+    "collected_at": "2026-08-16T18:13:52.947799+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "2500억달러 주식 무기한 선물, 바이낸스 76%",
+    "content": "주요 디지털자산 거래소의 주식 연계 무기한 선물 거래량이 7월 2500억 달러(약 353조7500억원)로 늘었다. 4월 약 150억 달러(약 21조2250억원)에서 3개월 만에 17배로 커진 규모다.\n크립토퀀트(CryptoQuant)는 7월 기준 주요 디지털자산 거래소의 주식 연계 무기한 선물 월간 거래량이 이같이 집계됐다고 밝혔다. 무기한 선물은 만기일 없이 거래되는 파생상품으로, 이번 집계 대상은 비트코인(BTC)이나 이더리움(ETH)이 아니라 전통 주식과 상장지수펀드(ETF)에 연동된 계약이다.\n거래소별로는 바이낸스가 가장 큰 비중을 차지했다. 바이낸스의 7월 주식 연계 무기한 선물 거래량은 약 1930억 달러(약 273조950억원)로 전체의...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391743",
+    "published_at": "Sun, 16 Aug 2026 17:49:08 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "크립토 시장 전반에 영향을 줄 가능성이 있는 뉴스, 대형 거래소와 전통 주식에 연동된 계약이 관련되어 있다.",
+    "collected_at": "2026-08-16T18:14:20.574040+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "SafePal 데이터 침해로 고객 약 4만 명의 개인정보 노출",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "삼성전자가 갤럭시 생태계의 결제 인프라 확장에 나선 것으로 보아, 스테이블코인 지원과 디지털자산 연결이 중요한 역할을 할 것으로 예상되며, 이는 크립토 시장 전반에 영향을 줄 가능성이 있다.",
     "collected_at": "2026-08-05T00:57:03.818222+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나, SIMD-0553·0550 거버넌스 제안으로 토큰경제학 재편 시도",
-    "content": "SIMD-0553·0550, 솔라나 공급 패러다임 바꾼다솔라나 커뮤니티는 현재 SIMD-0553과 SIMD-0550이라는 두 가지 연계 제안을 검토 중이다. 코인데스크와 디크립트 등 주요 매체에 따르면, 이 제안들은 솔라나의 공급 역학을 근본적으로 재편할 전망이다.SIMD-0553은 리소스 기반 트랜잭션 수수료 체계를 도입하는 내용을 담고 있다. 이 제안이 통과되면 일일 SOL 소각량이 현재 약 650개(약 6천만 원)에서 7500~9000개(최대 약 86억 원)로 급증할 것으로 예상된다. 이는 기존 대비 10배 이상 증가한 수치다.SIMD-0550은 솔라나의 연간 디플레이션율을 현행 15%에서 30%로 두 배 확대하는 방안이다. 이를 통해 인플레이션 하한선 1.5%에 도달하는...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385402",
-    "published_at": "Wed, 05 Aug 2026 00:39:17 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "솔라나의 공급 역학을 근본적으로 재편할 전망인 SIMD-0553과 SIMD-0550이라는 두 가지 연계 제안이 검토 중인 뉴스",
-    "collected_at": "2026-08-05T00:57:21.230452+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "[KOL 인덱스] “S&P 사상 최고·크립토 법안 시한” 커뮤니티 주목… BNY멜론 스테이킹·러시아 코인 합법화·13년 휴면 BTC 매도 화제",
-    "content": "KOL 인덱스는 토큰포스트와 DataMaxiPlus의 커뮤니티 분석 기술을 기반으로, 텔레그램 내 투자자 반응과 관심이 높은 콘텐츠를 분석한 시리즈다. 전일 KOL 커뮤니티에서 주목받은 이슈를 통해 시장의 투자 심리와 트렌드를 진단한다. [편집자주]\n\n미국 SP 500이 사상 최고치를 경신했다는 속보와 함께, ‘암호화폐 규제 명확화 법안(Crypto Clarity Act)’ 처리 시한이 임박했다는 언급이 커뮤니티에서 빠르게 확산됐다. 같은 흐름에서 BNY멜론의 크립토 커스터디 ‘스테이킹’ 도입 소식, 13년간 잠들어 있던 비트코인 지갑의 전량 매도 이슈가 동시에 회자되며 위험자산 전반에 대한 체감 온도가 반영됐다. 거시 지표(무역수지·JOLTS·공장주문)...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385395",
-    "published_at": "Wed, 05 Aug 2026 00:30:45 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "미국 SP 500이 사상 최고치를 경신했다는 속보와 함께, '암호화폐 규제 명확화 법안(Crypto Clarity Act)' 처리 시한이 임박했다는 언급이 커뮤니티에서 빠르게 확산됐다. 또한 BNY멜론의 크립토 커스터디 '스테이킹' 도입 소식, 13년간 잠들어 있던 비트코인 지갑의 전량 매도 이슈가 동시에 회자되며 위험자산 전반에 대한 체감 온도가 반영됐다.",
-    "collected_at": "2026-08-05T00:58:18.157144+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트마인, 11.3억 달러 암호화폐 자산 공개와 주가 상승 가능성",
-    "content": "비트마인, 11.3억 달러 규모 암호화폐 자산 공개 및 이더리움 전략 강조비트마인(BMNR)이 2026년 8월 2일 기준으로 암호화폐, 현금 및 기타 자산을 포함하여 11.3억 달러의 보유 자산을 공개했다. PR 뉴스와이어를 통해 발표된 이 공식 자료에 따르면, 비트마인은 579만 7,813 ETH, 209 BTC와 1억 7,300만 달러 상당의 현금 및 유가증권을 보유하고 있다. 또한, 비스트 인더스트리와 에잇코 홀딩스의 지분도 포함된다.비트마인은 현재 보유하고 있는 이더리움이 전체 이더리움의 유통량 중 약 4.8%에 해당한다고 밝혔다. 최근 1만 399 ETH를 추가 매수하며, 총 5,797,813 ETH를 보유하고 있으며 이 중 4,917,189 ETH는 스테이킹된 상태이다.BMNR...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385360",
-    "published_at": "Tue, 04 Aug 2026 23:01:20 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트마인이 11.3억 달러 규모의 암호화폐 자산을 공개하고, 이더리움 전략을 강조하는 뉴스이며, 관련 주체의 규모가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-04T23:30:18.082503+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트코인 코드 저장소 150곳, AI 보안 점검 진행",
-    "content": "비트코인(BTC) 생태계에서 인공지능(AI)을 활용한 코드 보안 점검이 본격화됐다. Bitcoin Red Team은 코드 저장소 150곳을 점검하고 십여 건의 취약점을 프로젝트 측에 비공개로 제보했다.\n오데일리는 4일 Bitcoin Red Team이 COLDCARD 취약점 논란 이후 지갑과 암호화 라이브러리, 인프라 코드의 보안을 점검하는 과정에서 문제를 발견했다고 전했다. 이번 작업에는 약 2만 달러(약 2860만원)의 AI 연산 비용이 투입됐으며, 오픈소스 비트코인 개발 후원 단체 오픈새츠(OpenSats)가 이를 부담한 것으로 전해졌다. 다만 오픈새츠의 공개 프로젝트 목록에서는 Bitcoin Red Team이 확인되지 않았고, 오픈새츠는 해당 목록이 지원 프로젝트 전체를...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385351",
-    "published_at": "Tue, 04 Aug 2026 22:10:06 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "비트코인 생태계에서 인공지능(AI)을 활용한 코드 보안 점검이 본격화되며, 150곳의 코드 저장소가 점검되었고 십여 건의 취약점이 발견되었다. 이 작업은 오픈소스 비트코인 개발 후원 단체 오픈새츠가 약 2만 달러의 AI 연산 비용을 부담했다.",
-    "collected_at": "2026-08-04T23:31:04.312305+00:00"
   }
 ]
