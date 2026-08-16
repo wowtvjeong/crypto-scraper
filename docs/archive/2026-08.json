@@ -1,5 +1,29 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "EU Regulators Warn of MiCA Migration Scams as 1,700 Crypto Platforms Halt EU Services",
+    "content": "EU Regulators Warn of MiCA Migration Scams as 1,700 Crypto Platforms Halt EU Services\nMore than 1,700 unlicensed crypto platforms were required to stop serving EU users after MiCA took full effect on July 1, while only 323 firms held valid MiCA authorization at the time, potentially forcing up to 10 million users to move their assets. European regulators have warned that scammers are exploiting the transition by impersonating regulators or licensed exchanges and sending fake migration notices to direct users to fraudulent platforms. Users are advised to verify service providers against official MiCA registers before transferring funds. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25596",
+    "published_at": "2026-08-16T16:03:39+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "EU 규제 당국이 MiCA 이행과 관련한 사기 조심을 주의보를 내렸고, 1700개 이상의 비트코인 플랫폼이 EU 서비스를 중단했다. 10만 명 이상의 사용자가 자산을 이전해야 하는 상황이 발생했다.",
+    "collected_at": "2026-08-16T16:12:41.671869+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "코인 평가축, 시총 순위보다 수익성에 무게",
+    "content": "크립토 토큰을 평가하는 기준이 시가총액 순위에서 실제 사용량, 매출, 가치 포착 구조로 옮겨가고 있다. 단기 가격은 여전히 유동성과 파생상품 흐름에 흔들리지만, 장기 평가에서는 프로젝트의 경제성이 더 뚜렷한 기준으로 떠오르는 모습이다.\n코인데스크는 크립토 투자자들이 코인마켓캡 순위표보다 개별 프로젝트의 채택률과 수익 구조를 더 중시하기 시작했다고 보도했다. 헌터 호슬리(Hunter Horsley) 비트와이즈(Bitwise) 최고경영자는 과거 새 레이어1 네트워크가 상위 블록체인의 할인판처럼 평가됐지만, 이제는 시장 규모와 채택, 경제적 가치 포착이 더 중요하게 다뤄진다고 설명했다.\n이 변화는 알트코인 선호가 단순히...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391732",
+    "published_at": "Sun, 16 Aug 2026 16:10:14 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 투자자들이 코인마켓캡 순위보다 개별 프로젝트의 채택률과 수익 구조를 더 중시하기 시작했다는 뉴스",
+    "collected_at": "2026-08-16T16:12:42.359527+00:00"
+  },
+  {
     "source": "tokenpost",
     "source_type": "press",
     "title": "5년래 최대 유니스왑 고래 출금, 바이낸스서 포착",
