@@ -1,5 +1,29 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "SEC Abruptly Withdraws Scheduled Crypto Vote, Catching Market Off Guard",
+    "content": "SEC Abruptly Withdraws Scheduled Crypto Vote, Catching Market Off Guard",
+    "url": "https://coinmarketcap.com/community/articles/6a82078734776200bbe77d4f/",
+    "published_at": null,
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "규제당국의 공식 결정으로, SEC가 예정된 크립토 투표를 즉시 취소하는 사안으로, 시장 전체에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T19:13:22.375015+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Agentic Decentralized Finance Forum to Advance Singapore’s Next Digital Economy",
+    "content": "Agentic Decentralized Finance Forum to Advance Singapore’s Next Digital Economy",
+    "url": "https://coinmarketcap.com/community/articles/6a820785d08c9b65fb0a4d8c/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와의 파트너십을 언급하지는 않지만, 대형 국가의 디지털 경제 전반에 영향을 줄 수 있는 뉴스",
+    "collected_at": "2026-08-16T19:13:22.634210+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",

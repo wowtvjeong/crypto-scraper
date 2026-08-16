@@ -1,5 +1,29 @@
 [
   {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "SEC Abruptly Withdraws Scheduled Crypto Vote, Catching Market Off Guard",
+    "content": "SEC Abruptly Withdraws Scheduled Crypto Vote, Catching Market Off Guard",
+    "url": "https://coinmarketcap.com/community/articles/6a82078734776200bbe77d4f/",
+    "published_at": null,
+    "relevance_score": 10,
+    "is_crypto_related": true,
+    "reason": "규제당국의 공식 결정으로, SEC가 예정된 크립토 투표를 즉시 취소하는 사안으로, 시장 전체에 큰 영향을 줄 가능성이 있다.",
+    "collected_at": "2026-08-16T19:13:22.375015+00:00"
+  },
+  {
+    "source": "coinmarketcap_community",
+    "source_type": "press",
+    "title": "Agentic Decentralized Finance Forum to Advance Singapore’s Next Digital Economy",
+    "content": "Agentic Decentralized Finance Forum to Advance Singapore’s Next Digital Economy",
+    "url": "https://coinmarketcap.com/community/articles/6a820785d08c9b65fb0a4d8c/",
+    "published_at": null,
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트와의 파트너십을 언급하지는 않지만, 대형 국가의 디지털 경제 전반에 영향을 줄 수 있는 뉴스",
+    "collected_at": "2026-08-16T19:13:22.634210+00:00"
+  },
+  {
     "source": "coingecko_news",
     "source_type": "press",
     "title": "SEC, 암호화폐 규제 회의 취소…혁신 면제 계획 지연",
@@ -17974,29 +17998,5 @@
     "is_crypto_related": true,
     "reason": "빗썸이 MEV 입출금을 일시 중단하는 소식이기 때문에 시청자에게 유의미한 뉴스지만, 영향 범위가 제한적이기 때문에 7점을 부여한다.",
     "collected_at": "2026-08-05T04:01:05.767396+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "이더리움 보상 삭감안 두고 독립 검증자 이탈 공방",
-    "content": "이더리움 보상 삭감안 두고 독립 검증자 이탈 공방",
-    "url": "https://www.tokenpost.kr/news/blockchain/385497",
-    "published_at": null,
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "이더리움 보상 삭감안은 이더리움의 주요 정책 변경으로, 독립 검증자 이탈은 이더리움의 신뢰성에 큰 영향을 줄 수 있는 사건으로, 두 가지 모두 이더리움의 주요 뉴스에 해당한다.",
-    "collected_at": "2026-08-05T04:01:22.495874+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "Uniswap, pools.trade 토큰 발행 출시 예고",
-    "content": "Uniswap, pools.trade 토큰 발행 출시 예고",
-    "url": "https://ns3.ai/ko/news/J9F5YaYtJ1",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "Uniswap과 pools.trade가 관련된 토큰 발행 출시 예고로, 관련 주체가 크고 파급 범위가 크지만 아직 시장 전체를 흔들 정도는 아님",
-    "collected_at": "2026-08-05T04:02:26.434171+00:00"
   }
 ]
