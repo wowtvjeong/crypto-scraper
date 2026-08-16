@@ -1,5 +1,53 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "30억파운드 런던 본사, 은행세 논쟁에 재검토 거론",
+    "content": "제이미 다이먼(Jamie Dimon) JP모건체이스(JPMorgan Chase·$JPM) 최고경영자(CEO)가 영국 은행세 인상 논의에 다시 반대했다. 논쟁은 런던 금융허브 경쟁력과 JP모건의 30억 파운드 규모 현지 투자 지속 여부로 번지고 있다.\n파이낸셜타임스는 다이먼 CEO가 존 힐리(John Healey) 영국 재무장관과의 통화에서 은행세 인상에 대한 우려를 전했다고 보도했다. 보도는 은행 이익에 대한 횡재세와 더 넓은 부유세 논의가 함께 거론되고 있다고 전했다.\n다이먼 CEO의 문제 제기는 이번이 처음이 아니다. 그는 7월 16일 워싱턴DC에서 녹음돼 7월 21일 공개된 마스터 인베스터 팟캐스트에서 영국 세제를 ‘경쟁력 없는 세제’라는 취지로...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391754",
+    "published_at": "Sun, 16 Aug 2026 19:36:40 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": false,
+    "reason": "은행세 인상 논쟁이 런던 금융허브 경쟁력과 JP모건의 30억 파운드 규모 현지 투자 지속 여부로 번지면서, 대형 은행의 중대 발표에 해당한다.",
+    "collected_at": "2026-08-16T19:40:52.304050+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "에이브 금 담보 904억원, 온체인 금 활용 넓혔다",
+    "content": "에이브(AAVE)가 토큰화 금을 디파이(DeFi·탈중앙 금융) 대출 담보로 받아들이는 주요 창구로 부상했다. 테더골드(XAUT)와 팍스골드(PAXG)가 대출 시장에 들어오면서 온체인 금의 쓰임이 보관에서 담보 활용으로 넓어지는 흐름이다.\n디파이라마(DefiLlama)는 17일 기준 테더골드의 활성 시가총액을 28억8200만 달러(약 4조780억원), 디파이 활성 예치액을 2억3305만 달러(약 3298억원)로 집계했다. 이 가운데 에이브 V3 예치액은 5698만 달러(약 806억원), 에이브 V4 예치액은 691만 달러(약 98억원)였다.\n두 시장을 합치면 에이브의 테더골드 예치 규모는 6389만 달러(약 904억원)다. 테더골드의 전체 디파이 활성 예치액 가운데 적지 않은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391752",
+    "published_at": "Sun, 16 Aug 2026 19:33:49 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "에이브(AAVE)가 온체인 금을 담보로 받아들이는 주요 창구로 부상했고, 테더골드(XAUT)와 팍스골드(PAXG)가 대출 시장에 들어오면서 온체인 금의 쓰임이 보관에서 담보 활용으로 넓어지는 흐름이다. 에이브의 테더골드 예치 규모는 약 904억원이다.",
+    "collected_at": "2026-08-16T19:40:52.773582+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "솔라나 재보험 토큰 2건 내부자금 95%",
+    "content": "옥스브리지 리 홀딩스(Oxbridge Re Holdings)가 솔라나(SOL) 기반 재보험 토큰화 증권 5건으로 약 710만 달러(약 100억원)를 모집했다. 다만 T20-2027·T42-2027 두 건은 옥스브리지 계열 자금이 공개 수요의 95% 이상을 채운 구조였다.\n옥스브리지는 7월 7일 자회사 SurancePlus가 솔라나에서 토큰화 재보험 증권 5건의 사모배치를 마쳤다고 밝혔다. 전체 모집액은 약 710만 달러였다. T42-2027은 4만5335개, 45만3357달러(약 6억4000만원), T20-2027은 3만2841개, 32만8408달러(약 4억6000만원) 규모였다.\n두 건의 합산 모집액은 78만1765달러(약 11억원)다. 크립토슬레이트(CryptoSlate)는 T20·T42 두 건에서 옥스브리지 계열 자금이...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391751",
+    "published_at": "Sun, 16 Aug 2026 19:23:38 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "솔라나 기반 재보험 토큰화 증권이 내부자금 95% 이상을 채운 것으로 나타났으며, 이는 크립토 시장에 영향을 줄 수 있는 중요한 뉴스입니다.",
+    "collected_at": "2026-08-16T19:40:53.058397+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "WLFI 1700만개, 가렛 진 지갑서 바이낸스로 이동",
+    "content": "가렛 진(Garrett Jin)이 월드리버티파이낸셜(WLFI) 1700만개를 바이낸스에 입금한 것으로 나타났다. 입금 물량 가치는 약 101만 달러(약 14억원)로 집계됐다.\n오데일리는 16일 오후 8시14분(한국시간) 온체인렌즈(Onchain Lens) 모니터링을 인용해 가렛 진이 41분 전 바이낸스에 WLFI 1700만개를 보냈다고 전했다. 오데일리는 이 거래를 두고 매도 가능성이 있다고 보도했다.\n가렛 진은 5개월 전 WLFI 3억1331만개를 받은 것으로 나타났다. 당시 가치는 약 3166만 달러(약 448억원)였고, 현재 가격 기준 해당 보유분의 손실 규모는 약 1300만 달러(약 184억원), 손실률은 약 41%로 제시됐다.\n거래소 입금은 온체인 시장에서 보유자의 매도...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391750",
+    "published_at": "Sun, 16 Aug 2026 19:19:57 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "가렛 진이 WLFI 1700만개를 바이낸스에 입금한 것으로 나타났으며, 이는 온체인 시장에서 보유자의 매도 가능성을 시사한다.",
+    "collected_at": "2026-08-16T19:41:13.575671+00:00"
+  },
+  {
     "source": "coinmarketcap_community",
     "source_type": "press",
     "title": "SEC Abruptly Withdraws Scheduled Crypto Vote, Catching Market Off Guard",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "디지털자산 과세 강행에 실효성·형평성 논란이 불거지고 있어, 정부의 대형 발표로 크립토 시장 전반에 영향을 줄 가능성이 있다.",
     "collected_at": "2026-08-05T03:59:41.401032+00:00"
-  },
-  {
-    "source": "blockmedia",
-    "source_type": "press",
-    "title": "[상장빔의 민낯] 이벤트 이틀에 70% 몰렸다… ‘파로스’, 업비트 · 빗썸이 만든 곡선",
-    "content": "[블록미디어 명정선·오수환 기자 / 강나연 에디터] 리얼파이(RealFi)를 지향하는 파로스(PROS)는 지난 5월 8일 업비트와 빗썸에 동시 상장된 뒤 사흘 만에 국내 원화마켓 거래대금 1위에 올랐다. 블록미디어 데이터팀이 상장일부터 5월 17일까지 업비트와 빗썸의 거래 데이터를 분석한 결과, 이 기간 국내 원화마켓 누적 거래대금 1조820억원 가운데 69.8%가 단 이틀(5월 9~10일)에 집중된 것으로 나타났다. 이 이틀은 업비트가 거래대금 순위 [...]",
-    "url": "https://www.blockmedia.co.kr/archives/1123917?utm_source=general&utm_medium=rss",
-    "published_at": "Wed, 05 Aug 2026 01:00:42 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "업비트와 빗썸의 거래 데이터를 분석한 결과, 이 기간 국내 원화마켓 누적 거래대금 1조820억원 가운데 69.8%가 단 이틀에 집중된 것으로 나타났다. 이는 파로스의 상장에 대한 시장의 큰 반응을 나타내는 것으로 보인다.",
-    "collected_at": "2026-08-05T04:00:15.370852+00:00"
-  },
-  {
-    "source": "decenter",
-    "source_type": "press",
-    "title": "코인 결제 시대 대비…오픈에셋·크립토닷컴 맞손",
-    "content": "코인 결제 시대 대비…오픈에셋·크립토닷컴 맞손",
-    "url": "https://www.decenter.kr/article/20075983",
-    "published_at": null,
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "크립토닷컴과 오픈에셋이 맞손을 하면서 크립토 결제 시대에 대한 뉴스인 것으로 보인다. 그러나 아직 시장 전체를 흔들 정도는 아님.",
-    "collected_at": "2026-08-05T04:00:31.772182+00:00"
-  },
-  {
-    "source": "cointelegraph",
-    "source_type": "press",
-    "title": "Ethereum researchers want to rein in staking, critics say it could backfire",
-    "content": "EIP-8363 is a newly published draft proposal that would cut net consensus-layer rewards as the Ethereum staking ratio heads toward 50%.",
-    "url": "https://cointelegraph.com/news/ethereum-researchers-want-to-rein-in-staking-critics-say-it-could-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "published_at": "Wed, 05 Aug 2026 02:30:07 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "Ethereum의 staking ratio에 대한 영향이 크고, 구체적인 정책/자금 관련 소식이 포함되어 있기 때문에 8점을 받았다.",
-    "collected_at": "2026-08-05T04:00:48.402422+00:00"
-  },
-  {
-    "source": "coingecko_news",
-    "source_type": "press",
-    "title": "빗썸, MEV 입출금 일시 중단",
-    "content": "빗썸, MEV 입출금 일시 중단",
-    "url": "https://ns3.ai/ko/news/bIGjWbLZpb",
-    "published_at": null,
-    "relevance_score": 7.0,
-    "is_crypto_related": true,
-    "reason": "빗썸이 MEV 입출금을 일시 중단하는 소식이기 때문에 시청자에게 유의미한 뉴스지만, 영향 범위가 제한적이기 때문에 7점을 부여한다.",
-    "collected_at": "2026-08-05T04:01:05.767396+00:00"
   }
 ]
