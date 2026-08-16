@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Asia's weekly TOP10 crypto news",
+    "content": "Asia's weekly TOP10 crypto news\nSouth Korea Tightens Cross-Border Crypto Transfers, Hong Kong-Licensed HKDAP Faces Security and Compliance Concerns, Russia Expands Long-Term Mining Restrictions, Cambodia Moves to Draft Digital Asset Legislation, and Deribit Secures a Dubai VARA Broker-Dealer License. For the complete article and weekly curated reports, subscribe to our Substack: — \nlink",
+    "url": "https://t.me/wublockchainenglish/25591",
+    "published_at": "2026-08-16T12:00:56+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "다양한 아시아 지역의 크립토 뉴스들이 나열되어 있으나, 각각의 뉴스는 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-16T12:17:44.710437+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Israel’s Largest Regulated Crypto Broker Bits of Gold Faces Potential Data Leak Affecting 200,000 Customers",
+    "content": "Israel’s Largest Regulated Crypto Broker Bits of Gold Faces Potential Data Leak Affecting 200,000 Customers\nAccording to Israeli media Calcalist, Bits of Gold, Israel’s largest regulated crypto broker, is investigating a potential data leak that may have exposed the personal information of roughly 200,000 customers, potentially affecting most of its user base. Bits of Gold received Israel’s first VASP license in 2022 and was later approved to launch BILS, a stablecoin pegged 1:1 to the Israeli shekel. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25592",
+    "published_at": "2026-08-16T12:15:28+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-16T12:17:45.016668+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "전통 금융사, 암호화폐 거래·수탁 인프라 붙였다",
+    "content": "전통 금융사들이 디지털 자산을 별도 시장이 아니라 기존 거래·수탁·토큰화 인프라 안으로 편입하고 있다. 비트코인(BTC)을 은행의 대안으로 보던 초기 구호는 약해졌고, 은행과 자산운용사는 전문 인프라 업체와 손잡고 고객 접점을 넓히는 쪽으로 움직이고 있다.\n코인데스크는 헌터 호슬리(Hunter Horsley) 비트와이즈 최고경영자의 발언을 인용해 운용자산 1조 달러(약 1415조원) 이상 금융기관 두 곳이 올여름 암호화폐 상품을 승인했다고 전했다. 다만 해당 기관명과 승인 범위, 고객 접근 시작 시점은 공개되지 않았다.\n확인된 사례는 미국 대형 금융사 발표에서 이어졌다. 모건스탠리 투자운용은 4월 8일 비트코인 성과를 추종하는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391678",
+    "published_at": "Sun, 16 Aug 2026 12:15:09 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "전통 금융사들이 암호화폐 거래·수탁 인프라를 편입하고 있으며, 미국 대형 금융사도 비트코인 관련 상품을 승인하는 등 크립토 시장에 큰 영향을 미칠 것으로 보인다.",
+    "collected_at": "2026-08-16T12:17:45.456384+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "텍사스, 1000만달러 비트코인 직접 보관 추진",
+    "content": "텍사스주가 1000만 달러(약 142억원) 규모 전략적 비트코인(BTC) 준비금을 직접 보관 체제로 옮기는 절차를 진행하고 있다. 초기 운용에 블랙록의 현물 비트코인 상장지수펀드(ETF)인 아이셰어즈 비트코인 트러스트(IBIT)가 쓰이면서 공공기금의 디지털자산 보유 방식이 쟁점으로 떠올랐다.\n텍사스 주의회가 처리한 SB 21은 전략적 BTC 준비금을 주정부 특별기금으로 만들고, 텍사스 감사관이 BTC와 일정 요건을 충족하는 암호자산을 취득·교환·매도·관리·보유할 수 있도록 했다. 이 법은 준비금 자문위원회 구성, 입법부 보고, 온라인 공개 의무도 함께 뒀다.\n텍사스 감사관실은 2026년 5월 28일 전략적 BTC 준비금 자문위원회를 구성했다고...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391677",
+    "published_at": "Sun, 16 Aug 2026 12:12:13 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "텍사스 주정부가 1000만 달러 규모의 비트코인 준비금을 직접 보관하는 절차를 진행하고 있으며, 블랙록의 아이셰어즈 비트코인 트러스트가 사용될 예정이다. 또한, 텍사스 주의회가 처리한 법은 준비금 자문위원회 구성, 입법부 보고, 온라인 공개 의무를 포함하고 있다.",
+    "collected_at": "2026-08-16T12:18:01.925639+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "밈코인 플랫폼 담당자, 공개 상호작용 사과",
+    "content": "BNB체인 기반 밈코인 발행 플랫폼 Four.Meme의 사업 담당자 Cova가 최근 프로젝트 논란과 관련해 커뮤니티에 사과했다. 플랫폼 관계자의 공개 발언과 생태 프로젝트 관련 상호작용이 어디까지 공식 입장으로 해석될 수 있는지가 쟁점이 됐다.\n\n포사이트뉴스(Foresight News)는 16일 오후 9시 5분(한국시간) Cova가 X에서 “Four.Meme 생태계에 합류한 지 얼마 되지 않았고, 본래 의도는 생태 프로젝트를 이해하는 데 있었다”고 밝혔다고 전했다. Cova는 프로젝트 측과 플랫폼 사이의 관계를 적절히 처리하지 못했고, 플랫폼 구성원으로서 소셜미디어 공개 행동이 추가 의미를 부여받을 수 있다는 점을 충분히 인식하지 못했다고...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391676",
+    "published_at": "Sun, 16 Aug 2026 12:10:46 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "밈코인 플랫폼 Four.Meme의 사업 담당자가 프로젝트 논란과 관련해 커뮤니티에 사과하는 뉴스, 관련 주체가 플랫폼 담당자와 프로젝트 측이며, 플랫폼 구성원으로서의 소셜미디어 공개 행동에 대한 논의가 포함되어 있다.",
+    "collected_at": "2026-08-16T12:18:22.479100+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "카르다노 다익스트라 1단계, 2026년 4분기 계획",
+    "content": "카르다노(Cardano)가 다익스트라(Dijkstra) 업그레이드를 두 단계로 나눠 추진한다. 1단계는 2026년 4분기 리니어 레이오스(Linear Leios)를 중심으로 진행될 계획이며, 2단계는 별도 하드포크로 우로보로스 페라스(Ouroboros Peras)를 활성화하는 방안으로 제시됐다.\n오데일리는 16일 오후 1시 2분(한국시간) 카르다노 생태계 조직 인터섹트(Intersect)가 다익스트라 로드맵을 갱신했다고 전했다. 1단계에는 리니어 레이오스 확장 방안, 네스티드 트랜잭션, 새 직렬화 구조, 플루터스 V4 변경이 포함됐다. 2단계는 우로보로스 페라스 합의 프로토콜을 별도 하드포크로 적용하며 목표 시점은 2027년 2분기다.\n리니어 레이오스는 기존 블록...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391675",
+    "published_at": "Sun, 16 Aug 2026 12:08:00 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "카르다노가 다익스트라 업그레이드를 두 단계로 나눠 추진하고, 1단계는 2026년 4분기 리니어 레이오스를 중심으로 진행될 계획이며, 2단계는 별도 하드포크로 우로보로스 페라스를 활성화하는 방안으로 제시된다는 뉴스",
+    "collected_at": "2026-08-16T12:18:43.021446+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "세이프팔, 고객 주문정보 약 4만 건 무단 접근 확인… “시드 문구·자산은 안전”",
@@ -17926,77 +17998,5 @@
     "is_crypto_related": true,
     "reason": "바이비트가 유럽에서 암호자산 거래와 전자화폐·결제 서비스를 별도 법인과 인가 체계로 운영하는 구조가 공개되었으며, 유럽 연합(EU)의 암호자산 시장 규제인 미카(MiCA) 체계에서 암호자산 서비스를 맡는 별도 법인인 바이비트 EU가 존재한다는 점이 중요합니다.",
     "collected_at": "2026-08-04T19:10:16.815602+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "삼성, 8억대 갤럭시에 스테이블코인 탑재…유통 판도 바뀔까",
-    "content": "삼성전자가 8억 대 스마트폰에 ‘스테이블코인’ 기능을 기본 탑재하기로 하면서 글로벌 유통 채널의 판도가 바뀔 가능성이 커지고 있다. 업계에서는 삼성전자가 단숨에 스테이블코인 확산의 핵심 인프라로 떠오를 수 있다는 평가가 나온다.8억대 스마트폰에 스테이블코인 탑재…‘유통’ 판 흔든다삼성전자는 ‘갤럭시 언팩 2026’ 행사에서 삼성 월렛에 스테이블코인 기능을 추가하고, 이를 8억 대 이상의 기기에 기본 제공하겠다고 밝혔다. 해당 기능은 법정화폐에 연동된 계정 형태로, 송금과 결제를 보다 간편하게 처리할 수 있도록 설계됐다.이미 삼성 월렛은 한국에서만 약 1,900만 명의 사용자를 확보하고 있으며, 전 세계 61개국에서 서비스...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385266",
-    "published_at": "Tue, 04 Aug 2026 17:28:54 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 기업인 삼성전자가 스테이블코인 기능을 기본 탑재하는 것으로 발표되었고, 이는 글로벌 유통 채널의 판도가 바뀔 가능성이 커지고 있다. 또한, 업계에서는 삼성전자가 단숨에 스테이블코인 확산의 핵심 인프라로 떠오를 수 있다는 평가가 나온다. ",
-    "collected_at": "2026-08-04T19:11:13.585283+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "웰스파고, 올가을 기업용 토큰화 예금 결제 도입",
-    "content": "웰스파고(Wells Fargo·$WFC)가 올가을 기업 고객용 토큰화 예금 서비스를 단계적으로 출시한다. 첫 적용 대상은 미국 달러와 영국 파운드 간 국경 간 결제다.\n월스트리트저널은 4일(현지시간) 웰스파고가 기업·상업 고객을 대상으로 자체 블록체인 플랫폼에서 서비스를 운영할 계획이라고 보도했다. 웰스파고는 초기 달러-파운드 결제를 시작으로 수요에 따라 지원 통화를 확대하는 방안을 검토한다.\n토큰화 예금은 은행 예금을 블록체인상의 디지털 토큰으로 표현해 이전·정산하는 방식이다. 24시간 결제와 프로그래밍 가능한 거래를 지원하면서도 발행 주체와 회계 처리에서는 은행 예금의 성격을 유지한다. 개인 투자자용 암호화폐...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385260",
-    "published_at": "Tue, 04 Aug 2026 17:07:29 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "대형 은행이 블록체인 기반의 기업용 토큰화 예금 서비스를 출시하는 뉴스, 이는 크립토 시장에 큰 영향을 줄 수 있는 중요한 뉴스",
-    "collected_at": "2026-08-04T17:28:53.754954+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "스테이킹 50% 땐 순발행 0…이더리움 보상 소각 제안",
-    "content": "이더리움(ETH) 검증인 보상 일부를 소각해 스테이킹 유인을 낮추고 발행량 증가를 억제하자는 제안이 나왔다. 스테이킹 비율이 높아질수록 합의층 보상 가운데 더 많은 물량을 소각하는 구조다.\n크립토브리핑(Crypto Briefing)은 4일 EIP-8361 초안이 검증인 보상에 동적 소각 구조를 도입하는 내용을 담고 있다고 전했다. 전체 이더리움의 50%가 스테이킹되면 합의층 순발행을 0으로 낮추는 방식이다.\n보도에서는 저스틴 드레이크(Justin Drake) 이더리움재단 연구원 등이 제안 작성자로 거론됐다. 다만 5일 한국시간 기준 EIP-8361의 공식 EIP 페이지나 이더리움 EIP 깃허브 병합 문서는 확인되지 않았다.\nEIP는 이더리움 네트워크의 기술...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385258",
-    "published_at": "Tue, 04 Aug 2026 17:05:45 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "이더리움 네트워크의 기술 제안이 나와, 스테이킹 유인을 낮추고 발행량 증가를 억제하는 방안이 제시되며, 이더리움의 50%가 스테이킹되면 합의층 순발행을 0으로 낮추는 구조를 도입하는 내용이 담겨있다.",
-    "collected_at": "2026-08-04T17:29:12.309744+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "갤럭시 2분기 실적 발표, 133MW 임대수익 첫 반영",
-    "content": "갤럭시디지털(Galaxy Digital·$GLXY)이 5일 미국 나스닥 개장 전 2026년 2분기 실적을 발표한다. 비트코인(BTC) 등 디지털자산 사업의 손익과 AI·고성능컴퓨팅(HPC) 데이터센터 임대 수익이 같은 분기에 어떻게 반영됐는지가 핵심이다.\n갤럭시디지털은 이날 오전 8시 30분(미 동부시간)에 투자자 콘퍼런스콜을 연다. 한국시간으로는 5일 오후 9시 30분이며, 실적 자료와 웹캐스트는 회사 투자자관계(IR) 사이트와 유튜브에서 제공할 예정이다.\n첫 번째 관전 지점은 미국 텍사스 서부의 헬리오스(Helios) 데이터센터다. 갤럭시디지털은 7월 6일 헬리오스 1단계를 완료해 코어위브(CoreWeave)에 약 200MW의 총전력과 133MW의 핵심 IT 부하를...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385256",
-    "published_at": "Tue, 04 Aug 2026 16:55:28 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "갤럭시디지털의 디지털자산 사업 실적과 AI·고성능컴퓨팅 데이터센터 임대 수익이 반영되는 실적 발표로, 업계 전반에 주목할 만한 뉴스이다.",
-    "collected_at": "2026-08-04T17:29:31.136545+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "글래스노드, AI 온체인 호출에 건당 결제 도입",
-    "content": "글래스노드(Glassnode)가 AI 에이전트용 온체인 데이터 서비스에 호출 건별 결제를 도입했다. AI 에이전트는 계정이나 구독, API 키 없이 데이터를 불러오고 유에스디코인(USDC)으로 비용을 낼 수 있다.\n글래스노드는 4일 공개한 글에서 x402를 통해 AI 에이전트가 자사 데이터 카탈로그를 직접 조회할 수 있게 했다고 밝혔다. 메트릭 호출 가격은 1건당 0.05달러(약 72원), 메타데이터 호출 가격은 0.01달러(약 14원)다. 결제는 베이스(Base) 네트워크에서 처리된다.\nx402는 코인베이스($COIN)가 만든 HTTP 기반 결제 표준이다. 유료 리소스를 요청하면 서버가 ‘402 Payment Required’를 반환하고, 클라이언트가 결제 서명을 첨부해 다시...  더보기",
-    "url": "https://www.tokenpost.kr/news/blockchain/385253",
-    "published_at": "Tue, 04 Aug 2026 16:50:12 +0000",
-    "relevance_score": 8.0,
-    "is_crypto_related": true,
-    "reason": "글래스노드가 AI 에이전트용 온체인 데이터 서비스에 호출 건별 결제를 도입하는 것은 크립토 관련 업계에 큰 영향을 줄 수 있는 뉴스이다. 또한, 유료 리소스를 요청하는 HTTP 기반 결제 표준인 x402를 사용하는 것은 크립토 관련 기술 개발에 대한 관심을 높일 수 있다.",
-    "collected_at": "2026-08-04T17:30:08.039115+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "솔라나, 수수료 구조 전환으로 일일 소각량 13배 급증 가능성",
-    "content": "솔라나, 수수료 구조 대전환 시동…일일 소각량 13배 급증 전망솔라나 네트워크가 거버넌스 개혁을 통해 토큰 경제 구조를 근본적으로 재편한다. 검증인들이 자원 기반 수수료 모델로의 전환을 지지하면서 일일 SOL 소각량이 현재 650개에서 최대 9,000개로 급증할 가능성이 제기됐다. 이는 연간 약 2억 3,700만 달러 규모의 공급 감소 효과를 의미한다.SIMD-0553, 자원 기반 수수료 모델 도입 눈앞코인데스크 보도에 따르면 솔라나 검증인들은 SIMD-0553 거버넌스 제안에 대한 지지 신호를 보내고 있다. 이 제안은 기존 거래 수수료 체계를 자원 기반 모델로 전환하는 내용을 담고 있다. 현재 솔라나 네트워크는 하루 약 650 SOL(약 4만...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385250",
-    "published_at": "Tue, 04 Aug 2026 16:39:28 +0000",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "솔라나 네트워크의 거버넌스 개혁으로 인해 일일 소각량이 13배 급증할 가능성이 제기된다는 뉴스, 이는 연간 약 2억 3,700만 달러 규모의 공급 감소 효과를 의미한다.",
-    "collected_at": "2026-08-04T17:30:27.672000+00:00"
   }
 ]

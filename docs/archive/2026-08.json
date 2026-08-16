@@ -1,5 +1,77 @@
 [
   {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Asia's weekly TOP10 crypto news",
+    "content": "Asia's weekly TOP10 crypto news\nSouth Korea Tightens Cross-Border Crypto Transfers, Hong Kong-Licensed HKDAP Faces Security and Compliance Concerns, Russia Expands Long-Term Mining Restrictions, Cambodia Moves to Draft Digital Asset Legislation, and Deribit Secures a Dubai VARA Broker-Dealer License. For the complete article and weekly curated reports, subscribe to our Substack: — \nlink",
+    "url": "https://t.me/wublockchainenglish/25591",
+    "published_at": "2026-08-16T12:00:56+00:00",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "다양한 아시아 지역의 크립토 뉴스들이 나열되어 있으나, 각각의 뉴스는 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-16T12:17:44.710437+00:00"
+  },
+  {
+    "source": "wublockchainenglish",
+    "source_type": "telegram",
+    "title": "Israel’s Largest Regulated Crypto Broker Bits of Gold Faces Potential Data Leak Affecting 200,000 Customers",
+    "content": "Israel’s Largest Regulated Crypto Broker Bits of Gold Faces Potential Data Leak Affecting 200,000 Customers\nAccording to Israeli media Calcalist, Bits of Gold, Israel’s largest regulated crypto broker, is investigating a potential data leak that may have exposed the personal information of roughly 200,000 customers, potentially affecting most of its user base. Bits of Gold received Israel’s first VASP license in 2022 and was later approved to launch BILS, a stablecoin pegged 1:1 to the Israeli shekel. — \nlink",
+    "url": "https://t.me/wublockchainenglish/25592",
+    "published_at": "2026-08-16T12:15:28+00:00",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "대형 거래소·유명 프로젝트·구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-16T12:17:45.016668+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "전통 금융사, 암호화폐 거래·수탁 인프라 붙였다",
+    "content": "전통 금융사들이 디지털 자산을 별도 시장이 아니라 기존 거래·수탁·토큰화 인프라 안으로 편입하고 있다. 비트코인(BTC)을 은행의 대안으로 보던 초기 구호는 약해졌고, 은행과 자산운용사는 전문 인프라 업체와 손잡고 고객 접점을 넓히는 쪽으로 움직이고 있다.\n코인데스크는 헌터 호슬리(Hunter Horsley) 비트와이즈 최고경영자의 발언을 인용해 운용자산 1조 달러(약 1415조원) 이상 금융기관 두 곳이 올여름 암호화폐 상품을 승인했다고 전했다. 다만 해당 기관명과 승인 범위, 고객 접근 시작 시점은 공개되지 않았다.\n확인된 사례는 미국 대형 금융사 발표에서 이어졌다. 모건스탠리 투자운용은 4월 8일 비트코인 성과를 추종하는...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391678",
+    "published_at": "Sun, 16 Aug 2026 12:15:09 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "전통 금융사들이 암호화폐 거래·수탁 인프라를 편입하고 있으며, 미국 대형 금융사도 비트코인 관련 상품을 승인하는 등 크립토 시장에 큰 영향을 미칠 것으로 보인다.",
+    "collected_at": "2026-08-16T12:17:45.456384+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "텍사스, 1000만달러 비트코인 직접 보관 추진",
+    "content": "텍사스주가 1000만 달러(약 142억원) 규모 전략적 비트코인(BTC) 준비금을 직접 보관 체제로 옮기는 절차를 진행하고 있다. 초기 운용에 블랙록의 현물 비트코인 상장지수펀드(ETF)인 아이셰어즈 비트코인 트러스트(IBIT)가 쓰이면서 공공기금의 디지털자산 보유 방식이 쟁점으로 떠올랐다.\n텍사스 주의회가 처리한 SB 21은 전략적 BTC 준비금을 주정부 특별기금으로 만들고, 텍사스 감사관이 BTC와 일정 요건을 충족하는 암호자산을 취득·교환·매도·관리·보유할 수 있도록 했다. 이 법은 준비금 자문위원회 구성, 입법부 보고, 온라인 공개 의무도 함께 뒀다.\n텍사스 감사관실은 2026년 5월 28일 전략적 BTC 준비금 자문위원회를 구성했다고...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391677",
+    "published_at": "Sun, 16 Aug 2026 12:12:13 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "텍사스 주정부가 1000만 달러 규모의 비트코인 준비금을 직접 보관하는 절차를 진행하고 있으며, 블랙록의 아이셰어즈 비트코인 트러스트가 사용될 예정이다. 또한, 텍사스 주의회가 처리한 법은 준비금 자문위원회 구성, 입법부 보고, 온라인 공개 의무를 포함하고 있다.",
+    "collected_at": "2026-08-16T12:18:01.925639+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "밈코인 플랫폼 담당자, 공개 상호작용 사과",
+    "content": "BNB체인 기반 밈코인 발행 플랫폼 Four.Meme의 사업 담당자 Cova가 최근 프로젝트 논란과 관련해 커뮤니티에 사과했다. 플랫폼 관계자의 공개 발언과 생태 프로젝트 관련 상호작용이 어디까지 공식 입장으로 해석될 수 있는지가 쟁점이 됐다.\n\n포사이트뉴스(Foresight News)는 16일 오후 9시 5분(한국시간) Cova가 X에서 “Four.Meme 생태계에 합류한 지 얼마 되지 않았고, 본래 의도는 생태 프로젝트를 이해하는 데 있었다”고 밝혔다고 전했다. Cova는 프로젝트 측과 플랫폼 사이의 관계를 적절히 처리하지 못했고, 플랫폼 구성원으로서 소셜미디어 공개 행동이 추가 의미를 부여받을 수 있다는 점을 충분히 인식하지 못했다고...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391676",
+    "published_at": "Sun, 16 Aug 2026 12:10:46 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "밈코인 플랫폼 Four.Meme의 사업 담당자가 프로젝트 논란과 관련해 커뮤니티에 사과하는 뉴스, 관련 주체가 플랫폼 담당자와 프로젝트 측이며, 플랫폼 구성원으로서의 소셜미디어 공개 행동에 대한 논의가 포함되어 있다.",
+    "collected_at": "2026-08-16T12:18:22.479100+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "카르다노 다익스트라 1단계, 2026년 4분기 계획",
+    "content": "카르다노(Cardano)가 다익스트라(Dijkstra) 업그레이드를 두 단계로 나눠 추진한다. 1단계는 2026년 4분기 리니어 레이오스(Linear Leios)를 중심으로 진행될 계획이며, 2단계는 별도 하드포크로 우로보로스 페라스(Ouroboros Peras)를 활성화하는 방안으로 제시됐다.\n오데일리는 16일 오후 1시 2분(한국시간) 카르다노 생태계 조직 인터섹트(Intersect)가 다익스트라 로드맵을 갱신했다고 전했다. 1단계에는 리니어 레이오스 확장 방안, 네스티드 트랜잭션, 새 직렬화 구조, 플루터스 V4 변경이 포함됐다. 2단계는 우로보로스 페라스 합의 프로토콜을 별도 하드포크로 적용하며 목표 시점은 2027년 2분기다.\n리니어 레이오스는 기존 블록...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391675",
+    "published_at": "Sun, 16 Aug 2026 12:08:00 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "카르다노가 다익스트라 업그레이드를 두 단계로 나눠 추진하고, 1단계는 2026년 4분기 리니어 레이오스를 중심으로 진행될 계획이며, 2단계는 별도 하드포크로 우로보로스 페라스를 활성화하는 방안으로 제시된다는 뉴스",
+    "collected_at": "2026-08-16T12:18:43.021446+00:00"
+  },
+  {
     "source": "blockmedia",
     "source_type": "press",
     "title": "세이프팔, 고객 주문정보 약 4만 건 무단 접근 확인… “시드 문구·자산은 안전”",
