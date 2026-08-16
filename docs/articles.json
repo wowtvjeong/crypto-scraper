@@ -2,6 +2,54 @@
   {
     "source": "tokenpost",
     "source_type": "press",
+    "title": "스테이킹 보상 분기 분배 추진, ETH·SOL 축소 논의",
+    "content": "스테이킹 보상을 상장지수펀드(ETF) 주주에게 나눠주는 상품 구조와, 그 보상 자체를 낮추려는 레이어1 프로토콜 논의가 동시에 진행되고 있다. 월가 상품은 스테이킹을 현금 분배 재원으로 다루고, 이더리움(ETH)과 솔라나(SOL)는 발행량과 검증인 보상 곡선을 다시 따지는 흐름이다.\n그레이스케일(Grayscale)은 7월 17일 미국 증권거래위원회(SEC)에 제출한 그레이스케일 이더리움 스테이킹 ETF(ETHE) 8-K 문서에서 8월 7일 전후 신탁 계약을 개정하겠다고 밝혔다. 개정안은 스테이킹 보상의 순현금 수익을 최소 분기 1회 주주에게 분배하는 구조를 담았다.\n같은 날 제출된 그레이스케일 솔라나 스테이킹 ETF(GSOL) 투자설명서 보충자료와...  더보기",
+    "url": "https://www.tokenpost.kr/news/blockchain/391668",
+    "published_at": "Sun, 16 Aug 2026 10:52:16 +0000",
+    "relevance_score": 9.5,
+    "is_crypto_related": true,
+    "reason": "스테이킹 보상 분기 분배 추진, ETH·SOL 축소 논의가 진행되고 있으며, 그레이스케일이 스테이킹 보상의 순현금 수익을 최소 분기 1회 주주에게 분배하는 구조를 담은 신탁 계약을 개정할 예정이다. ",
+    "collected_at": "2026-08-16T11:11:08.174663+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "반에크 시겔, 클래리티 통과시 L1 안도 랠리 가능성 거론",
+    "content": "미국 클래리티 법안(CLARITY Act) 통과 여부가 레이어1(L1) 토큰 시장의 규제 변수로 다시 거론됐다. 법안 처리 방향이 공공 블록체인 원생자산의 투자심리에 영향을 줄 수 있다는 분석이다.\n마스비트(Marsbit)는 16일 오후 7시24분(한국시간) 매슈 시겔(Matthew Sigel) 반에크(VanEck) 디지털자산 연구책임자가 미국 클래리티 법안이 통과될 경우 L1 토큰에서 거대한 안도 랠리가 나타날 수 있다고 말했다고 전했다. 해당 발언은 법안 통과를 전제로 한 조건부 시장 해석이다.\n클래리티 법안은 미국 디지털자산 시장구조와 규제 체계를 다루는 법안이다. 미 의회 자료상 H.R.3633은 2025년 5월 29일 발의됐고, 같은 해 7월 17일 하원에서...  더보기",
+    "url": "https://www.tokenpost.kr/news/policy/391667",
+    "published_at": "Sun, 16 Aug 2026 10:45:59 +0000",
+    "relevance_score": 8.0,
+    "is_crypto_related": true,
+    "reason": "미국 클래리티 법안 통과 여부가 레이어1(L1) 토큰 시장의 규제 변수로 거론되고, 반에크의 연구책임자가 법안 통과 시 거대한 안도 랠리가 나타날 수 있다고 말했다.",
+    "collected_at": "2026-08-16T11:11:08.499617+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "스테이킹 보상 분기 분배 추진, ETH·SOL 축소 논의",
+    "content": "스테이킹 보상 분기 분배 추진, ETH·SOL 축소 논의",
+    "url": "https://www.tokenpost.kr/news/blockchain/391668",
+    "published_at": null,
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "크립토 관련 프로젝트의 보상 분배 추진과 ETH·SOL의 축소 논의가 언급되며, 관련 주체는 중견 프로젝트 수준으로 파급 범위는 크립토 시장 전반에 영향을 줄 가능성이 있으나, 아직 확정 발표가 아니므로 7.5점",
+    "collected_at": "2026-08-16T11:11:16.888422+00:00"
+  },
+  {
+    "source": "coingecko_news",
+    "source_type": "press",
+    "title": "이더리움과 솔라나, 스테이킹 보상 삭감 검토…그레이스케일은 ETF 지급 계획",
+    "content": "이더리움과 솔라나, 스테이킹 보상 삭감 검토…그레이스케일은 ETF 지급 계획",
+    "url": "https://ns3.ai/ko/news/Pmt9cEYGYl",
+    "published_at": null,
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "이더리움과 솔라나의 스테이킹 보상 삭감 검토와 그레이스케일의 ETF 지급 계획이 관련 주체가 크고 파급 범위가 넓은 뉴스이지만 아직 시장 전체를 흔들 정도는 아님",
+    "collected_at": "2026-08-16T11:11:23.262330+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
     "title": "트럼프, 이란 추가 제재 검토로 핵협상 압박",
     "content": "도널드 트럼프 미국 대통령이 이란 핵 정책을 압박하기 위해 추가 제재와 제한 조치를 검토하고 있다. 실제 제재 발표 전 단계지만 미·이란 협상과 중동 지정학, 에너지 가격을 함께 흔들 수 있는 사안이다.\n크립토브리핑(CryptoBriefing)은 트럼프 대통령이 이란 핵 정책에 영향을 주기 위해 추가 경제 압박을 검토하고 있다고 보도했다. 협상은 지역 중재국을 통해 이어졌지만 진전은 제한적이었고, 시장은 제재 강화가 포괄적 합의 가능성에 미칠 영향을 보고 있다.\n추가 제재 검토는 이란 핵 프로그램을 둘러싼 미·이란 긴장이 이어지는 가운데 나왔다. 경제 압박이 강해질 경우 협상 동력이 약해지고, 재건 자금이 포함된 포괄 합의...  더보기",
     "url": "https://www.tokenpost.kr/news/cryptocurrency/391660",
@@ -17950,53 +17998,5 @@
     "is_crypto_related": true,
     "reason": "SEC 위원이 디지털 자산 규제 개편을 이어갈 것이라는 발언으로, 규제 당국의 자체 정비를 의미하는 것으로 풀이된다.",
     "collected_at": "2026-08-04T17:33:13.314017+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "BNY, 온체인 MMF 출범…이더리움·솔라나 장부 결합",
-    "content": "비엔와이(BNY)가 펀드 지분 기록을 이더리움과 솔라나 블록체인에 연결한 머니마켓펀드(MMF)를 선보였다. 상품의 정식 명칭은 ‘BNY 드레퓌스 온체인 유동성 펀드’이며 티커는 BLIXX다.\n크립토브리핑(Crypto Briefing)은 4일 비트고(BitGo)와 BNY가 BLIQUID 토큰으로 표시되는 디지털 네이티브 MMF를 출시했다고 보도했다. 미국 증권거래위원회(SEC)에 제출된 요약 투자설명서에는 BLIQUID가 펀드명이 아닌 펀드 지분과 연결된 ‘장부기입 토큰’으로 기재됐다.\n펀드는 자본을 보전하고 유동성을 유지하면서 현재 수익을 추구한다. 투자 대상은 미국 국채와 미국 국채 또는 현금으로만 담보되는 오버나이트 환매조건부채권, 현금이다.\n이 상품은...  더보기",
-    "url": "https://www.tokenpost.kr/news/cryptocurrency/385234",
-    "published_at": "Tue, 04 Aug 2026 16:07:31 +0000",
-    "relevance_score": 9.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소 BNY와 유명 프로젝트 비트고가 새로운 MMF를 출시하고, 이더리움과 솔라나 블록체인에 연결하여, 크립토 시장 전반에 영향을 줄 가능성이 있다.",
-    "collected_at": "2026-08-04T17:33:58.431304+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Polymarket Reportedly Seeks $1 Billion at Valuation Above $20 Billion",
-    "content": "Polymarket Reportedly Seeks $1 Billion at Valuation Above $20 Billion\nBloomberg reported, citing people familiar with the matter, that prediction market platform Polymarket is in preliminary talks with potential investors to raise about $1 billion at a valuation exceeding $20 billion. If completed, the deal would more than double its $9 billion valuation from October 2025. Polymarket reportedly completed roughly $1 billion in financing at a $15 billion valuation in April, adding investors including D.E. Shaw and G Squared. Since then, it has launched its U.S. platform and increased annualized revenue to more than $1.2 billion. Rival Kalshi was valued at $22 billion following a May funding round, while its July trading volume was reportedly about three times Polymarket’s. A Polymarket spokesperson declined to comment. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25424",
-    "published_at": "2026-08-04T13:25:35+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "크립토 관련 플랫폼 Polymarket이 20억 달러 이상의 평가치로 1억 달러를 huyup하기 위해 투자자들과 논의 중인 것으로 보인다. 이는 10월에 90억 달러로 평가된 평가치보다 두 배 이상이다.",
-    "collected_at": "2026-08-04T15:42:36.911527+00:00"
-  },
-  {
-    "source": "wublockchainenglish",
-    "source_type": "telegram",
-    "title": "Coldcard Incident Triggers Large-Scale Bitcoin Migration, Small Transfers Hit Highest Level Since FTX Collapse",
-    "content": "Coldcard Incident Triggers Large-Scale Bitcoin Migration, Small Transfers Hit Highest Level Since FTX Collapse\nAccording to CryptoQuant, Bitcoin holders moved funds on a large scale following the Coldcard security incident. On July 31, daily active Bitcoin addresses surged from roughly 645,000 to nearly 1 million, while transfers of less than 1 BTC reached about 39,600 BTC, the highest level since the collapse of FTX. Exchange deposits from small holders rose to their highest level since early February, alongside sharp increases in long-term holder spending and pending mempool transactions. CryptoQuant said the activity reflected security-driven asset repositioning, but cautioned that transfers to exchanges do not necessarily indicate selling. — \nlink",
-    "url": "https://t.me/wublockchainenglish/25425",
-    "published_at": "2026-08-04T14:40:44+00:00",
-    "relevance_score": 8.5,
-    "is_crypto_related": true,
-    "reason": "대형 거래소·유명 프로젝트와 관련된 큰 규모의 자산 이동과 시장 전반에 영향을 줄 가능성이 있는 뉴스",
-    "collected_at": "2026-08-04T15:42:37.281180+00:00"
-  },
-  {
-    "source": "tokenpost",
-    "source_type": "press",
-    "title": "비트마인 보유자산 113억달러, 자사주 매입에 현금 감소",
-    "content": "비트마인($BMNR)이 이더리움(ETH) 1만399개와 자사주 450만주를 추가 매입했다. 암호화폐와 현금, 시장성 증권, 기타 투자자산을 합친 보유자산은 113억 달러(약 16조5000억원)로 집계됐다.\n비트마인은 3일 보도자료에서 같은 날 오전 5시 한국시간 기준 이더리움 보유량이 579만7813개로 늘었다고 밝혔다. 현금 및 시장성 증권은 직전 발표 당시 2억6800만 달러(약 3832억원)에서 1억7300만 달러(약 2474억원)로 줄었다.\n현금 감소와 함께 자사주 매입도 이어졌다. 비트마인은 같은 기간 보통주 450만주를 추가로 사들였으며, 7월 1일 이후 매입한 자사주는 총 1610만주다. 회사는 앞서 40억 달러(약 5조7200억원) 규모의 자사주 매입...  더보기",
-    "url": "https://www.tokenpost.kr/news/market/385222",
-    "published_at": "Tue, 04 Aug 2026 15:37:56 +0000",
-    "relevance_score": 7.5,
-    "is_crypto_related": true,
-    "reason": "비트마인이 이더리움과 자사주를 추가 매입하고, 보유자산이 113억 달러로 집계되며, 현금이 감소하는 뉴스입니다.",
-    "collected_at": "2026-08-04T15:42:37.682603+00:00"
   }
 ]
