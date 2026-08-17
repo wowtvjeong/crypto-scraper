@@ -1,5 +1,41 @@
 [
   {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "1026만달러 솔라나 ETF 순유입, 비트와이즈 집중",
+    "content": "솔라나(SOL) 현물 상장지수펀드(ETF)에 미 동부시간 10~14일 1026만 달러(약 145억원)가 순유입됐다. 자금은 비트와이즈 상품에 집중됐다.\n가상자산 데이터업체 소소밸류(SoSoValue)는 ETF 데이터에서 이 기간 솔라나 현물 ETF가 주간 기준 순유입을 기록했다고 밝혔다. 한국시간으로는 11~15일 거래분에 해당한다.\n상품별로는 비트와이즈 BSOL의 순유입액이 883만100달러(약 125억원)로 가장 컸다. BSOL의 출시 이후 누적 순유입액은 9억 달러(약 1조2735억원)로 집계됐다.\n모건스탠리 MSOL에는 같은 기간 142만9200달러(약 20억원)가 들어왔다. MSOL의 출시 이후 누적 순유입액은 2229만1000달러(약 315억원)였다.\n이번 집계에서는 두...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391906",
+    "published_at": "Mon, 17 Aug 2026 03:48:21 +0000",
+    "relevance_score": 9.0,
+    "is_crypto_related": true,
+    "reason": "대형 거래소와 유명 프로젝트의 파트너십과 관련된 뉴스, 구체적 금액이 동반된 정책/자금 관련 소식",
+    "collected_at": "2026-08-17T04:09:49.723922+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "리플 ETF 225만달러 순유입, 자산 9억달러대",
+    "content": "미국 리플(XRP) 현물 상장지수펀드(ETF)에 지난주 225만달러(약 32억원)가 순유입됐다. 전체 순자산가치는 9억3300만달러(약 1조3202억원)로 집계됐다.\n소소밸류(SoSoValue) 데이터에 따르면, 미국 동부시간 8월 10일부터 14일까지 거래일 기준 리플 현물 ETF는 주간 225만달러 순유입을 기록했다. 해당 기간은 한국시간으로 8월 10일부터 15일에 걸친 미국 시장 거래 구간이다.\n주간 순유입이 가장 컸던 상품은 비트와이즈 ETF XRP였다. 이 상품에는 같은 기간 225만3100달러(약 32억원)가 들어왔다.\n비트와이즈 ETF XRP의 누적 순유입은 5억1200만달러(약 7245억원)로 나타났다. 리플 현물 ETF 전체의 역사적 누적 순유입은...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391905",
+    "published_at": "Mon, 17 Aug 2026 03:48:03 +0000",
+    "relevance_score": 8.5,
+    "is_crypto_related": true,
+    "reason": "리플(XRP) 현물 상장지수펀드(ETF)에 순유입이 기록되며, 전체 순자산가치는 9억3300만달러(약 1조3202억원)로 집계된 점",
+    "collected_at": "2026-08-17T04:10:03.064898+00:00"
+  },
+  {
+    "source": "tokenpost",
+    "source_type": "press",
+    "title": "HYPE ETF 주간 274만달러 순유입",
+    "content": "하이퍼리퀴드(HYPE) 현물 상장지수펀드(ETF)에 지난주 274만2200달러(약 39억원)가 순유입됐다. 비트와이즈 ETF BHYP와 그레이스케일 ETF HYPG 두 상품이 유입액을 나눠 받았다.\n소소밸류(SoSoValue) 데이터 기준 집계 기간은 미국 동부시간 8월 10일부터 14일까지다. 한국시간으로는 8월 10일 오후부터 15일 오전까지에 해당하는 기간이다.\n비트와이즈(Bitwise) ETF BHYP에는 이 기간 155만7400달러(약 22억원)가 순유입됐다. BHYP의 누적 순유입액은 1억1200만달러(약 1585억원)로 집계됐다.\n그레이스케일(Grayscale) ETF HYPG에는 같은 기간 118만4800달러(약 17억원)가 들어왔다. HYPG의 누적 순유입액은 1억2800만달러(약...  더보기",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/391903",
+    "published_at": "Mon, 17 Aug 2026 03:47:52 +0000",
+    "relevance_score": 7.5,
+    "is_crypto_related": true,
+    "reason": "HYPE ETF의 순유입액이 증가했지만, 이는 시장 전체에 큰 영향을 미치지 않는 일반적인 뉴스이다.",
+    "collected_at": "2026-08-17T04:10:38.709690+00:00"
+  },
+  {
     "source": "wublockchainenglish",
     "source_type": "telegram",
     "title": "Chainalysis Sues US Government Over Contract Award to TRM Labs",
