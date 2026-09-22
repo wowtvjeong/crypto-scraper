@@ -2,47 +2,47 @@
   "wublockchainenglish": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847435+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970900+00:00"
   },
   "tokenpost": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847454+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970918+00:00"
   },
   "blockmedia": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847457+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970921+00:00"
   },
   "decenter": {
-    "consecutive_zero": 8,
+    "consecutive_zero": 9,
     "alerted": true,
     "last_ok_run": "2026-09-20T23:42:00.646540+00:00"
   },
   "cointelegraph": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847460+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970925+00:00"
   },
   "decrypt": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847461+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970928+00:00"
   },
   "coindesk": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847463+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970930+00:00"
   },
   "blockworks": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847464+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970932+00:00"
   },
   "coingecko_news": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847466+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970934+00:00"
   },
   "coinness": {
     "consecutive_zero": 3,
@@ -59,6 +59,6 @@
   "coinmarketcap_community": {
     "consecutive_zero": 0,
     "alerted": false,
-    "last_ok_run": "2026-09-22T12:42:53.847467+00:00"
+    "last_ok_run": "2026-09-22T17:25:50.970936+00:00"
   }
 }
